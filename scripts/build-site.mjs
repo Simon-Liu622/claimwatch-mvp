@@ -108,6 +108,10 @@ function layout({ title, description, path: pagePath, children, schema = [], bod
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="/assets/styles.css">
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+  </script>
+  <script defer src="/_vercel/insights/script.js"></script>
   ${schemaScripts}
 </head>
 <body class="${escapeHtml(bodyClass)}">

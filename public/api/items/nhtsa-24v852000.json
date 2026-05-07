@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v852000",
+    "slug": "nhtsa-24v852000",
+    "title": "Ford Motor Company: EQUIPMENT:OTHER:LABELS Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles. The air bag warning label may be missing from the dashboard. As such, these vehicles fail to comply with the requirement Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
+    "affectedPeople": "Without a label that shows the proper restraint usage guidelines, the occupants may have an increased risk of injury in the event of a crash.",
+    "remedy": "Ford will mail owners the warning labels, free of charge. Owner notification letters were mailed December 19, 2024. Owners may call Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C39.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V852000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V852000",
+    "recallInitiationDate": "08/11/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v852000/"
+  }
+}

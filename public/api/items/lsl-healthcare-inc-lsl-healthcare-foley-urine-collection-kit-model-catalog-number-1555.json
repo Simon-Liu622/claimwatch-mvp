@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "lsl-healthcare-inc-lsl-healthcare-foley-urine-collection-kit-model-catalog-number-1555",
+    "slug": "lsl-healthcare-inc-lsl-healthcare-foley-urine-collection-kit-model-catalog-number-1555",
+    "title": "LSL Healthcare Inc.: LSL Healthcare, Foley Urine Collection Kit, Model/Catalog Number: 1555 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "LSL Healthcare Inc.",
+    "brand": "LSL Healthcare Inc.",
+    "product": "LSL Healthcare, Foley Urine Collection Kit, Model/Catalog Number: 1555",
+    "category": "Recall",
+    "summary": "Medical procedure kits were distributed containing Webcol Large Alcohol Prep Pads which were subsequently recalled for non-sterility. Product details: LSL Healthcare, Foley Urine Collection Kit, Model/Catalog Number: 1555",
+    "affectedPeople": "US Nationwide distribution in the states of MD, IL, MN.",
+    "remedy": "Affected quantity: 100 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-1930-2026",
+    "recallInitiationDate": "20260309",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/lsl-healthcare-inc-lsl-healthcare-foley-urine-collection-kit-model-catalog-number-1555/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v935000",
+    "slug": "nhtsa-24v935000",
+    "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles. The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
+    "affectedPeople": "Driving with improperly inflated tires increases the risk of a crash.",
+    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed February 15, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-018.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V935000",
+    "recallInitiationDate": "17/12/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v935000/"
+  }
+}

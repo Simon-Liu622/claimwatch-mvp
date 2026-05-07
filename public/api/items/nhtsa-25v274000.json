@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-25v274000",
+    "slug": "nhtsa-25v274000",
+    "title": "General Motors, LLC: ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL Recall (2024 chevrolet silverado 1500)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "General Motors, LLC",
+    "brand": "General Motors, LLC",
+    "product": "2024 chevrolet silverado 1500",
+    "category": "Vehicle recall",
+    "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine. The connecting rod and/or crankshaft engine components may have manufacturing defects that can lead to engine damage and engine failure.",
+    "affectedPeople": "Engine failure increases the risk of a crash.",
+    "remedy": "Dealers will inspect the engine, and as necessary, repair or replace the engine. For vehicles that pass inspection, dealers will add higher viscosity oil, install 6 oil fill cap, replace the oil filter, and update the owner's manual. Repairs will be performed free of charge. Owner notification letters were mailed June 18, 2025. Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782. GM's number for this recall is N252494000.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V274000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V274000",
+    "recallInitiationDate": "24/04/2025",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-25v274000/"
+  }
+}

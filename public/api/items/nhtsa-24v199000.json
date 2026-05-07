@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v199000",
+    "slug": "nhtsa-24v199000",
+    "title": "Chrysler (FCA US, LLC) (Stellantis): AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE Recall (2024 jeep wrangler)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Chrysler (FCA US, LLC) (Stellantis)",
+    "brand": "Chrysler (FCA US, LLC) (Stellantis)",
+    "product": "2024 jeep wrangler",
+    "category": "Vehicle recall",
+    "summary": "Chrysler (FCA US, LLC) (Stellantis) is recalling certain 2023-2024 Ram 1500, Jeep Wrangler, Jeep Wagoneer, Jeep Grand Wagoneer, Chrysler Pacifica, Ram 3500, Ram 3500 cab chassis, Ram 2500, Ram 4500 cab chassis, Ram 5500 cab chassis, 2023 Jeep Gladiator, Jeep Grand Cherokee, Jeep Grand Cherokee L, Ram 3500 Cab Chassis with a GVWR less than 10,000 lbs., and Chrysler Voyager vehicles. The steering column control module may not be welded properly, which can prevent the driver's air bag from deploying in a crash. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
+    "affectedPeople": "An air bag that does not deploy in a crash can increase the risk of injury.",
+    "remedy": "Dealers will inspect and replace the steering column control module, as necessary free of charge. Some owner notification letters were mailed April 11, 2024 through June 20, 2024. Owners may contact FCA US, LLC customer service at 1-800-853-1403. FCA US, LLC's numbers for this recall are 14B, 33B, 34B, 35B, 36B.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V199000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V199000",
+    "recallInitiationDate": "14/03/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v199000/"
+  }
+}

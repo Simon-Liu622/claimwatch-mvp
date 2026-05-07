@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
+    "slug": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
+    "title": "Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Costco Wholesale Corporation",
+    "brand": "Costco Wholesale Corporation",
+    "product": "Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012,",
+    "category": "Recall",
+    "summary": "Undeclared hazelnut and soy lecithin. Product details: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, UPC 000020000127. Plastic clamshell container is packed with 9 pieces of Filled Heart Madeleines. Distributed by Costco Wholesale Corp. Seattle, WA. Label of recalled package is r...",
+    "affectedPeople": "Distributed in CA, CO, FL, IL, MT, VA, WA, WI, and in Puerto Rico.",
+    "remedy": "Affected quantity: 92 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0682-2026",
+    "recallInitiationDate": "20260406",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/"
+  }
+}

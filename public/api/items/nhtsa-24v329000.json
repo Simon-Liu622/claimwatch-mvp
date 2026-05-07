@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v329000",
+    "slug": "nhtsa-24v329000",
+    "title": "Ford Motor Company: STEERING:COLUMN Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The steering column lower shaft may have been secured to the steering gear assembly with an incorrect fastener, which can result in the separation of steering components and cause a loss of steering control.",
+    "affectedPeople": "A loss of steering control increases the risk of a crash.",
+    "remedy": "Dealers will replace the lower steering shaft fastener, free of charge. Owner notification letters were mailed May 22, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S32.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V329000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V329000",
+    "recallInitiationDate": "10/05/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v329000/"
+  }
+}

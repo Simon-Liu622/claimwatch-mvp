@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-23v556000",
+    "slug": "nhtsa-23v556000",
+    "title": "Hyundai Motor America: EQUIPMENT:OTHER:LABELS Recall (2024 hyundai tucson)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Hyundai Motor America",
+    "brand": "Hyundai Motor America",
+    "product": "2024 hyundai tucson",
+    "category": "Vehicle recall",
+    "summary": "Hyundai Motor America (Hyundai) is recalling certain 2024 Tucson vehicles. The tire and loading information label may incorrectly indicate information about a spare tire. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, \"Tire Selection and Rims.\"",
+    "affectedPeople": "A label that incorrectly states spare tire pressure when there is no spare tire on-board may cause confusion during an emergency tire replacement, increasing the risk of a crash or injury.",
+    "remedy": "Dealers will inspect and replace the tire and loading information label, as necessary, free of charge. Owner notification letters were mailed September 5, 2023. Owners may contact Hyundai customer service at 1-855-371-9460. Hyundai's number for this recall is 247.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V556000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "23V556000",
+    "recallInitiationDate": "04/08/2023",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-23v556000/"
+  }
+}

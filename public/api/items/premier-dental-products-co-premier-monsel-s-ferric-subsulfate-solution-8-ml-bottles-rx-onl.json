@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl",
+    "slug": "premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl",
+    "title": "Premier Dental Products Co: Premier, Monsel's, Ferric Subsulfate Solution, 8 mL bottles, Rx only, Manufacturer: Premier Medical Products, 1710 Romano Drive, Plymouth Me Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Premier Dental Products Co",
+    "brand": "Premier Dental Products Co",
+    "product": "Premier, Monsel's, Ferric Subsulfate Solution, 8 mL bottles, Rx only, Manufacturer: Premier Medical Products, 1710 Romano Drive, Plymouth Me",
+    "category": "Recall",
+    "summary": "Labeling: Incorrect or Missing Lot and/or Exp Date:The expiration date has an extra digit and is printed as 2709114 instead of the correct 270914 (2027-09-14). It is important to note that this error is limited to the vial itself; the saleable unit of the box of 12 bottles has the correct expiration date printed. Product details: Premier, Monsel's, Ferric Subsulfate Solution, 8 mL bottles, Rx only, Manufacturer: Premier Medical Products, 1710 Romano Drive, Plymouth Meeting, PA 19462, NDC 48783-112-08.",
+    "affectedPeople": "Nationwide within the United States",
+    "remedy": "Affected quantity: 573 cartons",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0490-2026",
+    "recallInitiationDate": "20260414",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl/"
+  }
+}

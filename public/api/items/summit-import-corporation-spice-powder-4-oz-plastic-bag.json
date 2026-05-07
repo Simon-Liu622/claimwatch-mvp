@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
+    "slug": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
+    "title": "Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Summit Import Corporation",
+    "brand": "Summit Import Corporation",
+    "product": "Spice Powder, 4 oz, Plastic Bag",
+    "category": "Recall",
+    "summary": "Lead level was higher than NYSAGM Standard. Product details: Spice Powder, 4 oz, Plastic Bag",
+    "affectedPeople": "The recalled product was distributed to the following states: NY, NJ, SC, ME, FL, PA, MA, VA",
+    "remedy": "Affected quantity: 20 cases",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0671-2026",
+    "recallInitiationDate": "20241017",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/"
+  }
+}

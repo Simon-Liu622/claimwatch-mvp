@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
+    "slug": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
+    "title": "AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "AYCO FARMS INC",
+    "brand": "AYCO FARMS INC",
+    "product": "Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per ",
+    "category": "Recall",
+    "summary": "Potential Salmonella Contamination Product details: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per box; individual carton count per label. Keep refrigerated; store between 36 40¿F.",
+    "affectedPeople": "Distributed to PA, FL, CA, NY. No foreign distribution and none to government agencies.",
+    "remedy": "Affected quantity: 8,302 cartons",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "50K+",
+    "trendScore": 27,
+    "matchedQueries": [
+      "salmonella",
+      "frozen pizza recall aldi walmart",
+      "aldi product recall",
+      "aldi pizza salmonella alert",
+      "usda issued a nationwide health alert for contaminated frozen pizzas"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "H-0668-2026",
+    "recallInitiationDate": "20260324",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/"
+  }
+}

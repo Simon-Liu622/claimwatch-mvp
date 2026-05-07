@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-25v164000",
+    "slug": "nhtsa-25v164000",
+    "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Bronco, 2024 Ranger, 2025 Mustang, Explorer, and Aviator vehicles. The transmission valve body may have been machined incorrectly, which can cause reverse gear failure, or unexpected forward movement in reverse or neutral gear.",
+    "affectedPeople": "Unexpected vehicle movement increases the risk of a crash.",
+    "remedy": "Dealers will replace the transmission main control valve body, free of charge. Owner notification letters were mailed April 11, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S19.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V164000",
+    "recallInitiationDate": "14/03/2025",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-25v164000/"
+  }
+}

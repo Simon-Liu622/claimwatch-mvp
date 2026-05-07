@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v407000",
+    "slug": "nhtsa-24v407000",
+    "title": "Kia America, Inc.: SEATS:FRONT ASSEMBLY:POWER ADJUST Recall (2024 kia telluride)",
+    "type": "recall",
+    "status": "active",
+    "company": "Kia America, Inc.",
+    "brand": "Kia America, Inc.",
+    "product": "2024 kia telluride",
+    "category": "Vehicle recall",
+    "summary": "Kia America, Inc. (Kia) is recalling certain 2020-2024 Telluride vehicles. The front power seat motor may overheat due to a stuck power seat slide knob, which can result in a fire while parked or driving.",
+    "affectedPeople": "A fire increases the risk of injury.",
+    "remedy": "Owners are advised to park outside and away from structures until the recall repair is complete. Dealers will install a bracket for the power seat switch back covers and replace the seat slide knobs, free of charge. Owner notification letters were mailed July 30, 2024. Owners may contact Kia customer service at 1-800-333-4542. Kia's number for this recall is SC316.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V407000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V407000",
+    "recallInitiationDate": "05/06/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v407000/"
+  }
+}

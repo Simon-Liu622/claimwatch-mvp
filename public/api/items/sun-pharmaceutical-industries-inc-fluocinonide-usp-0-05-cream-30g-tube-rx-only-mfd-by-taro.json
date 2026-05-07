@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro",
+    "slug": "sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro",
+    "title": "SUN PHARMACEUTICAL INDUSTRIES INC: Fluocinonide, USP, 0.05% Cream, 30g tube, Rx only, Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Phar Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "SUN PHARMACEUTICAL INDUSTRIES INC",
+    "brand": "SUN PHARMACEUTICAL INDUSTRIES INC",
+    "product": "Fluocinonide, USP, 0.05% Cream, 30g tube, Rx only, Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Phar",
+    "category": "Recall",
+    "summary": "Failed Viscosity Specifications: Out of Specification results, above the specification limit, in viscosity, noted during stability testing. Product details: Fluocinonide, USP, 0.05% Cream, 30g tube, Rx only, Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532, NDC 51672-1386-2.",
+    "affectedPeople": "Nationwide in the USA.",
+    "remedy": "Affected quantity: 41,712 30g tubes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0476-2026",
+    "recallInitiationDate": "20260325",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro/"
+  }
+}

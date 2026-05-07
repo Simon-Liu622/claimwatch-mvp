@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "thermos-recall",
+    "slug": "thermos-recall",
+    "title": "Thermos Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "thermos recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "sourceAgency": "COMPANY",
+    "searchVolume": "20K+",
+    "trendScore": 19,
+    "matchedQueries": [
+      "thermos recall",
+      "jar",
+      "thermos food jar recall",
+      "thermos",
+      "thermos 3000 3020 recall",
+      "thermos container recall safety",
+      "thermos recall 2026"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-07T08:23:06.549Z",
+    "trendExploreUrl": "https://trends.google.com/trends/explore?q=thermos%20recall&geo=US",
+    "url": "http://localhost:5177/item/thermos-recall/"
+  }
+}

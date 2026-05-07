@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a",
+    "slug": "medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a",
+    "title": "Medline Industries, LP: Medline Kits: 1) HEART TRANSPLANT BIOPSY, Model Number: DYNJ37543A Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medline Industries, LP",
+    "brand": "Medline Industries, LP",
+    "product": "Medline Kits: 1) HEART TRANSPLANT BIOPSY, Model Number: DYNJ37543A",
+    "category": "Recall",
+    "summary": "The 510(k) regulatory clearances for certain Control Syringes, Guidewires, and/or High-Pressure Tubing have been rescinded. Product details: Medline Kits: 1) HEART TRANSPLANT BIOPSY, Model Number: DYNJ37543A",
+    "affectedPeople": "US Nationwide distribution.",
+    "remedy": "Affected quantity: 39 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-1838-2026",
+    "recallInitiationDate": "20260225",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a/"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2026-05-07T08:40:29.023Z",
+  "trends": 26,
+  "officialItems": 171,
+  "totalItems": 197,
+  "trendSources": [
+    "google-trends-csv"
+  ],
+  "officialSourceCounts": {
+    "FDA": 51,
+    "FTC": 12,
+    "CPSC": 60,
+    "USDA_FSIS": 11,
+    "NHTSA": 37
+  }
+}

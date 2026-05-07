@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v851000",
+    "slug": "nhtsa-24v851000",
+    "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, 2024 Expedition and 2024 Lincoln Navigator vehicles equipped with a 3.5L GTDI engine. The engines may have a misaligned engine cup plug, which can result in a rapid oil leak.",
+    "affectedPeople": "A rapid oil leak can result in an engine stall, increasing the risk of a crash. In addition, an oil leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire.",
+    "remedy": "Dealers will inspect the engine cup plug alignment, and replace the plug if necessary, free of charge. Owner notification letters were mailed on May 23, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S70.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V851000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V851000",
+    "recallInitiationDate": "20/12/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v851000/"
+  }
+}

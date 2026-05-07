@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl",
+    "slug": "f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl",
+    "title": "F&S Fresh Foods, Inc.: ReadyMeals Turkey Bacon & Cheddar Pretzel Duo Sandwich, perishable, Keep Refrigerated, plastic clamshell, net wt. 10 oz, Recall",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "F&S Fresh Foods, Inc.",
+    "brand": "F&S Fresh Foods, Inc.",
+    "product": "ReadyMeals Turkey Bacon & Cheddar Pretzel Duo Sandwich, perishable, Keep Refrigerated, plastic clamshell, net wt. 10 oz,",
+    "category": "Recall",
+    "summary": "Undeclared sesame. Sandwich contains visible sesame but label does not declare sesame. Product details: ReadyMeals Turkey Bacon & Cheddar Pretzel Duo Sandwich, perishable, Keep Refrigerated, plastic clamshell, net wt. 10 oz, UPC 8 26766 25036 3. Distributed By F&S Fresh Foods Vineland, NJ 08360. Label declares CONTAINS EGG, MILK, SOY, WHEAT.",
+    "affectedPeople": "distributed in OR",
+    "remedy": "Affected quantity: 325 units distributed (only 27 units were mis-labeled)",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0659-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl/"
+  }
+}

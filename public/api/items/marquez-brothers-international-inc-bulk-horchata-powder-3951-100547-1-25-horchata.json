@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
+    "slug": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
+    "title": "Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Marquez Brothers International, Inc.",
+    "brand": "Marquez Brothers International, Inc.",
+    "product": "Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA",
+    "category": "Recall",
+    "summary": "Undeclared milk. Product details: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA UPC: 042743-19015-0 Item: 100547",
+    "affectedPeople": "Domestic distribution: AK, AL, AR, AZ, CA, CO, FL, IA, ID, IL, IN, KS, LA, MI, MN, MO, MT, NE, NM, NV, OH, OK, OR, TN, TX, UT, VA, WA, WI. Foreign distribution: Canada, Japan.",
+    "remedy": "Affected quantity: 2,494 cases (25 lbs/case)",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0672-2026",
+    "recallInitiationDate": "20260407",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/"
+  }
+}

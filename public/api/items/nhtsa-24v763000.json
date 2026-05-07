@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v763000",
+    "slug": "nhtsa-24v763000",
+    "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Honda (American Honda Motor Co.)",
+    "brand": "Honda (American Honda Motor Co.)",
+    "product": "2024 honda accord",
+    "category": "Vehicle recall",
+    "summary": "Honda (American Honda Motor Co.) is recalling certain 2023-2024 Honda Accord, Accord Hybrid, 2023-2025 Honda CR-V Hybrid, and 2025 Honda Civic and Civic Hybrid vehicles. The high-pressure fuel pump may crack and leak fuel.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source can increase the risk of a fire.",
+    "remedy": "Dealers will inspect and replace the high-pressure fuel pump as necessary, free of charge. Owner letters were mailed February 20, 2025. Owners may contact Honda customer service at 1-888-234-2138. Honda's number for this recall is PJW.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V763000",
+    "recallInitiationDate": "14/10/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v763000/"
+  }
+}

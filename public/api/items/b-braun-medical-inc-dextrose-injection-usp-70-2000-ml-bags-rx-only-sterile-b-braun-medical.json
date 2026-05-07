@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical",
+    "slug": "b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical",
+    "title": "B BRAUN MEDICAL INC: DEXTROSE INJECTION USP, 70%, 2000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "B BRAUN MEDICAL INC",
+    "brand": "B BRAUN MEDICAL INC",
+    "product": "DEXTROSE INJECTION USP, 70%, 2000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility; potential for leakage from the diaphragm port once the foil is removed. Product details: DEXTROSE INJECTION USP, 70%, 2000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, NDC: 0264-7387-50.",
+    "affectedPeople": "US Nationwide.",
+    "remedy": "Affected quantity: 17,124 bags",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0496-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical/"
+  }
+}

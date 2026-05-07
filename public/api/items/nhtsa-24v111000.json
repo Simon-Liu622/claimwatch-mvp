@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v111000",
+    "slug": "nhtsa-24v111000",
+    "title": "Chrysler (FCA US, LLC): VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM Recall (2024 jeep wrangler)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Chrysler (FCA US, LLC)",
+    "brand": "Chrysler (FCA US, LLC)",
+    "product": "2024 jeep wrangler",
+    "category": "Vehicle recall",
+    "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2024 Jeep Wrangler and 2022-2024 Jeep Grand Cherokee vehicles. A hybrid control processor (HCP) software error may cause the defrosting and defogging system to be inoperative. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 103, \"Windshield Defrosting and Defogging Systems.\"",
+    "affectedPeople": "An inoperative windshield defrosting and defogging system may decrease the driver's visibility, increasing the risk of a crash.",
+    "remedy": "Dealers will update the HCP software, free of charge. Owner notification letters were mailed February 29, 2024. Owners may contact Chrysler customer service at 1-800-853-1403. Chrysler's number for this recall is 04B.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V111000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V111000",
+    "recallInitiationDate": "15/02/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v111000/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou",
+    "slug": "teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou",
+    "title": "Teva Pharmaceuticals USA, Inc: Claravis (isotretinoin capsule, USP), 10 mg, Packaged as a) 100-count carton, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Teva Pharmaceuticals USA, Inc",
+    "brand": "Teva Pharmaceuticals USA, Inc",
+    "product": "Claravis (isotretinoin capsule, USP), 10 mg, Packaged as a) 100-count carton,",
+    "category": "Recall",
+    "summary": "Failed Impurities/Degradation Specifications: Out of specification for specific impurity Tretinoin Product details: Claravis (isotretinoin capsule, USP), 10 mg, Packaged as a) 100-count carton, NDC 0555-1054-56, with 10x10 blister packs NDC 0555-1054-60; b) 30-count carton, NDC 0555-1054-86, with 3X10 blister pack NDC 0555-1054-60; Rx only, Teva Pharmaceuticals USA, Inc., N...",
+    "affectedPeople": "Nationwide in the USA; Virgin Islands",
+    "remedy": "Affected quantity: 5,101 cartons",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "N/A",
+    "recallInitiationDate": "20260406",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou/"
+  }
+}

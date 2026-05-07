@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v412000",
+    "slug": "nhtsa-24v412000",
+    "title": "Hyundai Motor America: STEERING:ELECTRIC POWER ASSIST SYSTEM Recall (2024 hyundai tucson)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Hyundai Motor America",
+    "brand": "Hyundai Motor America",
+    "product": "2024 hyundai tucson",
+    "category": "Vehicle recall",
+    "summary": "Hyundai Motor America (Hyundai) is recalling certain 2024 Tucson and Santa Cruz vehicles. The circuit board in the motor-driven power steering assembly may short circuit, resulting in a loss of power steering assist.",
+    "affectedPeople": "A loss of power steering assist can increase the risk of a crash.",
+    "remedy": "Dealers will replace the motor-driven power steering electric power pack, free of charge. Owner notification letters were mailed July 11, 2024. Owners may contact Hyundai customer service at 1-855-371-9460. Hyundai's number for this recall is 261.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V412000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V412000",
+    "recallInitiationDate": "05/06/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v412000/"
+  }
+}

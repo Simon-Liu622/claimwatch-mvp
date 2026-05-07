@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v859000",
+    "slug": "nhtsa-24v859000",
+    "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Honda (American Honda Motor Co.)",
+    "brand": "Honda (American Honda Motor Co.)",
+    "product": "2024 honda accord",
+    "category": "Vehicle recall",
+    "summary": "Honda (American Honda Motor Co.) is recalling certain 2023-2024 Honda Accord, Accord Hybrid, Civic Sedan, Civic Hatchback, Pilot, and 2024 HR-V, Acura Integra and Acura Integra Type S vehicles. The driver's seat cushion frame may not have been tightened properly, which can result in an unsecured seat. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 207, \"Seating Systems.\"",
+    "affectedPeople": "An unsecured driver's seat may not adequately restrain the driver during a crash, increasing the risk of injury.",
+    "remedy": "Dealers will replace the driver's seat cushion frame, free of charge. Owner notification letters were mailed January 6, 2025. Owners may contact Honda customer service at 1-888-234-2138.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V859000",
+    "recallInitiationDate": "14/11/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v859000/"
+  }
+}

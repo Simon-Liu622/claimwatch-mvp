@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-24v554000",
+    "slug": "nhtsa-24v554000",
+    "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles. The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
+    "affectedPeople": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
+    "remedy": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed September 24, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-012.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V554000",
+    "recallInitiationDate": "24/07/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v554000/"
+  }
+}

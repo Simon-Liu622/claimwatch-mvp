@@ -1,0 +1,16 @@
+{
+  "name": "claimwatch-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "SEO/GEO-friendly consumer recall, refund, and settlement tracker MVP.",
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "build": "node scripts/build-site.mjs",
+    "refresh": "node scripts/update-data.mjs && node scripts/build-site.mjs",
+    "dev": "node scripts/dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

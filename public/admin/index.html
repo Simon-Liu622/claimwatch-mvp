@@ -1,0 +1,563 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Monitoring Queue - ClaimWatch Admin</title>
+  <meta name="description" content="Internal monitoring queue for trend-only consumer alert candidates.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="canonical" href="http://localhost:5177/admin/">
+  <link rel="alternate" type="application/rss+xml" title="ClaimWatch Feed" href="http://localhost:5177/feed.xml">
+  <meta property="og:title" content="Monitoring Queue - ClaimWatch Admin">
+  <meta property="og:description" content="Internal monitoring queue for trend-only consumer alert candidates.">
+  <meta property="og:url" content="http://localhost:5177/admin/">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="/assets/styles.css">
+  
+</head>
+<body class="admin-page">
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="ClaimWatch home">
+      <span class="brand-mark">CW</span>
+      <span>
+        <strong>ClaimWatch</strong>
+        <small>Consumer alert tracker</small>
+      </span>
+    </a>
+    <nav class="nav">
+      <a href="/recalls/">Recalls</a>
+      <a href="/settlements/">Settlements</a>
+      <a href="/refunds/">Refunds</a>
+      <a href="/deadlines/">Deadlines</a>
+      <a href="/sources/">Sources</a>
+    </nav>
+  </header>
+  <main>
+    
+      <section class="page-intro">
+        <p class="eyebrow">Admin</p>
+        <h1>Monitoring queue</h1>
+        <p>These candidates came from Google Trends or unmatched signals. They are not included in the public homepage, sitemap, latest API, or RSS feed until you attach an official source and mark them verified in <code>data/items.json</code>.</p>
+      </section>
+      <section class="admin-grid">
+        <div class="admin-main">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Source pending</p>
+              <h2>Manual review candidates</h2>
+            </div>
+            <a href="/api/monitoring.json">Monitoring JSON</a>
+          </div>
+          <article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-refund">Refund</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 68</span>
+                  </div>
+                  <h3><a href="/item/spirit-airlines/">Spirit Airlines: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>spirit airlines</dd></div>
+                    <div><dt>Volume</dt><dd>2M+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>spirit airlines</span><span>spirit airlines news</span><span>spirit</span><span>why did spirit airlines shut down</span><span>spirit airlines shutting down</span><span>what happened to spirit airlines</span><span>spirit airlines stock</span><span>frontier</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=spirit%20airlines&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;spirit-airlines&quot;,&quot;slug&quot;:&quot;spirit-airlines&quot;,&quot;title&quot;:&quot;Spirit Airlines: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;refund&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;spirit airlines&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;2M+&quot;,&quot;trendScore&quot;:68,&quot;matchedQueries&quot;:[&quot;spirit airlines&quot;,&quot;spirit airlines news&quot;,&quot;spirit&quot;,&quot;why did spirit airlines shut down&quot;,&quot;spirit airlines shutting down&quot;,&quot;what happened to spirit airlines&quot;,&quot;spirit airlines stock&quot;,&quot;frontier&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:23:06.549Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=spirit%20airlines&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 48</span>
+                  </div>
+                  <h3><a href="/item/bcbs-settlement/">Bcbs Settlement: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>bcbs settlement</dd></div>
+                    <div><dt>Volume</dt><dd>50K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>bcbs settlement</span><span>blue cross blue shield payout</span><span>blue cross blue shield customers will receive settlement payments soon</span><span>cross</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=bcbs%20settlement&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;bcbs-settlement&quot;,&quot;slug&quot;:&quot;bcbs-settlement&quot;,&quot;title&quot;:&quot;Bcbs Settlement: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;bcbs settlement&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;trendScore&quot;:48,&quot;searchVolume&quot;:&quot;50K+&quot;,&quot;matchedQueries&quot;:[&quot;bcbs settlement&quot;,&quot;blue cross blue shield payout&quot;,&quot;blue cross blue shield customers will receive settlement payments soon&quot;,&quot;cross&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=bcbs%20settlement&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 46</span>
+                  </div>
+                  <h3><a href="/item/blake-lively/">Blake Lively: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>blake lively</dd></div>
+                    <div><dt>Volume</dt><dd>200K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>blake lively</span><span>justin baldoni</span><span>blake lively settlement</span><span>blake lively met gala</span><span>blake lively met gala 2026</span><span>blake lively justin baldoni</span><span>blake lively lawsuit</span><span>it ends with us</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=blake%20lively&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;blake-lively&quot;,&quot;slug&quot;:&quot;blake-lively&quot;,&quot;title&quot;:&quot;Blake Lively: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;blake lively&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;200K+&quot;,&quot;trendScore&quot;:46,&quot;matchedQueries&quot;:[&quot;blake lively&quot;,&quot;justin baldoni&quot;,&quot;blake lively settlement&quot;,&quot;blake lively met gala&quot;,&quot;blake lively met gala 2026&quot;,&quot;blake lively justin baldoni&quot;,&quot;blake lively lawsuit&quot;,&quot;it ends with us&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=blake%20lively&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 41</span>
+                  </div>
+                  <h3><a href="/item/apple-settlement/">Apple Settlement: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>apple settlement</dd></div>
+                    <div><dt>Volume</dt><dd>10K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>apple settlement</span><span>apple siri ai lawsuit settlement</span><span>apple agrees to pay 250 million</span><span>apple intelligence lawsuit settlement</span><span>apple lawsuit ai siri</span><span>apple ai settlement</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=apple%20settlement&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;apple-settlement&quot;,&quot;slug&quot;:&quot;apple-settlement&quot;,&quot;title&quot;:&quot;Apple Settlement: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;apple settlement&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;10K+&quot;,&quot;trendScore&quot;:41,&quot;matchedQueries&quot;:[&quot;apple settlement&quot;,&quot;apple siri ai lawsuit settlement&quot;,&quot;apple agrees to pay 250 million&quot;,&quot;apple intelligence lawsuit settlement&quot;,&quot;apple lawsuit ai siri&quot;,&quot;apple ai settlement&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=apple%20settlement&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-lawsuit">Lawsuit</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 38</span>
+                  </div>
+                  <h3><a href="/item/chirayu-rana/">Chirayu Rana: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>chirayu rana</dd></div>
+                    <div><dt>Volume</dt><dd>200K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>chirayu rana</span><span>jp morgan story</span><span>jp morgan chase</span><span>jpmorgan</span><span>lorna hajdini instagram</span><span>jp morgan scandal</span><span>jpm</span><span>jp morgan lorna hajdini</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=chirayu%20rana&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;chirayu-rana&quot;,&quot;slug&quot;:&quot;chirayu-rana&quot;,&quot;title&quot;:&quot;Chirayu Rana: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;lawsuit&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;chirayu rana&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;200K+&quot;,&quot;trendScore&quot;:38,&quot;matchedQueries&quot;:[&quot;chirayu rana&quot;,&quot;jp morgan story&quot;,&quot;jp morgan chase&quot;,&quot;jpmorgan&quot;,&quot;lorna hajdini instagram&quot;,&quot;jp morgan scandal&quot;,&quot;jpm&quot;,&quot;jp morgan lorna hajdini&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=chirayu%20rana&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-refund">Refund</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 31</span>
+                  </div>
+                  <h3><a href="/item/internal-revenue-service/">Internal Revenue Service: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>internal revenue service</dd></div>
+                    <div><dt>Volume</dt><dd>200K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>internal revenue service</span><span>tax refund</span><span>irs covid refund deadline</span><span>taxpayers</span><span>tax</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=internal%20revenue%20service&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;internal-revenue-service&quot;,&quot;slug&quot;:&quot;internal-revenue-service&quot;,&quot;title&quot;:&quot;Internal Revenue Service: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;refund&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;internal revenue service&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;200K+&quot;,&quot;trendScore&quot;:31,&quot;matchedQueries&quot;:[&quot;internal revenue service&quot;,&quot;tax refund&quot;,&quot;irs covid refund deadline&quot;,&quot;taxpayers&quot;,&quot;tax&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=internal%20revenue%20service&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-lawsuit">Lawsuit</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 29</span>
+                  </div>
+                  <h3><a href="/item/roku-and-tcl-face-lawsuit-over-defective-updates-bricking-tvs/">Roku And Tcl Face Lawsuit Over Defective Updates Bricking Tvs: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>roku and tcl face lawsuit over defective updates bricking tvs</dd></div>
+                    <div><dt>Volume</dt><dd>50K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>roku and tcl face lawsuit over defective updates bricking tvs</span><span>roku software update defects lawsuit</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=roku%20and%20tcl%20face%20lawsuit%20over%20defective%20updates%20bricking%20tvs&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;roku-and-tcl-face-lawsuit-over-defective-updates-bricking-tvs&quot;,&quot;slug&quot;:&quot;roku-and-tcl-face-lawsuit-over-defective-updates-bricking-tvs&quot;,&quot;title&quot;:&quot;Roku And Tcl Face Lawsuit Over Defective Updates Bricking Tvs: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;lawsuit&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;roku and tcl face lawsuit over defective updates bricking tvs&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;50K+&quot;,&quot;trendScore&quot;:29,&quot;matchedQueries&quot;:[&quot;roku and tcl face lawsuit over defective updates bricking tvs&quot;,&quot;roku software update defects lawsuit&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=roku%20and%20tcl%20face%20lawsuit%20over%20defective%20updates%20bricking%20tvs&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 29</span>
+                  </div>
+                  <h3><a href="/item/utz-potato-chip-recall-salmonella/">Utz Potato Chip Recall Salmonella: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>utz potato chip recall salmonella</dd></div>
+                    <div><dt>Volume</dt><dd>100K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>utz potato chip recall salmonella</span><span>product recall</span><span>utz potato chip salmonella recall</span><span>zapps potato chip recall</span><span>potato chips</span><span>potato chips recall</span><span>utz potato chip recall fda</span><span>potato chip recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=utz%20potato%20chip%20recall%20salmonella&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;utz-potato-chip-recall-salmonella&quot;,&quot;slug&quot;:&quot;utz-potato-chip-recall-salmonella&quot;,&quot;title&quot;:&quot;Utz Potato Chip Recall Salmonella: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;utz potato chip recall salmonella&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;100K+&quot;,&quot;trendScore&quot;:29,&quot;matchedQueries&quot;:[&quot;utz potato chip recall salmonella&quot;,&quot;product recall&quot;,&quot;utz potato chip salmonella recall&quot;,&quot;zapps potato chip recall&quot;,&quot;potato chips&quot;,&quot;potato chips recall&quot;,&quot;utz potato chip recall fda&quot;,&quot;potato chip recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=utz%20potato%20chip%20recall%20salmonella&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 27</span>
+                  </div>
+                  <h3><a href="/item/salmonella/">Salmonella: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>salmonella</dd></div>
+                    <div><dt>Volume</dt><dd>50K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>salmonella</span><span>frozen pizza recall aldi walmart</span><span>aldi product recall</span><span>aldi pizza salmonella alert</span><span>usda issued a nationwide health alert for contaminated frozen pizzas</span><span>aldi walmart food recall salmonella</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=salmonella&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;salmonella&quot;,&quot;slug&quot;:&quot;salmonella&quot;,&quot;title&quot;:&quot;Salmonella: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;salmonella&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;50K+&quot;,&quot;trendScore&quot;:27,&quot;matchedQueries&quot;:[&quot;salmonella&quot;,&quot;frozen pizza recall aldi walmart&quot;,&quot;aldi product recall&quot;,&quot;aldi pizza salmonella alert&quot;,&quot;usda issued a nationwide health alert for contaminated frozen pizzas&quot;,&quot;aldi walmart food recall salmonella&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:11:18.788Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=salmonella&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 26</span>
+                  </div>
+                  <h3><a href="/item/costco-giovanni-rana-ravioli-recall/">Costco Giovanni Rana Ravioli Recall: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>costco giovanni rana ravioli recall</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>costco giovanni rana ravioli recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=costco%20giovanni%20rana%20ravioli%20recall&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;costco-giovanni-rana-ravioli-recall&quot;,&quot;slug&quot;:&quot;costco-giovanni-rana-ravioli-recall&quot;,&quot;title&quot;:&quot;Costco Giovanni Rana Ravioli Recall: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;costco giovanni rana ravioli recall&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;trendScore&quot;:26,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;matchedQueries&quot;:[&quot;costco giovanni rana ravioli recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=costco%20giovanni%20rana%20ravioli%20recall&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 25</span>
+                  </div>
+                  <h3><a href="/item/capital-one-class-action-settlement/">Capital One Class Action Settlement: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>capital one class action settlement</dd></div>
+                    <div><dt>Volume</dt><dd>200K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>capital one class action settlement</span><span>capital one savings class action</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=capital%20one%20class%20action%20settlement&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;capital-one-class-action-settlement&quot;,&quot;slug&quot;:&quot;capital-one-class-action-settlement&quot;,&quot;title&quot;:&quot;Capital One Class Action Settlement: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;capital one class action settlement&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;trendScore&quot;:25,&quot;searchVolume&quot;:&quot;200K+&quot;,&quot;matchedQueries&quot;:[&quot;capital one class action settlement&quot;,&quot;capital one savings class action&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=capital%20one%20class%20action%20settlement&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 25</span>
+                  </div>
+                  <h3><a href="/item/sony-playstation-lawsuit/">Sony Playstation Lawsuit: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>sony playstation lawsuit</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>sony playstation lawsuit</span><span>sony $7.8 million lawsuit settlement</span><span>sony playstation digital settlement</span><span>sony digital game purchase lawsuit</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=sony%20playstation%20lawsuit&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;sony-playstation-lawsuit&quot;,&quot;slug&quot;:&quot;sony-playstation-lawsuit&quot;,&quot;title&quot;:&quot;Sony Playstation Lawsuit: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;sony playstation lawsuit&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:25,&quot;matchedQueries&quot;:[&quot;sony playstation lawsuit&quot;,&quot;sony $7.8 million lawsuit settlement&quot;,&quot;sony playstation digital settlement&quot;,&quot;sony digital game purchase lawsuit&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=sony%20playstation%20lawsuit&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 21</span>
+                  </div>
+                  <h3><a href="/item/capital-one-360-settlement/">Capital One 360 Settlement: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>capital one 360 settlement</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>capital one 360 settlement</span><span>capital one 360 settlement payout</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=capital%20one%20360%20settlement&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;capital-one-360-settlement&quot;,&quot;slug&quot;:&quot;capital-one-360-settlement&quot;,&quot;title&quot;:&quot;Capital One 360 Settlement: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;capital one 360 settlement&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:21,&quot;matchedQueries&quot;:[&quot;capital one 360 settlement&quot;,&quot;capital one 360 settlement payout&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=capital%20one%20360%20settlement&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 19</span>
+                  </div>
+                  <h3><a href="/item/nelnet-10-million-settlement-hearing/">Nelnet $10 Million Settlement Hearing: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>nelnet $10 million settlement hearing</dd></div>
+                    <div><dt>Volume</dt><dd>50K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>nelnet $10 million settlement hearing</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=nelnet%20%2410%20million%20settlement%20hearing&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;nelnet-10-million-settlement-hearing&quot;,&quot;slug&quot;:&quot;nelnet-10-million-settlement-hearing&quot;,&quot;title&quot;:&quot;Nelnet $10 Million Settlement Hearing: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;nelnet $10 million settlement hearing&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;50K+&quot;,&quot;trendScore&quot;:19,&quot;matchedQueries&quot;:[&quot;nelnet $10 million settlement hearing&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=nelnet%20%2410%20million%20settlement%20hearing&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 19</span>
+                  </div>
+                  <h3><a href="/item/thermos-recall/">Thermos Recall: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>thermos recall</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>thermos recall</span><span>jar</span><span>thermos food jar recall</span><span>thermos</span><span>thermos 3000 3020 recall</span><span>thermos container recall safety</span><span>thermos recall 2026</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=thermos%20recall&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;thermos-recall&quot;,&quot;slug&quot;:&quot;thermos-recall&quot;,&quot;title&quot;:&quot;Thermos Recall: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;thermos recall&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:19,&quot;matchedQueries&quot;:[&quot;thermos recall&quot;,&quot;jar&quot;,&quot;thermos food jar recall&quot;,&quot;thermos&quot;,&quot;thermos 3000 3020 recall&quot;,&quot;thermos container recall safety&quot;,&quot;thermos recall 2026&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:23:06.549Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=thermos%20recall&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 15</span>
+                  </div>
+                  <h3><a href="/item/harley-davidson-2024-2026-models-recall/">Harley-Davidson 2024-2026 Models Recall: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>harley-davidson 2024-2026 models recall</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>harley-davidson 2024-2026 models recall</span><span>harley-davidson motorcycle recall</span><span>harley-davidson 88000 motorcycle recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=harley-davidson%202024-2026%20models%20recall&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;harley-davidson-2024-2026-models-recall&quot;,&quot;slug&quot;:&quot;harley-davidson-2024-2026-models-recall&quot;,&quot;title&quot;:&quot;Harley-Davidson 2024-2026 Models Recall: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;harley-davidson 2024-2026 models recall&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:15,&quot;matchedQueries&quot;:[&quot;harley-davidson 2024-2026 models recall&quot;,&quot;harley-davidson motorcycle recall&quot;,&quot;harley-davidson 88000 motorcycle recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=harley-davidson%202024-2026%20models%20recall&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 13</span>
+                  </div>
+                  <h3><a href="/item/drug-resistant-salmonella-outbreak/">Drug Resistant Salmonella Outbreak: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>drug resistant salmonella outbreak</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>drug resistant salmonella outbreak</span><span>drug resistant salmonella</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=drug%20resistant%20salmonella%20outbreak&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;drug-resistant-salmonella-outbreak&quot;,&quot;slug&quot;:&quot;drug-resistant-salmonella-outbreak&quot;,&quot;title&quot;:&quot;Drug Resistant Salmonella Outbreak: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;drug resistant salmonella outbreak&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:13,&quot;matchedQueries&quot;:[&quot;drug resistant salmonella outbreak&quot;,&quot;drug resistant salmonella&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=drug%20resistant%20salmonella%20outbreak&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 12</span>
+                  </div>
+                  <h3><a href="/item/build-a-bear/">Build A Bear: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>build a bear</dd></div>
+                    <div><dt>Volume</dt><dd>10K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>build a bear</span><span>build-a-bear 36000 bear recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=build%20a%20bear&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;build-a-bear&quot;,&quot;slug&quot;:&quot;build-a-bear&quot;,&quot;title&quot;:&quot;Build A Bear: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;build a bear&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;10K+&quot;,&quot;trendScore&quot;:12,&quot;matchedQueries&quot;:[&quot;build a bear&quot;,&quot;build-a-bear 36000 bear recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=build%20a%20bear&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-settlement">Settlement</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 12</span>
+                  </div>
+                  <h3><a href="/item/settlement/">Settlement: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>settlement</dd></div>
+                    <div><dt>Volume</dt><dd>2K+</dd></div>
+                    <div><dt>Source</dt><dd>COURT</dd></div>
+                  </dl>
+                  <div class="term-list"><span>settlement</span><span>sam altman</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=settlement&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;settlement&quot;,&quot;slug&quot;:&quot;settlement&quot;,&quot;title&quot;:&quot;Settlement: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;settlement&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;settlement&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;2K+&quot;,&quot;trendScore&quot;:12,&quot;matchedQueries&quot;:[&quot;settlement&quot;,&quot;sam altman&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=settlement&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-lawsuit">Lawsuit</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 12</span>
+                  </div>
+                  <h3><a href="/item/lawsuit/">Lawsuit: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>lawsuit</dd></div>
+                    <div><dt>Volume</dt><dd>5K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>lawsuit</span><span>cento fine foods tomato lawsuit</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=lawsuit&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;lawsuit&quot;,&quot;slug&quot;:&quot;lawsuit&quot;,&quot;title&quot;:&quot;Lawsuit: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;lawsuit&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;lawsuit&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;5K+&quot;,&quot;trendScore&quot;:12,&quot;matchedQueries&quot;:[&quot;lawsuit&quot;,&quot;cento fine foods tomato lawsuit&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:39:28.019Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=lawsuit&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-lawsuit">Lawsuit</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 11</span>
+                  </div>
+                  <h3><a href="/item/trump-administration-yemen-tps-lawsuit/">Trump Administration Yemen Tps Lawsuit: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>trump administration yemen tps lawsuit</dd></div>
+                    <div><dt>Volume</dt><dd>20K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>trump administration yemen tps lawsuit</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=trump%20administration%20yemen%20tps%20lawsuit&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;trump-administration-yemen-tps-lawsuit&quot;,&quot;slug&quot;:&quot;trump-administration-yemen-tps-lawsuit&quot;,&quot;title&quot;:&quot;Trump Administration Yemen Tps Lawsuit: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;lawsuit&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;trump administration yemen tps lawsuit&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;20K+&quot;,&quot;trendScore&quot;:11,&quot;matchedQueries&quot;:[&quot;trump administration yemen tps lawsuit&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=trump%20administration%20yemen%20tps%20lawsuit&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-refund">Refund</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 10</span>
+                  </div>
+                  <h3><a href="/item/duke-energy-florida-bill-refund/">Duke Energy Florida Bill Refund: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>duke energy florida bill refund</dd></div>
+                    <div><dt>Volume</dt><dd>5K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>duke energy florida bill refund</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=duke%20energy%20florida%20bill%20refund&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;duke-energy-florida-bill-refund&quot;,&quot;slug&quot;:&quot;duke-energy-florida-bill-refund&quot;,&quot;title&quot;:&quot;Duke Energy Florida Bill Refund: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;refund&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;duke energy florida bill refund&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;5K+&quot;,&quot;trendScore&quot;:10,&quot;matchedQueries&quot;:[&quot;duke energy florida bill refund&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=duke%20energy%20florida%20bill%20refund&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 10</span>
+                  </div>
+                  <h3><a href="/item/a2-milk-company-formula-recall/">A2 Milk Company Formula Recall: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>a2 milk company formula recall</dd></div>
+                    <div><dt>Volume</dt><dd>2K+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>a2 milk company formula recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=a2%20milk%20company%20formula%20recall&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;a2-milk-company-formula-recall&quot;,&quot;slug&quot;:&quot;a2-milk-company-formula-recall&quot;,&quot;title&quot;:&quot;A2 Milk Company Formula Recall: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;a2 milk company formula recall&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;2K+&quot;,&quot;trendScore&quot;:10,&quot;matchedQueries&quot;:[&quot;a2 milk company formula recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=a2%20milk%20company%20formula%20recall&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-lawsuit">Lawsuit</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 10</span>
+                  </div>
+                  <h3><a href="/item/buc-ee-s-trademark-lawsuit-georgia/">Buc-Ee&#039;S Trademark Lawsuit Georgia: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>buc-ee&#039;s trademark lawsuit georgia</dd></div>
+                    <div><dt>Volume</dt><dd>200+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>buc-ee&#039;s trademark lawsuit georgia</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=buc-ee%27s%20trademark%20lawsuit%20georgia&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;buc-ee-s-trademark-lawsuit-georgia&quot;,&quot;slug&quot;:&quot;buc-ee-s-trademark-lawsuit-georgia&quot;,&quot;title&quot;:&quot;Buc-Ee&#039;S Trademark Lawsuit Georgia: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;lawsuit&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;buc-ee&#039;s trademark lawsuit georgia&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;200+&quot;,&quot;trendScore&quot;:10,&quot;matchedQueries&quot;:[&quot;buc-ee&#039;s trademark lawsuit georgia&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=buc-ee%27s%20trademark%20lawsuit%20georgia&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-refund">Refund</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 10</span>
+                  </div>
+                  <h3><a href="/item/tariff-refund/">Tariff Refund: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>tariff refund</dd></div>
+                    <div><dt>Volume</dt><dd>500+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>tariff refund</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=tariff%20refund&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;tariff-refund&quot;,&quot;slug&quot;:&quot;tariff-refund&quot;,&quot;title&quot;:&quot;Tariff Refund: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;refund&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;tariff refund&quot;,&quot;category&quot;:&quot;Consumer monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;500+&quot;,&quot;trendScore&quot;:10,&quot;matchedQueries&quot;:[&quot;tariff refund&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=tariff%20refund&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article><article class="admin-card">
+                  <div class="card-topline">
+                    <span class="chip type-recall">Recall</span>
+                    <span class="chip monitoring">Noindex</span>
+                    <span class="chip trending">Score 10</span>
+                  </div>
+                  <h3><a href="/item/afrin-recall/">Afrin Recall: Consumer Alert Monitoring</a></h3>
+                  <p>This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.</p>
+                  <dl class="mini-facts">
+                    <div><dt>Query</dt><dd>afrin recall</dd></div>
+                    <div><dt>Volume</dt><dd>200+</dd></div>
+                    <div><dt>Source</dt><dd>COMPANY</dd></div>
+                  </dl>
+                  <div class="term-list"><span>afrin recall</span></div>
+                  <div class="card-actions">
+                    <a class="button ghost" href="https://trends.google.com/trends/explore?q=afrin%20recall&amp;geo=US" rel="nofollow noopener">View trend</a>
+                    <button class="button primary copy-json" data-json="{&quot;id&quot;:&quot;afrin-recall&quot;,&quot;slug&quot;:&quot;afrin-recall&quot;,&quot;title&quot;:&quot;Afrin Recall: Consumer Alert Monitoring&quot;,&quot;type&quot;:&quot;recall&quot;,&quot;status&quot;:&quot;active&quot;,&quot;company&quot;:&quot;&quot;,&quot;brand&quot;:&quot;&quot;,&quot;product&quot;:&quot;afrin recall&quot;,&quot;category&quot;:&quot;Recall monitoring&quot;,&quot;summary&quot;:&quot;This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.&quot;,&quot;affectedPeople&quot;:&quot;Consumers searching for this alert should confirm details through official sources.&quot;,&quot;remedy&quot;:&quot;No consumer action is recommended until an official source is attached.&quot;,&quot;payoutAmount&quot;:&quot;Not verified&quot;,&quot;deadline&quot;:null,&quot;officialClaimUrl&quot;:&quot;&quot;,&quot;officialSourceUrl&quot;:&quot;PASTE_OFFICIAL_URL_HERE&quot;,&quot;sourceAgency&quot;:&quot;COURT&quot;,&quot;searchVolume&quot;:&quot;200+&quot;,&quot;trendScore&quot;:10,&quot;matchedQueries&quot;:[&quot;afrin recall&quot;],&quot;officialVerified&quot;:true,&quot;lastUpdated&quot;:&quot;2026-05-07T08:40:29.023Z&quot;,&quot;trendExploreUrl&quot;:&quot;https://trends.google.com/trends/explore?q=afrin%20recall&amp;geo=US&quot;}">Copy publish JSON</button>
+                  </div>
+                </article>
+        </div>
+        <aside class="sidebar">
+          <section class="side-panel">
+            <h2>Manual publish steps</h2>
+            <ol class="admin-steps">
+              <li>Open the candidate and verify the event from an official source.</li>
+              <li>Copy publish JSON.</li>
+              <li>Paste official URL and correct agency in <code>data/items.json</code>.</li>
+              <li>Set <code>officialVerified: true</code>.</li>
+              <li>Run <code>npm run build</code> or <code>npm run refresh</code>.</li>
+            </ol>
+          </section>
+          <section class="side-panel">
+            <h2>Raw trends</h2>
+            <p>Trend data is preserved for operations only.</p>
+            <a class="button ghost" href="/api/trends.json">Open trends JSON</a>
+          </section>
+        </aside>
+      </section>
+      <script>
+        document.querySelectorAll(".copy-json").forEach((button) => {
+          button.addEventListener("click", async () => {
+            await navigator.clipboard.writeText(JSON.stringify(JSON.parse(button.dataset.json), null, 2));
+            button.textContent = "Copied";
+          });
+        });
+      </script>
+    
+  </main>
+  <footer class="footer">
+    <div>
+      <strong>ClaimWatch</strong>
+      <p>Informational consumer alert database. Not legal, medical, or financial advice.</p>
+    </div>
+    <nav>
+      <a href="/methodology/">Methodology</a>
+      <a href="/about/">About</a>
+      <a href="/api/latest.json">API</a>
+      <a href="/llms.txt">llms.txt</a>
+    </nav>
+  </footer>
+</body>
+</html>

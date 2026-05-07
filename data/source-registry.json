@@ -1,0 +1,44 @@
+[
+  {
+    "agency": "FDA",
+    "name": "openFDA Food Enforcement API",
+    "url": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "coverage": "Food recall enforcement reports"
+  },
+  {
+    "agency": "FDA",
+    "name": "openFDA Drug Enforcement API",
+    "url": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "coverage": "Drug recall enforcement reports"
+  },
+  {
+    "agency": "FDA",
+    "name": "openFDA Device Enforcement API",
+    "url": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "coverage": "Medical device recall enforcement reports"
+  },
+  {
+    "agency": "USDA_FSIS",
+    "name": "USDA FSIS Recalls and Public Health Alerts",
+    "url": "https://www.fsis.usda.gov/fsis/api/recall/v/1",
+    "coverage": "Meat, poultry, and egg product recalls and public health alerts"
+  },
+  {
+    "agency": "CPSC",
+    "name": "CPSC Recalls API",
+    "url": "https://www.cpsc.gov/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information",
+    "coverage": "Consumer product recalls"
+  },
+  {
+    "agency": "FTC",
+    "name": "FTC Refund Programs",
+    "url": "https://www.ftc.gov/enforcement/refunds",
+    "coverage": "FTC refunds and consumer repayment programs"
+  },
+  {
+    "agency": "NHTSA",
+    "name": "NHTSA Recalls",
+    "url": "https://api.nhtsa.gov/recalls/recallsByVehicle",
+    "coverage": "Vehicle recalls by configured make, model, and model year"
+  }
+]

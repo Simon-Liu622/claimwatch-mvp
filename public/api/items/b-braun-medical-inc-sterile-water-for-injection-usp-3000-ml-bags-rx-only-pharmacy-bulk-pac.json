@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac",
+    "slug": "b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac",
+    "title": "B BRAUN MEDICAL INC: Sterile Water for Injection USP, 3000 mL bags, Rx only, Pharmacy Bulk Package, B. Braun Medical Inc., Bethlehem, PA 18018-3524, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "B BRAUN MEDICAL INC",
+    "brand": "B BRAUN MEDICAL INC",
+    "product": "Sterile Water for Injection USP, 3000 mL bags, Rx only, Pharmacy Bulk Package, B. Braun Medical Inc., Bethlehem, PA 18018-3524,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility; potential for leakage from the diaphragm port once the foil is removed. Product details: Sterile Water for Injection USP, 3000 mL bags, Rx only, Pharmacy Bulk Package, B. Braun Medical Inc., Bethlehem, PA 18018-3524, NDC: 0264-7385-60.",
+    "affectedPeople": "US Nationwide.",
+    "remedy": "Affected quantity: 24,928 bags",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0495-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac/"
+  }
+}

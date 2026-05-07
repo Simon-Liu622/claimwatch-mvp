@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-26v104000",
+    "slug": "nhtsa-26v104000",
+    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 F-150, 2022-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD, Maverick, 2024-2026 Ranger, 2023-2026 F-600 SD, 2022-2027 Lincoln Navigator, Expedition, and 2026 E-Transit vehicles. When towing a trailer, the integrated trailer module (ITRM) may lose communication with the vehicle, possibly causing a loss of brake and turn signal lights, or a loss of brake function. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \" Lamps, Reflective Devices, and Associated Equipment.\"",
+    "affectedPeople": "Trailer lights or brakes that do not function can reduce the driver’s ability to control the trailer and decrease the trailers visibility to other road users, increasing the risk of a crash.",
+    "remedy": "The integrated trailer module software will be updated by a dealer, or through an over-the-air (OTA) update, free of charge. Owner notification letters were mailed March 25, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C10. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning March 17, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V104000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "26V104000",
+    "recallInitiationDate": "20/02/2026",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-26v104000/"
+  }
+}

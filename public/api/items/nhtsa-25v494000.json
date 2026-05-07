@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-25v494000",
+    "slug": "nhtsa-25v494000",
+    "title": "Kia America, Inc.: STRUCTURE:EXTERIOR TRIM Recall (2024 kia telluride)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Kia America, Inc.",
+    "brand": "Kia America, Inc.",
+    "product": "2024 kia telluride",
+    "category": "Vehicle recall",
+    "summary": "Kia America, Inc. (Kia) is recalling certain 2023-2025 Telluride vehicles. The door belt molding trim can delaminate and detach from the vehicle.",
+    "affectedPeople": "A detached trim piece can become a road hazard for other vehicles, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect and replace the belt molding trim assemblies as necessary, free of charge. Owner notification letters were mailed November 19, 2025. Owners may contact Kia customer service at 800-333-4542. Kia's number for this recall is SC347.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V494000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V494000",
+    "recallInitiationDate": "28/07/2025",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-25v494000/"
+  }
+}

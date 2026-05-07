@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "apple-settlement",
+    "slug": "apple-settlement",
+    "title": "Apple Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "apple settlement",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "sourceAgency": "COURT",
+    "searchVolume": "10K+",
+    "trendScore": 41,
+    "matchedQueries": [
+      "apple settlement",
+      "apple siri ai lawsuit settlement",
+      "apple agrees to pay 250 million",
+      "apple intelligence lawsuit settlement",
+      "apple lawsuit ai siri",
+      "apple ai settlement"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "trendExploreUrl": "https://trends.google.com/trends/explore?q=apple%20settlement&geo=US",
+    "url": "http://localhost:5177/item/apple-settlement/"
+  }
+}

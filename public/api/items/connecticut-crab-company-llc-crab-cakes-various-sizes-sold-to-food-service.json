@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
+    "slug": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
+    "title": "Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Connecticut Crab Company LLC",
+    "brand": "Connecticut Crab Company LLC",
+    "product": "Crab Cakes various sizes sold to food service",
+    "category": "Recall",
+    "summary": "May be temperature abused, which may result in growth of Clostridium botulinum Product details: Crab Cakes various sizes sold to food service",
+    "affectedPeople": "NY and NJ",
+    "remedy": "Affected quantity: 39 boxes or approximately 175lbs of crab cakes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0656-2026",
+    "recallInitiationDate": "20260325",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/"
+  }
+}

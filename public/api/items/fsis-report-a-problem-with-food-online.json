@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "fsis-report-a-problem-with-food-online",
+    "slug": "fsis-report-a-problem-with-food-online",
+    "title": "Report a Problem with Food Online Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "",
+    "brand": "",
+    "product": "Report a Problem with Food Online",
+    "category": "USDA FSIS recall",
+    "summary": "If you have a problem with a food product, let FSIS know or find the appropriate public health organization. Report Problem PHA-05042026-01 Public Health Alert Mislabeling Unreported Allergens",
+    "affectedPeople": "Consumers who purchased the affected meat, poultry, or egg product.",
+    "remedy": "Do not consume affected products; follow USDA FSIS recall or public health alert instructions.",
+    "payoutAmount": "Refund, disposal, or return instructions if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://www.fsis.usda.gov/food-safety/recalls-public-health-alerts/report-a-problem-food",
+    "sourceAgency": "USDA_FSIS",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "",
+    "recallInitiationDate": "",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/fsis-report-a-problem-with-food-online/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "item": {
+    "id": "nhtsa-25v893000",
+    "slug": "nhtsa-25v893000",
+    "title": "Hyundai Motor America: TRAILER HITCHES Recall (2024 hyundai tucson)",
+    "type": "recall",
+    "status": "active",
+    "company": "Hyundai Motor America",
+    "brand": "Hyundai Motor America",
+    "product": "2024 hyundai tucson",
+    "category": "Vehicle recall",
+    "summary": "Hyundai Motor America (Hyundai) is recalling certain 2022-2024 Tucson vehicles equipped with an optional Mobis tow hitch wiring harness. The wiring harness may have been installed incorrectly, allowing water into the control module. Moisture accumulation may cause the trailer lighting to fail or an electrical short circuit.",
+    "affectedPeople": "Nonfunctioning trailer lights can increase the risk of a crash. A short circuit can increase the risk of a fire.",
+    "remedy": "Owners are advised to park outside and away from structures until the recall repair is complete. Dealers will install a cap of the wiring, free of charge. Interim notification letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated July 2026. Owners may contact Hyundai customer service at 1-855-371-9460. Hyundai's number for this recall is 290. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on December 20, 2025.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V893000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V893000",
+    "recallInitiationDate": "19/12/2025",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-25v893000/"
+  }
+}

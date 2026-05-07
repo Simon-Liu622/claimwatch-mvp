@@ -27,7 +27,7 @@ async function readJson(file, fallback) {
 async function writePublic(relativePath, content) {
   const target = path.join(publicDir, relativePath);
   await fs.mkdir(path.dirname(target), { recursive: true });
-  await fs.writeFile(target, content);
+  await fs.writeFile(target, String(content).replace(/[ \t]+$/gm, ""));
 }
 
 function absolute(pathname) {
@@ -223,6 +223,7 @@ function itemCard(item) {
     <div class="card-actions">
       <a class="button primary" href="${escapeHtml(itemUrl(item))}">${item.type === "recall" ? "View affected products" : "Check eligibility"}</a>
       ${item.officialSourceUrl ? `<a class="button ghost" href="${escapeHtml(item.officialSourceUrl)}" rel="nofollow noopener">Official source</a>` : ""}
+      ${!item.officialSourceUrl && item.thirdPartySourceUrl ? `<a class="button ghost" href="${escapeHtml(item.thirdPartySourceUrl)}" rel="nofollow noopener">Reference source</a>` : ""}
       ${!item.officialSourceUrl && item.trendExploreUrl ? `<a class="button ghost" href="${escapeHtml(item.trendExploreUrl)}" rel="nofollow noopener">View trend</a>` : ""}
     </div>
   </article>`;
@@ -250,16 +251,16 @@ function searchPanel(items, trends) {
         <span>Updated ${escapeHtml(formatDate(now))}</span>
       </div>
     </div>
-    <div class="search-box" role="search">
+    <form class="search-box" role="search" action="/search/" method="get">
       <label for="site-search">Search brand, product, or settlement</label>
       <div class="search-row">
-        <input id="site-search" type="search" placeholder="Search brand, product, or settlement" autocomplete="off">
-        <button type="button">Search</button>
+        <input id="site-search" name="q" type="search" placeholder="Search brand, product, or settlement" autocomplete="off">
+        <button type="submit">Search</button>
       </div>
       <div class="filters" aria-label="Alert filters">
-        ${filterButtons.filter((button) => button.show).map((button, index) => `<button class="filter${index === 0 ? " active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
+        ${filterButtons.filter((button) => button.show).map((button, index) => `<button type="button" class="filter${index === 0 ? " active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
       </div>
-    </div>
+    </form>
     <div class="source-strip" aria-label="Verified source coverage">
       <span>Source coverage</span>
       ${Object.entries(counts)
@@ -269,6 +270,43 @@ function searchPanel(items, trends) {
       <em>${escapeHtml(activeTrendCount)} trend candidates monitored privately</em>
     </div>
   </section>`;
+}
+
+function searchPage(items) {
+  const types = typeCounts(items);
+  const filterButtons = [
+    { type: "all", label: "All", show: true },
+    { type: "recall", label: "Recalls", show: types.recall },
+    { type: "safety-alert", label: "Safety Alerts", show: types["safety-alert"] },
+    { type: "settlement", label: "Settlements", show: types.settlement },
+    { type: "refund", label: "Refunds", show: types.refund }
+  ];
+  return layout({
+    title: "Search ClaimWatch",
+    description: "Search official-source verified consumer recalls, refunds, safety alerts, and claim records.",
+    path: "/search/",
+    robots: "noindex,follow",
+    schema: siteSchema(),
+    children: `
+      <section class="page-intro">
+        <p class="eyebrow">Search</p>
+        <h1 id="search-heading">Search ClaimWatch</h1>
+        <p id="search-count">Search official-source verified records by brand, product, company, source, or alert type.</p>
+        <form class="search-box search-page-box" role="search" action="/search/" method="get">
+          <label for="site-search">Search verified records</label>
+          <div class="search-row">
+            <input id="site-search" name="q" type="search" placeholder="Search brand, product, recall, refund, or source" autocomplete="off">
+            <button type="submit">Search</button>
+          </div>
+          <div class="filters" aria-label="Alert filters">
+            ${filterButtons.filter((button) => button.show).map((button, index) => `<button type="button" class="filter${index === 0 ? " active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
+          </div>
+        </form>
+      </section>
+      <section id="alert-list" class="cards list-cards">${items.map(itemCard).join("")}</section>
+      <script src="/assets/site.js" defer></script>
+    `
+  });
 }
 
 function homePage(items, trends) {
@@ -320,7 +358,7 @@ function homePage(items, trends) {
             <a href="/api/latest.json">JSON API</a>
           </div>
           <div class="tabbar" aria-label="Type filters">
-            ${filterButtons.filter((button) => button.show).map((button, index) => `<button class="${index === 0 ? "active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
+            ${filterButtons.filter((button) => button.show).map((button, index) => `<button type="button" class="${index === 0 ? "active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
           </div>
           <div id="alert-list" class="cards">${activeItems.map((item, index) => itemCard({ ...item, initiallyHidden: index >= 24 })).join("")}</div>
           ${activeItems.length > 24 ? `<button id="load-more" class="load-more" type="button">Load more verified records</button>` : ""}
@@ -394,15 +432,27 @@ function adminPage(monitoringItems, trends) {
                   <div class="term-list">${(item.matchedQueries || []).slice(0, 8).map((query) => `<span>${escapeHtml(query)}</span>`).join("")}</div>
                   <div class="card-actions">
                     ${item.trendExploreUrl ? `<a class="button ghost" href="${escapeHtml(item.trendExploreUrl)}" rel="nofollow noopener">View trend</a>` : ""}
+                    ${item.thirdPartySourceUrl ? `<a class="button ghost" href="${escapeHtml(item.thirdPartySourceUrl)}" rel="nofollow noopener">Third-party reference</a>` : ""}
                     <button class="button primary copy-json" data-json="${escapeHtml(
                       JSON.stringify({
                         ...item,
                         status: "active",
                         officialVerified: true,
-                        officialSourceUrl: "PASTE_OFFICIAL_URL_HERE",
-                        sourceAgency: "COURT"
+                        officialSourceUrl: "PASTE_OFFICIAL_OR_ADMINISTRATOR_URL_HERE",
+                        thirdPartySourceUrl: item.thirdPartySourceUrl || "OPTIONAL_THIRD_PARTY_REFERENCE_URL",
+                        sourceAgency: "COURT",
+                        sourceConfidence: "official"
                       })
                     )}">Copy publish JSON</button>
+                    <button class="button ghost copy-json" data-json="${escapeHtml(
+                      JSON.stringify({
+                        ...item,
+                        officialVerified: false,
+                        officialSourceUrl: "",
+                        thirdPartySourceUrl: item.thirdPartySourceUrl || "PASTE_THIRD_PARTY_REFERENCE_URL_HERE",
+                        sourceConfidence: "third-party-reference"
+                      })
+                    )}">Copy reference JSON</button>
                   </div>
                 </article>`
               )
@@ -417,6 +467,7 @@ function adminPage(monitoringItems, trends) {
               <li>Copy publish JSON.</li>
               <li>Paste official URL and correct agency in <code>data/items.json</code>.</li>
               <li>Set <code>officialVerified: true</code>.</li>
+              <li>If you only have a third-party article, use <code>thirdPartySourceUrl</code> and keep <code>officialVerified: false</code>.</li>
               <li>Run <code>npm run build</code> or <code>npm run refresh</code>.</li>
             </ol>
           </section>
@@ -485,6 +536,7 @@ function detailPage(item, related) {
     ["Payout", item.payoutAmount || "Not specified"],
     ["Deadline", item.deadline ? formatDate(item.deadline) : "Not listed"],
     ["Source", OFFICIAL_SOURCE_LABELS[item.sourceAgency] || item.sourceAgency || "Monitoring"],
+    ["Reference", item.thirdPartySourceUrl ? "Third-party reference attached" : "Not listed"],
     ["Last updated", formatDate(item.lastUpdated)]
   ];
   const schema = [
@@ -546,6 +598,7 @@ function detailPage(item, related) {
           <div class="button-row">
             ${item.officialClaimUrl ? `<a class="button primary" href="${escapeHtml(item.officialClaimUrl)}" rel="nofollow noopener">Official claim site</a>` : ""}
             ${item.officialSourceUrl ? `<a class="button ghost" href="${escapeHtml(item.officialSourceUrl)}" rel="nofollow noopener">Official source</a>` : ""}
+            ${!item.officialSourceUrl && item.thirdPartySourceUrl ? `<a class="button ghost" href="${escapeHtml(item.thirdPartySourceUrl)}" rel="nofollow noopener">Third-party reference</a>` : ""}
             ${!item.officialSourceUrl && item.trendExploreUrl ? `<a class="button ghost" href="${escapeHtml(item.trendExploreUrl)}" rel="nofollow noopener">View Google trend</a>` : ""}
           </div>
         </section>
@@ -648,7 +701,7 @@ function css() {
 }
 
 function js() {
-  return `const input=document.querySelector("#site-search");const cards=[...document.querySelectorAll(".alert-card")];const buttons=[...document.querySelectorAll("[data-filter]")];const loadMore=document.querySelector("#load-more");let visibleLimit=24;function apply(){const q=(input?.value||"").toLowerCase();const active=document.querySelector("[data-filter].active")?.dataset.filter||"all";let shown=0;let matched=0;cards.forEach(card=>{const text=card.textContent.toLowerCase();const type=card.dataset.type;const okText=!q||text.includes(q);const okType=active==="all"||type===active;const ok=okText&&okType;if(ok) matched++;const show=ok&&shown<visibleLimit;if(show) shown++;card.style.display=show?"flex":"none";});if(loadMore){loadMore.style.display=matched>visibleLimit?"inline-flex":"none";loadMore.textContent="Load more verified records";}}input?.addEventListener("input",()=>{visibleLimit=24;apply();});buttons.forEach(btn=>btn.addEventListener("click",()=>{buttons.forEach(b=>b.classList.remove("active"));btn.classList.add("active");visibleLimit=24;apply();}));loadMore?.addEventListener("click",()=>{visibleLimit+=24;apply();});apply();`;
+  return `const params=new URLSearchParams(location.search);const input=document.querySelector("#site-search");const cards=[...document.querySelectorAll(".alert-card")];const buttons=[...document.querySelectorAll("[data-filter]")];const loadMore=document.querySelector("#load-more");const searchHeading=document.querySelector("#search-heading");const searchCount=document.querySelector("#search-count");let visibleLimit=location.pathname.startsWith("/search/")?9999:24;if(input&&params.get("q")) input.value=params.get("q");function apply(){const q=(input?.value||"").toLowerCase().trim();const active=document.querySelector("[data-filter].active")?.dataset.filter||"all";let shown=0;let matched=0;cards.forEach(card=>{const text=card.textContent.toLowerCase();const type=card.dataset.type;const okText=!q||text.includes(q);const okType=active==="all"||type===active;const ok=okText&&okType;if(ok) matched++;const show=ok&&shown<visibleLimit;if(show) shown++;card.style.display=show?"flex":"none";});if(searchHeading){searchHeading.textContent=q?\`Search results for "\${input.value.trim()}"\`:"Search ClaimWatch";}if(searchCount){searchCount.textContent=q?\`\${matched} verified records matched your search.\`:\`\${matched} verified records available to search.\`;}if(loadMore){loadMore.style.display=matched>visibleLimit?"inline-flex":"none";loadMore.textContent="Load more verified records";}}input?.addEventListener("input",()=>{visibleLimit=location.pathname.startsWith("/search/")?9999:24;apply();});buttons.forEach(btn=>btn.addEventListener("click",()=>{buttons.forEach(b=>b.classList.remove("active"));btn.classList.add("active");visibleLimit=location.pathname.startsWith("/search/")?9999:24;apply();}));loadMore?.addEventListener("click",()=>{visibleLimit+=24;apply();});apply();`;
 }
 
 const items = await readJson("items.json", []);
@@ -673,6 +726,7 @@ await writePublic("assets/styles.css", css());
 await writePublic("assets/site.js", js());
 
 await writePublic("index.html", homePage(publicItems, trends));
+await writePublic("search/index.html", searchPage(publicItems));
 await writePublic("recalls/index.html", listPage({ title: "Latest US Recalls", description: TYPE_DESCRIPTIONS.recall, pagePath: "/recalls/", items: publicItems, type: "recall" }));
 await writePublic("settlements/index.html", listPage({ title: "Verified Settlements", description: TYPE_DESCRIPTIONS.settlement, pagePath: "/settlements/", items: publicItems, type: "settlement" }));
 await writePublic("refunds/index.html", listPage({ title: "Verified Refund Programs and Payment Alerts", description: TYPE_DESCRIPTIONS.refund, pagePath: "/refunds/", items: publicItems, type: "refund" }));
@@ -747,6 +801,7 @@ const latest = publicItems.slice(0, 50).map((item) => ({
   sourceAgency: item.sourceAgency,
   officialVerified: item.officialVerified,
   officialSourceUrl: item.officialSourceUrl,
+  thirdPartySourceUrl: item.thirdPartySourceUrl || "",
   trendExploreUrl: item.trendExploreUrl,
   deadline: item.deadline,
   lastUpdated: item.lastUpdated
@@ -763,6 +818,7 @@ const apiItems = publicItems.map((item) => ({
   sourceAgency: item.sourceAgency,
   officialVerified: item.officialVerified,
   officialSourceUrl: item.officialSourceUrl,
+  thirdPartySourceUrl: item.thirdPartySourceUrl || "",
   trendExploreUrl: item.trendExploreUrl,
   deadline: item.deadline,
   lastUpdated: item.lastUpdated
@@ -771,7 +827,7 @@ await writePublic("api/latest.json", `${JSON.stringify({ updatedAt: now, items: 
 await writePublic("api/items.json", `${JSON.stringify({ updatedAt: now, count: publicItems.length, items: apiItems }, null, 2)}\n`);
 await writePublic(
   "api/monitoring.json",
-  `${JSON.stringify({ updatedAt: now, count: monitoringItems.length, items: monitoringItems }, null, 2)}\n`
+  `${JSON.stringify({ updatedAt: now, count: monitoringItems.length, items: monitoringItems.map((item) => ({ ...item, thirdPartySourceUrl: item.thirdPartySourceUrl || "" })) }, null, 2)}\n`
 );
 await writePublic("api/trends.json", `${JSON.stringify({ updatedAt: now, count: trends.length, trends }, null, 2)}\n`);
 for (const item of items) {

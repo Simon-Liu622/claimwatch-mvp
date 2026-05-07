@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T12:16:12.403Z",
+  "updatedAt": "2026-05-07T14:50:44.673Z",
   "item": {
     "id": "bcbs-settlement",
     "slug": "bcbs-settlement",
@@ -18,17 +18,20 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "sourceAgency": "COURT",
-    "trendScore": 34,
-    "searchVolume": 50000,
+    "trendScore": 38,
+    "searchVolume": 100000,
     "matchedQueries": [
       "bcbs settlement",
       "blue cross blue shield payout",
       "blue cross blue shield customers will receive settlement payments soon",
-      "cross"
+      "cross",
+      "blue cross blue shield settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "lastUpdated": "2026-05-07T14:50:41.812Z",
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bcbs+settlement&tz=420",
+    "thirdPartySourceUrl": "",
+    "sourceConfidence": "trend-only",
     "url": "https://claimwatch-mvp.vercel.app/item/bcbs-settlement/"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T12:16:12.403Z",
+  "updatedAt": "2026-05-07T14:50:44.673Z",
   "item": {
     "id": "sony-7-85-million-settlement",
     "slug": "sony-7-85-million-settlement",
@@ -20,12 +20,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+%247.85+million+settlement&tz=420",
     "sourceAgency": "COURT",
     "searchVolume": 500,
-    "trendScore": 23,
+    "trendScore": 8,
     "matchedQueries": [
       "sony $7.85 million settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "lastUpdated": "2026-05-07T14:50:41.812Z",
+    "thirdPartySourceUrl": "",
+    "sourceConfidence": "trend-only",
     "url": "https://claimwatch-mvp.vercel.app/item/sony-7-85-million-settlement/"
   }
 }

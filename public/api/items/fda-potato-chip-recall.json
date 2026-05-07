@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-07T12:16:12.403Z",
+  "updatedAt": "2026-05-07T14:50:44.673Z",
   "item": {
-    "id": "costco-giovanni-rana-ravioli-recall",
-    "slug": "costco-giovanni-rana-ravioli-recall",
-    "title": "Costco Giovanni Rana Ravioli Recall: Consumer Alert Monitoring",
+    "id": "fda-potato-chip-recall",
+    "slug": "fda-potato-chip-recall",
+    "title": "Fda Potato Chip Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "costco giovanni rana ravioli recall",
+    "product": "fda potato chip recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -17,15 +17,17 @@
     "deadline": null,
     "officialClaimUrl": "",
     "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
     "sourceAgency": "COMPANY",
-    "trendScore": 9,
-    "searchVolume": 20000,
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
-      "costco giovanni rana ravioli recall"
+      "fda potato chip recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T10:45:21.214Z",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+giovanni+rana+ravioli+recall&tz=420",
-    "url": "https://claimwatch-mvp.vercel.app/item/costco-giovanni-rana-ravioli-recall/"
+    "lastUpdated": "2026-05-07T14:50:41.812Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/fda-potato-chip-recall/"
   }
 }

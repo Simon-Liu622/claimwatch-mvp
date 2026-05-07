@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
     "id": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
     "slug": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
     "title": "AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "AYCO FARMS INC",
     "brand": "AYCO FARMS INC",
     "product": "Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per ",
@@ -18,19 +18,13 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": "50K+",
-    "trendScore": 27,
-    "matchedQueries": [
-      "salmonella",
-      "frozen pizza recall aldi walmart",
-      "aldi product recall",
-      "aldi pizza salmonella alert",
-      "usda issued a nationwide health alert for contaminated frozen pizzas"
-    ],
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "H-0668-2026",
     "recallInitiationDate": "20260324",
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "url": "http://localhost:5177/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/"
   }
 }

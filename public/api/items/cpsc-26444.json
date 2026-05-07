@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
     "id": "cpsc-26444",
     "slug": "cpsc-26444",
@@ -18,19 +18,13 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Thermos-Recalls-8-2-Million-Stainless-King-Food-Jars-and-Bottles-Due-to-Serious-Impact-Injury-and-Laceration-Hazards",
     "sourceAgency": "CPSC",
-    "searchVolume": "20K+",
-    "trendScore": 19,
-    "matchedQueries": [
-      "thermos recall",
-      "jar",
-      "thermos food jar recall",
-      "thermos",
-      "thermos 3000 3020 recall"
-    ],
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "26444",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "url": "http://localhost:5177/item/cpsc-26444/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/cpsc-26444/"
   }
 }

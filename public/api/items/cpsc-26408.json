@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
     "id": "cpsc-26408",
     "slug": "cpsc-26408",
@@ -18,19 +18,13 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Sanlebi-Pet-Vet-Playsets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Letokids",
     "sourceAgency": "CPSC",
-    "searchVolume": "2M+",
-    "trendScore": 68,
-    "matchedQueries": [
-      "spirit airlines",
-      "spirit airlines news",
-      "spirit",
-      "why did spirit airlines shut down",
-      "spirit airlines shutting down"
-    ],
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "26408",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "url": "http://localhost:5177/item/cpsc-26408/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/cpsc-26408/"
   }
 }

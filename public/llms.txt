@@ -3,35 +3,35 @@
 ClaimWatch is a US consumer recall, refund, settlement, and claim deadline tracker.
 
 ## Important URLs
-- Home: http://localhost:5177/
-- Latest JSON: http://localhost:5177/api/latest.json
-- All items JSON: http://localhost:5177/api/items.json
-- RSS feed: http://localhost:5177/feed.xml
-- Sitemap: http://localhost:5177/sitemap.xml
-- Methodology: http://localhost:5177/methodology/
-- Sources: http://localhost:5177/sources/
+- Home: https://claimwatch-mvp.vercel.app/
+- Latest JSON: https://claimwatch-mvp.vercel.app/api/latest.json
+- All items JSON: https://claimwatch-mvp.vercel.app/api/items.json
+- RSS feed: https://claimwatch-mvp.vercel.app/feed.xml
+- Sitemap: https://claimwatch-mvp.vercel.app/sitemap.xml
+- Methodology: https://claimwatch-mvp.vercel.app/methodology/
+- Sources: https://claimwatch-mvp.vercel.app/sources/
 
 ## Data Policy
 Trend data is used for prioritization. Official source matching is required before an item is marked as verified. Monitoring pages are informational and should not be treated as official legal, medical, or financial advice.
 
 ## Current High-Priority Items
-- Sanlebi Pet Vet Playsets Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Toys; Sold on Amazon by Letokids: http://localhost:5177/item/cpsc-26408/
-- Unistel Industries Inc.: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; Recall: http://localhost:5177/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/
-- AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall: http://localhost:5177/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/
-- FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination: http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-/
-- Thermos Recalls 8.2 Million Stainless King Food Jars and Bottles Due to Serious Impact Injury and Laceration Hazards: http://localhost:5177/item/cpsc-26444/
-- Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall: http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/
-- Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall: http://localhost:5177/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/
-- Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall: http://localhost:5177/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/
-- Ethnic Foods Inc: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); Recall: http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/
-- Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall: http://localhost:5177/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/
-- Marquez Brothers International, Inc.: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) Recall: http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/
-- Marquez Brothers International, Inc.: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) Recall: http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/
-- Mondelez Global Llc: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch) Recall: http://localhost:5177/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/
-- Booey's Gourmet LLC: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. Recall: http://localhost:5177/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/
-- Bee Well Honey Farm & Supply Inc.: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) Recall: http://localhost:5177/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/
-- PURE PALM C/O DVD: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ Recall: http://localhost:5177/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/
-- Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall: http://localhost:5177/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/
-- Zarlengo Italian Ice: Zarlengo's Double Dark Chocolate Gelato packaged in 1 Gallon bucket/pail - white round food and freezer grade High-Density Polyethylene buck Recall: http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/
-- Zarlengo Italian Ice: Zarlengo's Chocolate Chocolate Chip Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups, 1-gallon bucket/pail and  Recall: http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/
-- Riverence Provisions LLC: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze Recall: http://localhost:5177/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/
+- Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall: https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/
+- Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall: https://claimwatch-mvp.vercel.app/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/
+- Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall: https://claimwatch-mvp.vercel.app/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/
+- Ethnic Foods Inc: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); Recall: https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/
+- Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall: https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/
+- Unistel Industries Inc.: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; Recall: https://claimwatch-mvp.vercel.app/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/
+- Marquez Brothers International, Inc.: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) Recall: https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/
+- Marquez Brothers International, Inc.: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) Recall: https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/
+- Mondelez Global Llc: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch) Recall: https://claimwatch-mvp.vercel.app/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/
+- Booey's Gourmet LLC: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. Recall: https://claimwatch-mvp.vercel.app/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/
+- Bee Well Honey Farm & Supply Inc.: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) Recall: https://claimwatch-mvp.vercel.app/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/
+- PURE PALM C/O DVD: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ Recall: https://claimwatch-mvp.vercel.app/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/
+- Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall: https://claimwatch-mvp.vercel.app/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/
+- Zarlengo Italian Ice: Zarlengo's Double Dark Chocolate Gelato packaged in 1 Gallon bucket/pail - white round food and freezer grade High-Density Polyethylene buck Recall: https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/
+- Zarlengo Italian Ice: Zarlengo's Chocolate Chocolate Chip Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups, 1-gallon bucket/pail and  Recall: https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/
+- Riverence Provisions LLC: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze Recall: https://claimwatch-mvp.vercel.app/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/
+- Pure Vitamins and Natural Supplements, LLC: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes  Recall: https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/
+- MEI YU CHENG DA TRADING INC: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Recall: https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/
+- Pure Vitamins and Natural Supplements, LLC: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b Recall: https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/
+- MEI YU CHENG DA TRADING INC: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; Recall: https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/

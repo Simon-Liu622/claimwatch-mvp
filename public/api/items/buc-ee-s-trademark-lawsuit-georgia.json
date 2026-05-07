@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
     "id": "buc-ee-s-trademark-lawsuit-georgia",
     "slug": "buc-ee-s-trademark-lawsuit-georgia",
@@ -18,14 +18,14 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "sourceAgency": "COMPANY",
-    "searchVolume": "200+",
-    "trendScore": 10,
+    "searchVolume": 200,
+    "trendScore": 8,
     "matchedQueries": [
       "buc-ee's trademark lawsuit georgia"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "trendExploreUrl": "https://trends.google.com/trends/explore?q=buc-ee%27s%20trademark%20lawsuit%20georgia&geo=US",
-    "url": "http://localhost:5177/item/buc-ee-s-trademark-lawsuit-georgia/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=buc-ee%27s+trademark+lawsuit+georgia&tz=420",
+    "url": "https://claimwatch-mvp.vercel.app/item/buc-ee-s-trademark-lawsuit-georgia/"
   }
 }

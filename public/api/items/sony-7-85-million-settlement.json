@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
-    "id": "capital-one-360-settlement",
-    "slug": "capital-one-360-settlement",
-    "title": "Capital One 360 Settlement: Consumer Alert Monitoring",
+    "id": "sony-7-85-million-settlement",
+    "slug": "sony-7-85-million-settlement",
+    "title": "Sony $7.85 Million Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "capital one 360 settlement",
+    "product": "sony $7.85 million settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -17,16 +17,15 @@
     "deadline": null,
     "officialClaimUrl": "",
     "officialSourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+%247.85+million+settlement&tz=420",
     "sourceAgency": "COURT",
-    "searchVolume": "20K+",
-    "trendScore": 21,
+    "searchVolume": 500,
+    "trendScore": 23,
     "matchedQueries": [
-      "capital one 360 settlement",
-      "capital one 360 settlement payout"
+      "sony $7.85 million settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "trendExploreUrl": "https://trends.google.com/trends/explore?q=capital%20one%20360%20settlement&geo=US",
-    "url": "http://localhost:5177/item/capital-one-360-settlement/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/sony-7-85-million-settlement/"
   }
 }

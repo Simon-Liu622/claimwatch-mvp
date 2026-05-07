@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T09:28:10.018Z",
+  "updatedAt": "2026-05-07T10:45:22.611Z",
   "item": {
     "id": "apple-settlement",
     "slug": "apple-settlement",
@@ -18,19 +18,20 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "sourceAgency": "COURT",
-    "searchVolume": "10K+",
-    "trendScore": 41,
+    "searchVolume": 2000,
+    "trendScore": 25,
     "matchedQueries": [
       "apple settlement",
       "apple siri ai lawsuit settlement",
       "apple agrees to pay 250 million",
       "apple intelligence lawsuit settlement",
       "apple lawsuit ai siri",
-      "apple ai settlement"
+      "apple ai settlement",
+      "apple iphone 16 settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T08:40:29.023Z",
-    "trendExploreUrl": "https://trends.google.com/trends/explore?q=apple%20settlement&geo=US",
-    "url": "http://localhost:5177/item/apple-settlement/"
+    "lastUpdated": "2026-05-07T10:45:21.214Z",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+settlement&tz=420",
+    "url": "https://claimwatch-mvp.vercel.app/item/apple-settlement/"
   }
 }

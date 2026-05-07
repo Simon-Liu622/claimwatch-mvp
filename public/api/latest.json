@@ -1,10 +1,25 @@
 {
-  "updatedAt": "2026-05-07T10:45:22.611Z",
+  "updatedAt": "2026-05-07T10:52:31.684Z",
   "items": [
+    {
+      "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
+      "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
+      "url": "http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-/",
+      "type": "recall",
+      "status": "active",
+      "company": "",
+      "product": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
+      "summary": "Active Thu, 04/30/2026 - Current Nationwide Last Updated: This release was last updated on May 1, 2026, to reflect additional affected products and their corresponding labels. WASHINGTON, APRIL 30, 2026 – The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) is issuing a public health alert for meat and... Impacted Products PHA-04092026-01 Public Health Alert Misbranding Unreported Allergens",
+      "sourceAgency": "USDA_FSIS",
+      "officialVerified": true,
+      "officialSourceUrl": "https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-various-meat-and-poultry-products-containing-fda",
+      "deadline": null,
+      "lastUpdated": "2026-05-07T08:40:29.023Z"
+    },
     {
       "title": "Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall",
       "slug": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
-      "url": "https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/",
+      "url": "http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/",
       "type": "recall",
       "status": "active",
       "company": "Ethnic Foods Inc",
@@ -19,7 +34,7 @@
     {
       "title": "Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall",
       "slug": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
-      "url": "https://claimwatch-mvp.vercel.app/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/",
+      "url": "http://localhost:5177/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/",
       "type": "recall",
       "status": "active",
       "company": "Costco Wholesale Corporation",
@@ -34,7 +49,7 @@
     {
       "title": "Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall",
       "slug": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
-      "url": "https://claimwatch-mvp.vercel.app/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/",
+      "url": "http://localhost:5177/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/",
       "type": "recall",
       "status": "monitoring",
       "company": "Summit Import Corporation",
@@ -49,7 +64,7 @@
     {
       "title": "Ethnic Foods Inc: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); Recall",
       "slug": "ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g",
-      "url": "https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/",
+      "url": "http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/",
       "type": "recall",
       "status": "active",
       "company": "Ethnic Foods Inc",
@@ -64,7 +79,7 @@
     {
       "title": "Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall",
       "slug": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/",
+      "url": "http://localhost:5177/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/",
       "type": "recall",
       "status": "active",
       "company": "Marquez Brothers International, Inc.",
@@ -79,7 +94,7 @@
     {
       "title": "Unistel Industries Inc.: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; Recall",
       "slug": "unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6",
-      "url": "https://claimwatch-mvp.vercel.app/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/",
+      "url": "http://localhost:5177/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/",
       "type": "recall",
       "status": "active",
       "company": "Unistel Industries Inc.",
@@ -94,7 +109,7 @@
     {
       "title": "Marquez Brothers International, Inc.: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) Recall",
       "slug": "marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/",
+      "url": "http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/",
       "type": "recall",
       "status": "active",
       "company": "Marquez Brothers International, Inc.",
@@ -109,7 +124,7 @@
     {
       "title": "Marquez Brothers International, Inc.: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) Recall",
       "slug": "marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/",
+      "url": "http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/",
       "type": "recall",
       "status": "active",
       "company": "Marquez Brothers International, Inc.",
@@ -124,7 +139,7 @@
     {
       "title": "Mondelez Global Llc: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch) Recall",
       "slug": "mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-",
-      "url": "https://claimwatch-mvp.vercel.app/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/",
+      "url": "http://localhost:5177/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/",
       "type": "recall",
       "status": "active",
       "company": "Mondelez Global Llc",
@@ -139,7 +154,7 @@
     {
       "title": "Booey's Gourmet LLC: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. Recall",
       "slug": "booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle",
-      "url": "https://claimwatch-mvp.vercel.app/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/",
+      "url": "http://localhost:5177/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/",
       "type": "recall",
       "status": "monitoring",
       "company": "Booey's Gourmet LLC",
@@ -154,7 +169,7 @@
     {
       "title": "Bee Well Honey Farm & Supply Inc.: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) Recall",
       "slug": "bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-",
-      "url": "https://claimwatch-mvp.vercel.app/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/",
+      "url": "http://localhost:5177/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/",
       "type": "recall",
       "status": "active",
       "company": "Bee Well Honey Farm & Supply Inc.",
@@ -169,7 +184,7 @@
     {
       "title": "PURE PALM C/O DVD: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ Recall",
       "slug": "pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/",
+      "url": "http://localhost:5177/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/",
       "type": "recall",
       "status": "active",
       "company": "PURE PALM C/O DVD",
@@ -184,7 +199,7 @@
     {
       "title": "Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall",
       "slug": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
-      "url": "https://claimwatch-mvp.vercel.app/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/",
+      "url": "http://localhost:5177/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/",
       "type": "recall",
       "status": "monitoring",
       "company": "Connecticut Crab Company LLC",
@@ -199,7 +214,7 @@
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Double Dark Chocolate Gelato packaged in 1 Gallon bucket/pail - white round food and freezer grade High-Density Polyethylene buck Recall",
       "slug": "zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p",
-      "url": "https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/",
+      "url": "http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/",
       "type": "recall",
       "status": "active",
       "company": "Zarlengo Italian Ice",
@@ -214,7 +229,7 @@
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Chocolate Chocolate Chip Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups, 1-gallon bucket/pail and  Recall",
       "slug": "zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes",
-      "url": "https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/",
+      "url": "http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/",
       "type": "recall",
       "status": "active",
       "company": "Zarlengo Italian Ice",
@@ -229,7 +244,7 @@
     {
       "title": "Riverence Provisions LLC: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze Recall",
       "slug": "riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri",
-      "url": "https://claimwatch-mvp.vercel.app/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/",
+      "url": "http://localhost:5177/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/",
       "type": "recall",
       "status": "active",
       "company": "Riverence Provisions LLC",
@@ -244,7 +259,7 @@
     {
       "title": "Pure Vitamins and Natural Supplements, LLC: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes  Recall",
       "slug": "pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/",
+      "url": "http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/",
       "type": "recall",
       "status": "active",
       "company": "Pure Vitamins and Natural Supplements, LLC",
@@ -259,7 +274,7 @@
     {
       "title": "MEI YU CHENG DA TRADING INC: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Recall",
       "slug": "mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s",
-      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/",
+      "url": "http://localhost:5177/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/",
       "type": "recall",
       "status": "monitoring",
       "company": "MEI YU CHENG DA TRADING INC",
@@ -274,7 +289,7 @@
     {
       "title": "Pure Vitamins and Natural Supplements, LLC: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b Recall",
       "slug": "pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/",
+      "url": "http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/",
       "type": "recall",
       "status": "active",
       "company": "Pure Vitamins and Natural Supplements, LLC",
@@ -289,7 +304,7 @@
     {
       "title": "MEI YU CHENG DA TRADING INC: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; Recall",
       "slug": "mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast",
-      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/",
+      "url": "http://localhost:5177/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/",
       "type": "recall",
       "status": "monitoring",
       "company": "MEI YU CHENG DA TRADING INC",
@@ -304,7 +319,7 @@
     {
       "title": "AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall",
       "slug": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
-      "url": "https://claimwatch-mvp.vercel.app/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/",
+      "url": "http://localhost:5177/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/",
       "type": "recall",
       "status": "monitoring",
       "company": "AYCO FARMS INC",
@@ -319,7 +334,7 @@
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Chocolate Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups and 1-gallon bucket/pail) , Net Wt. 6 fl  Recall",
       "slug": "zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1",
-      "url": "https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1/",
+      "url": "http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1/",
       "type": "recall",
       "status": "active",
       "company": "Zarlengo Italian Ice",
@@ -334,7 +349,7 @@
     {
       "title": "Pure Vitamins and Natural Supplements, LLC: Boner Bears Honey Male Enhancement 100% Wildflower Honey, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume 1 entire pouc Recall",
       "slug": "pure-vitamins-and-natural-supplements-llc-boner-bears-honey-male-enhancement-100-wildflowe",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-boner-bears-honey-male-enhancement-100-wildflowe/",
+      "url": "http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-boner-bears-honey-male-enhancement-100-wildflowe/",
       "type": "recall",
       "status": "active",
       "company": "Pure Vitamins and Natural Supplements, LLC",
@@ -349,7 +364,7 @@
     {
       "title": "F&S Fresh Foods, Inc.: ReadyMeals Turkey Bacon & Cheddar Pretzel Duo Sandwich, perishable, Keep Refrigerated, plastic clamshell, net wt. 10 oz, Recall",
       "slug": "f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl",
-      "url": "https://claimwatch-mvp.vercel.app/item/f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl/",
+      "url": "http://localhost:5177/item/f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl/",
       "type": "recall",
       "status": "monitoring",
       "company": "F&S Fresh Foods, Inc.",
@@ -364,7 +379,7 @@
     {
       "title": "Blueroot Health, Inc.: Vital Nutrients Aller-C (vitamin C, citrus bioflavonoids, isoquercitrin, and bromelain)100 count bottles and 200 count bottles Recall",
       "slug": "blueroot-health-inc-vital-nutrients-aller-c-vitamin-c-citrus-bioflavonoids-isoquercitrin-a",
-      "url": "https://claimwatch-mvp.vercel.app/item/blueroot-health-inc-vital-nutrients-aller-c-vitamin-c-citrus-bioflavonoids-isoquercitrin-a/",
+      "url": "http://localhost:5177/item/blueroot-health-inc-vital-nutrients-aller-c-vitamin-c-citrus-bioflavonoids-isoquercitrin-a/",
       "type": "recall",
       "status": "active",
       "company": "Blueroot Health, Inc.",
@@ -379,7 +394,7 @@
     {
       "title": "The Harvard Drug Group LLC: Omega-3-Acid, Ethyl Esters, Capsules, USP, 1 gram, 50 capsules (5 x 10 unit dose blister cards) per carton, Rx only, Packaged and Recall",
       "slug": "the-harvard-drug-group-llc-omega-3-acid-ethyl-esters-capsules-usp-1-gram-50-capsules-5-x-1",
-      "url": "https://claimwatch-mvp.vercel.app/item/the-harvard-drug-group-llc-omega-3-acid-ethyl-esters-capsules-usp-1-gram-50-capsules-5-x-1/",
+      "url": "http://localhost:5177/item/the-harvard-drug-group-llc-omega-3-acid-ethyl-esters-capsules-usp-1-gram-50-capsules-5-x-1/",
       "type": "recall",
       "status": "active",
       "company": "The Harvard Drug Group LLC",
@@ -394,7 +409,7 @@
     {
       "title": "B BRAUN MEDICAL INC: DEXTROSE INJECTION USP, 70%, 2000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
       "slug": "b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical",
-      "url": "https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical/",
+      "url": "http://localhost:5177/item/b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical/",
       "type": "recall",
       "status": "active",
       "company": "B BRAUN MEDICAL INC",
@@ -409,7 +424,7 @@
     {
       "title": "Leading Pharma, LLC: Furosemide Tablets, USP, 80 mg, 100 Tablets bottles, Rx only, Recall",
       "slug": "leading-pharma-llc-furosemide-tablets-usp-80-mg-100-tablets-bottles-rx-only",
-      "url": "https://claimwatch-mvp.vercel.app/item/leading-pharma-llc-furosemide-tablets-usp-80-mg-100-tablets-bottles-rx-only/",
+      "url": "http://localhost:5177/item/leading-pharma-llc-furosemide-tablets-usp-80-mg-100-tablets-bottles-rx-only/",
       "type": "recall",
       "status": "active",
       "company": "Leading Pharma, LLC",
@@ -424,7 +439,7 @@
     {
       "title": "Premier Dental Products Co: Premier, Monsel's, Ferric Subsulfate Solution, 8 mL bottles, Rx only, Manufacturer: Premier Medical Products, 1710 Romano Drive, Plymouth Me Recall",
       "slug": "premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl",
-      "url": "https://claimwatch-mvp.vercel.app/item/premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl/",
+      "url": "http://localhost:5177/item/premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl/",
       "type": "recall",
       "status": "active",
       "company": "Premier Dental Products Co",
@@ -439,7 +454,7 @@
     {
       "title": "B BRAUN MEDICAL INC: LACTATED RINGER'S IRRIGATION, 3000 mL bags, Sterile, Ex only, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
       "slug": "b-braun-medical-inc-lactated-ringer-s-irrigation-3000-ml-bags-sterile-ex-only-b-braun-medi",
-      "url": "https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-lactated-ringer-s-irrigation-3000-ml-bags-sterile-ex-only-b-braun-medi/",
+      "url": "http://localhost:5177/item/b-braun-medical-inc-lactated-ringer-s-irrigation-3000-ml-bags-sterile-ex-only-b-braun-medi/",
       "type": "recall",
       "status": "active",
       "company": "B BRAUN MEDICAL INC",
@@ -454,7 +469,7 @@
     {
       "title": "Teva Pharmaceuticals USA, Inc: Claravis (isotretinoin capsule, USP), 10 mg, Packaged as a) 100-count carton, Recall",
       "slug": "teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou",
-      "url": "https://claimwatch-mvp.vercel.app/item/teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou/",
+      "url": "http://localhost:5177/item/teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou/",
       "type": "recall",
       "status": "active",
       "company": "Teva Pharmaceuticals USA, Inc",
@@ -469,7 +484,7 @@
     {
       "title": "B BRAUN MEDICAL INC: 0.9 % SODIUM CHLORIDE IRRIGATION, USP, 3000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
       "slug": "b-braun-medical-inc-0-9-sodium-chloride-irrigation-usp-3000-ml-bags-rx-only-sterile-b-brau",
-      "url": "https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-0-9-sodium-chloride-irrigation-usp-3000-ml-bags-rx-only-sterile-b-brau/",
+      "url": "http://localhost:5177/item/b-braun-medical-inc-0-9-sodium-chloride-irrigation-usp-3000-ml-bags-rx-only-sterile-b-brau/",
       "type": "recall",
       "status": "active",
       "company": "B BRAUN MEDICAL INC",
@@ -484,7 +499,7 @@
     {
       "title": "B BRAUN MEDICAL INC: Sterile Water for Injection USP, 3000 mL bags, Rx only, Pharmacy Bulk Package, B. Braun Medical Inc., Bethlehem, PA 18018-3524, Recall",
       "slug": "b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac",
-      "url": "https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac/",
+      "url": "http://localhost:5177/item/b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac/",
       "type": "recall",
       "status": "active",
       "company": "B BRAUN MEDICAL INC",
@@ -499,7 +514,7 @@
     {
       "title": "Hetero Labs Limited (Unit V): Pantoprazole Sodium, Delayed-Release Tablets, USP, 40 mg, 1000-count bottle, Rx only, Manufactured for: Camber Pharmaceuticals, Inc., Piscat Recall",
       "slug": "hetero-labs-limited-unit-v-pantoprazole-sodium-delayed-release-tablets-usp-40-mg-1000-coun",
-      "url": "https://claimwatch-mvp.vercel.app/item/hetero-labs-limited-unit-v-pantoprazole-sodium-delayed-release-tablets-usp-40-mg-1000-coun/",
+      "url": "http://localhost:5177/item/hetero-labs-limited-unit-v-pantoprazole-sodium-delayed-release-tablets-usp-40-mg-1000-coun/",
       "type": "recall",
       "status": "active",
       "company": "Hetero Labs Limited (Unit V)",
@@ -514,7 +529,7 @@
     {
       "title": "SUN PHARMACEUTICAL INDUSTRIES INC: Fluocinonide, USP, 0.05% Cream, 30g tube, Rx only, Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Phar Recall",
       "slug": "sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro",
-      "url": "https://claimwatch-mvp.vercel.app/item/sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro/",
+      "url": "http://localhost:5177/item/sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro/",
       "type": "recall",
       "status": "active",
       "company": "SUN PHARMACEUTICAL INDUSTRIES INC",
@@ -529,7 +544,7 @@
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: MGC Health, Menthol- Cough Suppressant, Oral Anesthetic, Cough Drops, Honey Lemon, 30-count bag, Recall",
       "slug": "xiamen-kang-zhongyuan-biotechnology-co-ltd-mgc-health-menthol-cough-suppressant-oral-anest",
-      "url": "https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-mgc-health-menthol-cough-suppressant-oral-anest/",
+      "url": "http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-mgc-health-menthol-cough-suppressant-oral-anest/",
       "type": "recall",
       "status": "active",
       "company": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.",
@@ -544,7 +559,7 @@
     {
       "title": "Owen Biosciences Inc.: FHF Farmhouse Fresh, Midnight Clearing, NIGHT LOTION, 2.5% BENZOYL PEROXIDE ACNE TREATMENT, OTC a) 0.5 fl. oz./15ml; and b)1 fl. oz./30ml tu Recall",
       "slug": "owen-biosciences-inc-fhf-farmhouse-fresh-midnight-clearing-night-lotion-2-5-benzoyl-peroxi",
-      "url": "https://claimwatch-mvp.vercel.app/item/owen-biosciences-inc-fhf-farmhouse-fresh-midnight-clearing-night-lotion-2-5-benzoyl-peroxi/",
+      "url": "http://localhost:5177/item/owen-biosciences-inc-fhf-farmhouse-fresh-midnight-clearing-night-lotion-2-5-benzoyl-peroxi/",
       "type": "recall",
       "status": "active",
       "company": "Owen Biosciences Inc.",
@@ -559,7 +574,7 @@
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: Discount Drug Mart Food Market, Cough Drops, Menthol -Cough Suppressant Anesthetic, 30-count bag, Recall",
       "slug": "xiamen-kang-zhongyuan-biotechnology-co-ltd-discount-drug-mart-food-market-cough-drops-ment",
-      "url": "https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-discount-drug-mart-food-market-cough-drops-ment/",
+      "url": "http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-discount-drug-mart-food-market-cough-drops-ment/",
       "type": "recall",
       "status": "active",
       "company": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.",
@@ -574,7 +589,7 @@
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: exchange select, Menthol -Cough Suppressant Oral Anesthetic, Honey Lemon Flavor Cough Drops, 30-count bag, Manufactured for Your Military Ex Recall",
       "slug": "xiamen-kang-zhongyuan-biotechnology-co-ltd-exchange-select-menthol-cough-suppressant-oral-",
-      "url": "https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-exchange-select-menthol-cough-suppressant-oral-/",
+      "url": "http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-exchange-select-menthol-cough-suppressant-oral-/",
       "type": "recall",
       "status": "active",
       "company": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.",
@@ -589,7 +604,7 @@
     {
       "title": "Angiodynamics, Inc.: Soft-Vu Angiographic Catheter, Kumpe, Non-Braided; SOFT-VU KMP 4F X 65CM 038 NB 0SH; Catalog No.: 10714014; Product/UPN No.: H787107140145 ( Recall",
       "slug": "angiodynamics-inc-soft-vu-angiographic-catheter-kumpe-non-braided-soft-vu-kmp-4f-x-65cm-03",
-      "url": "https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-soft-vu-angiographic-catheter-kumpe-non-braided-soft-vu-kmp-4f-x-65cm-03/",
+      "url": "http://localhost:5177/item/angiodynamics-inc-soft-vu-angiographic-catheter-kumpe-non-braided-soft-vu-kmp-4f-x-65cm-03/",
       "type": "recall",
       "status": "active",
       "company": "Angiodynamics, Inc.",
@@ -604,7 +619,7 @@
     {
       "title": "Medline Industries, LP: Medline Kits: 1) HEART TRANSPLANT BIOPSY, Model Number: DYNJ37543A Recall",
       "slug": "medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a",
-      "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a/",
+      "url": "http://localhost:5177/item/medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a/",
       "type": "recall",
       "status": "active",
       "company": "Medline Industries, LP",
@@ -619,7 +634,7 @@
     {
       "title": "Medline Industries, LP: Medline Convenience Kits containing select SKUs of 10mL Polycarbonate Colored Syringes GU DAVINCI PACK - LF DYNJ909398A ROBOTIC PACK DYNJ908 Recall",
       "slug": "medline-industries-lp-medline-convenience-kits-containing-select-skus-of-10ml-polycarbonat",
-      "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-convenience-kits-containing-select-skus-of-10ml-polycarbonat/",
+      "url": "http://localhost:5177/item/medline-industries-lp-medline-convenience-kits-containing-select-skus-of-10ml-polycarbonat/",
       "type": "recall",
       "status": "active",
       "company": "Medline Industries, LP",
@@ -634,7 +649,7 @@
     {
       "title": "Olympus Corporation of the Americas: Olympus Thunderbeat II Shears w/Ultrasonic Mode, 5mm, 45cm. Model Number: TB2-0545FC. Recall",
       "slug": "olympus-corporation-of-the-americas-olympus-thunderbeat-ii-shears-w-ultrasonic-mode-5mm-45",
-      "url": "https://claimwatch-mvp.vercel.app/item/olympus-corporation-of-the-americas-olympus-thunderbeat-ii-shears-w-ultrasonic-mode-5mm-45/",
+      "url": "http://localhost:5177/item/olympus-corporation-of-the-americas-olympus-thunderbeat-ii-shears-w-ultrasonic-mode-5mm-45/",
       "type": "recall",
       "status": "active",
       "company": "Olympus Corporation of the Americas",
@@ -649,7 +664,7 @@
     {
       "title": "Medline Industries, LP: Medline Namic Guidewires: 1) GUIDEWIRE 3MMJ 0.035X260CM LT, Model Number: DYNJGWIRE20L; 2) GWIRE HYDRO 0.035 180CM ANG S, Model Number: DYNJ Recall",
       "slug": "medline-industries-lp-medline-namic-guidewires-1-guidewire-3mmj-0-035x260cm-lt-model-numbe",
-      "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-namic-guidewires-1-guidewire-3mmj-0-035x260cm-lt-model-numbe/",
+      "url": "http://localhost:5177/item/medline-industries-lp-medline-namic-guidewires-1-guidewire-3mmj-0-035x260cm-lt-model-numbe/",
       "type": "recall",
       "status": "active",
       "company": "Medline Industries, LP",
@@ -664,7 +679,7 @@
     {
       "title": "Angiodynamics, Inc.: AccuVu Angiographic Catheter, Straight Flush, Non-Braided, With 10 R/O Markers; ACCU-VU STR FL 4F X 100CM 035 NB 6SH 10 R/O 6@1CM 4@5CM; Cat Recall",
       "slug": "angiodynamics-inc-accuvu-angiographic-catheter-straight-flush-non-braided-with-10-r-o-mark",
-      "url": "https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-accuvu-angiographic-catheter-straight-flush-non-braided-with-10-r-o-mark/",
+      "url": "http://localhost:5177/item/angiodynamics-inc-accuvu-angiographic-catheter-straight-flush-non-braided-with-10-r-o-mark/",
       "type": "recall",
       "status": "active",
       "company": "Angiodynamics, Inc.",
@@ -679,7 +694,7 @@
     {
       "title": "Olympus Corporation of the Americas: OER-ELITE Endoscope Reprocessor Connecting Tubes. Model/Catalog Number: MAJ-2115. Recall",
       "slug": "olympus-corporation-of-the-americas-oer-elite-endoscope-reprocessor-connecting-tubes-model",
-      "url": "https://claimwatch-mvp.vercel.app/item/olympus-corporation-of-the-americas-oer-elite-endoscope-reprocessor-connecting-tubes-model/",
+      "url": "http://localhost:5177/item/olympus-corporation-of-the-americas-oer-elite-endoscope-reprocessor-connecting-tubes-model/",
       "type": "recall",
       "status": "active",
       "company": "Olympus Corporation of the Americas",
@@ -694,7 +709,7 @@
     {
       "title": "LSL Healthcare Inc.: LSL Healthcare Wound Closure Tray, Model/Catalog Number: 7554 Recall",
       "slug": "lsl-healthcare-inc-lsl-healthcare-wound-closure-tray-model-catalog-number-7554",
-      "url": "https://claimwatch-mvp.vercel.app/item/lsl-healthcare-inc-lsl-healthcare-wound-closure-tray-model-catalog-number-7554/",
+      "url": "http://localhost:5177/item/lsl-healthcare-inc-lsl-healthcare-wound-closure-tray-model-catalog-number-7554/",
       "type": "recall",
       "status": "active",
       "company": "LSL Healthcare Inc.",
@@ -709,7 +724,7 @@
     {
       "title": "Medline Industries, LP: Medline Kits: 1) CATH LAB CDS, Model Number: CDS840228F; 2) IR PACK, Model Number: DYNDH2104; 3) CARDIAC CATH PACK-LF, Model Number: DYNJT21 Recall",
       "slug": "medline-industries-lp-medline-kits-1-cath-lab-cds-model-number-cds840228f-2-ir-pack-model-",
-      "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-cath-lab-cds-model-number-cds840228f-2-ir-pack-model-/",
+      "url": "http://localhost:5177/item/medline-industries-lp-medline-kits-1-cath-lab-cds-model-number-cds840228f-2-ir-pack-model-/",
       "type": "recall",
       "status": "active",
       "company": "Medline Industries, LP",
@@ -724,27 +739,12 @@
     {
       "title": "Medline Industries, LP: Medline Kits: 1) ANGIOGRAPHY PACK-LF, Model Number: DYNJQ0505M; 2) ANGIO PACK, Model Number: DYNJT2021G; 3) ANGIOGRAPHY PACK, Model Number:  Recall",
       "slug": "medline-industries-lp-medline-kits-1-angiography-pack-lf-model-number-dynjq0505m-2-angio-p",
-      "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-angiography-pack-lf-model-number-dynjq0505m-2-angio-p/",
+      "url": "http://localhost:5177/item/medline-industries-lp-medline-kits-1-angiography-pack-lf-model-number-dynjq0505m-2-angio-p/",
       "type": "recall",
       "status": "active",
       "company": "Medline Industries, LP",
       "product": "Medline Kits: 1) ANGIOGRAPHY PACK-LF, Model Number: DYNJQ0505M; 2) ANGIO PACK, Model Number: DYNJT2021G; 3) ANGIOGRAPHY PACK, Model Number: ",
       "summary": "The 510(k) regulatory clearances for certain Control Syringes, Guidewires, and/or High-Pressure Tubing have been rescinded. Product details: Medline Kits: 1) ANGIOGRAPHY PACK-LF, Model Number: DYNJQ0505M; 2) ANGIO PACK, Model Number: DYNJT2021G; 3) ANGIOGRAPHY PACK, Model Number: DYNJ31377B; 4) ANGIO PACK, Model Number: DYNJ51279; 5) ANGIOGRAPHY PACK II, Model Number: DYNJ52447; 6) CATH ANGIO PACK,...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
-      "deadline": null,
-      "lastUpdated": "2026-05-07T10:45:21.214Z"
-    },
-    {
-      "title": "Angiodynamics, Inc.: Soft-Vu Angiographic Catheter, Berenstein, Non-Braided; SOFT-VU BER 4F X 100CM 038 NB 0SH; Catalog No.: 10714016; Product/UPN No.: H78710714 Recall",
-      "slug": "angiodynamics-inc-soft-vu-angiographic-catheter-berenstein-non-braided-soft-vu-ber-4f-x-10",
-      "url": "https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-soft-vu-angiographic-catheter-berenstein-non-braided-soft-vu-ber-4f-x-10/",
-      "type": "recall",
-      "status": "active",
-      "company": "Angiodynamics, Inc.",
-      "product": "Soft-Vu Angiographic Catheter, Berenstein, Non-Braided; SOFT-VU BER 4F X 100CM 038 NB 0SH; Catalog No.: 10714016; Product/UPN No.: H78710714",
-      "summary": "The affected devices contain a manufacturing defect which may prevent the appropriately sized guidewire from passing through the inner diameter (ID) of the catheter hub. Product details: Soft-Vu Angiographic Catheter, Berenstein, Non-Braided; SOFT-VU BER 4F X 100CM 038 NB 0SH; Catalog No.: 10714016; Product/UPN No.: H787107140165 (Box), H787107140160 (Pouch); Box Quantity: 5 pouches;",
       "sourceAgency": "FDA",
       "officialVerified": true,
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",

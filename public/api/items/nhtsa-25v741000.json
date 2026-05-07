@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "item": {
+    "id": "nhtsa-25v741000",
+    "slug": "nhtsa-25v741000",
+    "title": "Chrysler (FCA US, LLC): ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY Recall (2024 jeep wrangler)",
+    "type": "recall",
+    "status": "active",
+    "company": "Chrysler (FCA US, LLC)",
+    "brand": "Chrysler (FCA US, LLC)",
+    "product": "2024 jeep wrangler",
+    "category": "Vehicle recall",
+    "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2025 Jeep Wrangler 4Xe and 2022-2026 Grand Cherokee 4Xe vehicles. The high voltage battery may fail internally and lead to a vehicle fire while parked or driving.",
+    "affectedPeople": "A vehicle fire can increase the risk of injury.",
+    "remedy": "Owners are advised to park outside and away from structures and not to charge their vehicles until the remedy is completed. Dealers will update the high voltage battery software, and replace the high voltage battery, as necessary, free of charge. Some owner notification letters were mailed beginning December 17, 2025. The remaining owner notification letters will be mailed at a later date. Owners may contact Chrysler customer service at 800-853-1403. Chrysler's number for this recall is 68C. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning November 6, 2025. Vehicles that were previously recalled for the same issue under NHTSA Recalls 24V720 and 23V787 will need to have the new remedy performed.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V741000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V741000",
+    "recallInitiationDate": "30/10/2025",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-25v741000/"
+  }
+}

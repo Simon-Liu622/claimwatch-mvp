@@ -662,7 +662,7 @@ function mergeItems(existingItems, officialItems, trends) {
   const currentTrendSlugs = new Set(trends.slice(0, 100).map((trend) => slugify(trend.query)));
   const bySlug = new Map(
     existingItems
-      .filter((item) => !item.officialVerified && (currentTrendSlugs.has(item.slug) || item.officialClaimUrl))
+      .filter((item) => item.officialVerified || (currentTrendSlugs.has(item.slug) || item.officialClaimUrl))
       .map((item) => [item.slug, item])
   );
 

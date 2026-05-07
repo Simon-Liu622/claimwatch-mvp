@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "item": {
+    "id": "nhtsa-24v652000",
+    "slug": "nhtsa-24v652000",
+    "title": "Chrysler (FCA US, LLC): ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL Recall (2024 jeep wrangler)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Chrysler (FCA US, LLC)",
+    "brand": "Chrysler (FCA US, LLC)",
+    "product": "2024 jeep wrangler",
+    "category": "Vehicle recall",
+    "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2024 Jeep Gladiator and 2018-2024 Jeep Wrangler vehicles. The instrument panel cluster may experience an internal short circuit and fail. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 101, \"Controls and Displays.\"",
+    "affectedPeople": "An instrument panel that fails to display critical safety information, such as the speedometer or warning lights, can increase the risk of a crash.",
+    "remedy": "Dealers will replace the instrument panel cluster, free of charge. Owner notification letters were mailed between October 3, 2024, and January 23, 2025. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 30B.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V652000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V652000",
+    "recallInitiationDate": "05/09/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v652000/"
+  }
+}

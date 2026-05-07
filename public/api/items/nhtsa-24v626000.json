@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "item": {
+    "id": "nhtsa-24v626000",
+    "slug": "nhtsa-24v626000",
+    "title": "OEM Systems, LLC: TRAILER HITCHES Recall (2024 chevrolet silverado 1500)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "OEM Systems, LLC",
+    "brand": "OEM Systems, LLC",
+    "product": "2024 chevrolet silverado 1500",
+    "category": "Vehicle recall",
+    "summary": "OEM Systems, LLC (OEM) is recalling certain 2024 Chevrolet Silverado vehicles. The rear bumper mounting bracket may not be sufficient for towing, which can allow the towed trailer to detach from the vehicle.",
+    "affectedPeople": "A trailer that detaches from a vehicle while driving increases the risk of a crash.",
+    "remedy": "OEM will replace the rear bumper mounting bracket and hitch, free of charge. Owner notification letters are expected to be mailed in August 2024. Owners may contact OEM customer service at 1-800-810-7252.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V626000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V626000",
+    "recallInitiationDate": "21/08/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v626000/"
+  }
+}

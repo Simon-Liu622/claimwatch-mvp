@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "item": {
+    "id": "nhtsa-24v585000",
+    "slug": "nhtsa-24v585000",
+    "title": "Chrysler (FCA US, LLC): EXTERIOR LIGHTING:TAIL LIGHTS Recall (2024 jeep wrangler)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Chrysler (FCA US, LLC)",
+    "brand": "Chrysler (FCA US, LLC)",
+    "product": "2024 jeep wrangler",
+    "category": "Vehicle recall",
+    "summary": "Chrysler (FCA US, LLC) is recalling certain 2024 Jeep Wrangler vehicles. The vehicles are equipped with incorrect tail lights that may be obstructed by the spare tire. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"",
+    "affectedPeople": "Obstructed tail lights can reduce the vehicle's visibility to other drivers, increasing the risk of a crash.",
+    "remedy": "Dealers will replace the tail lights, free of charge. Owner notification letters were mailed August 29, 2024. Owners may contact FCA customer service at 1-800-853-1403. FCA's number for this recall is 90B.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V585000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V585000",
+    "recallInitiationDate": "08/08/2024",
+    "lastUpdated": "2026-05-07T08:40:29.023Z",
+    "url": "http://localhost:5177/item/nhtsa-24v585000/"
+  }
+}

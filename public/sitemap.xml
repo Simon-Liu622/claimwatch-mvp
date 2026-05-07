@@ -1,1454 +1,1670 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/recalls/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/recalls/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/settlements/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/settlements/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/refunds/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/refunds/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/deadlines/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/deadlines/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/sources/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/sources/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/methodology/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/methodology/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/</loc>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/</loc>
+    <loc>http://localhost:5177/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/</loc>
+    <loc>http://localhost:5177/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/</loc>
+    <loc>http://localhost:5177/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/</loc>
+    <loc>http://localhost:5177/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/</loc>
+    <loc>http://localhost:5177/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/</loc>
+    <loc>http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/</loc>
+    <loc>http://localhost:5177/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/</loc>
+    <loc>http://localhost:5177/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/</loc>
+    <loc>http://localhost:5177/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/</loc>
+    <loc>http://localhost:5177/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/</loc>
+    <loc>http://localhost:5177/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/</loc>
+    <loc>http://localhost:5177/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/</loc>
+    <loc>http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/</loc>
+    <loc>http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/</loc>
+    <loc>http://localhost:5177/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/</loc>
+    <loc>http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/</loc>
+    <loc>http://localhost:5177/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/</loc>
+    <loc>http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/</loc>
+    <loc>http://localhost:5177/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/</loc>
+    <loc>http://localhost:5177/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1/</loc>
+    <loc>http://localhost:5177/item/zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-boner-bears-honey-male-enhancement-100-wildflowe/</loc>
+    <loc>http://localhost:5177/item/pure-vitamins-and-natural-supplements-llc-boner-bears-honey-male-enhancement-100-wildflowe/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl/</loc>
+    <loc>http://localhost:5177/item/f-and-s-fresh-foods-inc-readymeals-turkey-bacon-and-cheddar-pretzel-duo-sandwich-perishabl/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/blueroot-health-inc-vital-nutrients-aller-c-vitamin-c-citrus-bioflavonoids-isoquercitrin-a/</loc>
+    <loc>http://localhost:5177/item/blueroot-health-inc-vital-nutrients-aller-c-vitamin-c-citrus-bioflavonoids-isoquercitrin-a/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/the-harvard-drug-group-llc-omega-3-acid-ethyl-esters-capsules-usp-1-gram-50-capsules-5-x-1/</loc>
+    <loc>http://localhost:5177/item/the-harvard-drug-group-llc-omega-3-acid-ethyl-esters-capsules-usp-1-gram-50-capsules-5-x-1/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical/</loc>
+    <loc>http://localhost:5177/item/b-braun-medical-inc-dextrose-injection-usp-70-2000-ml-bags-rx-only-sterile-b-braun-medical/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/leading-pharma-llc-furosemide-tablets-usp-80-mg-100-tablets-bottles-rx-only/</loc>
+    <loc>http://localhost:5177/item/leading-pharma-llc-furosemide-tablets-usp-80-mg-100-tablets-bottles-rx-only/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl/</loc>
+    <loc>http://localhost:5177/item/premier-dental-products-co-premier-monsel-s-ferric-subsulfate-solution-8-ml-bottles-rx-onl/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-lactated-ringer-s-irrigation-3000-ml-bags-sterile-ex-only-b-braun-medi/</loc>
+    <loc>http://localhost:5177/item/b-braun-medical-inc-lactated-ringer-s-irrigation-3000-ml-bags-sterile-ex-only-b-braun-medi/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou/</loc>
+    <loc>http://localhost:5177/item/teva-pharmaceuticals-usa-inc-claravis-isotretinoin-capsule-usp-10-mg-packaged-as-a-100-cou/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-0-9-sodium-chloride-irrigation-usp-3000-ml-bags-rx-only-sterile-b-brau/</loc>
+    <loc>http://localhost:5177/item/b-braun-medical-inc-0-9-sodium-chloride-irrigation-usp-3000-ml-bags-rx-only-sterile-b-brau/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac/</loc>
+    <loc>http://localhost:5177/item/b-braun-medical-inc-sterile-water-for-injection-usp-3000-ml-bags-rx-only-pharmacy-bulk-pac/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/hetero-labs-limited-unit-v-pantoprazole-sodium-delayed-release-tablets-usp-40-mg-1000-coun/</loc>
+    <loc>http://localhost:5177/item/hetero-labs-limited-unit-v-pantoprazole-sodium-delayed-release-tablets-usp-40-mg-1000-coun/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro/</loc>
+    <loc>http://localhost:5177/item/sun-pharmaceutical-industries-inc-fluocinonide-usp-0-05-cream-30g-tube-rx-only-mfd-by-taro/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-mgc-health-menthol-cough-suppressant-oral-anest/</loc>
+    <loc>http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-mgc-health-menthol-cough-suppressant-oral-anest/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/owen-biosciences-inc-fhf-farmhouse-fresh-midnight-clearing-night-lotion-2-5-benzoyl-peroxi/</loc>
+    <loc>http://localhost:5177/item/owen-biosciences-inc-fhf-farmhouse-fresh-midnight-clearing-night-lotion-2-5-benzoyl-peroxi/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-discount-drug-mart-food-market-cough-drops-ment/</loc>
+    <loc>http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-discount-drug-mart-food-market-cough-drops-ment/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-exchange-select-menthol-cough-suppressant-oral-/</loc>
+    <loc>http://localhost:5177/item/xiamen-kang-zhongyuan-biotechnology-co-ltd-exchange-select-menthol-cough-suppressant-oral-/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-soft-vu-angiographic-catheter-kumpe-non-braided-soft-vu-kmp-4f-x-65cm-03/</loc>
+    <loc>http://localhost:5177/item/angiodynamics-inc-soft-vu-angiographic-catheter-kumpe-non-braided-soft-vu-kmp-4f-x-65cm-03/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a/</loc>
+    <loc>http://localhost:5177/item/medline-industries-lp-medline-kits-1-heart-transplant-biopsy-model-number-dynj37543a/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-convenience-kits-containing-select-skus-of-10ml-polycarbonat/</loc>
+    <loc>http://localhost:5177/item/medline-industries-lp-medline-convenience-kits-containing-select-skus-of-10ml-polycarbonat/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/olympus-corporation-of-the-americas-olympus-thunderbeat-ii-shears-w-ultrasonic-mode-5mm-45/</loc>
+    <loc>http://localhost:5177/item/olympus-corporation-of-the-americas-olympus-thunderbeat-ii-shears-w-ultrasonic-mode-5mm-45/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-namic-guidewires-1-guidewire-3mmj-0-035x260cm-lt-model-numbe/</loc>
+    <loc>http://localhost:5177/item/medline-industries-lp-medline-namic-guidewires-1-guidewire-3mmj-0-035x260cm-lt-model-numbe/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-accuvu-angiographic-catheter-straight-flush-non-braided-with-10-r-o-mark/</loc>
+    <loc>http://localhost:5177/item/angiodynamics-inc-accuvu-angiographic-catheter-straight-flush-non-braided-with-10-r-o-mark/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/olympus-corporation-of-the-americas-oer-elite-endoscope-reprocessor-connecting-tubes-model/</loc>
+    <loc>http://localhost:5177/item/olympus-corporation-of-the-americas-oer-elite-endoscope-reprocessor-connecting-tubes-model/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/lsl-healthcare-inc-lsl-healthcare-wound-closure-tray-model-catalog-number-7554/</loc>
+    <loc>http://localhost:5177/item/lsl-healthcare-inc-lsl-healthcare-wound-closure-tray-model-catalog-number-7554/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-cath-lab-cds-model-number-cds840228f-2-ir-pack-model-/</loc>
+    <loc>http://localhost:5177/item/medline-industries-lp-medline-kits-1-cath-lab-cds-model-number-cds840228f-2-ir-pack-model-/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-kits-1-angiography-pack-lf-model-number-dynjq0505m-2-angio-p/</loc>
+    <loc>http://localhost:5177/item/medline-industries-lp-medline-kits-1-angiography-pack-lf-model-number-dynjq0505m-2-angio-p/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/angiodynamics-inc-soft-vu-angiographic-catheter-berenstein-non-braided-soft-vu-ber-4f-x-10/</loc>
+    <loc>http://localhost:5177/item/angiodynamics-inc-soft-vu-angiographic-catheter-berenstein-non-braided-soft-vu-ber-4f-x-10/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/lsl-healthcare-inc-lsl-healthcare-foley-urine-collection-kit-model-catalog-number-1555/</loc>
+    <loc>http://localhost:5177/item/lsl-healthcare-inc-lsl-healthcare-foley-urine-collection-kit-model-catalog-number-1555/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/get-consumer-alerts/</loc>
+    <loc>http://localhost:5177/item/get-consumer-alerts/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/competition-and-consumer-protection-guidance-documents/</loc>
+    <loc>http://localhost:5177/item/competition-and-consumer-protection-guidance-documents/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/consumer-sentinel-network/</loc>
+    <loc>http://localhost:5177/item/consumer-sentinel-network/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/ftc-refund-programs/</loc>
+    <loc>http://localhost:5177/item/ftc-refund-programs/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/sign-up-for-consumer-alerts/</loc>
+    <loc>http://localhost:5177/item/sign-up-for-consumer-alerts/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/find-refund-cases/</loc>
+    <loc>http://localhost:5177/item/find-refund-cases/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/consumer-advice/</loc>
+    <loc>http://localhost:5177/item/consumer-advice/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/visit-militaryconsumer-gov/</loc>
+    <loc>http://localhost:5177/item/visit-militaryconsumer-gov/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/visit-consumer-gov/</loc>
+    <loc>http://localhost:5177/item/visit-consumer-gov/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/ftc-refunds-to-consumers/</loc>
+    <loc>http://localhost:5177/item/ftc-refunds-to-consumers/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/military-consumer/</loc>
+    <loc>http://localhost:5177/item/military-consumer/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/consumer-gov/</loc>
+    <loc>http://localhost:5177/item/consumer-gov/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26448/</loc>
+    <loc>http://localhost:5177/item/cpsc-26448/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26453/</loc>
+    <loc>http://localhost:5177/item/cpsc-26453/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26449/</loc>
+    <loc>http://localhost:5177/item/cpsc-26449/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26445/</loc>
+    <loc>http://localhost:5177/item/cpsc-26445/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26458/</loc>
+    <loc>http://localhost:5177/item/cpsc-26458/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26455/</loc>
+    <loc>http://localhost:5177/item/cpsc-26455/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26457/</loc>
+    <loc>http://localhost:5177/item/cpsc-26457/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26456/</loc>
+    <loc>http://localhost:5177/item/cpsc-26456/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26451/</loc>
+    <loc>http://localhost:5177/item/cpsc-26451/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26447/</loc>
+    <loc>http://localhost:5177/item/cpsc-26447/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26452/</loc>
+    <loc>http://localhost:5177/item/cpsc-26452/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26454/</loc>
+    <loc>http://localhost:5177/item/cpsc-26454/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26450/</loc>
+    <loc>http://localhost:5177/item/cpsc-26450/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26446/</loc>
+    <loc>http://localhost:5177/item/cpsc-26446/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26444/</loc>
+    <loc>http://localhost:5177/item/cpsc-26444/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26435/</loc>
+    <loc>http://localhost:5177/item/cpsc-26435/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26434/</loc>
+    <loc>http://localhost:5177/item/cpsc-26434/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26433/</loc>
+    <loc>http://localhost:5177/item/cpsc-26433/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26432/</loc>
+    <loc>http://localhost:5177/item/cpsc-26432/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26438/</loc>
+    <loc>http://localhost:5177/item/cpsc-26438/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26437/</loc>
+    <loc>http://localhost:5177/item/cpsc-26437/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26440/</loc>
+    <loc>http://localhost:5177/item/cpsc-26440/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26436/</loc>
+    <loc>http://localhost:5177/item/cpsc-26436/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26429/</loc>
+    <loc>http://localhost:5177/item/cpsc-26429/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26431/</loc>
+    <loc>http://localhost:5177/item/cpsc-26431/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26430/</loc>
+    <loc>http://localhost:5177/item/cpsc-26430/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26425/</loc>
+    <loc>http://localhost:5177/item/cpsc-26425/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26420/</loc>
+    <loc>http://localhost:5177/item/cpsc-26420/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26426/</loc>
+    <loc>http://localhost:5177/item/cpsc-26426/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26411/</loc>
+    <loc>http://localhost:5177/item/cpsc-26411/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26421/</loc>
+    <loc>http://localhost:5177/item/cpsc-26421/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26419/</loc>
+    <loc>http://localhost:5177/item/cpsc-26419/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26413/</loc>
+    <loc>http://localhost:5177/item/cpsc-26413/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26407/</loc>
+    <loc>http://localhost:5177/item/cpsc-26407/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26428/</loc>
+    <loc>http://localhost:5177/item/cpsc-26428/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26422/</loc>
+    <loc>http://localhost:5177/item/cpsc-26422/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26412/</loc>
+    <loc>http://localhost:5177/item/cpsc-26412/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26414/</loc>
+    <loc>http://localhost:5177/item/cpsc-26414/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26427/</loc>
+    <loc>http://localhost:5177/item/cpsc-26427/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26409/</loc>
+    <loc>http://localhost:5177/item/cpsc-26409/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26406/</loc>
+    <loc>http://localhost:5177/item/cpsc-26406/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26417/</loc>
+    <loc>http://localhost:5177/item/cpsc-26417/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26408/</loc>
+    <loc>http://localhost:5177/item/cpsc-26408/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26423/</loc>
+    <loc>http://localhost:5177/item/cpsc-26423/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26424/</loc>
+    <loc>http://localhost:5177/item/cpsc-26424/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26385/</loc>
+    <loc>http://localhost:5177/item/cpsc-26385/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26387/</loc>
+    <loc>http://localhost:5177/item/cpsc-26387/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26396/</loc>
+    <loc>http://localhost:5177/item/cpsc-26396/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26395/</loc>
+    <loc>http://localhost:5177/item/cpsc-26395/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26403/</loc>
+    <loc>http://localhost:5177/item/cpsc-26403/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26392/</loc>
+    <loc>http://localhost:5177/item/cpsc-26392/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26405/</loc>
+    <loc>http://localhost:5177/item/cpsc-26405/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26404/</loc>
+    <loc>http://localhost:5177/item/cpsc-26404/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26393/</loc>
+    <loc>http://localhost:5177/item/cpsc-26393/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26394/</loc>
+    <loc>http://localhost:5177/item/cpsc-26394/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26399/</loc>
+    <loc>http://localhost:5177/item/cpsc-26399/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26401/</loc>
+    <loc>http://localhost:5177/item/cpsc-26401/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26398/</loc>
+    <loc>http://localhost:5177/item/cpsc-26398/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26389/</loc>
+    <loc>http://localhost:5177/item/cpsc-26389/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/cpsc-26388/</loc>
+    <loc>http://localhost:5177/item/cpsc-26388/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v284000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v284000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v554000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v554000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v935000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v935000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v002000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v002000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v329000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v329000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v486000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v486000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v851000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v851000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v852000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v852000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v022000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v022000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v164000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v164000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v198000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v198000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v315000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v315000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-25v512000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-25v512000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-26v104000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-26v104000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v128000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v128000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-23v782000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-23v782000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v763000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v763000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/item/nhtsa-24v859000/</loc>
+    <loc>http://localhost:5177/item/nhtsa-24v859000/</loc>
     <lastmod>2026-05-07T10:45:21.214Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-report-a-problem-with-food-online/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-ravioli-pasta-with-beef-sauce-due-to-misbranding-/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-beef-and-pork-products-due-to-misbranding-and-und/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-retracts-public-health-alert-for-frozen-ready-to-eat-chicken-nuggets-due-to-upda/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-beef-and-pork-products-produced-without-the-benef/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-ground-beef-products-due-to-possible-foreign-mate/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-frozen-ready-to-eat-turkey-stuffed-pastry-product/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-ajinomoto-foods-north-america-inc-expands-recall-for-chicken-and-pork-fried-rice-rame/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-fsis-issues-public-health-alert-for-ready-to-eat-beef-jerky-products-due-to-misbrandi/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/fsis-rosina-food-products-inc-recalls-ready-to-eat-frozen-meatball-products-due-to-possibl/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v626000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-25v274000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-23v556000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-23v526000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v412000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-25v893000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v077000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v214000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v407000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-25v494000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v111000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v199000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v414000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v585000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v652000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v676000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-24v871000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-25v527000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/item/nhtsa-25v741000/</loc>
+    <lastmod>2026-05-07T08:40:29.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/ethnic-foods-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/costco-wholesale-corporation/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/summit-import-corporation/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/marquez-brothers-international-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/unistel-industries-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>http://localhost:5177/company/mondelez-global-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/ethnic-foods-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/booey-s-gourmet-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/costco-wholesale-corporation/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/bee-well-honey-farm-and-supply-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/summit-import-corporation/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/pure-palm-c-o-dvd/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/marquez-brothers-international-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/connecticut-crab-company-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/unistel-industries-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/zarlengo-italian-ice/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/mondelez-global-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/riverence-provisions-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/booey-s-gourmet-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/pure-vitamins-and-natural-supplements-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/bee-well-honey-farm-and-supply-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/mei-yu-cheng-da-trading-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/pure-palm-c-o-dvd/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/ayco-farms-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/connecticut-crab-company-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/f-and-s-fresh-foods-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/zarlengo-italian-ice/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/blueroot-health-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/riverence-provisions-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/the-harvard-drug-group-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/pure-vitamins-and-natural-supplements-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/b-braun-medical-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/mei-yu-cheng-da-trading-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/leading-pharma-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/ayco-farms-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/premier-dental-products-co/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/f-and-s-fresh-foods-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/teva-pharmaceuticals-usa-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/blueroot-health-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/hetero-labs-limited-unit-v/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/the-harvard-drug-group-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/sun-pharmaceutical-industries-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/b-braun-medical-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/xiamen-kang-zhongyuan-biotechnology-co-ltd/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/leading-pharma-llc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/owen-biosciences-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/premier-dental-products-co/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/angiodynamics-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/teva-pharmaceuticals-usa-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/medline-industries-lp/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/hetero-labs-limited-unit-v/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/olympus-corporation-of-the-americas/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/sun-pharmaceutical-industries-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/lsl-healthcare-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/xiamen-kang-zhongyuan-biotechnology-co-ltd/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-walmart-com-from-november-2025-through-january-2026-for-about-100/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/owen-biosciences-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-acer-com-amazon-com-and-in-stores-at-brandmart-from-between-june-2023-and-februa/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/angiodynamics-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/mobility-source-medical-technology-co-ltd-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/medline-industries-lp/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/alliance-chemical-of-taylor-texas/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/olympus-corporation-of-the-americas/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/authorized-honda-powersports-dealers-nationwide-from-june-2024-through-march-2026-for-betw/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/lsl-healthcare-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/bayer-healthcare-llc-of-whippany-new-jersey/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-walmart-com-from-november-2025-through-january-2026-for-about-100/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/build-a-bear-workshop-stores-and-online-at-www-buildabear-com-from-january-2026-through-ma/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-acer-com-amazon-com-and-in-stores-at-brandmart-from-between-june-2023-and-februa/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/independent-stores-nationwide-and-online-at-stephanbaby-com-amazon-com-walmart-com-target-/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/mobility-source-medical-technology-co-ltd-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/shenzhen-qiangonghui-technology-co-ltd-dba-tonyidea/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/alliance-chemical-of-taylor-texas/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-november-2025-for-between-7-and-10/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/authorized-honda-powersports-dealers-nationwide-from-june-2024-through-march-2026-for-betw/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-january-2026-for-about-90/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/bayer-healthcare-llc-of-whippany-new-jersey/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-march-2024-through-february-2026-for-between-7-and-10-6-pack-and/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/build-a-bear-workshop-stores-and-online-at-www-buildabear-com-from-january-2026-through-ma/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/residential-elevators-and-authorized-elevator-dealers-nationwide-from-april-2024-through-m/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/independent-stores-nationwide-and-online-at-stephanbaby-com-amazon-com-walmart-com-target-/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-walmart-from-january-2025-through-march-2026-for-about-80/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/shenzhen-qiangonghui-technology-co-ltd-dba-tonyidea/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/target-walmart-and-other-stores-nationwide-and-online-at-amazon-com-walmart-com-target-com/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-november-2025-for-between-7-and-10/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/costco-stores-and-online-at-costco-com-from-august-2025-through-march-2026-for-between-30-/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-january-2026-for-about-90/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-tryautobrush-com-from-march-2023-through-december-2025-for-between-85-and-90/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-march-2024-through-february-2026-for-between-7-and-10-6-pack-and/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-february-2025-through-march-2026-for-between-85-and-100/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/residential-elevators-and-authorized-elevator-dealers-nationwide-from-april-2024-through-m/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2024-through-march-2026-for-about-130/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-walmart-from-january-2025-through-march-2026-for-about-80/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-november-2025-for-about-50/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/target-walmart-and-other-stores-nationwide-and-online-at-amazon-com-walmart-com-target-com/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-happygira-com-from-september-2025-through-february-2026-for-between-70-and-100/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/costco-stores-and-online-at-costco-com-from-august-2025-through-march-2026-for-between-30-/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-july-2023-through-june-2025-for-about-20/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-tryautobrush-com-from-march-2023-through-december-2025-for-between-85-and-90/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-walmart-com-from-may-2025-to-october-2025-for-about-13/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-february-2025-through-march-2026-for-between-85-and-100/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-november-2024-through-march-2026-for-about-10/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2024-through-march-2026-for-about-130/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/walmart-stores-nationwide-and-online-at-walmart-com-from-january-2024-through-november-202/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-november-2025-for-about-50/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-june-2022-through-march-of-2026-for-about-60/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-happygira-com-from-september-2025-through-february-2026-for-between-70-and-100/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/zoliquex-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-july-2023-through-june-2025-for-about-20/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-november-2025-for-about-90/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-walmart-com-from-may-2025-to-october-2025-for-about-13/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-www-apexgamingpcs-com-from-december-2021-through-february-2026-for-between-70-an/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-november-2024-through-march-2026-for-about-10/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-january-2026-through-february-2026-for-about-26/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/walmart-stores-nationwide-and-online-at-walmart-com-from-january-2024-through-november-202/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-january-2026-for-between-80-and-130/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-june-2022-through-march-of-2026-for-about-60/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/fisher-and-paykel-appliances-thailand-co-ltd-of-thailand/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/zoliquex-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-funandfunction-com-from-may-2022-through-february-2026-for-between-200-and-250/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-november-2025-for-about-90/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/home-depot-lowe-s-and-other-home-improvement-and-hardware-stores-nationwide-and-online-fro/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-www-apexgamingpcs-com-from-december-2021-through-february-2026-for-between-70-an/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/vr-wholesale-arizona-viva-bargain-california-and-various-discount-stores-nationwide-and-on/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-january-2026-through-february-2026-for-about-26/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-november-2023-through-january-2026-for-between-60-and-130/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-january-2026-for-between-80-and-130/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/macy-s-stores-nationwide-and-online-at-macys-com-from-august-2025-through-february-2026-fo/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/fisher-and-paykel-appliances-thailand-co-ltd-of-thailand/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/shenzhen-segmart-technology-electronics-co-ltd-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-funandfunction-com-from-may-2022-through-february-2026-for-between-200-and-250/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2023-through-november-2025-for-about-30/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/home-depot-lowe-s-and-other-home-improvement-and-hardware-stores-nationwide-and-online-fro/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-september-2020-through-march-2026-for-between-8-and-26/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/vr-wholesale-arizona-viva-bargain-california-and-various-discount-stores-nationwide-and-on/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-january-of-2026-for-about-110/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-november-2023-through-january-2026-for-between-60-and-130/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2025-through-january-2026-for-between-45-and-150/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/macy-s-stores-nationwide-and-online-at-macys-com-from-august-2025-through-february-2026-fo/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/guangzhou-letao-keji-youxiangongsi-doing-business-as-letokids-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/shenzhen-segmart-technology-electronics-co-ltd-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-july-2025-through-january-2026-for-between-60-and-130/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2023-through-november-2025-for-about-30/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/various-discount-stores-nationwide-from-august-2025-through-march-2026-for-about-1/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-september-2020-through-march-2026-for-between-8-and-26/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/target-walmart-and-other-department-and-home-goods-stores-nationwide-and-online-at-bissell/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-january-of-2026-for-about-110/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/zhongshan-yungu-daily-products-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2025-through-january-2026-for-between-45-and-150/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-march-2024-through-december-2025-for-between-9-and-20/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/guangzhou-letao-keji-youxiangongsi-doing-business-as-letokids-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/various-ski-retailers-nationwide-and-online-from-september-2015-through-march-2026-for-bet/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-july-2025-through-january-2026-for-between-60-and-130/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-march-2024-through-february-2026-for-about-20/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/various-discount-stores-nationwide-from-august-2025-through-march-2026-for-about-1/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-october-2022-through-january-2026-for-about-8/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/target-walmart-and-other-department-and-home-goods-stores-nationwide-and-online-at-bissell/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/qingyuan-fenle-sauna-and-pool-equipment-co-ltd-of-china/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/zhongshan-yungu-daily-products-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/small-independent-stores-nationwide-and-online-at-prestigeimportgroup-com-from-october-202/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-march-2024-through-december-2025-for-between-9-and-20/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/specialty-dive-shops-nationwide-and-online-at-scubapro-com-and-other-authorized-online-ret/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/various-ski-retailers-nationwide-and-online-from-september-2015-through-march-2026-for-bet/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-samsclub-com-from-august-2025-through-december-2025-for-about-170/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-march-2024-through-february-2026-for-about-20/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/amazon-com-between-january-2024-and-september-2024-for-between-24-and-30/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-october-2022-through-january-2026-for-about-8/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-walmart-com-from-april-2025-through-november-2025-for-between-18-and-26/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/qingyuan-fenle-sauna-and-pool-equipment-co-ltd-of-china/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-com-from-january-2026-through-march-2026-for-about-23/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/small-independent-stores-nationwide-and-online-at-prestigeimportgroup-com-from-october-202/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-silksdesign-com-from-january-2024-through-september-2025-for-between-40-and-50/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/specialty-dive-shops-nationwide-and-online-at-scubapro-com-and-other-authorized-online-ret/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/online-at-amazon-shopify-kickstarter-and-other-small-retailers-from-june-2023-through-dece/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-samsclub-com-from-august-2025-through-december-2025-for-about-170/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/tesla-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/amazon-com-between-january-2024-and-september-2024-for-between-24-and-30/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/ford-motor-company/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-walmart-com-from-april-2025-through-november-2025-for-between-18-and-26/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/toyota-motor-engineering-and-manufacturing/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-com-from-january-2026-through-march-2026-for-about-23/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/honda-american-honda-motor-co/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-silksdesign-com-from-january-2024-through-september-2025-for-between-40-and-50/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/oem-systems-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/online-at-amazon-shopify-kickstarter-and-other-small-retailers-from-june-2023-through-dece/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/general-motors-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/tesla-inc/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/hyundai-motor-america/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/ford-motor-company/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/kia-america-inc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/toyota-motor-engineering-and-manufacturing/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/chrysler-fca-us-llc/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://claimwatch-mvp.vercel.app/company/honda-american-honda-motor-co/</loc>
-    <lastmod>2026-05-07T10:45:22.611Z</lastmod>
+    <loc>http://localhost:5177/company/chrysler-fca-us-llc-stellantis/</loc>
+    <lastmod>2026-05-07T10:52:31.684Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.65</priority>
   </url>

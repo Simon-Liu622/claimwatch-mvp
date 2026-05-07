@@ -1,6 +1,6 @@
 [
   {
-    "rank": 39,
+    "rank": 36,
     "query": "apple iphone lawsuit settlement",
     "searchVolume": 10000,
     "startedAt": "",
@@ -19,45 +19,27 @@
     "source": "serpapi-google-trends",
     "text": "apple iphone lawsuit settlement apple settlement apple iphone 16 settlement apple lawsuit apple settlement claim apple refund apple class action lawsuit",
     "trendScore": 50,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
-    "rank": 3,
-    "query": "bcbs settlement",
-    "searchVolume": 100000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "blue cross blue shield payout",
-      "blue cross blue shield settlement"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bcbs+settlement&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "bcbs settlement blue cross blue shield payout blue cross blue shield settlement",
-    "trendScore": 38,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
-  },
-  {
-    "rank": 26,
-    "query": "california immigration judge lawsuit",
-    "searchVolume": 5000,
+    "rank": 62,
+    "query": "capital one class action lawsuit",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+immigration+judge+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "california immigration judge lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "text": "capital one class action lawsuit",
+    "trendScore": 31,
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
     "rank": 58,
     "query": "general motors brake fluid recall",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -67,42 +49,25 @@
     "source": "serpapi-google-trends",
     "text": "general motors brake fluid recall",
     "trendScore": 23,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
-    "rank": 162,
-    "query": "lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "cento fine foods tomato lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "lawsuit cento fine foods tomato lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
-  },
-  {
-    "rank": 146,
-    "query": "fda potato chip recall",
-    "searchVolume": 1000,
+    "rank": 98,
+    "query": "california immigration judge lawsuit",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+immigration+judge+lawsuit&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "fda potato chip recall",
+    "text": "california immigration judge lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
-    "rank": 153,
+    "rank": 210,
     "query": "product recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -114,25 +79,40 @@
     "source": "serpapi-google-trends",
     "text": "product recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
-    "rank": 168,
-    "query": "horizon organic chocolate milk recall",
-    "searchVolume": 5000,
+    "rank": 234,
+    "query": "fda potato chip recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=horizon+organic+chocolate+milk+recall&tz=420",
-    "increasePercentage": 300,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "horizon organic chocolate milk recall",
+    "text": "fda potato chip recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   },
   {
-    "rank": 214,
+    "rank": 237,
+    "query": "blue cross blue shield settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "blue cross blue shield settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-05-07T19:53:57.879Z"
+  },
+  {
+    "rank": 265,
     "query": "sony $7.85 million settlement",
     "searchVolume": 500,
     "startedAt": "",
@@ -144,6 +124,6 @@
     "source": "serpapi-google-trends",
     "text": "sony $7.85 million settlement",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T14:50:41.812Z"
+    "detectedAt": "2026-05-07T19:53:57.879Z"
   }
 ]

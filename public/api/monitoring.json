@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-07T14:50:44.673Z",
-  "count": 8,
+  "updatedAt": "2026-05-07T19:54:00.111Z",
+  "count": 7,
   "items": [
     {
       "id": "apple-iphone-lawsuit-settlement",
@@ -35,17 +35,17 @@
         "apple class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z"
+      "lastUpdated": "2026-05-07T19:53:57.879Z"
     },
     {
-      "id": "bcbs-settlement",
-      "slug": "bcbs-settlement",
-      "title": "Bcbs Settlement: Consumer Alert Monitoring",
+      "id": "capital-one-class-action-lawsuit",
+      "slug": "capital-one-class-action-lawsuit",
+      "title": "Capital One Class Action Lawsuit: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bcbs settlement",
+      "product": "capital one class action lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -54,21 +54,17 @@
       "deadline": null,
       "officialClaimUrl": "",
       "officialSourceUrl": "",
-      "sourceAgency": "COURT",
-      "trendScore": 38,
-      "searchVolume": 100000,
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 31,
       "matchedQueries": [
-        "bcbs settlement",
-        "blue cross blue shield payout",
-        "blue cross blue shield customers will receive settlement payments soon",
-        "cross",
-        "blue cross blue shield settlement"
+        "capital one class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bcbs+settlement&tz=420",
-      "thirdPartySourceUrl": "",
-      "sourceConfidence": "trend-only"
+      "lastUpdated": "2026-05-07T19:53:57.879Z"
     },
     {
       "id": "california-immigration-judge-lawsuit",
@@ -89,44 +85,15 @@
       "officialSourceUrl": "",
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+immigration+judge+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 8,
       "matchedQueries": [
         "california immigration judge lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z",
+      "lastUpdated": "2026-05-07T19:53:57.879Z",
       "thirdPartySourceUrl": "",
       "sourceConfidence": "trend-only"
-    },
-    {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "sourceAgency": "COMPANY",
-      "searchVolume": "5K+",
-      "trendScore": 12,
-      "matchedQueries": [
-        "lawsuit",
-        "cento fine foods tomato lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-07T08:39:28.019Z",
-      "trendExploreUrl": "https://trends.google.com/trends/explore?q=lawsuit&geo=US",
-      "thirdPartySourceUrl": ""
     },
     {
       "id": "sony-7-85-million-settlement",
@@ -153,7 +120,7 @@
         "sony $7.85 million settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z",
+      "lastUpdated": "2026-05-07T19:53:57.879Z",
       "thirdPartySourceUrl": "",
       "sourceConfidence": "trend-only"
     },
@@ -184,7 +151,7 @@
         "fda potato chip recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z"
+      "lastUpdated": "2026-05-07T19:53:57.879Z"
     },
     {
       "id": "product-recall",
@@ -213,18 +180,18 @@
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z"
+      "lastUpdated": "2026-05-07T19:53:57.879Z"
     },
     {
-      "id": "horizon-organic-chocolate-milk-recall",
-      "slug": "horizon-organic-chocolate-milk-recall",
-      "title": "Horizon Organic Chocolate Milk Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "blue-cross-blue-shield-settlement",
+      "slug": "blue-cross-blue-shield-settlement",
+      "title": "Blue Cross Blue Shield Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "horizon organic chocolate milk recall",
-      "category": "Recall monitoring",
+      "product": "blue cross blue shield settlement",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -233,16 +200,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=horizon+organic+chocolate+milk+recall&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "horizon organic chocolate milk recall"
+        "blue cross blue shield settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T14:50:41.812Z"
+      "lastUpdated": "2026-05-07T19:53:57.879Z"
     }
   ]
 }

@@ -728,6 +728,7 @@ await fs.rm(publicDir, { recursive: true, force: true });
 await fs.mkdir(publicDir, { recursive: true });
 await writePublic("assets/styles.css", css());
 await writePublic("assets/site.js", js());
+await writePublic("google9b173ddcc7370e15.html", "google-site-verification: google9b173ddcc7370e15.html\n");
 
 await writePublic("index.html", homePage(publicItems, trends));
 await writePublic("search/index.html", searchPage(publicItems));

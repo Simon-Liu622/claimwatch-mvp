@@ -162,17 +162,23 @@ npm run refresh
 public
 ```
 
-## 自动更新建议
+## 自动定时更新
 
-建议每 15-30 分钟跑一次：
+当前推荐用 GitHub Actions 定时刷新。项目已提供：
 
-```bash
-SERPAPI_KEY=xxx SITE_URL=https://你的域名.com npm run refresh
+```text
+.github/workflows/refresh-trends.yml
 ```
+
+它会每 6 小时自动运行一次，也可以在 GitHub Actions 页面手动点击运行。
 
 更新流程：
 
 ```text
+GitHub Actions 定时启动
+        ↓
+npm run refresh
+        ↓
 SerpApi 获取 Google Trends Trending Now
         ↓
 筛选 recall/refund/settlement/lawsuit 等消费者权益词
@@ -186,6 +192,26 @@ verified 条目进入公开站点
 未验证趋势进入 /admin/ monitoring 队列
         ↓
 重新生成 public/
+        ↓
+如果 data/ 或 public/ 有变化，自动 commit 回 main
+        ↓
+Vercel 检测到 GitHub push 后自动重新部署
+```
+
+需要在 GitHub 仓库里配置：
+
+```text
+Settings -> Secrets and variables -> Actions -> Secrets
+SERPAPI_KEY=你的 SerpApi key
+```
+
+可选配置：
+
+```text
+Settings -> Secrets and variables -> Actions -> Variables
+SITE_URL=https://你的正式域名
+TRENDS_GEO=US
+NHTSA_TARGETS=tesla|model 3|2024;ford|f-150|2024;toyota|camry|2024
 ```
 
 ## 手工发布流程

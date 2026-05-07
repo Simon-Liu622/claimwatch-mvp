@@ -1,0 +1,48 @@
+name: Refresh ClaimWatch data
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-claimwatch-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+      SITE_URL: ${{ vars.SITE_URL || 'https://claimwatch-mvp.vercel.app' }}
+      TRENDS_GEO: ${{ vars.TRENDS_GEO || 'US' }}
+      NHTSA_TARGETS: ${{ vars.NHTSA_TARGETS || 'tesla|model 3|2024;ford|f-150|2024;toyota|camry|2024;honda|accord|2024' }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install --no-package-lock
+
+      - name: Refresh data and rebuild static site
+        run: npm run refresh
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "claimwatch-refresh-bot"
+          git config user.email "claimwatch-refresh-bot@users.noreply.github.com"
+          git add data public
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: refresh claimwatch data"
+            git push
+          fi

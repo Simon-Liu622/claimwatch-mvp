@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "updatedAt": "2026-05-07T11:02:12.518Z",
   "item": {
     "id": "lawsuit",
     "slug": "lawsuit",
@@ -27,6 +27,6 @@
     "officialVerified": false,
     "lastUpdated": "2026-05-07T08:39:28.019Z",
     "trendExploreUrl": "https://trends.google.com/trends/explore?q=lawsuit&geo=US",
-    "url": "http://localhost:5177/item/lawsuit/"
+    "url": "https://claimwatch-mvp.vercel.app/item/lawsuit/"
   }
 }

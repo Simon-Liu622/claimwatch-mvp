@@ -3,7 +3,7 @@ export const SITE = {
   tagline: "Track active recalls, refunds, and settlement claims in one place.",
   description:
     "ClaimWatch is a searchable US consumer alert database for recalls, refunds, settlements, and claim deadlines, built from official sources and current search trend signals.",
-  defaultUrl: "http://localhost:5177",
+  defaultUrl: "https://claimwatch-mvp.vercel.app",
   locale: "en-US",
   author: "ClaimWatch Editorial",
   contact: "editorial@example.com"

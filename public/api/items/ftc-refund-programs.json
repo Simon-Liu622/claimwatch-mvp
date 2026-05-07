@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "updatedAt": "2026-05-07T11:02:12.518Z",
   "item": {
     "id": "ftc-refund-programs",
     "slug": "ftc-refund-programs",
@@ -23,6 +23,6 @@
     "matchedQueries": [],
     "officialVerified": true,
     "lastUpdated": "2026-05-07T10:45:21.214Z",
-    "url": "http://localhost:5177/item/ftc-refund-programs/"
+    "url": "https://claimwatch-mvp.vercel.app/item/ftc-refund-programs/"
   }
 }

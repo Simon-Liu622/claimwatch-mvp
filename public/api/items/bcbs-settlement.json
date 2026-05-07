@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "updatedAt": "2026-05-07T11:02:12.518Z",
   "item": {
     "id": "bcbs-settlement",
     "slug": "bcbs-settlement",
@@ -29,6 +29,6 @@
     "officialVerified": false,
     "lastUpdated": "2026-05-07T10:45:21.214Z",
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bcbs+settlement&tz=420",
-    "url": "http://localhost:5177/item/bcbs-settlement/"
+    "url": "https://claimwatch-mvp.vercel.app/item/bcbs-settlement/"
   }
 }

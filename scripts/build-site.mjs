@@ -10,6 +10,11 @@ const dataDir = path.join(root, "data");
 const publicDir = path.join(root, "public");
 const siteUrl = (process.env.SITE_URL || SITE.defaultUrl).replace(/\/$/, "");
 const now = new Date().toISOString();
+let navLinks = [
+  { href: "/recalls/", label: "Recalls" },
+  { href: "/refunds/", label: "Refunds" },
+  { href: "/sources/", label: "Sources" }
+];
 
 async function readJson(file, fallback) {
   try {
@@ -115,11 +120,7 @@ function layout({ title, description, path: pagePath, children, schema = [], bod
       </span>
     </a>
     <nav class="nav">
-      <a href="/recalls/">Recalls</a>
-      <a href="/settlements/">Settlements</a>
-      <a href="/refunds/">Refunds</a>
-      <a href="/deadlines/">Deadlines</a>
-      <a href="/sources/">Sources</a>
+      ${navLinks.map((link) => `<a href="${escapeHtml(link.href)}">${escapeHtml(link.label)}</a>`).join("")}
     </nav>
   </header>
   <main>
@@ -229,7 +230,15 @@ function itemCard(item) {
 
 function searchPanel(items, trends) {
   const counts = sourceCounts(items);
+  const types = typeCounts(items);
   const activeTrendCount = trends.filter((trend) => trend.active).length;
+  const filterButtons = [
+    { type: "all", label: "All", show: true },
+    { type: "recall", label: "Recalls", show: types.recall },
+    { type: "safety-alert", label: "Safety Alerts", show: types["safety-alert"] },
+    { type: "settlement", label: "Settlements", show: types.settlement },
+    { type: "refund", label: "Refunds", show: types.refund }
+  ];
   return `<section class="hero-panel">
     <div class="hero-copy">
       <p class="eyebrow">Verified consumer database</p>
@@ -248,10 +257,7 @@ function searchPanel(items, trends) {
         <button type="button">Search</button>
       </div>
       <div class="filters" aria-label="Alert filters">
-        <button class="filter active" data-filter="all">All</button>
-        <button class="filter" data-filter="recall">Recalls</button>
-        <button class="filter" data-filter="settlement">Settlements</button>
-        <button class="filter" data-filter="refund">Refunds</button>
+        ${filterButtons.filter((button) => button.show).map((button, index) => `<button class="filter${index === 0 ? " active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
       </div>
     </div>
     <div class="source-strip" aria-label="Verified source coverage">
@@ -270,6 +276,13 @@ function homePage(items, trends) {
   const deadlineSoon = items.filter((item) => item.deadline).slice(0, 6);
   const counts = sourceCounts(items);
   const types = typeCounts(items);
+  const filterButtons = [
+    { type: "all", label: "All", show: true },
+    { type: "recall", label: "Recalls", show: types.recall },
+    { type: "safety-alert", label: "Safety Alerts", show: types["safety-alert"] },
+    { type: "settlement", label: "Settlements", show: types.settlement },
+    { type: "refund", label: "Refunds", show: types.refund }
+  ];
   const schema = [
     ...siteSchema(),
     {
@@ -307,10 +320,7 @@ function homePage(items, trends) {
             <a href="/api/latest.json">JSON API</a>
           </div>
           <div class="tabbar" aria-label="Type filters">
-            <button class="active" data-filter="all">All</button>
-            <button data-filter="recall">Recalls</button>
-            <button data-filter="settlement">Settlements</button>
-            <button data-filter="refund">Refunds</button>
+            ${filterButtons.filter((button) => button.show).map((button, index) => `<button class="${index === 0 ? "active" : ""}" data-filter="${escapeHtml(button.type)}">${escapeHtml(button.label)}</button>`).join("")}
           </div>
           <div id="alert-list" class="cards">${activeItems.map((item, index) => itemCard({ ...item, initiallyHidden: index >= 24 })).join("")}</div>
           ${activeItems.length > 24 ? `<button id="load-more" class="load-more" type="button">Load more verified records</button>` : ""}
@@ -431,6 +441,7 @@ function adminPage(monitoringItems, trends) {
 
 function listPage({ title, description, pagePath, items, type }) {
   const filtered = type ? items.filter((item) => item.type === type) : items;
+  const isEmpty = filtered.length === 0;
   const schema = [
     ...siteSchema(),
     breadcrumbSchema([{ name: "Home", url: "/" }, { name: title, url: pagePath }]),
@@ -457,9 +468,10 @@ function listPage({ title, description, pagePath, items, type }) {
         <h1>${escapeHtml(title)}</h1>
         <p>${escapeHtml(description)}</p>
       </section>
-      <section class="cards list-cards">${filtered.map(itemCard).join("")}</section>
+      <section class="cards list-cards">${isEmpty ? `<article class="alert-card"><div class="card-topline"><span class="chip monitoring">No verified records yet</span></div><h3>No verified items in this section yet</h3><p>ClaimWatch only publishes official-source verified records in public sections. Trend-only candidates stay out of the public index until an official source is attached.</p><a class="button ghost" href="/sources/">Review source policy</a></article>` : filtered.map(itemCard).join("")}</section>
       <script src="/assets/site.js" defer></script>
-    `
+    `,
+    robots: isEmpty ? "noindex,follow" : "index,follow"
   });
 }
 
@@ -644,6 +656,16 @@ const trends = await readJson("trends.json", []);
 const sources = await readJson("source-registry.json", []);
 const publicItems = items.filter((item) => item.officialVerified);
 const monitoringItems = items.filter((item) => !item.officialVerified);
+const countsByType = typeCounts(publicItems);
+const deadlineCount = publicItems.filter((item) => item.deadline).length;
+navLinks = [
+  { href: "/recalls/", label: "Recalls" },
+  ...(countsByType["safety-alert"] ? [{ href: "/safety-alerts/", label: "Safety Alerts" }] : []),
+  ...(countsByType.settlement ? [{ href: "/settlements/", label: "Settlements" }] : []),
+  ...(countsByType.refund ? [{ href: "/refunds/", label: "Refunds" }] : []),
+  ...(deadlineCount ? [{ href: "/deadlines/", label: "Deadlines" }] : []),
+  { href: "/sources/", label: "Sources" }
+];
 
 await fs.rm(publicDir, { recursive: true, force: true });
 await fs.mkdir(publicDir, { recursive: true });
@@ -729,8 +751,24 @@ const latest = publicItems.slice(0, 50).map((item) => ({
   deadline: item.deadline,
   lastUpdated: item.lastUpdated
 }));
+const apiItems = publicItems.map((item) => ({
+  title: item.title,
+  slug: item.slug,
+  url: absolute(itemUrl(item)),
+  type: item.type,
+  status: item.status,
+  company: item.company,
+  product: item.product,
+  summary: item.summary,
+  sourceAgency: item.sourceAgency,
+  officialVerified: item.officialVerified,
+  officialSourceUrl: item.officialSourceUrl,
+  trendExploreUrl: item.trendExploreUrl,
+  deadline: item.deadline,
+  lastUpdated: item.lastUpdated
+}));
 await writePublic("api/latest.json", `${JSON.stringify({ updatedAt: now, items: latest }, null, 2)}\n`);
-await writePublic("api/items.json", `${JSON.stringify({ updatedAt: now, count: publicItems.length, items: latest }, null, 2)}\n`);
+await writePublic("api/items.json", `${JSON.stringify({ updatedAt: now, count: publicItems.length, items: apiItems }, null, 2)}\n`);
 await writePublic(
   "api/monitoring.json",
   `${JSON.stringify({ updatedAt: now, count: monitoringItems.length, items: monitoringItems }, null, 2)}\n`
@@ -744,9 +782,10 @@ await writePublic("feed.xml", rss(publicItems));
 const urls = [
   { loc: "/", priority: "1.0", changefreq: "hourly" },
   { loc: "/recalls/", priority: "0.9" },
-  { loc: "/settlements/", priority: "0.9" },
-  { loc: "/refunds/", priority: "0.9" },
-  { loc: "/deadlines/", priority: "0.8" },
+  ...(countsByType["safety-alert"] ? [{ loc: "/safety-alerts/", priority: "0.85" }] : []),
+  ...(countsByType.settlement ? [{ loc: "/settlements/", priority: "0.9" }] : []),
+  ...(countsByType.refund ? [{ loc: "/refunds/", priority: "0.9" }] : []),
+  ...(deadlineCount ? [{ loc: "/deadlines/", priority: "0.8" }] : []),
   { loc: "/sources/", priority: "0.6" },
   { loc: "/methodology/", priority: "0.6" },
   ...publicItems.map((item) => ({ loc: itemUrl(item), lastmod: item.lastUpdated || now, priority: "0.85", changefreq: "daily" })),

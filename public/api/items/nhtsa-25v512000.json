@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T10:52:31.684Z",
+  "updatedAt": "2026-05-07T11:02:12.518Z",
   "item": {
     "id": "nhtsa-25v512000",
     "slug": "nhtsa-25v512000",
@@ -25,6 +25,6 @@
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
     "lastUpdated": "2026-05-07T10:45:21.214Z",
-    "url": "http://localhost:5177/item/nhtsa-25v512000/"
+    "url": "https://claimwatch-mvp.vercel.app/item/nhtsa-25v512000/"
   }
 }

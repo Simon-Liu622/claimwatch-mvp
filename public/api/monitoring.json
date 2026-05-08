@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-08T07:57:37.749Z",
-  "count": 5,
+  "updatedAt": "2026-05-08T14:16:47.261Z",
+  "count": 3,
   "items": [
     {
-      "id": "apple-iphone-lawsuit-settlement",
-      "slug": "apple-iphone-lawsuit-settlement",
-      "title": "Apple Iphone Lawsuit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "rebel-wilson-defamation-lawsuit",
+      "slug": "rebel-wilson-defamation-lawsuit",
+      "title": "Rebel Wilson Defamation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "apple iphone lawsuit settlement",
+      "product": "rebel wilson defamation lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,51 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+iphone+lawsuit+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 33,
-      "matchedQueries": [
-        "apple iphone lawsuit settlement",
-        "apple settlement",
-        "apple iphone 16 settlement",
-        "apple lawsuit",
-        "apple settlement claim",
-        "apple refund",
-        "apple class action lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-08T07:57:34.588Z"
-    },
-    {
-      "id": "fda-potato-chip-recall",
-      "slug": "fda-potato-chip-recall",
-      "title": "Fda Potato Chip Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda potato chip recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 25,
       "matchedQueries": [
-        "fda potato chip recall"
+        "rebel wilson defamation lawsuit",
+        "charlotte macinnes"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T07:57:34.588Z"
+      "lastUpdated": "2026-05-08T14:16:44.263Z"
     },
     {
       "id": "capital-one-class-action-lawsuit",
@@ -93,17 +59,17 @@
         "capital one class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T07:57:34.588Z"
+      "lastUpdated": "2026-05-08T14:16:44.263Z"
     },
     {
-      "id": "blue-shield",
-      "slug": "blue-shield",
-      "title": "Blue Shield: Consumer Alert Monitoring",
+      "id": "bluecross-blueshield-settlement-payment",
+      "slug": "bluecross-blueshield-settlement-payment",
+      "title": "Bluecross Blueshield Settlement Payment: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "blue shield",
+      "product": "bluecross blueshield settlement payment",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -113,47 +79,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bluecross+blueshield+settlement+payment&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 2000,
       "trendScore": 12,
       "matchedQueries": [
+        "bluecross blueshield settlement payment",
         "blue shield",
-        "blue cross blue shield settlement",
         "blue cross antitrust settlement payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T07:57:34.588Z"
-    },
-    {
-      "id": "product-recall",
-      "slug": "product-recall",
-      "title": "Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-08T07:57:34.588Z"
+      "lastUpdated": "2026-05-08T14:16:44.263Z"
     }
   ]
 }

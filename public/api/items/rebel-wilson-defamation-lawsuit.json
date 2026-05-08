@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-08T07:57:37.749Z",
+  "updatedAt": "2026-05-08T14:16:47.261Z",
   "item": {
-    "id": "product-recall",
-    "slug": "product-recall",
-    "title": "Product Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "rebel-wilson-defamation-lawsuit",
+    "slug": "rebel-wilson-defamation-lawsuit",
+    "title": "Rebel Wilson Defamation Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "product recall",
-    "category": "Recall monitoring",
+    "product": "rebel wilson defamation lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 8,
+    "trendScore": 25,
     "matchedQueries": [
-      "product recall"
+      "rebel wilson defamation lawsuit",
+      "charlotte macinnes"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-08T07:57:34.588Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/product-recall/"
+    "lastUpdated": "2026-05-08T14:16:44.263Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/rebel-wilson-defamation-lawsuit/"
   }
 }

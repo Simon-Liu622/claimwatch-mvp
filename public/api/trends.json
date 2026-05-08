@@ -1,44 +1,26 @@
 {
-  "updatedAt": "2026-05-08T07:57:37.749Z",
-  "count": 6,
+  "updatedAt": "2026-05-08T14:16:47.261Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 137,
-      "query": "apple iphone lawsuit settlement",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "apple iphone 16 settlement",
-        "apple settlement claim",
-        "apple lawsuit",
-        "apple class action lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+iphone+lawsuit+settlement&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "apple iphone lawsuit settlement apple iphone 16 settlement apple settlement claim apple lawsuit apple class action lawsuit",
-      "trendScore": 33,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
-    },
-    {
-      "rank": 46,
-      "query": "fda potato chip recall",
-      "searchVolume": 5000,
+      "rank": 64,
+      "query": "rebel wilson defamation lawsuit",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
-      "increasePercentage": 75,
+      "breakdown": [
+        "charlotte macinnes"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "fda potato chip recall",
-      "trendScore": 23,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
+      "text": "rebel wilson defamation lawsuit charlotte macinnes",
+      "trendScore": 25,
+      "detectedAt": "2026-05-08T14:16:44.263Z"
     },
     {
-      "rank": 100,
+      "rank": 135,
       "query": "capital one class action lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -50,55 +32,25 @@
       "source": "serpapi-google-trends",
       "text": "capital one class action lawsuit",
       "trendScore": 16,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
+      "detectedAt": "2026-05-08T14:16:44.263Z"
     },
     {
-      "rank": 166,
-      "query": "blue shield",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "blue cross blue shield settlement",
-        "blue cross antitrust settlement payments"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "blue shield blue cross blue shield settlement blue cross antitrust settlement payments",
-      "trendScore": 12,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
-    },
-    {
-      "rank": 136,
-      "query": "general motors brake fluid recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+motors+brake+fluid+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "general motors brake fluid recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
-    },
-    {
-      "rank": 352,
-      "query": "product recall",
+      "rank": 210,
+      "query": "bluecross blueshield settlement payment",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 300,
+      "breakdown": [
+        "blue shield",
+        "blue cross antitrust settlement payments"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bluecross+blueshield+settlement+payment&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-08T07:57:34.588Z"
+      "text": "bluecross blueshield settlement payment blue shield blue cross antitrust settlement payments",
+      "trendScore": 12,
+      "detectedAt": "2026-05-08T14:16:44.263Z"
     }
   ]
 }

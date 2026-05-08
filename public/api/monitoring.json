@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-08T03:53:46.391Z",
-  "count": 6,
+  "updatedAt": "2026-05-08T07:57:37.749Z",
+  "count": 5,
   "items": [
     {
       "id": "apple-iphone-lawsuit-settlement",
@@ -35,7 +35,7 @@
         "apple class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z"
+      "lastUpdated": "2026-05-08T07:57:34.588Z"
     },
     {
       "id": "fda-potato-chip-recall",
@@ -58,13 +58,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "fda potato chip recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z"
+      "lastUpdated": "2026-05-08T07:57:34.588Z"
     },
     {
       "id": "capital-one-class-action-lawsuit",
@@ -93,17 +93,17 @@
         "capital one class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z"
+      "lastUpdated": "2026-05-08T07:57:34.588Z"
     },
     {
-      "id": "blue-cross-blue-shield-settlement",
-      "slug": "blue-cross-blue-shield-settlement",
-      "title": "Blue Cross Blue Shield Settlement: Consumer Alert Monitoring",
+      "id": "blue-shield",
+      "slug": "blue-shield",
+      "title": "Blue Shield: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "blue cross blue shield settlement",
+      "product": "blue shield",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -113,46 +113,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 10,
+      "trendScore": 12,
       "matchedQueries": [
+        "blue shield",
         "blue cross blue shield settlement",
         "blue cross antitrust settlement payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z"
-    },
-    {
-      "id": "sony-7-85-million-settlement",
-      "slug": "sony-7-85-million-settlement",
-      "title": "Sony $7.85 Million Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "sony $7.85 million settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+%247.85+million+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "sony $7.85 million settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z",
-      "thirdPartySourceUrl": "",
-      "sourceConfidence": "trend-only"
+      "lastUpdated": "2026-05-08T07:57:34.588Z"
     },
     {
       "id": "product-recall",
@@ -181,7 +153,7 @@
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T03:53:44.188Z"
+      "lastUpdated": "2026-05-08T07:57:34.588Z"
     }
   ]
 }

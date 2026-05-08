@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T03:53:46.391Z",
+  "updatedAt": "2026-05-08T07:57:37.749Z",
   "item": {
     "id": "fda-potato-chip-recall",
     "slug": "fda-potato-chip-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 23,
     "matchedQueries": [
       "fda potato chip recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-08T03:53:44.188Z",
+    "lastUpdated": "2026-05-08T07:57:34.588Z",
     "url": "https://claimwatch-mvp.vercel.app/item/fda-potato-chip-recall/"
   }
 }

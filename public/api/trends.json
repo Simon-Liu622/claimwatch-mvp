@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-08T03:53:46.391Z",
-  "count": 7,
+  "updatedAt": "2026-05-08T07:57:37.749Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 179,
+      "rank": 137,
       "query": "apple iphone lawsuit settlement",
       "searchVolume": 10000,
       "startedAt": "",
@@ -20,12 +20,12 @@
       "source": "serpapi-google-trends",
       "text": "apple iphone lawsuit settlement apple iphone 16 settlement apple settlement claim apple lawsuit apple class action lawsuit",
       "trendScore": 33,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     },
     {
-      "rank": 105,
+      "rank": 46,
       "query": "fda potato chip recall",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -35,10 +35,10 @@
       "source": "serpapi-google-trends",
       "text": "fda potato chip recall",
       "trendScore": 23,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     },
     {
-      "rank": 130,
+      "rank": 100,
       "query": "capital one class action lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -50,27 +50,28 @@
       "source": "serpapi-google-trends",
       "text": "capital one class action lawsuit",
       "trendScore": 16,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     },
     {
-      "rank": 248,
-      "query": "blue cross blue shield settlement",
+      "rank": 166,
+      "query": "blue shield",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
+        "blue cross blue shield settlement",
         "blue cross antitrust settlement payments"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
-      "increasePercentage": 700,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "blue cross blue shield settlement blue cross antitrust settlement payments",
-      "trendScore": 10,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "text": "blue shield blue cross blue shield settlement blue cross antitrust settlement payments",
+      "trendScore": 12,
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     },
     {
-      "rank": 177,
+      "rank": 136,
       "query": "general motors brake fluid recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -82,10 +83,10 @@
       "source": "serpapi-google-trends",
       "text": "general motors brake fluid recall",
       "trendScore": 8,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     },
     {
-      "rank": 337,
+      "rank": 352,
       "query": "product recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -97,22 +98,7 @@
       "source": "serpapi-google-trends",
       "text": "product recall",
       "trendScore": 8,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
-    },
-    {
-      "rank": 371,
-      "query": "sony $7.85 million settlement",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+%247.85+million+settlement&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "sony $7.85 million settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-05-08T03:53:44.188Z"
+      "detectedAt": "2026-05-08T07:57:34.588Z"
     }
   ]
 }

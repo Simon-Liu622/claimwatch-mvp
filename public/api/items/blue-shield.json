@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-08T03:53:46.391Z",
+  "updatedAt": "2026-05-08T07:57:37.749Z",
   "item": {
-    "id": "blue-cross-blue-shield-settlement",
-    "slug": "blue-cross-blue-shield-settlement",
-    "title": "Blue Cross Blue Shield Settlement: Consumer Alert Monitoring",
+    "id": "blue-shield",
+    "slug": "blue-shield",
+    "title": "Blue Shield: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "blue cross blue shield settlement",
+    "product": "blue shield",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
-    "trendScore": 10,
+    "trendScore": 12,
     "matchedQueries": [
+      "blue shield",
       "blue cross blue shield settlement",
       "blue cross antitrust settlement payments"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-08T03:53:44.188Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/blue-cross-blue-shield-settlement/"
+    "lastUpdated": "2026-05-08T07:57:34.588Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/blue-shield/"
   }
 }

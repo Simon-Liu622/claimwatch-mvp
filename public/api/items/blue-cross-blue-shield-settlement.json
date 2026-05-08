@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T19:54:00.111Z",
+  "updatedAt": "2026-05-08T03:53:46.391Z",
   "item": {
     "id": "blue-cross-blue-shield-settlement",
     "slug": "blue-cross-blue-shield-settlement",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
-      "blue cross blue shield settlement"
+      "blue cross blue shield settlement",
+      "blue cross antitrust settlement payments"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T19:53:57.879Z",
+    "lastUpdated": "2026-05-08T03:53:44.188Z",
     "url": "https://claimwatch-mvp.vercel.app/item/blue-cross-blue-shield-settlement/"
   }
 }

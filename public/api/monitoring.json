@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-07T19:54:00.111Z",
-  "count": 7,
+  "updatedAt": "2026-05-08T03:53:46.391Z",
+  "count": 6,
   "items": [
     {
       "id": "apple-iphone-lawsuit-settlement",
@@ -24,7 +24,7 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 50,
+      "trendScore": 33,
       "matchedQueries": [
         "apple iphone lawsuit settlement",
         "apple settlement",
@@ -35,7 +35,36 @@
         "apple class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z"
+      "lastUpdated": "2026-05-08T03:53:44.188Z"
+    },
+    {
+      "id": "fda-potato-chip-recall",
+      "slug": "fda-potato-chip-recall",
+      "title": "Fda Potato Chip Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda potato chip recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fda potato chip recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-08T03:53:44.188Z"
     },
     {
       "id": "capital-one-class-action-lawsuit",
@@ -58,23 +87,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 31,
+      "searchVolume": 5000,
+      "trendScore": 16,
       "matchedQueries": [
         "capital one class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z"
+      "lastUpdated": "2026-05-08T03:53:44.188Z"
     },
     {
-      "id": "california-immigration-judge-lawsuit",
-      "slug": "california-immigration-judge-lawsuit",
-      "title": "California Immigration Judge Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "blue-cross-blue-shield-settlement",
+      "slug": "blue-cross-blue-shield-settlement",
+      "title": "Blue Cross Blue Shield Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "california immigration judge lawsuit",
+      "product": "blue cross blue shield settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -83,17 +112,18 @@
       "deadline": null,
       "officialClaimUrl": "",
       "officialSourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+immigration+judge+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "searchVolume": 10000,
-      "trendScore": 8,
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
-        "california immigration judge lawsuit"
+        "blue cross blue shield settlement",
+        "blue cross antitrust settlement payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z",
-      "thirdPartySourceUrl": "",
-      "sourceConfidence": "trend-only"
+      "lastUpdated": "2026-05-08T03:53:44.188Z"
     },
     {
       "id": "sony-7-85-million-settlement",
@@ -120,38 +150,9 @@
         "sony $7.85 million settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z",
+      "lastUpdated": "2026-05-08T03:53:44.188Z",
       "thirdPartySourceUrl": "",
       "sourceConfidence": "trend-only"
-    },
-    {
-      "id": "fda-potato-chip-recall",
-      "slug": "fda-potato-chip-recall",
-      "title": "Fda Potato Chip Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda potato chip recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "fda potato chip recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z"
     },
     {
       "id": "product-recall",
@@ -180,36 +181,7 @@
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z"
-    },
-    {
-      "id": "blue-cross-blue-shield-settlement",
-      "slug": "blue-cross-blue-shield-settlement",
-      "title": "Blue Cross Blue Shield Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "blue cross blue shield settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "blue cross blue shield settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-07T19:53:57.879Z"
+      "lastUpdated": "2026-05-08T03:53:44.188Z"
     }
   ]
 }

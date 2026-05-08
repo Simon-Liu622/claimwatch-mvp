@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T19:54:00.111Z",
+  "updatedAt": "2026-05-08T03:53:46.391Z",
   "item": {
     "id": "capital-one-class-action-lawsuit",
     "slug": "capital-one-class-action-lawsuit",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 31,
+    "searchVolume": 5000,
+    "trendScore": 16,
     "matchedQueries": [
       "capital one class action lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-07T19:53:57.879Z",
+    "lastUpdated": "2026-05-08T03:53:44.188Z",
     "url": "https://claimwatch-mvp.vercel.app/item/capital-one-class-action-lawsuit/"
   }
 }

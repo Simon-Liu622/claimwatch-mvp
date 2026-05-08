@@ -1,73 +1,88 @@
 [
   {
-    "rank": 36,
+    "rank": 179,
     "query": "apple iphone lawsuit settlement",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
-      "apple settlement",
       "apple iphone 16 settlement",
-      "apple lawsuit",
       "apple settlement claim",
-      "apple refund",
+      "apple lawsuit",
       "apple class action lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+iphone+lawsuit+settlement&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "apple iphone lawsuit settlement apple settlement apple iphone 16 settlement apple lawsuit apple settlement claim apple refund apple class action lawsuit",
-    "trendScore": 50,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
+    "text": "apple iphone lawsuit settlement apple iphone 16 settlement apple settlement claim apple lawsuit apple class action lawsuit",
+    "trendScore": 33,
+    "detectedAt": "2026-05-08T03:53:44.188Z"
   },
   {
-    "rank": 62,
-    "query": "capital one class action lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "capital one class action lawsuit",
-    "trendScore": 31,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
-  },
-  {
-    "rank": 58,
-    "query": "general motors brake fluid recall",
+    "rank": 105,
+    "query": "fda potato chip recall",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+motors+brake+fluid+recall&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "general motors brake fluid recall",
+    "text": "fda potato chip recall",
     "trendScore": 23,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
+    "detectedAt": "2026-05-08T03:53:44.188Z"
   },
   {
-    "rank": 98,
-    "query": "california immigration judge lawsuit",
-    "searchVolume": 10000,
+    "rank": 130,
+    "query": "capital one class action lawsuit",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+immigration+judge+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "california immigration judge lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
+    "text": "capital one class action lawsuit",
+    "trendScore": 16,
+    "detectedAt": "2026-05-08T03:53:44.188Z"
   },
   {
-    "rank": 210,
+    "rank": 248,
+    "query": "blue cross blue shield settlement",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "blue cross antitrust settlement payments"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
+    "increasePercentage": 700,
+    "source": "serpapi-google-trends",
+    "text": "blue cross blue shield settlement blue cross antitrust settlement payments",
+    "trendScore": 10,
+    "detectedAt": "2026-05-08T03:53:44.188Z"
+  },
+  {
+    "rank": 177,
+    "query": "general motors brake fluid recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+motors+brake+fluid+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "general motors brake fluid recall",
+    "trendScore": 8,
+    "detectedAt": "2026-05-08T03:53:44.188Z"
+  },
+  {
+    "rank": 337,
     "query": "product recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -79,40 +94,10 @@
     "source": "serpapi-google-trends",
     "text": "product recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
+    "detectedAt": "2026-05-08T03:53:44.188Z"
   },
   {
-    "rank": 234,
-    "query": "fda potato chip recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+potato+chip+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "fda potato chip recall",
-    "trendScore": 8,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
-  },
-  {
-    "rank": 237,
-    "query": "blue cross blue shield settlement",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+blue+shield+settlement&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "blue cross blue shield settlement",
-    "trendScore": 8,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
-  },
-  {
-    "rank": 265,
+    "rank": 371,
     "query": "sony $7.85 million settlement",
     "searchVolume": 500,
     "startedAt": "",
@@ -124,6 +109,6 @@
     "source": "serpapi-google-trends",
     "text": "sony $7.85 million settlement",
     "trendScore": 8,
-    "detectedAt": "2026-05-07T19:53:57.879Z"
+    "detectedAt": "2026-05-08T03:53:44.188Z"
   }
 ]

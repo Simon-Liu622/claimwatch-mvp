@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T14:16:47.261Z",
+  "updatedAt": "2026-05-08T19:45:06.402Z",
   "item": {
     "id": "rebel-wilson-defamation-lawsuit",
     "slug": "rebel-wilson-defamation-lawsuit",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 25,
     "matchedQueries": [
       "rebel wilson defamation lawsuit",
       "charlotte macinnes"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-08T14:16:44.263Z",
+    "lastUpdated": "2026-05-08T19:45:03.600Z",
     "url": "https://claimwatch-mvp.vercel.app/item/rebel-wilson-defamation-lawsuit/"
   }
 }

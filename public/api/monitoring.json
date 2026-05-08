@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-08T14:16:47.261Z",
-  "count": 3,
+  "updatedAt": "2026-05-08T19:45:06.402Z",
+  "count": 2,
   "items": [
     {
       "id": "rebel-wilson-defamation-lawsuit",
@@ -23,43 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 25,
       "matchedQueries": [
         "rebel wilson defamation lawsuit",
         "charlotte macinnes"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T14:16:44.263Z"
-    },
-    {
-      "id": "capital-one-class-action-lawsuit",
-      "slug": "capital-one-class-action-lawsuit",
-      "title": "Capital One Class Action Lawsuit: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "capital one class action lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "capital one class action lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-08T14:16:44.263Z"
+      "lastUpdated": "2026-05-08T19:45:03.600Z"
     },
     {
       "id": "bluecross-blueshield-settlement-payment",
@@ -90,7 +61,7 @@
         "blue cross antitrust settlement payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-08T14:16:44.263Z"
+      "lastUpdated": "2026-05-08T19:45:03.600Z"
     }
   ]
 }

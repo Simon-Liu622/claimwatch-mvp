@@ -1,8 +1,8 @@
 [
   {
-    "rank": 64,
+    "rank": 31,
     "query": "rebel wilson defamation lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -14,25 +14,10 @@
     "source": "serpapi-google-trends",
     "text": "rebel wilson defamation lawsuit charlotte macinnes",
     "trendScore": 25,
-    "detectedAt": "2026-05-08T14:16:44.263Z"
+    "detectedAt": "2026-05-08T19:45:03.600Z"
   },
   {
-    "rank": 135,
-    "query": "capital one class action lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+class+action+lawsuit&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "capital one class action lawsuit",
-    "trendScore": 16,
-    "detectedAt": "2026-05-08T14:16:44.263Z"
-  },
-  {
-    "rank": 210,
+    "rank": 261,
     "query": "bluecross blueshield settlement payment",
     "searchVolume": 2000,
     "startedAt": "",
@@ -47,6 +32,6 @@
     "source": "serpapi-google-trends",
     "text": "bluecross blueshield settlement payment blue shield blue cross antitrust settlement payments",
     "trendScore": 12,
-    "detectedAt": "2026-05-08T14:16:44.263Z"
+    "detectedAt": "2026-05-08T19:45:03.600Z"
   }
 ]

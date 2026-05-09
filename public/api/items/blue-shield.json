@@ -1,14 +1,14 @@
 {
   "updatedAt": "2026-05-09T03:55:47.685Z",
   "item": {
-    "id": "rebel-wilson-defamation-lawsuit",
-    "slug": "rebel-wilson-defamation-lawsuit",
-    "title": "Rebel Wilson Defamation Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "blue-shield",
+    "slug": "blue-shield",
+    "title": "Blue Shield: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "rebel wilson defamation lawsuit",
+    "product": "blue shield",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+wilson+defamation+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
+    "searchVolume": 1000,
     "trendScore": 10,
     "matchedQueries": [
-      "rebel wilson defamation lawsuit",
-      "charlotte macinnes"
+      "blue shield",
+      "bluecross blueshield settlement payment"
     ],
     "officialVerified": false,
     "lastUpdated": "2026-05-09T03:55:45.678Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/rebel-wilson-defamation-lawsuit/"
+    "url": "https://claimwatch-mvp.vercel.app/item/blue-shield/"
   }
 }

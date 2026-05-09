@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T03:55:47.685Z",
+  "updatedAt": "2026-05-09T08:11:16.334Z",
   "count": 2,
   "trends": [
     {
-      "rank": 170,
+      "rank": 130,
       "query": "rebel wilson defamation lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -17,24 +17,22 @@
       "source": "serpapi-google-trends",
       "text": "rebel wilson defamation lawsuit charlotte macinnes",
       "trendScore": 10,
-      "detectedAt": "2026-05-09T03:55:45.678Z"
+      "detectedAt": "2026-05-09T08:11:13.910Z"
     },
     {
-      "rank": 398,
-      "query": "blue shield",
-      "searchVolume": 1000,
+      "rank": 459,
+      "query": "bluecross blueshield settlement payment",
+      "searchVolume": 200,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "bluecross blueshield settlement payment"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
-      "increasePercentage": 100,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bluecross+blueshield+settlement+payment&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "blue shield bluecross blueshield settlement payment",
-      "trendScore": 10,
-      "detectedAt": "2026-05-09T03:55:45.678Z"
+      "text": "bluecross blueshield settlement payment",
+      "trendScore": 8,
+      "detectedAt": "2026-05-09T08:11:13.910Z"
     }
   ]
 }

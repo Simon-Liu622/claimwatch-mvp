@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T03:55:47.685Z",
+  "updatedAt": "2026-05-09T08:11:16.334Z",
   "count": 2,
   "items": [
     {
@@ -30,17 +30,17 @@
         "charlotte macinnes"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-09T03:55:45.678Z"
+      "lastUpdated": "2026-05-09T08:11:13.910Z"
     },
     {
-      "id": "blue-shield",
-      "slug": "blue-shield",
-      "title": "Blue Shield: Consumer Alert Monitoring",
+      "id": "bluecross-blueshield-settlement-payment",
+      "slug": "bluecross-blueshield-settlement-payment",
+      "title": "Bluecross Blueshield Settlement Payment: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "blue shield",
+      "product": "bluecross blueshield settlement payment",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,17 +50,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+shield&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bluecross+blueshield+settlement+payment&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
-        "blue shield",
         "bluecross blueshield settlement payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-09T03:55:45.678Z"
+      "lastUpdated": "2026-05-09T08:11:13.910Z"
     }
   ]
 }

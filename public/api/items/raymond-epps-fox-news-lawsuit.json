@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-05-09T19:33:01.503Z",
+  "item": {
+    "id": "raymond-epps-fox-news-lawsuit",
+    "slug": "raymond-epps-fox-news-lawsuit",
+    "title": "Raymond Epps Fox News Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "raymond epps fox news lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raymond+epps+fox+news+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 23,
+    "matchedQueries": [
+      "raymond epps fox news lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-09T19:32:59.514Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/raymond-epps-fox-news-lawsuit/"
+  }
+}

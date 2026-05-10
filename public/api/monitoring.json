@@ -1,7 +1,66 @@
 {
-  "updatedAt": "2026-05-10T08:21:44.436Z",
-  "count": 1,
+  "updatedAt": "2026-05-10T13:56:07.178Z",
+  "count": 3,
   "items": [
+    {
+      "id": "food-recall-salmonella-milk",
+      "slug": "food-recall-salmonella-milk",
+      "title": "Food Recall Salmonella Milk: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "food recall salmonella milk",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+recall+salmonella+milk&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 31,
+      "matchedQueries": [
+        "food recall salmonella milk"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-10T13:56:03.125Z"
+    },
+    {
+      "id": "dua-lipa-samsung-lawsuit",
+      "slug": "dua-lipa-samsung-lawsuit",
+      "title": "Dua Lipa Samsung Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "dua lipa samsung lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dua+lipa+samsung+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "dua lipa samsung lawsuit",
+        "dua lipa"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-10T13:56:03.125Z"
+    },
     {
       "id": "raymond-epps-fox-news-lawsuit",
       "slug": "raymond-epps-fox-news-lawsuit",
@@ -23,13 +82,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raymond+epps+fox+news+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "raymond epps fox news lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-10T08:21:41.014Z"
+      "lastUpdated": "2026-05-10T13:56:03.125Z"
     }
   ]
 }

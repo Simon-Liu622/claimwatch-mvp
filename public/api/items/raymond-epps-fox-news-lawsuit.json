@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:21:44.436Z",
+  "updatedAt": "2026-05-10T13:56:07.178Z",
   "item": {
     "id": "raymond-epps-fox-news-lawsuit",
     "slug": "raymond-epps-fox-news-lawsuit",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raymond+epps+fox+news+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "raymond epps fox news lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-10T08:21:41.014Z",
+    "lastUpdated": "2026-05-10T13:56:03.125Z",
     "url": "https://claimwatch-mvp.vercel.app/item/raymond-epps-fox-news-lawsuit/"
   }
 }

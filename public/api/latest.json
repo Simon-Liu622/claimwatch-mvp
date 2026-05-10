@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T13:56:07.178Z",
+  "updatedAt": "2026-05-10T19:33:24.935Z",
   "items": [
     {
       "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -31,199 +31,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall",
-      "slug": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
-      "url": "https://claimwatch-mvp.vercel.app/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/",
-      "type": "recall",
-      "status": "active",
-      "company": "Costco Wholesale Corporation",
-      "product": "Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012,",
-      "summary": "Undeclared hazelnut and soy lecithin. Product details: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, UPC 000020000127. Plastic clamshell container is packed with 9 pieces of Filled Heart Madeleines. Distributed by Costco Wholesale Corp. Seattle, WA. Label of recalled package is r...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall",
-      "slug": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
-      "url": "https://claimwatch-mvp.vercel.app/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "Summit Import Corporation",
-      "product": "Spice Powder, 4 oz, Plastic Bag",
-      "summary": "Lead level was higher than NYSAGM Standard. Product details: Spice Powder, 4 oz, Plastic Bag",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Ethnic Foods Inc: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); Recall",
-      "slug": "ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g",
-      "url": "https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/",
-      "type": "recall",
-      "status": "active",
-      "company": "Ethnic Foods Inc",
-      "product": "Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g);",
-      "summary": "Product(s) contain undeclared colors, FD&C Yellow #6 and FD&C Red #40 Product details: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); INGREDIENTS: Chickpea Flour, Water, Non-GMO Expeller Pressed Canola Oil, Chana Dal (Split Bengal Gram), Brown Lentils (Masoor), Chickpeas, Rice Flakes, Puffed Rice, Spices, Sugar, Peanuts, Raisins, Yogurt (p...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall",
-      "slug": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/",
-      "type": "recall",
-      "status": "active",
-      "company": "Marquez Brothers International, Inc.",
-      "product": "Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA",
-      "summary": "Undeclared milk. Product details: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA UPC: 042743-19015-0 Item: 100547",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Unistel Industries Inc.: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; Recall",
-      "slug": "unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6",
-      "url": "https://claimwatch-mvp.vercel.app/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/",
-      "type": "recall",
-      "status": "active",
-      "company": "Unistel Industries Inc.",
-      "product": "SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610;",
-      "summary": "Product may be contaminated with Salmonella. Product details: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; UPC: 7 69203 01617 0",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Marquez Brothers International, Inc.: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) Recall",
-      "slug": "marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/",
-      "type": "recall",
-      "status": "active",
-      "company": "Marquez Brothers International, Inc.",
-      "product": "EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g)",
-      "summary": "Undeclared milk. Product details: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) INGREDIENTS: *** MILK SUBSTITUTE (WHEY *** LACTOSE *** DISTRIBUTED BY MARQUEZ BROTHERS INTERNATIONAL, INC. San Jose CA 95138 UPC: 042743190204 Item: 102279",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Marquez Brothers International, Inc.: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) Recall",
-      "slug": "marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-",
-      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/",
-      "type": "recall",
-      "status": "active",
-      "company": "Marquez Brothers International, Inc.",
-      "product": "EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g)",
-      "summary": "Undeclared milk. Product details: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) INGREDIENTS: *** MILK SUBSTITUTE (WHEY *** LACTOSE *** DISTRIBUTED BY MARQUEZ BROTHERS INTERNATIONAL, INC. San Jose CA 95138 UPC: 042743190266 Item: 102284",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Mondelez Global Llc: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch) Recall",
-      "slug": "mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-",
-      "url": "https://claimwatch-mvp.vercel.app/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/",
-      "type": "recall",
-      "status": "active",
-      "company": "Mondelez Global Llc",
-      "product": "CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch)",
-      "summary": "Hard corn starch lumps were found in the product Product details: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch)",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Booey's Gourmet LLC: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. Recall",
-      "slug": "booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle",
-      "url": "https://claimwatch-mvp.vercel.app/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "Booey's Gourmet LLC",
-      "product": "Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle.",
-      "summary": "Ingredients statement declares Anchovy and Sasame, but Contains statement does not declare Fish (Anchovy) and Sesame. Product details: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. UPC on bottle: 7 01936 29222 3. There are 12 bottles per case. Manufactured Exclusively for BOOEYS GOURMET 3924 N. Cannon St. Spokane, WA 99205. Label declares: INGREDIENTS: Contains Soy and Wheat. *...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Bee Well Honey Farm & Supply Inc.: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) Recall",
-      "slug": "bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-",
-      "url": "https://claimwatch-mvp.vercel.app/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/",
-      "type": "recall",
-      "status": "active",
-      "company": "Bee Well Honey Farm & Supply Inc.",
-      "product": "Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g)",
-      "summary": "High sugar content. The firm was notified by the FDA that sample results were positive for a high C4 sugar content. Product details: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) UPC 8 32587 00003 2, NET WT. 22 OZ (624g) UPC 8 32587 00002 5 & NET WT. 44 OZ (1.25g) UPC 8 32587 00001 8 100% Pure Honey Bee Well Honey 909 W. Main Street Pickens, SC 29671",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "PURE PALM C/O DVD: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ Recall",
-      "slug": "pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/",
-      "type": "recall",
-      "status": "active",
-      "company": "PURE PALM C/O DVD",
-      "product": "Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ",
-      "summary": "mislabeled Coconut Date Bites. (product is coconut covered, label is for regular date bites) Product details: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ UPC: 852160007005",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall",
-      "slug": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
-      "url": "https://claimwatch-mvp.vercel.app/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "Connecticut Crab Company LLC",
-      "product": "Crab Cakes various sizes sold to food service",
-      "summary": "May be temperature abused, which may result in growth of Clostridium botulinum Product details: Crab Cakes various sizes sold to food service",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Double Dark Chocolate Gelato packaged in 1 Gallon bucket/pail - white round food and freezer grade High-Density Polyethylene buck Recall",
@@ -239,7 +47,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Chocolate Chocolate Chip Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups, 1-gallon bucket/pail and  Recall",
@@ -255,103 +63,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Riverence Provisions LLC: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze Recall",
-      "slug": "riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri",
-      "url": "https://claimwatch-mvp.vercel.app/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/",
-      "type": "recall",
-      "status": "active",
-      "company": "Riverence Provisions LLC",
-      "product": "Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze",
-      "summary": "Label declares cream cheese but does not declare milk Product details: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee frozen by the case (12/7oz. units per case). Retail container UPC 7 07651 30561 3. Case item UPC #007076513057 Label declares...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Pure Vitamins and Natural Supplements, LLC: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes  Recall",
-      "slug": "pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/",
-      "type": "recall",
-      "status": "active",
-      "company": "Pure Vitamins and Natural Supplements, LLC",
-      "product": "Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes ",
-      "summary": "FDA analysis revealed the presence of undeclared sildenafil Product details: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes before Intercourse. Produced by Blue Bull Corporation Made In USA. UPC Code 707443349917",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "MEI YU CHENG DA TRADING INC: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Recall",
-      "slug": "mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s",
-      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "MEI YU CHENG DA TRADING INC",
-      "product": "DADI NONGFU DRIED SALT CHILLI VEGETABLE(S);",
-      "summary": "Products contain banned sweetener: cyclamates. Product details: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Ingredients: Radish, chili, roasted sesame, prickly ash, edible salt, soybean oil, edible vinegar, white granulated sugar, spices, food additives (sodium glutamate, citric acid, sodium benzoate, potassium sorbate, so...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "Pure Vitamins and Natural Supplements, LLC: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b Recall",
-      "slug": "pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot",
-      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/",
-      "type": "recall",
-      "status": "active",
-      "company": "Pure Vitamins and Natural Supplements, LLC",
-      "product": "Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b",
-      "summary": "FDA analysis revealed the presence of undeclared sildenafil Product details: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes before Intercourse. Produced by Red Bull Corporation. Turkey www.redbullhoney.com UPC Code 9554100205595",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "MEI YU CHENG DA TRADING INC: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; Recall",
-      "slug": "mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast",
-      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "MEI YU CHENG DA TRADING INC",
-      "product": "Olive Skewers individually wrapped and packaged in clear plastic bag; 500g;",
-      "summary": "Products contain banned sweetener: cyclamates. Product details: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; INGREDIENTS: Olive, edible salt, white sugar, monosodium glutamate, licorice, cloves, food additives (citric acid, DL malic acid, saccharin, sodium saccharin, steviol glycosides, aspar...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
-    },
-    {
-      "title": "AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall",
-      "slug": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
-      "url": "https://claimwatch-mvp.vercel.app/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "AYCO FARMS INC",
-      "product": "Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per ",
-      "summary": "Potential Salmonella Contamination Product details: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per box; individual carton count per label. Keep refrigerated; store between 36 40¿F.",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Chocolate Gelato packaged in multiple sizes (6 fl oz cups, 16 fl oz cups, 32 fl oz cups and 1-gallon bucket/pail) , Net Wt. 6 fl  Recall",
@@ -367,7 +79,295 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall",
+      "slug": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
+      "url": "https://claimwatch-mvp.vercel.app/item/costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o/",
+      "type": "recall",
+      "status": "active",
+      "company": "Costco Wholesale Corporation",
+      "product": "Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012,",
+      "summary": "Undeclared hazelnut and soy lecithin. Product details: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, UPC 000020000127. Plastic clamshell container is packed with 9 pieces of Filled Heart Madeleines. Distributed by Costco Wholesale Corp. Seattle, WA. Label of recalled package is r...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Summit Import Corporation: Spice Powder, 4 oz, Plastic Bag Recall",
+      "slug": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
+      "url": "https://claimwatch-mvp.vercel.app/item/summit-import-corporation-spice-powder-4-oz-plastic-bag/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "Summit Import Corporation",
+      "product": "Spice Powder, 4 oz, Plastic Bag",
+      "summary": "Lead level was higher than NYSAGM Standard. Product details: Spice Powder, 4 oz, Plastic Bag",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Ethnic Foods Inc: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); Recall",
+      "slug": "ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g",
+      "url": "https://claimwatch-mvp.vercel.app/item/ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ethnic Foods Inc",
+      "product": "Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g);",
+      "summary": "Product(s) contain undeclared colors, FD&C Yellow #6 and FD&C Red #40 Product details: Bombay Kitchen brand Punjabi Mix; Net Wt 9oz (255g); INGREDIENTS: Chickpea Flour, Water, Non-GMO Expeller Pressed Canola Oil, Chana Dal (Split Bengal Gram), Brown Lentils (Masoor), Chickpeas, Rice Flakes, Puffed Rice, Spices, Sugar, Peanuts, Raisins, Yogurt (p...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Marquez Brothers International, Inc.: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA Recall",
+      "slug": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
+      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata/",
+      "type": "recall",
+      "status": "active",
+      "company": "Marquez Brothers International, Inc.",
+      "product": "Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA",
+      "summary": "Undeclared milk. Product details: Bulk Horchata Powder 3951 (100547) 1/25 HORCHATA UPC: 042743-19015-0 Item: 100547",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Unistel Industries Inc.: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; Recall",
+      "slug": "unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6",
+      "url": "https://claimwatch-mvp.vercel.app/item/unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6/",
+      "type": "recall",
+      "status": "active",
+      "company": "Unistel Industries Inc.",
+      "product": "SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610;",
+      "summary": "Product may be contaminated with Salmonella. Product details: SALUTE SEASONINGS; Ground All Spice; Net Wt 16oz; Unistel Industries 650 Blossom Road Rochester, NY 14610; UPC: 7 69203 01617 0",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Marquez Brothers International, Inc.: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) Recall",
+      "slug": "marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr",
+      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr/",
+      "type": "recall",
+      "status": "active",
+      "company": "Marquez Brothers International, Inc.",
+      "product": "EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g)",
+      "summary": "Undeclared milk. Product details: EL MEXICANO agua fresca de horchata Instant Horchata Drink NET WT 12oz (340g) INGREDIENTS: *** MILK SUBSTITUTE (WHEY *** LACTOSE *** DISTRIBUTED BY MARQUEZ BROTHERS INTERNATIONAL, INC. San Jose CA 95138 UPC: 042743190204 Item: 102279",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Marquez Brothers International, Inc.: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) Recall",
+      "slug": "marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-",
+      "url": "https://claimwatch-mvp.vercel.app/item/marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-/",
+      "type": "recall",
+      "status": "active",
+      "company": "Marquez Brothers International, Inc.",
+      "product": "EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g)",
+      "summary": "Undeclared milk. Product details: EL MEXICANO horchata casera Instant Horchata Drink NET WT 14oz (396g) INGREDIENTS: *** MILK SUBSTITUTE (WHEY *** LACTOSE *** DISTRIBUTED BY MARQUEZ BROTHERS INTERNATIONAL, INC. San Jose CA 95138 UPC: 042743190266 Item: 102284",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Mondelez Global Llc: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch) Recall",
+      "slug": "mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-",
+      "url": "https://claimwatch-mvp.vercel.app/item/mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-/",
+      "type": "recall",
+      "status": "active",
+      "company": "Mondelez Global Llc",
+      "product": "CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch)",
+      "summary": "Hard corn starch lumps were found in the product Product details: CHIPS AHOY! Baked Bites Brookie .22.4 oz Carton ( 2.8 oz pouch ) and 7.7 oz Carton ( 1.4 oz pouch)",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Booey's Gourmet LLC: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. Recall",
+      "slug": "booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle",
+      "url": "https://claimwatch-mvp.vercel.app/item/booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "Booey's Gourmet LLC",
+      "product": "Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle.",
+      "summary": "Ingredients statement declares Anchovy and Sasame, but Contains statement does not declare Fish (Anchovy) and Sesame. Product details: Booey's Dragon's Breath sauce, 15.2oz ringneck glass bottle. UPC on bottle: 7 01936 29222 3. There are 12 bottles per case. Manufactured Exclusively for BOOEYS GOURMET 3924 N. Cannon St. Spokane, WA 99205. Label declares: INGREDIENTS: Contains Soy and Wheat. *...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Bee Well Honey Farm & Supply Inc.: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) Recall",
+      "slug": "bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-",
+      "url": "https://claimwatch-mvp.vercel.app/item/bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-/",
+      "type": "recall",
+      "status": "active",
+      "company": "Bee Well Honey Farm & Supply Inc.",
+      "product": "Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g)",
+      "summary": "High sugar content. The firm was notified by the FDA that sample results were positive for a high C4 sugar content. Product details: Raw & Unfiltered Bee Well Wildflower Honey NET wT. 12 OZ (340g) UPC 8 32587 00003 2, NET WT. 22 OZ (624g) UPC 8 32587 00002 5 & NET WT. 44 OZ (1.25g) UPC 8 32587 00001 8 100% Pure Honey Bee Well Honey 909 W. Main Street Pickens, SC 29671",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "PURE PALM C/O DVD: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ Recall",
+      "slug": "pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla",
+      "url": "https://claimwatch-mvp.vercel.app/item/pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla/",
+      "type": "recall",
+      "status": "active",
+      "company": "PURE PALM C/O DVD",
+      "product": "Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ",
+      "summary": "mislabeled Coconut Date Bites. (product is coconut covered, label is for regular date bites) Product details: Label is predominantly green with white lettering in a clear plastic clamshell container. Pure Palm dates- Medjool Dates Net Wt. 16OZ UPC: 852160007005",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Connecticut Crab Company LLC: Crab Cakes various sizes sold to food service Recall",
+      "slug": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
+      "url": "https://claimwatch-mvp.vercel.app/item/connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "Connecticut Crab Company LLC",
+      "product": "Crab Cakes various sizes sold to food service",
+      "summary": "May be temperature abused, which may result in growth of Clostridium botulinum Product details: Crab Cakes various sizes sold to food service",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Riverence Provisions LLC: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze Recall",
+      "slug": "riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri",
+      "url": "https://claimwatch-mvp.vercel.app/item/riverence-provisions-llc-riverence-smoked-trout-dip-net-wt-7oz-product-is-perishable-refri/",
+      "type": "recall",
+      "status": "active",
+      "company": "Riverence Provisions LLC",
+      "product": "Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee froze",
+      "summary": "Label declares cream cheese but does not declare milk Product details: Riverence Smoked Trout Dip, net wt. 7oz. Product is perishable, refrigerated, packaged in plastic tub. Product is shipped to consignee frozen by the case (12/7oz. units per case). Retail container UPC 7 07651 30561 3. Case item UPC #007076513057 Label declares...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Pure Vitamins and Natural Supplements, LLC: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes  Recall",
+      "slug": "pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to",
+      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-blue-bull-extreme-male-enhancement-supplement-to/",
+      "type": "recall",
+      "status": "active",
+      "company": "Pure Vitamins and Natural Supplements, LLC",
+      "product": "Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes ",
+      "summary": "FDA analysis revealed the presence of undeclared sildenafil Product details: Blue Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes before Intercourse. Produced by Blue Bull Corporation Made In USA. UPC Code 707443349917",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "MEI YU CHENG DA TRADING INC: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Recall",
+      "slug": "mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s",
+      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-dadi-nongfu-dried-salt-chilli-vegetable-s/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "MEI YU CHENG DA TRADING INC",
+      "product": "DADI NONGFU DRIED SALT CHILLI VEGETABLE(S);",
+      "summary": "Products contain banned sweetener: cyclamates. Product details: DADI NONGFU DRIED SALT CHILLI VEGETABLE(S); Ingredients: Radish, chili, roasted sesame, prickly ash, edible salt, soybean oil, edible vinegar, white granulated sugar, spices, food additives (sodium glutamate, citric acid, sodium benzoate, potassium sorbate, so...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "Pure Vitamins and Natural Supplements, LLC: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b Recall",
+      "slug": "pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot",
+      "url": "https://claimwatch-mvp.vercel.app/item/pure-vitamins-and-natural-supplements-llc-red-bull-extreme-male-enhancement-supplement-tot/",
+      "type": "recall",
+      "status": "active",
+      "company": "Pure Vitamins and Natural Supplements, LLC",
+      "product": "Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes b",
+      "summary": "FDA analysis revealed the presence of undeclared sildenafil Product details: Red Bull Extreme Male Enhancement Supplement, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume Entire Pouch 30 Minutes before Intercourse. Produced by Red Bull Corporation. Turkey www.redbullhoney.com UPC Code 9554100205595",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "MEI YU CHENG DA TRADING INC: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; Recall",
+      "slug": "mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast",
+      "url": "https://claimwatch-mvp.vercel.app/item/mei-yu-cheng-da-trading-inc-olive-skewers-individually-wrapped-and-packaged-in-clear-plast/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "MEI YU CHENG DA TRADING INC",
+      "product": "Olive Skewers individually wrapped and packaged in clear plastic bag; 500g;",
+      "summary": "Products contain banned sweetener: cyclamates. Product details: Olive Skewers individually wrapped and packaged in clear plastic bag; 500g; INGREDIENTS: Olive, edible salt, white sugar, monosodium glutamate, licorice, cloves, food additives (citric acid, DL malic acid, saccharin, sodium saccharin, steviol glycosides, aspar...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
+    },
+    {
+      "title": "AYCO FARMS INC: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per  Recall",
+      "slug": "ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b",
+      "url": "https://claimwatch-mvp.vercel.app/item/ayco-farms-inc-fresh-cantaloupe-whole-fresh-brand-name-ayco-wrapped-in-food-safe-plastic-b/",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "AYCO FARMS INC",
+      "product": "Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per ",
+      "summary": "Potential Salmonella Contamination Product details: Fresh Cantaloupe (Whole, Fresh), brand name Ayco, wrapped in food safe plastic bags packed in corrugated cardboard cartons; 6-12 melons per box; individual carton count per label. Keep refrigerated; store between 36 40¿F.",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Pure Vitamins and Natural Supplements, LLC: Boner Bears Honey Male Enhancement 100% Wildflower Honey, total of 15 pouches per box, Net Wt 15 G each pouch. Dosage: Consume 1 entire pouc Recall",
@@ -383,7 +383,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "F&S Fresh Foods, Inc.: ReadyMeals Turkey Bacon & Cheddar Pretzel Duo Sandwich, perishable, Keep Refrigerated, plastic clamshell, net wt. 10 oz, Recall",
@@ -399,7 +399,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Blueroot Health, Inc.: Vital Nutrients Aller-C (vitamin C, citrus bioflavonoids, isoquercitrin, and bromelain)100 count bottles and 200 count bottles Recall",
@@ -415,7 +415,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "The Harvard Drug Group LLC: Omega-3-Acid, Ethyl Esters, Capsules, USP, 1 gram, 50 capsules (5 x 10 unit dose blister cards) per carton, Rx only, Packaged and Recall",
@@ -431,7 +431,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "B BRAUN MEDICAL INC: DEXTROSE INJECTION USP, 70%, 2000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
@@ -447,7 +447,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Leading Pharma, LLC: Furosemide Tablets, USP, 80 mg, 100 Tablets bottles, Rx only, Recall",
@@ -463,7 +463,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Premier Dental Products Co: Premier, Monsel's, Ferric Subsulfate Solution, 8 mL bottles, Rx only, Manufacturer: Premier Medical Products, 1710 Romano Drive, Plymouth Me Recall",
@@ -479,7 +479,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "B BRAUN MEDICAL INC: LACTATED RINGER'S IRRIGATION, 3000 mL bags, Sterile, Ex only, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
@@ -495,7 +495,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Teva Pharmaceuticals USA, Inc: Claravis (isotretinoin capsule, USP), 10 mg, Packaged as a) 100-count carton, Recall",
@@ -511,7 +511,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "B BRAUN MEDICAL INC: 0.9 % SODIUM CHLORIDE IRRIGATION, USP, 3000 mL bags, Rx only, Sterile, B. Braun Medical Inc., Bethlehem, PA 18018-3524, USA, Recall",
@@ -527,7 +527,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "B BRAUN MEDICAL INC: Sterile Water for Injection USP, 3000 mL bags, Rx only, Pharmacy Bulk Package, B. Braun Medical Inc., Bethlehem, PA 18018-3524, Recall",
@@ -543,7 +543,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Hetero Labs Limited (Unit V): Pantoprazole Sodium, Delayed-Release Tablets, USP, 40 mg, 1000-count bottle, Rx only, Manufactured for: Camber Pharmaceuticals, Inc., Piscat Recall",
@@ -559,7 +559,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "SUN PHARMACEUTICAL INDUSTRIES INC: Fluocinonide, USP, 0.05% Cream, 30g tube, Rx only, Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Phar Recall",
@@ -575,7 +575,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: MGC Health, Menthol- Cough Suppressant, Oral Anesthetic, Cough Drops, Honey Lemon, 30-count bag, Recall",
@@ -591,7 +591,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Owen Biosciences Inc.: FHF Farmhouse Fresh, Midnight Clearing, NIGHT LOTION, 2.5% BENZOYL PEROXIDE ACNE TREATMENT, OTC a) 0.5 fl. oz./15ml; and b)1 fl. oz./30ml tu Recall",
@@ -607,7 +607,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: Discount Drug Mart Food Market, Cough Drops, Menthol -Cough Suppressant Anesthetic, 30-count bag, Recall",
@@ -623,7 +623,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Xiamen Kang Zhongyuan Biotechnology Co., Ltd.: exchange select, Menthol -Cough Suppressant Oral Anesthetic, Honey Lemon Flavor Cough Drops, 30-count bag, Manufactured for Your Military Ex Recall",
@@ -639,7 +639,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Angiodynamics, Inc.: Soft-Vu Angiographic Catheter, Kumpe, Non-Braided; SOFT-VU KMP 4F X 65CM 038 NB 0SH; Catalog No.: 10714014; Product/UPN No.: H787107140145 ( Recall",
@@ -655,7 +655,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Medline Industries, LP: Medline Kits: 1) HEART TRANSPLANT BIOPSY, Model Number: DYNJ37543A Recall",
@@ -671,7 +671,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Medline Industries, LP: Medline Convenience Kits containing select SKUs of 10mL Polycarbonate Colored Syringes GU DAVINCI PACK - LF DYNJ909398A ROBOTIC PACK DYNJ908 Recall",
@@ -687,7 +687,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Olympus Corporation of the Americas: Olympus Thunderbeat II Shears w/Ultrasonic Mode, 5mm, 45cm. Model Number: TB2-0545FC. Recall",
@@ -703,7 +703,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Medline Industries, LP: Medline Namic Guidewires: 1) GUIDEWIRE 3MMJ 0.035X260CM LT, Model Number: DYNJGWIRE20L; 2) GWIRE HYDRO 0.035 180CM ANG S, Model Number: DYNJ Recall",
@@ -719,7 +719,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Angiodynamics, Inc.: AccuVu Angiographic Catheter, Straight Flush, Non-Braided, With 10 R/O Markers; ACCU-VU STR FL 4F X 100CM 035 NB 6SH 10 R/O 6@1CM 4@5CM; Cat Recall",
@@ -735,7 +735,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Olympus Corporation of the Americas: OER-ELITE Endoscope Reprocessor Connecting Tubes. Model/Catalog Number: MAJ-2115. Recall",
@@ -751,7 +751,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "LSL Healthcare Inc.: LSL Healthcare Wound Closure Tray, Model/Catalog Number: 7554 Recall",
@@ -767,7 +767,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Medline Industries, LP: Medline Kits: 1) CATH LAB CDS, Model Number: CDS840228F; 2) IR PACK, Model Number: DYNDH2104; 3) CARDIAC CATH PACK-LF, Model Number: DYNJT21 Recall",
@@ -783,7 +783,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     },
     {
       "title": "Medline Industries, LP: Medline Kits: 1) ANGIOGRAPHY PACK-LF, Model Number: DYNJQ0505M; 2) ANGIO PACK, Model Number: DYNJT2021G; 3) ANGIOGRAPHY PACK, Model Number:  Recall",
@@ -799,7 +799,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-05-10T13:56:03.125Z"
+      "lastUpdated": "2026-05-10T19:33:19.668Z"
     }
   ]
 }

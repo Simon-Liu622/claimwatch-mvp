@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T13:56:07.178Z",
+  "updatedAt": "2026-05-10T19:33:24.935Z",
   "item": {
     "id": "food-recall-salmonella-milk",
     "slug": "food-recall-salmonella-milk",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+recall+salmonella+milk&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "trendScore": 31,
     "matchedQueries": [
       "food recall salmonella milk"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-10T13:56:03.125Z",
+    "lastUpdated": "2026-05-10T19:33:19.668Z",
     "url": "https://claimwatch-mvp.vercel.app/item/food-recall-salmonella-milk/"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T13:56:07.178Z",
+  "updatedAt": "2026-05-10T19:33:24.935Z",
   "item": {
     "id": "zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1",
     "slug": "zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 2000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "chocolate",
+      "spring and mulberry chocolate recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "H-0651-2026",
     "recallInitiationDate": "20260326",
-    "lastUpdated": "2026-05-10T13:56:03.125Z",
+    "lastUpdated": "2026-05-10T19:33:19.668Z",
     "url": "https://claimwatch-mvp.vercel.app/item/zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1/"
   }
 }

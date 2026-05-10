@@ -1,17 +1,17 @@
 [
   {
-    "rank": 124,
+    "rank": 22,
     "query": "raymond epps fox news lawsuit",
-    "searchVolume": 500,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raymond+epps+fox+news+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "raymond epps fox news lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-05-09T19:32:59.514Z"
+    "detectedAt": "2026-05-10T04:15:08.620Z"
   }
 ]

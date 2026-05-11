@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T19:33:24.935Z",
+  "updatedAt": "2026-05-11T04:36:27.318Z",
   "item": {
     "id": "dua-lipa-samsung-lawsuit",
     "slug": "dua-lipa-samsung-lawsuit",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dua+lipa+samsung+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 5000,
+    "trendScore": 8,
     "matchedQueries": [
       "dua lipa samsung lawsuit",
       "dua lipa"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-10T19:33:19.668Z",
+    "lastUpdated": "2026-05-11T04:36:23.038Z",
     "url": "https://claimwatch-mvp.vercel.app/item/dua-lipa-samsung-lawsuit/"
   }
 }

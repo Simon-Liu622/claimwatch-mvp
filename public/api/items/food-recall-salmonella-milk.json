@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T19:33:24.935Z",
+  "updatedAt": "2026-05-11T04:36:27.318Z",
   "item": {
     "id": "food-recall-salmonella-milk",
     "slug": "food-recall-salmonella-milk",
@@ -22,12 +22,12 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 31,
+    "trendScore": 16,
     "matchedQueries": [
       "food recall salmonella milk"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-10T19:33:19.668Z",
+    "lastUpdated": "2026-05-11T04:36:23.038Z",
     "url": "https://claimwatch-mvp.vercel.app/item/food-recall-salmonella-milk/"
   }
 }

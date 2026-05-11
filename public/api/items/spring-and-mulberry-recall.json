@@ -1,14 +1,14 @@
 {
   "updatedAt": "2026-05-11T04:36:27.318Z",
   "item": {
-    "id": "product-recall",
-    "slug": "product-recall",
-    "title": "Product Recall: Consumer Alert Monitoring",
+    "id": "spring-and-mulberry-recall",
+    "slug": "spring-and-mulberry-recall",
+    "title": "Spring & Mulberry Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "product recall",
+    "product": "spring & mulberry recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spring+%26+mulberry+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 9,
+    "searchVolume": 10000,
+    "trendScore": 23,
     "matchedQueries": [
-      "product recall"
+      "spring & mulberry recall"
     ],
     "officialVerified": false,
     "lastUpdated": "2026-05-11T04:36:23.038Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/product-recall/"
+    "url": "https://claimwatch-mvp.vercel.app/item/spring-and-mulberry-recall/"
   }
 }

@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-11T04:36:27.318Z",
+  "updatedAt": "2026-05-11T09:59:54.030Z",
   "count": 4,
   "items": [
+    {
+      "id": "product-recall",
+      "slug": "product-recall",
+      "title": "Product Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "product recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 50000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "product recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-11T09:59:50.143Z"
+    },
     {
       "id": "spring-and-mulberry-recall",
       "slug": "spring-and-mulberry-recall",
@@ -29,7 +58,7 @@
         "spring & mulberry recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-11T04:36:23.038Z"
+      "lastUpdated": "2026-05-11T09:59:50.143Z"
     },
     {
       "id": "food-recall-salmonella-milk",
@@ -58,36 +87,7 @@
         "food recall salmonella milk"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-11T04:36:23.038Z"
-    },
-    {
-      "id": "product-recall",
-      "slug": "product-recall",
-      "title": "Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 9,
-      "matchedQueries": [
-        "product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-11T04:36:23.038Z"
+      "lastUpdated": "2026-05-11T09:59:50.143Z"
     },
     {
       "id": "dua-lipa-samsung-lawsuit",
@@ -111,13 +111,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 8,
+      "trendScore": 10,
       "matchedQueries": [
         "dua lipa samsung lawsuit",
-        "dua lipa"
+        "dua lipa",
+        "images"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-11T04:36:23.038Z"
+      "lastUpdated": "2026-05-11T09:59:50.143Z"
     }
   ]
 }

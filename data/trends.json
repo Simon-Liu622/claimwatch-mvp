@@ -1,6 +1,21 @@
 [
   {
-    "rank": 31,
+    "rank": 17,
+    "query": "product recall",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "product recall",
+    "trendScore": 24,
+    "detectedAt": "2026-05-11T09:59:50.143Z"
+  },
+  {
+    "rank": 30,
     "query": "spring & mulberry recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -8,14 +23,14 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spring+%26+mulberry+recall&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "spring & mulberry recall",
     "trendScore": 23,
-    "detectedAt": "2026-05-11T04:36:23.038Z"
+    "detectedAt": "2026-05-11T09:59:50.143Z"
   },
   {
-    "rank": 198,
+    "rank": 171,
     "query": "food recall salmonella milk",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,36 +42,23 @@
     "source": "serpapi-google-trends",
     "text": "food recall salmonella milk",
     "trendScore": 16,
-    "detectedAt": "2026-05-11T04:36:23.038Z"
+    "detectedAt": "2026-05-11T09:59:50.143Z"
   },
   {
-    "rank": 56,
-    "query": "product recall",
-    "searchVolume": 50000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "product recall",
-    "trendScore": 9,
-    "detectedAt": "2026-05-11T04:36:23.038Z"
-  },
-  {
-    "rank": 142,
+    "rank": 112,
     "query": "dua lipa samsung lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
+    "breakdown": [
+      "images"
+    ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dua+lipa+samsung+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "dua lipa samsung lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-05-11T04:36:23.038Z"
+    "text": "dua lipa samsung lawsuit images",
+    "trendScore": 10,
+    "detectedAt": "2026-05-11T09:59:50.143Z"
   }
 ]

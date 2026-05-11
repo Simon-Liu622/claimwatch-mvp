@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T15:35:57.872Z",
+  "updatedAt": "2026-05-11T20:03:58.516Z",
   "item": {
     "id": "irs-pandemic-penalty-refund",
     "slug": "irs-pandemic-penalty-refund",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+pandemic+penalty+refund&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
       "irs pandemic penalty refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-11T15:35:55.333Z",
+    "lastUpdated": "2026-05-11T20:03:56.394Z",
     "url": "https://claimwatch-mvp.vercel.app/item/irs-pandemic-penalty-refund/"
   }
 }

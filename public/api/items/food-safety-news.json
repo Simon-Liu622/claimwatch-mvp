@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-11T15:35:57.872Z",
+  "updatedAt": "2026-05-11T20:03:58.516Z",
   "item": {
-    "id": "spring-and-mulberry-recall",
-    "slug": "spring-and-mulberry-recall",
-    "title": "Spring & Mulberry Recall: Consumer Alert Monitoring",
+    "id": "food-safety-news",
+    "slug": "food-safety-news",
+    "title": "Food Safety News: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "spring & mulberry recall",
+    "product": "food safety news",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spring+%26+mulberry+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+safety+news&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 10,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "spring & mulberry recall",
-      "spring & mulberry"
+      "food safety news",
+      "listeria"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-11T15:35:55.333Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/spring-and-mulberry-recall/"
+    "lastUpdated": "2026-05-11T20:03:56.394Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/food-safety-news/"
   }
 }

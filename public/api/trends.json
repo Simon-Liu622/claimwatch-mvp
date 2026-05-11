@@ -1,58 +1,73 @@
 {
-  "updatedAt": "2026-05-11T15:35:57.872Z",
-  "count": 4,
+  "updatedAt": "2026-05-11T20:03:58.516Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 47,
+      "rank": 45,
+      "query": "salmonella milk powder contamination",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+milk+powder+contamination&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "salmonella milk powder contamination",
+      "trendScore": 31,
+      "detectedAt": "2026-05-11T20:03:56.394Z"
+    },
+    {
+      "rank": 22,
+      "query": "food safety news",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "listeria"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+safety+news&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "food safety news listeria",
+      "trendScore": 26,
+      "detectedAt": "2026-05-11T20:03:56.394Z"
+    },
+    {
+      "rank": 17,
       "query": "irs pandemic penalty refund",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+pandemic+penalty+refund&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "irs pandemic penalty refund",
       "trendScore": 23,
-      "detectedAt": "2026-05-11T15:35:55.333Z"
+      "detectedAt": "2026-05-11T20:03:56.394Z"
     },
     {
-      "rank": 108,
-      "query": "spring & mulberry recall",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "spring & mulberry"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spring+%26+mulberry+recall&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "spring & mulberry recall spring & mulberry",
-      "trendScore": 10,
-      "detectedAt": "2026-05-11T15:35:55.333Z"
-    },
-    {
-      "rank": 118,
-      "query": "politics",
-      "searchVolume": 2000,
+      "rank": 103,
+      "query": "democratic party",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
         "virginia democrats congressional map lawsuit"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=democratic+party&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "politics virginia democrats congressional map lawsuit",
+      "text": "democratic party virginia democrats congressional map lawsuit",
       "trendScore": 10,
-      "detectedAt": "2026-05-11T15:35:55.333Z"
+      "detectedAt": "2026-05-11T20:03:56.394Z"
     },
     {
-      "rank": 216,
+      "rank": 263,
       "query": "ram 2500 tire speed recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -64,7 +79,7 @@
       "source": "serpapi-google-trends",
       "text": "ram 2500 tire speed recall",
       "trendScore": 8,
-      "detectedAt": "2026-05-11T15:35:55.333Z"
+      "detectedAt": "2026-05-11T20:03:56.394Z"
     }
   ]
 }

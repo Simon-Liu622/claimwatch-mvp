@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-11T15:35:57.872Z",
+  "updatedAt": "2026-05-11T20:03:58.516Z",
   "item": {
-    "id": "politics",
-    "slug": "politics",
-    "title": "Politics: Consumer Alert Monitoring",
+    "id": "democratic-party",
+    "slug": "democratic-party",
+    "title": "Democratic Party: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "politics",
+    "product": "democratic party",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=democratic+party&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 10,
     "matchedQueries": [
-      "politics",
+      "democratic party",
       "virginia democrats congressional map lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-11T15:35:55.333Z",
-    "url": "https://claimwatch-mvp.vercel.app/item/politics/"
+    "lastUpdated": "2026-05-11T20:03:56.394Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/democratic-party/"
   }
 }

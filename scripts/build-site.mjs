@@ -42,6 +42,30 @@ function companyUrl(company) {
   return `/company/${slugify(company)}/`;
 }
 
+function companiesUrl() {
+  return "/companies/";
+}
+
+function sourceUrl(agency) {
+  return `/sources/${slugify(agency)}/`;
+}
+
+function categoryUrl(type) {
+  return `/categories/${slugify(type)}/`;
+}
+
+function claimUrl(query) {
+  return `/claims/${slugify(query)}/`;
+}
+
+function topicsUrl() {
+  return "/topics/";
+}
+
+function seoConsolePath() {
+  return "/seo-console/";
+}
+
 function typeUrl(type) {
   const map = {
     recall: "/recalls/",
@@ -65,6 +89,87 @@ function shortText(value, max = 160) {
   const text = String(value || "").replace(/\s+/g, " ").trim();
   if (text.length <= max) return text;
   return `${text.slice(0, max - 1).replace(/\s+\S*$/, "")}...`;
+}
+
+function titleCase(value) {
+  return String(value || "")
+    .replace(/[-_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\b[a-z]/g, (letter) => letter.toUpperCase());
+}
+
+function groupBy(items, keyFn) {
+  const groups = new Map();
+  for (const item of items) {
+    const key = keyFn(item);
+    if (!key) continue;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  }
+  return groups;
+}
+
+function isIndexablePseoGroup(items) {
+  if (items.length >= 2) return true;
+  return items.some((item) => item.officialVerified && item.officialSourceUrl && shortText(item.summary, 260).length >= 120);
+}
+
+function splitIndexableGroups(entriesMap) {
+  let indexable = 0;
+  let thin = 0;
+  for (const [, groupedItems] of entriesMap) {
+    if (isIndexablePseoGroup(groupedItems)) indexable += 1;
+    else thin += 1;
+  }
+  return { indexable, thin, total: indexable + thin };
+}
+
+function itemListSchema(name, items) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    itemListElement: items.slice(0, 50).map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: absolute(itemUrl(item)),
+      name: item.title
+    }))
+  };
+}
+
+function pseoCollectionFaqSchema(pageTitle) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: `What is on the ClaimWatch page “${pageTitle}”?`,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "It is an index of official-source verified consumer alerts. Each linked record includes a short summary, key facts where available, and a link to the official notice or administrator."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "Is ClaimWatch an official government or court website?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "No. ClaimWatch is an independent informational index. Always confirm deadlines, eligibility, and safety instructions using the official source linked from each record."
+        }
+      },
+      {
+        "@type": "Question",
+        name: "How do I file a claim or get a refund?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Open the individual alert you care about and use the official source or claim portal linked there. ClaimWatch does not process claims."
+        }
+      }
+    ]
+  };
 }
 
 function formatNumber(value) {
@@ -105,6 +210,7 @@ function layout({ title, description, path: pagePath, children, schema = [], bod
   <meta property="og:title" content="${escapeHtml(title)}">
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:url" content="${escapeHtml(canonical)}">
+  <meta property="og:site_name" content="${escapeHtml(SITE.name)}">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="/assets/styles.css">
@@ -136,6 +242,8 @@ function layout({ title, description, path: pagePath, children, schema = [], bod
       <p>Informational consumer alert database. Not legal, medical, or financial advice.</p>
     </div>
     <nav>
+      <a href="/topics/">Topics</a>
+      <a href="/companies/">Companies</a>
       <a href="/methodology/">Methodology</a>
       <a href="/about/">About</a>
       <a href="/api/latest.json">API</a>
@@ -269,8 +377,12 @@ function searchPanel(items, trends) {
       <span>Source coverage</span>
       ${Object.entries(counts)
         .sort((a, b) => b[1] - a[1])
-        .map(([source, count]) => `<a href="/sources/">${escapeHtml(source)} <strong>${escapeHtml(count)}</strong></a>`)
+        .map(([source, count]) => {
+          const label = OFFICIAL_SOURCE_LABELS[source] || source;
+          return `<a href="${escapeHtml(sourceUrl(source))}" title="${escapeHtml(label)} verified records">${escapeHtml(source)} <strong>${escapeHtml(count)}</strong></a>`;
+        })
         .join("")}
+      <a href="${escapeHtml(topicsUrl())}">All topic indexes</a>
       <em>${escapeHtml(activeTrendCount)} trend candidates monitored privately</em>
     </div>
   </section>`;
@@ -373,14 +485,24 @@ function homePage(items, trends) {
             ${deadlineSoon.length ? deadlineSoon.map((item) => `<a class="side-link" href="${escapeHtml(itemUrl(item))}"><span>${escapeHtml(item.title)}</span><small>${escapeHtml(formatDate(item.deadline))}</small></a>`).join("") : "<p>No verified deadlines in the current dataset.</p>"}
           </section>
           <section class="side-panel">
-            <h2>Official sources</h2>
-            <ul class="source-list">
-              <li>FDA</li>
-              <li>CPSC</li>
-              <li>FTC</li>
-              <li>USDA FSIS</li>
-              <li>NHTSA</li>
-            </ul>
+            <h2>Browse by source</h2>
+            ${
+              Object.keys(counts).length
+                ? `<ul class="source-list">${Object.entries(counts)
+                    .sort((a, b) => b[1] - a[1])
+                    .map(
+                      ([agency, n]) =>
+                        `<li><a href="${escapeHtml(sourceUrl(agency))}">${escapeHtml(OFFICIAL_SOURCE_LABELS[agency] || agency)}</a> <small class="source-count">(${escapeHtml(formatNumber(n))})</small></li>`
+                    )
+                    .join("")}</ul>`
+                : "<p>No source breakdown in this dataset.</p>"
+            }
+            <a class="button ghost" href="/sources/">Source directory</a>
+          </section>
+          <section class="side-panel">
+            <h2>Topic hub</h2>
+            <p>Keywords, agencies, and alert types in one place for crawlers and readers.</p>
+            <a class="button ghost" href="${escapeHtml(topicsUrl())}">Open topics</a>
           </section>
           <section class="side-panel">
             <h2>Data policy</h2>
@@ -653,6 +775,258 @@ function companyPage(company, items) {
   });
 }
 
+function companiesIndexPage(companyGroups) {
+  const companies = [...companyGroups.entries()]
+    .map(([company, items]) => ({ company, items }))
+    .sort((a, b) => b.items.length - a.items.length || a.company.localeCompare(b.company));
+  return layout({
+    title: "Companies With Recalls, Refunds, and Settlement Alerts - ClaimWatch",
+    description: "Browse companies connected to verified consumer recalls, refund programs, lawsuits, and settlement claim records.",
+    path: companiesUrl(),
+    schema: [
+      ...siteSchema(),
+      breadcrumbSchema([{ name: "Home", url: "/" }, { name: "Companies", url: companiesUrl() }]),
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        name: "Companies with verified consumer alerts",
+        itemListElement: companies.slice(0, 100).map((entry, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          url: absolute(companyUrl(entry.company)),
+          name: entry.company
+        }))
+      },
+      pseoCollectionFaqSchema("Companies with verified consumer alerts")
+    ],
+    children: `
+      <section class="page-intro">
+        <p class="eyebrow">Company index</p>
+        <h1>Companies with verified consumer alerts</h1>
+        <p>Use this index to find recall, refund, lawsuit, and settlement pages by company or brand. Each company page links back to official-source records.</p>
+        <p class="mini-nav"><a href="${escapeHtml(topicsUrl())}">Topics</a> · <a href="/sources/">Sources</a></p>
+      </section>
+      <section class="cards list-cards">${companies
+        .map(
+          ({ company, items }) => `<article class="alert-card">
+            <div class="card-topline"><span class="chip verified">${escapeHtml(items.length)} verified ${items.length === 1 ? "record" : "records"}</span></div>
+            <h3><a href="${escapeHtml(companyUrl(company))}">${escapeHtml(company)}</a></h3>
+            <p>${escapeHtml(shortText(`Latest verified consumer alerts involving ${company}: ${items.map((item) => item.title).join("; ")}`, 190))}</p>
+            <a class="button primary" href="${escapeHtml(companyUrl(company))}">View company alerts</a>
+          </article>`
+        )
+        .join("")}</section>
+    `
+  });
+}
+
+function collectionPage({ title, description, pagePath, eyebrow, items, robots = "index,follow" }) {
+  const fullTitle = `${title} - ClaimWatch`;
+  return layout({
+    title: fullTitle,
+    description,
+    path: pagePath,
+    robots,
+    schema: [
+      ...siteSchema(),
+      breadcrumbSchema([{ name: "Home", url: "/" }, { name: title, url: pagePath }]),
+      itemListSchema(title, items),
+      pseoCollectionFaqSchema(title)
+    ],
+    children: `
+      <section class="page-intro">
+        <p class="eyebrow">${escapeHtml(eyebrow)}</p>
+        <h1>${escapeHtml(title)}</h1>
+        <p>${escapeHtml(description)}</p>
+        <p class="mini-nav"><a href="${escapeHtml(companiesUrl())}">Companies</a> · <a href="${escapeHtml(topicsUrl())}">Topics</a> · <a href="/sources/">Sources</a></p>
+      </section>
+      <section class="cards list-cards">${items.map(itemCard).join("")}</section>
+    `
+  });
+}
+
+function searchConsoleObservabilityPage(seoMetricsPayload) {
+  const { inventory, pseo, searchConsole, checklist } = seoMetricsPayload;
+  const src = pseo.sourceAgencyPages;
+  const cat = pseo.categoryTypePages;
+  const claims = pseo.claimTopics;
+  return layout({
+    title: `Search Console observability - ${SITE.name}`,
+    description:
+      "Internal build inventory for Search Console: sitemap scale, pSEO group splits, and noindex routing. Not intended for public search results.",
+    path: seoConsolePath(),
+    robots: "noindex,nofollow",
+    schema: [],
+    children: `
+      <section class="page-intro">
+        <p class="eyebrow">Internal · noindex,nofollow</p>
+        <h1>Search Console observability</h1>
+        <p>Use after deploy to compare GSC coverage with static output. This page and <code>/api/seo-metrics.json</code> stay out of <code>sitemap.xml</code>.</p>
+        <p class="mini-nav"><a href="${escapeHtml(searchConsole.metricsJsonUrl)}">JSON metrics</a> · <a href="${escapeHtml(
+      searchConsole.sitemapUrl
+    )}">Sitemap</a> · <a href="${escapeHtml(searchConsole.robotsUrl)}">robots.txt</a></p>
+      </section>
+      <section class="detail-section">
+        <h2>Inventory</h2>
+        <ul>
+          <li><strong>Build time (UTC):</strong> <code>${escapeHtml(inventory.builtAt)}</code></li>
+          <li><strong>Rows in data feed:</strong> ${escapeHtml(String(inventory.dataItems))}</li>
+          <li><strong>Verified public records:</strong> ${escapeHtml(String(inventory.verifiedForPublicFeed))}</li>
+          <li><strong>Monitoring candidates:</strong> ${escapeHtml(String(inventory.monitoringCandidates))}</li>
+          <li><strong>Sitemap URL entries:</strong> ${escapeHtml(String(inventory.sitemapEntries))}</li>
+          <li><strong>Detail HTML pages (all statuses):</strong> ${escapeHtml(String(inventory.detailPagesTotal))}</li>
+        </ul>
+      </section>
+      <section class="detail-section">
+        <h2>pSEO collection splits</h2>
+        <p><strong>Thin</strong> groups are still published for UX but use <code>noindex,follow</code> on the collection template.</p>
+        <ul>
+          <li><strong>Source agency pages:</strong> ${escapeHtml(src.indexable)} indexable, ${escapeHtml(src.thin)} thin, ${escapeHtml(
+      src.total
+    )} total</li>
+          <li><strong>Category type pages:</strong> ${escapeHtml(cat.indexable)} indexable, ${escapeHtml(cat.thin)} thin, ${escapeHtml(
+      cat.total
+    )} total</li>
+          <li><strong>Company profile pages:</strong> ${escapeHtml(String(pseo.companyProfiles))}</li>
+          <li><strong>Claim topic pages:</strong> ${escapeHtml(claims.publishedCapped)} published (≤ cap ${escapeHtml(
+      String(claims.cap)
+    )}), ${escapeHtml(claims.qualifiedPrecap)} qualified before cap</li>
+        </ul>
+      </section>
+      <section class="detail-section">
+        <h2>Search Console shortcuts</h2>
+        <ul>
+          <li><a href="${escapeHtml(searchConsole.googleSearchConsole)}" rel="nofollow noopener">Open Google Search Console</a></li>
+          <li>Property URL: <a href="${escapeHtml(searchConsole.propertyUrl)}">${escapeHtml(searchConsole.propertyUrl)}</a></li>
+          <li>Verification file: <a href="${escapeHtml(searchConsole.verificationUrl)}">${escapeHtml(searchConsole.verificationUrl)}</a></li>
+          <li>Sitemap URL to submit: <a href="${escapeHtml(searchConsole.sitemapUrl)}">${escapeHtml(searchConsole.sitemapUrl)}</a></li>
+        </ul>
+      </section>
+      <section class="detail-section">
+        <h2>Post-deploy checklist</h2>
+        <ol>
+          ${checklist.map((step) => `<li>${escapeHtml(step)}</li>`).join("")}
+        </ol>
+      </section>
+      <section class="detail-section">
+        <h2>Canonical routing reminders</h2>
+        <ul>
+          <li><code>/search/</code>, empty type hubs, and thin pSEO collections → <code>noindex,follow</code> (crawl but do not prefer for SERP).</li>
+          <li><code>/admin/</code>, monitoring detail pages, this page → <code>noindex,nofollow</code>.</li>
+          <li>Monitoring slugs are omitted from the sitemap even though HTML exists for operator preview.</li>
+        </ul>
+      </section>
+      <script src="/assets/site.js" defer></script>
+    `
+  });
+}
+
+function sourcePage(agency, items) {
+  const label = OFFICIAL_SOURCE_LABELS[agency] || agency;
+  return collectionPage({
+    title: `${label} recall and refund alerts`,
+    description: `Verified ClaimWatch records sourced from ${label}, including recalls, safety alerts, refunds, and consumer instructions.`,
+    pagePath: sourceUrl(agency),
+    eyebrow: "Official source",
+    items,
+    robots: isIndexablePseoGroup(items) ? "index,follow" : "noindex,follow"
+  });
+}
+
+function categoryPage(type, items) {
+  const label = TYPE_LABELS[type] || titleCase(type);
+  return collectionPage({
+    title: `${label} alerts and claim records`,
+    description: `Browse verified ${label.toLowerCase()} pages with official source links, affected product details, consumer actions, and related claim information.`,
+    pagePath: categoryUrl(type),
+    eyebrow: "Alert category",
+    items,
+    robots: isIndexablePseoGroup(items) ? "index,follow" : "noindex,follow"
+  });
+}
+
+function claimPage(query, items) {
+  const term = titleCase(query);
+  return collectionPage({
+    title: `${term} recall, refund, and settlement tracker`,
+    description: `Verified ClaimWatch records matching "${query}" with official source links, affected consumers, remedies, deadlines, and related alerts.`,
+    pagePath: claimUrl(query),
+    eyebrow: "Search demand page",
+    items,
+    robots: isIndexablePseoGroup(items) ? "index,follow" : "noindex,follow"
+  });
+}
+
+function topicsHubPage({ indexableClaimGroups, sourceGroups, categoryGroups }) {
+  const topicLinks = indexableClaimGroups.slice(0, 48).map(([query]) => ({
+    name: `${titleCase(query)} tracker`,
+    url: claimUrl(query)
+  }));
+  const sourceLinks = [...sourceGroups.entries()]
+    .filter(([, agencyItems]) => isIndexablePseoGroup(agencyItems))
+    .sort((a, b) => b[1].length - a[1].length)
+    .map(([agency]) => ({
+      name: `${OFFICIAL_SOURCE_LABELS[agency] || agency} alerts`,
+      url: sourceUrl(agency)
+    }));
+  const categoryLinks = [...categoryGroups.entries()]
+    .filter(([, typeItems]) => isIndexablePseoGroup(typeItems))
+    .sort((a, b) => b[1].length - a[1].length)
+    .map(([type]) => ({
+      name: `${TYPE_LABELS[type] || titleCase(type)} index`,
+      url: categoryUrl(type)
+    }));
+  const hubEntries = [...topicLinks, ...sourceLinks, ...categoryLinks];
+  const hubListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "ClaimWatch topic and index hub",
+    itemListElement: hubEntries.slice(0, 80).map((entry, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: absolute(entry.url),
+      name: entry.name
+    }))
+  };
+  const pageTitle = "Consumer alert topics and indexes";
+  return layout({
+    title: `${pageTitle} - ClaimWatch`,
+    description:
+      "Directory of search-demand claim topics, official-source alert indexes, and alert-type hubs. Each destination lists official-source verified consumer records.",
+    path: topicsUrl(),
+    schema: [
+      ...siteSchema(),
+      breadcrumbSchema([
+        { name: "Home", url: "/" },
+        { name: "Topics", url: topicsUrl() }
+      ]),
+      hubListSchema,
+      pseoCollectionFaqSchema(pageTitle)
+    ],
+    children: `
+      <section class="page-intro prose">
+        <p class="eyebrow">Topic hub</p>
+        <h1>${escapeHtml(pageTitle)}</h1>
+        <p>Browse programmatic SEO landing pages that group verified recalls, refunds, settlements, and safety alerts. Every linked page ties back to official sources.</p>
+        <p class="mini-nav"><a href="${escapeHtml(companiesUrl())}">Companies</a> · <a href="/sources/">Sources</a> · <a href="/recalls/">Recalls</a></p>
+      </section>
+      <section class="page-intro prose">
+        <h2>High-demand claim and recall topics</h2>
+        <p>Pages generated from matched consumer search phrases with multiple verified records.</p>
+        ${
+          topicLinks.length
+            ? `<ul class="hub-links">${topicLinks.map((t) => `<li><a href="${escapeHtml(t.url)}">${escapeHtml(t.name)}</a></li>`).join("")}</ul>`
+            : "<p>No multi-record topic pages in the current dataset.</p>"
+        }
+        <h2>Browse by official source</h2>
+        <ul class="hub-links">${sourceLinks.map((t) => `<li><a href="${escapeHtml(t.url)}">${escapeHtml(t.name)}</a></li>`).join("")}</ul>
+        <h2>Browse by alert type</h2>
+        <ul class="hub-links">${categoryLinks.map((t) => `<li><a href="${escapeHtml(t.url)}">${escapeHtml(t.name)}</a></li>`).join("")}</ul>
+      </section>
+    `
+  });
+}
+
 function simplePage({ title, pagePath, description, body }) {
   return layout({
     title: `${title} - ClaimWatch`,
@@ -701,7 +1075,7 @@ ${urls.map((url) => `  <url>
 }
 
 function css() {
-  return `:root{--bg:#f7f9fc;--surface:#fff;--ink:#172033;--muted:#647084;--line:#dfe5ee;--blue:#246bfe;--blue-dark:#174bc2;--amber:#f59e0b;--green:#15803d;--red:#dc2626;--shadow:0 18px 45px rgba(18,32,54,.08);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f7f9fc}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink)}a{color:inherit;text-decoration:none}a:hover{text-decoration:underline}.site-header{height:72px;display:flex;align-items:center;justify-content:space-between;padding:0 32px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.94);position:sticky;top:0;z-index:10;backdrop-filter:blur(14px)}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:38px;height:38px;border-radius:8px;background:#172033;color:#fff;display:grid;place-items:center;font-weight:800}.brand small{display:block;color:var(--muted);font-size:12px;margin-top:2px}.nav{display:flex;gap:20px;color:#344054;font-size:14px}.hero-panel{max-width:1180px;margin:32px auto 18px;padding:30px;background:var(--surface);border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);display:grid;grid-template-columns:minmax(260px,1fr) minmax(360px,1.3fr);gap:24px}.eyebrow{text-transform:uppercase;letter-spacing:0;color:var(--blue);font-size:12px;font-weight:800;margin:0 0 10px}.hero-copy h1{font-size:42px;line-height:1.04;margin:0 0 14px;max-width:760px}.hero-copy p{color:var(--muted);font-size:17px;line-height:1.55;margin:0}.trust-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.trust-row span{background:#f8fafc;border:1px solid var(--line);border-radius:999px;color:#334155;font-size:13px;font-weight:750;padding:7px 10px}.search-box{background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:18px}.search-box label{font-weight:750;display:block;margin-bottom:10px}.search-row{display:flex;gap:10px}.search-row input{flex:1;border:1px solid #cbd5e1;border-radius:8px;padding:13px 14px;font-size:15px;background:#fff}.search-row button,.button{border:0;border-radius:8px;padding:12px 16px;font-weight:750;cursor:pointer;display:inline-flex;align-items:center;justify-content:center}.search-row button,.button.primary{background:var(--blue);color:#fff}.button.primary:hover,.search-row button:hover{background:var(--blue-dark);text-decoration:none}.button.ghost{background:#eef4ff;color:var(--blue)}.load-more{margin:18px auto 0;border:1px solid var(--line);background:#fff;color:var(--blue);border-radius:8px;padding:12px 16px;font-weight:800;cursor:pointer;display:inline-flex}.load-more:hover{background:#eef4ff}.filters,.tabbar{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.filters button,.tabbar button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:9px 12px;color:#334155;cursor:pointer;font-weight:650}.filters .active,.tabbar .active{background:#e9f0ff;border-color:#a9c0ff;color:#174bc2}.source-strip{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:16px}.source-strip span{font-size:13px;color:var(--muted);font-weight:750}.source-strip a,.source-strip em{background:#f8fafc;border:1px solid var(--line);color:#334155;border-radius:999px;padding:6px 10px;font-size:13px;font-style:normal}.source-strip strong{color:#172033}.metrics-row{max-width:1180px;margin:0 auto 24px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.metrics-row div{background:#fff;border:1px solid var(--line);border-radius:8px;padding:16px}.metrics-row strong{display:block;font-size:26px;line-height:1;color:#172033}.metrics-row span{display:block;color:var(--muted);font-size:13px;font-weight:700;margin-top:7px}.content-grid{max-width:1180px;margin:0 auto 48px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px}.section-heading{display:flex;align-items:end;justify-content:space-between;margin:10px 0 16px}.section-heading h2,.side-panel h2{margin:0}.section-heading a{color:var(--blue);font-weight:750}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.list-cards{max-width:1180px;margin:0 auto 48px}.compact{grid-template-columns:repeat(3,minmax(0,1fr))}.alert-card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px;box-shadow:0 8px 24px rgba(18,32,54,.05);display:flex;flex-direction:column;gap:12px;min-height:320px}.alert-card h3{margin:0;font-size:18px;line-height:1.28}.alert-card p{margin:0;color:var(--muted);line-height:1.5}.card-topline{display:flex;flex-wrap:wrap;gap:7px}.chip{display:inline-flex;align-items:center;border-radius:999px;padding:5px 9px;font-size:12px;font-weight:800;border:1px solid var(--line);background:#f8fafc;color:#475569}.chip.verified{background:#ecfdf5;color:#166534;border-color:#bbf7d0}.chip.agency{background:#f1f5f9;color:#334155}.chip.monitoring,.status-monitoring{background:#fff7ed;color:#9a3412;border-color:#fed7aa}.status-active{background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe}.type-recall{background:#fef2f2;color:#991b1b;border-color:#fecaca}.type-settlement{background:#eef4ff;color:#174bc2;border-color:#c7d2fe}.type-refund{background:#ecfdf5;color:#166534;border-color:#bbf7d0}.trending{background:#fff7ed;color:#9a3412}.mini-facts{display:grid;grid-template-columns:1fr;gap:8px;margin:0}.mini-facts div,.fact-box dl div{display:grid;grid-template-columns:96px 1fr;gap:10px}.mini-facts dt,.fact-box dt{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase}.mini-facts dd,.fact-box dd{margin:0;font-size:14px}.card-actions,.button-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:auto}.sidebar{display:flex;flex-direction:column;gap:16px}.side-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px}.side-panel p{color:var(--muted);line-height:1.55}.side-link{display:block;padding:12px 0;border-top:1px solid var(--line)}.side-link:first-of-type{border-top:0}.side-link span{display:block;font-weight:750}.side-link small{display:block;color:var(--muted);margin-top:4px}.source-list{margin:10px 0 0;padding-left:18px;color:var(--muted);line-height:1.8}.page-intro{max-width:1180px;margin:32px auto 22px;padding:26px;background:#fff;border:1px solid var(--line);border-radius:8px}.page-intro h1{font-size:38px;margin:0 0 10px}.page-intro p{color:var(--muted);line-height:1.6}.prose{max-width:860px}.prose h2{margin-top:28px}.detail{max-width:1180px;margin:32px auto 50px}.detail-header{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:24px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;box-shadow:var(--shadow)}.detail-header h1{font-size:40px;line-height:1.08;margin:0 0 12px}.detail-header p{color:var(--muted);line-height:1.6}.fact-box{background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:18px}.fact-box h2{margin:0 0 12px}.fact-box dl{display:grid;gap:10px;margin:0}.record-banner{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,.8fr);gap:20px;background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:22px;margin-top:18px}.record-banner h2{margin:0 0 8px}.record-banner p{margin:0;color:var(--muted);line-height:1.55}.record-banner dl{margin:0;display:grid;gap:10px}.record-banner div div,.record-banner dl div{display:grid;grid-template-columns:90px 1fr;gap:10px}.record-banner dt{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase}.record-banner dd{margin:0;word-break:break-word}.detail-section{background:#fff;border:1px solid var(--line);border-radius:8px;padding:22px;margin-top:18px}.detail-section h2{margin:0 0 12px}.detail-section h3{margin:18px 0 6px}.detail-section p{color:#475569;line-height:1.65}.term-list{display:flex;flex-wrap:wrap;gap:8px}.term-list span{background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;border-radius:999px;padding:6px 10px;font-size:13px}.footer{border-top:1px solid var(--line);background:#fff;padding:26px 32px;display:flex;justify-content:space-between;gap:20px;color:#647084}.footer p{margin:6px 0 0}.footer nav{display:flex;gap:14px;flex-wrap:wrap}.admin-grid{max-width:1180px;margin:0 auto 48px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px}.admin-main{display:grid;gap:16px}.admin-card{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px;box-shadow:0 8px 24px rgba(18,32,54,.05);display:flex;flex-direction:column;gap:12px}.admin-card h3{margin:0;font-size:19px}.admin-card p{margin:0;color:var(--muted);line-height:1.5}.admin-steps{padding-left:20px;color:#475569;line-height:1.7}.admin-steps code,.page-intro code{background:#eef2f7;border:1px solid var(--line);border-radius:6px;padding:1px 5px}@media (max-width:900px){.site-header{height:auto;align-items:flex-start;gap:14px;flex-direction:column;padding:18px}.nav{flex-wrap:wrap}.hero-panel,.content-grid,.detail-header,.record-banner{grid-template-columns:1fr;margin-left:16px;margin-right:16px}.metrics-row{grid-template-columns:repeat(2,minmax(0,1fr));margin-left:16px;margin-right:16px}.hero-copy h1,.detail-header h1{font-size:32px}.cards,.compact{grid-template-columns:1fr}.page-intro,.detail{margin-left:16px;margin-right:16px}.footer{flex-direction:column}.search-row{flex-direction:column}}`;
+  return `:root{--bg:#f7f9fc;--surface:#fff;--ink:#172033;--muted:#647084;--line:#dfe5ee;--blue:#246bfe;--blue-dark:#174bc2;--amber:#f59e0b;--green:#15803d;--red:#dc2626;--shadow:0 18px 45px rgba(18,32,54,.08);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f7f9fc}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink)}a{color:inherit;text-decoration:none}a:hover{text-decoration:underline}.site-header{height:72px;display:flex;align-items:center;justify-content:space-between;padding:0 32px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.94);position:sticky;top:0;z-index:10;backdrop-filter:blur(14px)}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:38px;height:38px;border-radius:8px;background:#172033;color:#fff;display:grid;place-items:center;font-weight:800}.brand small{display:block;color:var(--muted);font-size:12px;margin-top:2px}.nav{display:flex;gap:20px;color:#344054;font-size:14px}.hero-panel{max-width:1180px;margin:32px auto 18px;padding:30px;background:var(--surface);border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);display:grid;grid-template-columns:minmax(260px,1fr) minmax(360px,1.3fr);gap:24px}.eyebrow{text-transform:uppercase;letter-spacing:0;color:var(--blue);font-size:12px;font-weight:800;margin:0 0 10px}.hero-copy h1{font-size:42px;line-height:1.04;margin:0 0 14px;max-width:760px}.hero-copy p{color:var(--muted);font-size:17px;line-height:1.55;margin:0}.trust-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.trust-row span{background:#f8fafc;border:1px solid var(--line);border-radius:999px;color:#334155;font-size:13px;font-weight:750;padding:7px 10px}.search-box{background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:18px}.search-box label{font-weight:750;display:block;margin-bottom:10px}.search-row{display:flex;gap:10px}.search-row input{flex:1;border:1px solid #cbd5e1;border-radius:8px;padding:13px 14px;font-size:15px;background:#fff}.search-row button,.button{border:0;border-radius:8px;padding:12px 16px;font-weight:750;cursor:pointer;display:inline-flex;align-items:center;justify-content:center}.search-row button,.button.primary{background:var(--blue);color:#fff}.button.primary:hover,.search-row button:hover{background:var(--blue-dark);text-decoration:none}.button.ghost{background:#eef4ff;color:var(--blue)}.load-more{margin:18px auto 0;border:1px solid var(--line);background:#fff;color:var(--blue);border-radius:8px;padding:12px 16px;font-weight:800;cursor:pointer;display:inline-flex}.load-more:hover{background:#eef4ff}.filters,.tabbar{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.filters button,.tabbar button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:9px 12px;color:#334155;cursor:pointer;font-weight:650}.filters .active,.tabbar .active{background:#e9f0ff;border-color:#a9c0ff;color:#174bc2}.source-strip{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-top:1px solid var(--line);padding-top:16px}.source-strip span{font-size:13px;color:var(--muted);font-weight:750}.source-strip a,.source-strip em{background:#f8fafc;border:1px solid var(--line);color:#334155;border-radius:999px;padding:6px 10px;font-size:13px;font-style:normal}.source-strip strong{color:#172033}.metrics-row{max-width:1180px;margin:0 auto 24px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.metrics-row div{background:#fff;border:1px solid var(--line);border-radius:8px;padding:16px}.metrics-row strong{display:block;font-size:26px;line-height:1;color:#172033}.metrics-row span{display:block;color:var(--muted);font-size:13px;font-weight:700;margin-top:7px}.content-grid{max-width:1180px;margin:0 auto 48px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px}.section-heading{display:flex;align-items:end;justify-content:space-between;margin:10px 0 16px}.section-heading h2,.side-panel h2{margin:0}.section-heading a{color:var(--blue);font-weight:750}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.list-cards{max-width:1180px;margin:0 auto 48px}.compact{grid-template-columns:repeat(3,minmax(0,1fr))}.alert-card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px;box-shadow:0 8px 24px rgba(18,32,54,.05);display:flex;flex-direction:column;gap:12px;min-height:320px}.alert-card h3{margin:0;font-size:18px;line-height:1.28}.alert-card p{margin:0;color:var(--muted);line-height:1.5}.card-topline{display:flex;flex-wrap:wrap;gap:7px}.chip{display:inline-flex;align-items:center;border-radius:999px;padding:5px 9px;font-size:12px;font-weight:800;border:1px solid var(--line);background:#f8fafc;color:#475569}.chip.verified{background:#ecfdf5;color:#166534;border-color:#bbf7d0}.chip.agency{background:#f1f5f9;color:#334155}.chip.monitoring,.status-monitoring{background:#fff7ed;color:#9a3412;border-color:#fed7aa}.status-active{background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe}.type-recall{background:#fef2f2;color:#991b1b;border-color:#fecaca}.type-settlement{background:#eef4ff;color:#174bc2;border-color:#c7d2fe}.type-refund{background:#ecfdf5;color:#166534;border-color:#bbf7d0}.trending{background:#fff7ed;color:#9a3412}.mini-facts{display:grid;grid-template-columns:1fr;gap:8px;margin:0}.mini-facts div,.fact-box dl div{display:grid;grid-template-columns:96px 1fr;gap:10px}.mini-facts dt,.fact-box dt{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase}.mini-facts dd,.fact-box dd{margin:0;font-size:14px}.card-actions,.button-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:auto}.sidebar{display:flex;flex-direction:column;gap:16px}.side-panel{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px}.side-panel p{color:var(--muted);line-height:1.55}.side-link{display:block;padding:12px 0;border-top:1px solid var(--line)}.side-link:first-of-type{border-top:0}.side-link span{display:block;font-weight:750}.side-link small{display:block;color:var(--muted);margin-top:4px}.source-list{margin:10px 0 0;padding-left:18px;color:var(--muted);line-height:1.8}.page-intro{max-width:1180px;margin:32px auto 22px;padding:26px;background:#fff;border:1px solid var(--line);border-radius:8px}.page-intro h1{font-size:38px;margin:0 0 10px}.page-intro p{color:var(--muted);line-height:1.6}.mini-nav{margin-top:14px;font-size:15px;color:var(--muted)}.mini-nav a{font-weight:750;color:var(--blue)}.hub-links{margin:10px 0 24px;padding-left:22px;line-height:1.85;color:#475569}.source-list .source-count{color:var(--muted);font-weight:650}.prose{max-width:860px}.prose h2{margin-top:28px}.detail{max-width:1180px;margin:32px auto 50px}.detail-header{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:24px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:28px;box-shadow:var(--shadow)}.detail-header h1{font-size:40px;line-height:1.08;margin:0 0 12px}.detail-header p{color:var(--muted);line-height:1.6}.fact-box{background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:18px}.fact-box h2{margin:0 0 12px}.fact-box dl{display:grid;gap:10px;margin:0}.record-banner{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,.8fr);gap:20px;background:#f8fafc;border:1px solid var(--line);border-radius:8px;padding:22px;margin-top:18px}.record-banner h2{margin:0 0 8px}.record-banner p{margin:0;color:var(--muted);line-height:1.55}.record-banner dl{margin:0;display:grid;gap:10px}.record-banner div div,.record-banner dl div{display:grid;grid-template-columns:90px 1fr;gap:10px}.record-banner dt{font-size:12px;color:var(--muted);font-weight:800;text-transform:uppercase}.record-banner dd{margin:0;word-break:break-word}.detail-section{background:#fff;border:1px solid var(--line);border-radius:8px;padding:22px;margin-top:18px}.detail-section h2{margin:0 0 12px}.detail-section h3{margin:18px 0 6px}.detail-section p{color:#475569;line-height:1.65}.term-list{display:flex;flex-wrap:wrap;gap:8px}.term-list span{background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;border-radius:999px;padding:6px 10px;font-size:13px}.footer{border-top:1px solid var(--line);background:#fff;padding:26px 32px;display:flex;justify-content:space-between;gap:20px;color:#647084}.footer p{margin:6px 0 0}.footer nav{display:flex;gap:14px;flex-wrap:wrap}.admin-grid{max-width:1180px;margin:0 auto 48px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px}.admin-main{display:grid;gap:16px}.admin-card{background:#fff;border:1px solid var(--line);border-radius:8px;padding:18px;box-shadow:0 8px 24px rgba(18,32,54,.05);display:flex;flex-direction:column;gap:12px}.admin-card h3{margin:0;font-size:19px}.admin-card p{margin:0;color:var(--muted);line-height:1.5}.admin-steps{padding-left:20px;color:#475569;line-height:1.7}.admin-steps code,.page-intro code{background:#eef2f7;border:1px solid var(--line);border-radius:6px;padding:1px 5px}@media (max-width:900px){.site-header{height:auto;align-items:flex-start;gap:14px;flex-direction:column;padding:18px}.nav{flex-wrap:wrap}.hero-panel,.content-grid,.detail-header,.record-banner{grid-template-columns:1fr;margin-left:16px;margin-right:16px}.metrics-row{grid-template-columns:repeat(2,minmax(0,1fr));margin-left:16px;margin-right:16px}.hero-copy h1,.detail-header h1{font-size:32px}.cards,.compact{grid-template-columns:1fr}.page-intro,.detail{margin-left:16px;margin-right:16px}.footer{flex-direction:column}.search-row{flex-direction:column}}`;
 }
 
 function js() {
@@ -715,12 +1089,27 @@ const publicItems = items.filter((item) => item.officialVerified);
 const monitoringItems = items.filter((item) => !item.officialVerified);
 const countsByType = typeCounts(publicItems);
 const deadlineCount = publicItems.filter((item) => item.deadline).length;
+const sourceGroups = groupBy(publicItems, (item) => item.sourceAgency);
+const categoryGroups = groupBy(publicItems, (item) => item.type);
+const claimGroups = groupBy(
+  publicItems.flatMap((item) => (item.matchedQueries || []).map((query) => ({ ...item, matchedQuery: String(query || "").trim().toLowerCase() }))),
+  (item) => item.matchedQuery
+);
+const stopClaimTerms = new Set(["claim", "claims", "class action", "lawsuit", "payout", "recall", "refund", "settlement"]);
+const indexableClaimGroups = uniqueBy(
+  [...claimGroups.entries()]
+    .filter(([query, queryItems]) => query.length >= 3 && query.length <= 80 && !stopClaimTerms.has(query) && slugify(query) && isIndexablePseoGroup(queryItems))
+    .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0])),
+  ([query]) => slugify(query)
+).slice(0, 120);
 navLinks = [
   { href: "/recalls/", label: "Recalls" },
   ...(countsByType["safety-alert"] ? [{ href: "/safety-alerts/", label: "Safety Alerts" }] : []),
   ...(countsByType.settlement ? [{ href: "/settlements/", label: "Settlements" }] : []),
   ...(countsByType.refund ? [{ href: "/refunds/", label: "Refunds" }] : []),
   ...(deadlineCount ? [{ href: "/deadlines/", label: "Deadlines" }] : []),
+  { href: "/companies/", label: "Companies" },
+  { href: "/topics/", label: "Topics" },
   { href: "/sources/", label: "Sources" }
 ];
 
@@ -758,6 +1147,21 @@ for (const item of items) {
 for (const [company, companyItems] of companyGroups) {
   await writePublic(`company/${slugify(company)}/index.html`, companyPage(company, companyItems));
 }
+await writePublic("companies/index.html", companiesIndexPage(companyGroups));
+
+for (const [agency, agencyItems] of sourceGroups) {
+  await writePublic(`sources/${slugify(agency)}/index.html`, sourcePage(agency, agencyItems));
+}
+
+for (const [type, typeItems] of categoryGroups) {
+  await writePublic(`categories/${slugify(type)}/index.html`, categoryPage(type, typeItems));
+}
+
+for (const [query, queryItems] of indexableClaimGroups) {
+  await writePublic(`claims/${slugify(query)}/index.html`, claimPage(query, uniqueBy(queryItems, (item) => item.slug)));
+}
+
+await writePublic("topics/index.html", topicsHubPage({ indexableClaimGroups, sourceGroups, categoryGroups }));
 
 await writePublic(
   "sources/index.html",
@@ -766,7 +1170,7 @@ await writePublic(
     pagePath: "/sources/",
     description: "Official sources used by ClaimWatch.",
     body: `<p>ClaimWatch prioritizes official agency and administrator sources. Trend data helps prioritize pages, but official source matching determines whether an alert is marked verified.</p>
-      <div class="cards list-cards">${sources.map((source) => `<article class="alert-card"><div class="card-topline"><span class="chip verified">${escapeHtml(source.agency)}</span></div><h3>${escapeHtml(source.name)}</h3><p>${escapeHtml(source.coverage)}</p><a class="button ghost" href="${escapeHtml(source.url)}" rel="nofollow noopener">Open source</a></article>`).join("")}</div>`
+      <div class="cards list-cards">${sources.map((source) => `<article class="alert-card"><div class="card-topline"><span class="chip verified">${escapeHtml(source.agency)}</span></div><h3>${escapeHtml(source.name)}</h3><p>${escapeHtml(source.coverage)}</p><div class="card-actions"><a class="button primary" href="${escapeHtml(sourceUrl(source.agency))}">View ClaimWatch records</a><a class="button ghost" href="${escapeHtml(source.url)}" rel="nofollow noopener">Open source</a></div></article>`).join("")}</div>`
   })
 );
 
@@ -847,11 +1251,68 @@ const urls = [
   ...(countsByType.settlement ? [{ loc: "/settlements/", priority: "0.9" }] : []),
   ...(countsByType.refund ? [{ loc: "/refunds/", priority: "0.9" }] : []),
   ...(deadlineCount ? [{ loc: "/deadlines/", priority: "0.8" }] : []),
+  ...(companyGroups.size ? [{ loc: companiesUrl(), priority: "0.75" }] : []),
+  { loc: topicsUrl(), priority: "0.72" },
   { loc: "/sources/", priority: "0.6" },
   { loc: "/methodology/", priority: "0.6" },
+  ...[...sourceGroups.entries()]
+    .filter(([, agencyItems]) => isIndexablePseoGroup(agencyItems))
+    .map(([agency]) => ({ loc: sourceUrl(agency), priority: "0.75" })),
+  ...[...categoryGroups.entries()]
+    .filter(([, typeItems]) => isIndexablePseoGroup(typeItems))
+    .map(([type]) => ({ loc: categoryUrl(type), priority: "0.75" })),
+  ...indexableClaimGroups.map(([query]) => ({ loc: claimUrl(query), priority: "0.7" })),
   ...publicItems.map((item) => ({ loc: itemUrl(item), lastmod: item.lastUpdated || now, priority: "0.85", changefreq: "daily" })),
   ...[...companyGroups.keys()].map((company) => ({ loc: companyUrl(company), priority: "0.65" }))
 ];
+const claimQualifiedGroups = [...claimGroups.entries()].filter(
+  ([query, queryItems]) =>
+    query.length >= 3 &&
+    query.length <= 80 &&
+    !stopClaimTerms.has(query) &&
+    slugify(query) &&
+    isIndexablePseoGroup(queryItems)
+);
+const seoMetricsPayload = {
+  updatedAt: now,
+  siteUrl,
+  inventory: {
+    builtAt: now,
+    dataItems: items.length,
+    verifiedForPublicFeed: publicItems.length,
+    monitoringCandidates: monitoringItems.length,
+    sitemapEntries: urls.length,
+    detailPagesTotal: items.length
+  },
+  pseo: {
+    sourceAgencyPages: splitIndexableGroups(sourceGroups),
+    categoryTypePages: splitIndexableGroups(categoryGroups),
+    companyProfiles: companyGroups.size,
+    claimTopics: {
+      publishedCapped: indexableClaimGroups.length,
+      qualifiedPrecap: claimQualifiedGroups.length,
+      cap: 120
+    }
+  },
+  searchConsole: {
+    googleSearchConsole: "https://search.google.com/search-console",
+    propertyUrl: siteUrl,
+    verificationUrl: absolute("/google9b173ddcc7370e15.html"),
+    sitemapUrl: absolute("/sitemap.xml"),
+    robotsUrl: absolute("/robots.txt"),
+    metricsJsonUrl: absolute("/api/seo-metrics.json"),
+    htmlObservabilityUrl: absolute(seoConsolePath())
+  },
+  checklist: [
+    "Confirm the Search Console property uses the same host as siteUrl (including HTTPS).",
+    "Submit sitemap.xml and wait for the first successful fetch.",
+    "Spot-check URL counts: GSC indexed ≈ inventory.sitemapEntries plus gradual discovery of thin pages.",
+    "Compare /api/seo-metrics.json after each build to catch sudden sitemap inflation.",
+    "Use the Coverage and Removals reports if thin or internal pages appear with the wrong robots tag."
+  ]
+};
+await writePublic("api/seo-metrics.json", `${JSON.stringify(seoMetricsPayload, null, 2)}\n`);
+await writePublic("seo-console/index.html", searchConsoleObservabilityPage(seoMetricsPayload));
 await writePublic("sitemap.xml", sitemap(urls));
 await writePublic(
   "robots.txt",
@@ -875,6 +1336,8 @@ ClaimWatch is a US consumer recall, refund, settlement, and claim deadline track
 - Sitemap: ${absolute("/sitemap.xml")}
 - Methodology: ${absolute("/methodology/")}
 - Sources: ${absolute("/sources/")}
+- Companies: ${absolute(companiesUrl())}
+- Topics hub: ${absolute(topicsUrl())}
 
 ## Data Policy
 Trend data is used for prioritization. Official source matching is required before an item is marked as verified. Monitoring pages are informational and should not be treated as official legal, medical, or financial advice.

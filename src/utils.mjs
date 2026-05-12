@@ -143,7 +143,7 @@ export async function fetchJson(url, options = {}) {
   try {
     const response = await fetch(url, {
       headers: {
-        "user-agent": "ClaimWatchMVP/0.1 (+https://example.com; consumer alert crawler)",
+        "user-agent": "ClaimWatchMVP/0.1 (+https://simon622.shop; consumer alert crawler)",
         accept: "application/json,text/plain,*/*",
         ...options.headers
       },
@@ -164,7 +164,7 @@ export async function fetchText(url, options = {}) {
   try {
     const response = await fetch(url, {
       headers: {
-        "user-agent": "ClaimWatchMVP/0.1 (+https://example.com; consumer alert crawler)",
+        "user-agent": "ClaimWatchMVP/0.1 (+https://simon622.shop; consumer alert crawler)",
         accept: "application/rss+xml,application/xml,text/html,text/plain,*/*",
         ...options.headers
       },

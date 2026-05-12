@@ -6,11 +6,12 @@
   <title>Sources - ClaimWatch</title>
   <meta name="description" content="Official sources used by ClaimWatch.">
   <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://claimwatch-mvp.vercel.app/sources/">
-  <link rel="alternate" type="application/rss+xml" title="ClaimWatch Feed" href="https://claimwatch-mvp.vercel.app/feed.xml">
+  <link rel="canonical" href="https://simon622.shop/sources/">
+  <link rel="alternate" type="application/rss+xml" title="ClaimWatch Feed" href="https://simon622.shop/feed.xml">
   <meta property="og:title" content="Sources - ClaimWatch">
   <meta property="og:description" content="Official sources used by ClaimWatch.">
-  <meta property="og:url" content="https://claimwatch-mvp.vercel.app/sources/">
+  <meta property="og:url" content="https://simon622.shop/sources/">
+  <meta property="og:site_name" content="ClaimWatch">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="/assets/styles.css">
@@ -22,17 +23,17 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "ClaimWatch",
-  "url": "https://claimwatch-mvp.vercel.app",
+  "url": "https://simon622.shop",
   "description": "ClaimWatch is a searchable US consumer alert database for recalls, refunds, settlements, and claim deadlines, built from official sources and current search trend signals."
 }</script>
 <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "ClaimWatch",
-  "url": "https://claimwatch-mvp.vercel.app",
+  "url": "https://simon622.shop",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://claimwatch-mvp.vercel.app/search/?q={search_term_string}",
+    "target": "https://simon622.shop/search/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }</script>
@@ -44,13 +45,13 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://claimwatch-mvp.vercel.app/"
+      "item": "https://simon622.shop/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Sources",
-      "item": "https://claimwatch-mvp.vercel.app/sources/"
+      "item": "https://simon622.shop/sources/"
     }
   ]
 }</script>
@@ -65,7 +66,7 @@
       </span>
     </a>
     <nav class="nav">
-      <a href="/recalls/">Recalls</a><a href="/safety-alerts/">Safety Alerts</a><a href="/refunds/">Refunds</a><a href="/sources/">Sources</a>
+      <a href="/recalls/">Recalls</a><a href="/safety-alerts/">Safety Alerts</a><a href="/refunds/">Refunds</a><a href="/companies/">Companies</a><a href="/topics/">Topics</a><a href="/sources/">Sources</a>
     </nav>
   </header>
   <main>
@@ -74,7 +75,7 @@
         <p class="eyebrow">ClaimWatch</p>
         <h1>Sources</h1>
         <p>ClaimWatch prioritizes official agency and administrator sources. Trend data helps prioritize pages, but official source matching determines whether an alert is marked verified.</p>
-      <div class="cards list-cards"><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Food Enforcement API</h3><p>Food recall enforcement reports</p><a class="button ghost" href="https://api.fda.gov/food/enforcement.json?sort=report_date:desc&amp;limit=25" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Drug Enforcement API</h3><p>Drug recall enforcement reports</p><a class="button ghost" href="https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&amp;limit=15" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Device Enforcement API</h3><p>Medical device recall enforcement reports</p><a class="button ghost" href="https://api.fda.gov/device/enforcement.json?sort=report_date:desc&amp;limit=15" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">USDA_FSIS</span></div><h3>USDA FSIS Recalls and Public Health Alerts</h3><p>Meat, poultry, and egg product recalls and public health alerts</p><a class="button ghost" href="https://www.fsis.usda.gov/fsis/api/recall/v/1" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">CPSC</span></div><h3>CPSC Recalls API</h3><p>Consumer product recalls</p><a class="button ghost" href="https://www.cpsc.gov/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FTC</span></div><h3>FTC Refund Programs</h3><p>FTC refunds and consumer repayment programs</p><a class="button ghost" href="https://www.ftc.gov/enforcement/refunds" rel="nofollow noopener">Open source</a></article><article class="alert-card"><div class="card-topline"><span class="chip verified">NHTSA</span></div><h3>NHTSA Recalls</h3><p>Vehicle recalls by configured make, model, and model year</p><a class="button ghost" href="https://api.nhtsa.gov/recalls/recallsByVehicle" rel="nofollow noopener">Open source</a></article></div>
+      <div class="cards list-cards"><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Food Enforcement API</h3><p>Food recall enforcement reports</p><div class="card-actions"><a class="button primary" href="/sources/fda/">View ClaimWatch records</a><a class="button ghost" href="https://api.fda.gov/food/enforcement.json?sort=report_date:desc&amp;limit=25" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Drug Enforcement API</h3><p>Drug recall enforcement reports</p><div class="card-actions"><a class="button primary" href="/sources/fda/">View ClaimWatch records</a><a class="button ghost" href="https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&amp;limit=15" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FDA</span></div><h3>openFDA Device Enforcement API</h3><p>Medical device recall enforcement reports</p><div class="card-actions"><a class="button primary" href="/sources/fda/">View ClaimWatch records</a><a class="button ghost" href="https://api.fda.gov/device/enforcement.json?sort=report_date:desc&amp;limit=15" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">USDA_FSIS</span></div><h3>USDA FSIS Recalls and Public Health Alerts</h3><p>Meat, poultry, and egg product recalls and public health alerts</p><div class="card-actions"><a class="button primary" href="/sources/usda-fsis/">View ClaimWatch records</a><a class="button ghost" href="https://www.fsis.usda.gov/fsis/api/recall/v/1" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">CPSC</span></div><h3>CPSC Recalls API</h3><p>Consumer product recalls</p><div class="card-actions"><a class="button primary" href="/sources/cpsc/">View ClaimWatch records</a><a class="button ghost" href="https://www.cpsc.gov/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">FTC</span></div><h3>FTC Refund Programs</h3><p>FTC refunds and consumer repayment programs</p><div class="card-actions"><a class="button primary" href="/sources/ftc/">View ClaimWatch records</a><a class="button ghost" href="https://www.ftc.gov/enforcement/refunds" rel="nofollow noopener">Open source</a></div></article><article class="alert-card"><div class="card-topline"><span class="chip verified">NHTSA</span></div><h3>NHTSA Recalls</h3><p>Vehicle recalls by configured make, model, and model year</p><div class="card-actions"><a class="button primary" href="/sources/nhtsa/">View ClaimWatch records</a><a class="button ghost" href="https://api.nhtsa.gov/recalls/recallsByVehicle" rel="nofollow noopener">Open source</a></div></article></div>
       </section>
 
   </main>
@@ -84,6 +85,8 @@
       <p>Informational consumer alert database. Not legal, medical, or financial advice.</p>
     </div>
     <nav>
+      <a href="/topics/">Topics</a>
+      <a href="/companies/">Companies</a>
       <a href="/methodology/">Methodology</a>
       <a href="/about/">About</a>
       <a href="/api/latest.json">API</a>

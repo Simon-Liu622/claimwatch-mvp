@@ -1,0 +1,46 @@
+{
+  "updatedAt": "2026-05-12T14:44:05.280Z",
+  "siteUrl": "https://simon622.shop",
+  "inventory": {
+    "builtAt": "2026-05-12T14:44:05.280Z",
+    "dataItems": 226,
+    "verifiedForPublicFeed": 218,
+    "monitoringCandidates": 8,
+    "sitemapEntries": 370,
+    "detailPagesTotal": 226
+  },
+  "pseo": {
+    "sourceAgencyPages": {
+      "indexable": 5,
+      "thin": 0,
+      "total": 5
+    },
+    "categoryTypePages": {
+      "indexable": 3,
+      "thin": 0,
+      "total": 3
+    },
+    "companyProfiles": 131,
+    "claimTopics": {
+      "publishedCapped": 5,
+      "qualifiedPrecap": 5,
+      "cap": 120
+    }
+  },
+  "searchConsole": {
+    "googleSearchConsole": "https://search.google.com/search-console",
+    "propertyUrl": "https://simon622.shop",
+    "verificationUrl": "https://simon622.shop/google9b173ddcc7370e15.html",
+    "sitemapUrl": "https://simon622.shop/sitemap.xml",
+    "robotsUrl": "https://simon622.shop/robots.txt",
+    "metricsJsonUrl": "https://simon622.shop/api/seo-metrics.json",
+    "htmlObservabilityUrl": "https://simon622.shop/seo-console/"
+  },
+  "checklist": [
+    "Confirm the Search Console property uses the same host as siteUrl (including HTTPS).",
+    "Submit sitemap.xml and wait for the first successful fetch.",
+    "Spot-check URL counts: GSC indexed ≈ inventory.sitemapEntries plus gradual discovery of thin pages.",
+    "Compare /api/seo-metrics.json after each build to catch sudden sitemap inflation.",
+    "Use the Coverage and Removals reports if thin or internal pages appear with the wrong robots tag."
+  ]
+}

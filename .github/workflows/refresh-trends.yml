@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-      SITE_URL: ${{ vars.SITE_URL || 'https://claimwatch-mvp.vercel.app' }}
+      SITE_URL: ${{ vars.SITE_URL || 'https://simon622.shop' }}
       TRENDS_GEO: ${{ vars.TRENDS_GEO || 'US' }}
       NHTSA_TARGETS: ${{ vars.NHTSA_TARGETS || 'tesla|model 3|2024;ford|f-150|2024;toyota|camry|2024;honda|accord|2024' }}
     steps:

@@ -17,15 +17,21 @@ const types = {
 };
 
 function safePath(urlPath) {
-  const decoded = decodeURIComponent(urlPath.split("?")[0]);
-  const normalized = path.normalize(decoded).replace(/^(\.\.[/\\])+/, "");
-  return normalized === "/" ? "/index.html" : normalized.endsWith("/") ? `${normalized}index.html` : normalized;
+  const decoded = decodeURIComponent(urlPath.split("?")[0] || "/");
+  let normalized = path.posix
+    .normalize(decoded.replace(/\\/g, "/"))
+    .replace(/^(\.\.\/)+/, "")
+    .replace(/^\/+/, "");
+  if (normalized === "" || normalized === ".") return "index.html";
+  if (normalized.endsWith("/")) return `${normalized}index.html`;
+  return normalized;
 }
 
 const server = http.createServer(async (req, res) => {
   try {
     const relative = safePath(req.url || "/");
-    let target = path.join(publicDir, relative);
+    const segments = relative.split("/").filter(Boolean);
+    let target = path.join(publicDir, ...segments);
     try {
       const stat = await fs.stat(target);
       if (stat.isDirectory()) target = path.join(target, "index.html");
@@ -41,6 +47,18 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
+server.on("error", (err) => {
+  if (err.code === "EADDRINUSE") {
+    console.error(`Port ${port} is already in use. Stop the other process or run: PORT=5178 npm run dev`);
+  } else {
+    console.error(err);
+  }
+  process.exit(1);
+});
+
 server.listen(port, () => {
-  console.log(`ClaimWatch MVP running at http://localhost:${port}`);
+  console.log(`ClaimWatch MVP running at http://127.0.0.1:${port}`);
+  console.log(`  Home: http://127.0.0.1:${port}/`);
+  console.log(`  Search Console observability: http://127.0.0.1:${port}/seo-console/`);
+  console.log(`  (If localhost fails in your browser, use 127.0.0.1 — and run npm run build once so public/ exists.)`);
 });

@@ -1,116 +1,81 @@
 {
-  "updatedAt": "2026-05-12T14:44:05.280Z",
-  "count": 8,
+  "updatedAt": "2026-05-12T14:49:19.267Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 10,
-      "query": "popular snack brands recalled dozens of products due salmonella risk",
-      "searchVolume": 20000,
+      "rank": 11,
+      "query": "dozens of popular snacks recalled due to salmonella contamination",
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "dozens of popular snacks recalled due to salmonella contamination",
-        "salmonella milk powder contamination",
-        "salmonella snack recall"
+        "popular snack brands recalled dozens of products due salmonella risk",
+        "salmonella snack recall",
+        "salmonella milk powder contamination"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=popular+snack+brands+recalled+dozens+of+products+due+salmonella+risk&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "popular snack brands recalled dozens of products due salmonella risk dozens of popular snacks recalled due to salmonella contamination salmonella milk powder contamination salmonella snack recall",
+      "text": "dozens of popular snacks recalled due to salmonella contamination popular snack brands recalled dozens of products due salmonella risk salmonella snack recall salmonella milk powder contamination",
       "trendScore": 46,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
+      "detectedAt": "2026-05-12T14:49:18.056Z"
     },
     {
-      "rank": 29,
-      "query": "virginia democrats election map appeal",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "redistricting in virginia",
-        "t",
-        "virginia democrats congressional map lawsuit",
-        "kiro"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=virginia+democrats+election+map+appeal&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "virginia democrats election map appeal redistricting in virginia t virginia democrats congressional map lawsuit kiro",
-      "trendScore": 31,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "rank": 47,
+      "rank": 39,
       "query": "lincoln memorial reflecting pool lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "reflecting pool"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lincoln+memorial+reflecting+pool+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "lincoln memorial reflecting pool lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
+      "text": "lincoln memorial reflecting pool lawsuit reflecting pool",
+      "trendScore": 25,
+      "detectedAt": "2026-05-12T14:49:18.056Z"
     },
     {
-      "rank": 190,
+      "rank": 258,
       "query": "salmonella recall",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "chocolate recall",
-        "spring & mulberry"
+        "chocolate recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+recall&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "salmonella recall chocolate recall spring & mulberry",
-      "trendScore": 20,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
+      "text": "salmonella recall chocolate recall",
+      "trendScore": 18,
+      "detectedAt": "2026-05-12T14:49:18.056Z"
     },
     {
-      "rank": 80,
+      "rank": 110,
       "query": "alabama congressional map voting lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "kay ivey alabama redistricting",
         "scotus alabama",
-        "alabama",
-        "politics"
+        "kay ivey alabama redistricting",
+        "alabama"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
       "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "alabama congressional map voting lawsuit kay ivey alabama redistricting scotus alabama alabama politics",
-      "trendScore": 17,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
+      "text": "alabama congressional map voting lawsuit scotus alabama kay ivey alabama redistricting alabama",
+      "trendScore": 15,
+      "detectedAt": "2026-05-12T14:49:18.056Z"
     },
     {
-      "rank": 99,
-      "query": "irs pandemic penalty refund",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+pandemic+penalty+refund&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "irs pandemic penalty refund",
-      "trendScore": 8,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "rank": 210,
+      "rank": 262,
       "query": "listeria",
       "searchVolume": 2000,
       "startedAt": "",
@@ -122,22 +87,7 @@
       "source": "serpapi-google-trends",
       "text": "listeria",
       "trendScore": 8,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "rank": 407,
-      "query": "ram 2500 tire speed recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ram+2500+tire+speed+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "ram 2500 tire speed recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-12T09:12:52.447Z"
+      "detectedAt": "2026-05-12T14:49:18.056Z"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-12T14:44:05.280Z",
-  "count": 8,
+  "updatedAt": "2026-05-12T14:49:19.267Z",
+  "count": 5,
   "items": [
     {
-      "id": "popular-snack-brands-recalled-dozens-of-products-due-salmonella-risk",
-      "slug": "popular-snack-brands-recalled-dozens-of-products-due-salmonella-risk",
-      "title": "Popular Snack Brands Recalled Dozens Of Products Due Salmonella Risk: Consumer Alert Monitoring",
+      "id": "dozens-of-popular-snacks-recalled-due-to-salmonella-contamination",
+      "slug": "dozens-of-popular-snacks-recalled-due-to-salmonella-contamination",
+      "title": "Dozens Of Popular Snacks Recalled Due To Salmonella Contamination: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "popular snack brands recalled dozens of products due salmonella risk",
+      "product": "dozens of popular snacks recalled due to salmonella contamination",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,54 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=popular+snack+brands+recalled+dozens+of+products+due+salmonella+risk&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 46,
       "matchedQueries": [
+        "dozens of popular snacks recalled due to salmonella contamination",
         "popular snack brands recalled dozens of products due salmonella risk",
         "salmonella snack recall",
-        "salmonella milk powder contamination",
-        "dozens of popular snacks recalled due to salmonella contamination"
+        "salmonella milk powder contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "id": "virginia-democrats-election-map-appeal",
-      "slug": "virginia-democrats-election-map-appeal",
-      "title": "Virginia Democrats Election Map Appeal: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "virginia democrats election map appeal",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=virginia+democrats+election+map+appeal&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 31,
-      "matchedQueries": [
-        "virginia democrats election map appeal",
-        "redistricting in virginia",
-        "democratic party",
-        "politics",
-        "virginia democrats congressional map lawsuit",
-        "kiro",
-        "t"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
+      "lastUpdated": "2026-05-12T14:49:18.056Z"
     },
     {
       "id": "lincoln-memorial-reflecting-pool-lawsuit",
@@ -91,12 +56,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 25,
       "matchedQueries": [
-        "lincoln memorial reflecting pool lawsuit"
+        "lincoln memorial reflecting pool lawsuit",
+        "reflecting pool"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
+      "lastUpdated": "2026-05-12T14:49:18.056Z"
     },
     {
       "id": "salmonella-recall",
@@ -120,14 +86,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 20,
+      "trendScore": 18,
       "matchedQueries": [
         "salmonella recall",
         "chocolate recall",
         "spring & mulberry"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
+      "lastUpdated": "2026-05-12T14:49:18.056Z"
     },
     {
       "id": "alabama-congressional-map-voting-lawsuit",
@@ -151,7 +117,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 17,
+      "trendScore": 15,
       "matchedQueries": [
         "alabama congressional map voting lawsuit",
         "scotus alabama",
@@ -160,65 +126,7 @@
         "politics"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "id": "irs-pandemic-penalty-refund",
-      "slug": "irs-pandemic-penalty-refund",
-      "title": "Irs Pandemic Penalty Refund: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "irs pandemic penalty refund",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+pandemic+penalty+refund&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "irs pandemic penalty refund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
-    },
-    {
-      "id": "ram-2500-tire-speed-recall",
-      "slug": "ram-2500-tire-speed-recall",
-      "title": "Ram 2500 Tire Speed Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ram 2500 tire speed recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ram+2500+tire+speed+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ram 2500 tire speed recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
+      "lastUpdated": "2026-05-12T14:49:18.056Z"
     },
     {
       "id": "listeria",
@@ -247,7 +155,7 @@
         "listeria"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T09:12:52.447Z"
+      "lastUpdated": "2026-05-12T14:49:18.056Z"
     }
   ]
 }

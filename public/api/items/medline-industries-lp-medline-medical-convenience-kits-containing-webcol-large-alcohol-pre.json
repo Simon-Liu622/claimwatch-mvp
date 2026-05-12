@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "medline-industries-lp-medline-medical-convenience-kits-containing-webcol-large-alcohol-pre",
+    "slug": "medline-industries-lp-medline-medical-convenience-kits-containing-webcol-large-alcohol-pre",
+    "title": "Medline Industries, LP: Medline medical convenience kits, containing Webcol Large Alcohol Prep Pads, labeled as: 1. BLOOD CULTURE KIT, Medline Kit SKU DYNDH1520; 2. Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medline Industries, LP",
+    "brand": "Medline Industries, LP",
+    "product": "Medline medical convenience kits, containing Webcol Large Alcohol Prep Pads, labeled as: 1. BLOOD CULTURE KIT, Medline Kit SKU DYNDH1520; 2.",
+    "category": "Recall",
+    "summary": "Medline Industries, LP is issuing a recall for specific item(s) and lot(s) of Medline Kits containing Cardinal Health Webcol Large Alcohol Prep Pads. Cardinal Health has deemed Webcol Large Alcohol Prep Pads to be non-sterile following the discovery of a contaminant (Paenibacillus phoenicis) during a routine sterilization dose audit. Product details: Medline medical convenience kits, containing Webcol Large Alcohol Prep Pads, labeled as: 1. BLOOD CULTURE KIT, Medline Kit SKU DYNDH1520; 2. BLOOD DRAW KIT, Medline Kit SKU EBSI1317.",
+    "affectedPeople": "US Nationwide distribution.",
+    "remedy": "Affected quantity: 4050 kits",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2040-2026",
+    "recallInitiationDate": "20260316",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/medline-industries-lp-medline-medical-convenience-kits-containing-webcol-large-alcohol-pre/"
+  }
+}

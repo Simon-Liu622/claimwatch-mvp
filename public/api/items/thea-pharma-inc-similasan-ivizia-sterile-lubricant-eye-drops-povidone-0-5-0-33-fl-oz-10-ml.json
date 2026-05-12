@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "thea-pharma-inc-similasan-ivizia-sterile-lubricant-eye-drops-povidone-0-5-0-33-fl-oz-10-ml",
+    "slug": "thea-pharma-inc-similasan-ivizia-sterile-lubricant-eye-drops-povidone-0-5-0-33-fl-oz-10-ml",
+    "title": "Thea Pharma, Inc.: Similasan, iVIZIA, Sterile Lubricant Eye Drops (Povidone 0.5%), 0.33 Fl oz (10 mL), Made in France, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Thea Pharma, Inc.",
+    "brand": "Thea Pharma, Inc.",
+    "product": "Similasan, iVIZIA, Sterile Lubricant Eye Drops (Povidone 0.5%), 0.33 Fl oz (10 mL), Made in France,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility: This recall has been initiated due to CGMP deviations found by the FDA during an inspection of the manufacturer. Product details: Similasan, iVIZIA, Sterile Lubricant Eye Drops (Povidone 0.5%), 0.33 Fl oz (10 mL), Made in France, Distributed by: Thea Pharma Inc., Waltham, MA 02451, NDC 59262-700-11",
+    "affectedPeople": "Nationwide within the United States",
+    "remedy": "Follow official recall instructions.",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0501-2026",
+    "recallInitiationDate": "20260423",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/thea-pharma-inc-similasan-ivizia-sterile-lubricant-eye-drops-povidone-0-5-0-33-fl-oz-10-ml/"
+  }
+}

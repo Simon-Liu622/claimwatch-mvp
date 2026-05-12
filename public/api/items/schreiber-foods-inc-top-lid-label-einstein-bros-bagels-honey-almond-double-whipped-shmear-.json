@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "schreiber-foods-inc-top-lid-label-einstein-bros-bagels-honey-almond-double-whipped-shmear-",
+    "slug": "schreiber-foods-inc-top-lid-label-einstein-bros-bagels-honey-almond-double-whipped-shmear-",
+    "title": "Schreiber Foods Inc: Top Lid Label: Einstein Bros Bagels Honey Almond Double-Whipped Shmear. Cup Label: Plain Whipped Cream Cheese Spread. Net Wt 6 oz (170g). Recall",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Schreiber Foods Inc",
+    "brand": "Schreiber Foods Inc",
+    "product": "Top Lid Label: Einstein Bros Bagels Honey Almond Double-Whipped Shmear. Cup Label: Plain Whipped Cream Cheese Spread. Net Wt 6 oz (170g).",
+    "category": "Recall",
+    "summary": "Undeclared allergen (almond). Product details: Top Lid Label: Einstein Bros Bagels Honey Almond Double-Whipped Shmear. Cup Label: Plain Whipped Cream Cheese Spread. Net Wt 6 oz (170g). UPC 8 75343 00001 3. Keep Refrigerated. Made For Einstein Noah Restaurant Group Inc., Lakewood, CO 80228.",
+    "affectedPeople": "CA, CO, OR, SC",
+    "remedy": "Affected quantity: 940 cases (30 units/case)",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0675-2026",
+    "recallInitiationDate": "20260326",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/schreiber-foods-inc-top-lid-label-einstein-bros-bagels-honey-almond-double-whipped-shmear-/"
+  }
+}

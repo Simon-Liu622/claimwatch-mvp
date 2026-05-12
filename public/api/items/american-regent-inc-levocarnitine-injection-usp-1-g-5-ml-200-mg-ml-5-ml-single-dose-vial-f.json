@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "american-regent-inc-levocarnitine-injection-usp-1-g-5-ml-200-mg-ml-5-ml-single-dose-vial-f",
+    "slug": "american-regent-inc-levocarnitine-injection-usp-1-g-5-ml-200-mg-ml-5-ml-single-dose-vial-f",
+    "title": "American Regent, Inc.: Levocarnitine Injection, USP, 1 g/5 mL (200 mg/mL), 5 mL Single-Dose Vial, For intravenous use, Rx Only, American Regent, Inc., Shirley, NY  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "American Regent, Inc.",
+    "brand": "American Regent, Inc.",
+    "product": "Levocarnitine Injection, USP, 1 g/5 mL (200 mg/mL), 5 mL Single-Dose Vial, For intravenous use, Rx Only, American Regent, Inc., Shirley, NY ",
+    "category": "Recall",
+    "summary": "Labeling: Missing Label Product details: Levocarnitine Injection, USP, 1 g/5 mL (200 mg/mL), 5 mL Single-Dose Vial, For intravenous use, Rx Only, American Regent, Inc., Shirley, NY 11967. NDC: 0517-1045-01",
+    "affectedPeople": "U.S. Nationwide",
+    "remedy": "Affected quantity: 74,040 Single Dose Vials",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0494-2026",
+    "recallInitiationDate": "20260416",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/american-regent-inc-levocarnitine-injection-usp-1-g-5-ml-200-mg-ml-5-ml-single-dose-vial-f/"
+  }
+}

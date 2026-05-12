@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "hologic-inc-brand-name-genius-review-station-product-name-genius-review-station-display-ba",
+    "slug": "hologic-inc-brand-name-genius-review-station-product-name-genius-review-station-display-ba",
+    "title": "Hologic, Inc: Brand Name: Genius\" Review Station Product Name: Genius\" Review Station Display (Barco Monitor) Model/Catalog Number: CMP-01669 Software Ver Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Hologic, Inc",
+    "brand": "Hologic, Inc",
+    "product": "Brand Name: Genius\" Review Station Product Name: Genius\" Review Station Display (Barco Monitor) Model/Catalog Number: CMP-01669 Software Ver",
+    "category": "Recall",
+    "summary": "It was identified that certain devices were being operated outside the validated and FDA-cleared display configuration due to user modification of the manufacturer-installed settings. Modifications included disabling Barco Application Appearance Manager (AAM), altering calibration and compliance parameters, and adjusting additional display-related settings. This field correction is being conducted to restore affected system to the validated configuration and reinforce proper use in accordance with the Operator's Manual. Product details: Brand Name: Genius\" Review Station Product Name: Genius\" Review Station Display (Barco Monitor) Model/Catalog Number: CMP-01669 Software Version: N/A - not software version specific Component: Yes, the Genius\" Review Station is a component of the Genius\" Digit...",
+    "affectedPeople": "Worldwide distribution - US Nationwide and the countries of Asia Pacific, Europe, and the Middle East.",
+    "remedy": "Affected quantity: 1200 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-1949-2026",
+    "recallInitiationDate": "20260323",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/hologic-inc-brand-name-genius-review-station-product-name-genius-review-station-display-ba/"
+  }
+}

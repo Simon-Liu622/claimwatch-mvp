@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "philips-north-america-philips-smartpath-to-ingenia-elition-x-with-mr-elastography-mre-1-mo",
+    "slug": "philips-north-america-philips-smartpath-to-ingenia-elition-x-with-mr-elastography-mre-1-mo",
+    "title": "Philips North America: Philips SmartPath to Ingenia Elition X with MR Elastography (MRE). 1. Model Number (REF): 782118. 2. Model Number (REF): 782144. 3. Model Nu Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Philips North America",
+    "brand": "Philips North America",
+    "product": "Philips SmartPath to Ingenia Elition X with MR Elastography (MRE). 1. Model Number (REF): 782118. 2. Model Number (REF): 782144. 3. Model Nu",
+    "category": "Recall",
+    "summary": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small. Product details: Philips SmartPath to Ingenia Elition X with MR Elastography (MRE). 1. Model Number (REF): 782118. 2. Model Number (REF): 782144. 3. Model Number (REF): 782163.",
+    "affectedPeople": "Worldwide - US Nationwide and the countries of Argentina, Australia, Bangladesh, Belgium, Brazil, Canada, Chile, Cuba, Cyprus, Denmark, Ecuador, Egypt, France, Germany, Greece, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Italy, Japan, Kenya, Lebanon, Lithuania, Malta, Mexico, Myanmar, Netherlands, Pakistan, Palestine, Peru, Poland, Portugal, Russian Fed., Singapore, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Tunisia, Turkey, United Kingdom.",
+    "remedy": "Affected quantity: 3 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-1968-2026",
+    "recallInitiationDate": "20260414",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/philips-north-america-philips-smartpath-to-ingenia-elition-x-with-mr-elastography-mre-1-mo/"
+  }
+}

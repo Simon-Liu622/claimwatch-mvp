@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-10",
+    "slug": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-10",
+    "title": "Wells Pharma of Houston LLC: fentaNYL Citrate Injectable Solution in 0.9% Sodium Chloride, 1000 mcg/50mL (20 mcg per mL), well pharma of Houston, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wells Pharma of Houston LLC",
+    "brand": "Wells Pharma of Houston LLC",
+    "product": "fentaNYL Citrate Injectable Solution in 0.9% Sodium Chloride, 1000 mcg/50mL (20 mcg per mL), well pharma of Houston,",
+    "category": "Recall",
+    "summary": "cGMP deviations. Product details: fentaNYL Citrate Injectable Solution in 0.9% Sodium Chloride, 1000 mcg/50mL (20 mcg per mL), well pharma of Houston, NDC 73702-203-65.",
+    "affectedPeople": "U.S. Nationwide.",
+    "remedy": "Affected quantity: 150 syringes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0506-2026",
+    "recallInitiationDate": "20260401",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-10/"
+  }
+}

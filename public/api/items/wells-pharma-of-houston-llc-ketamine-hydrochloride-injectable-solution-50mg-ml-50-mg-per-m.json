@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "wells-pharma-of-houston-llc-ketamine-hydrochloride-injectable-solution-50mg-ml-50-mg-per-m",
+    "slug": "wells-pharma-of-houston-llc-ketamine-hydrochloride-injectable-solution-50mg-ml-50-mg-per-m",
+    "title": "Wells Pharma of Houston LLC: Ketamine Hydrochloride Injectable Solution, 50mg/ml, (50 mg per mL) Volume: 1 mL, 5265 Kitty Drive, Houston, TX 77054, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wells Pharma of Houston LLC",
+    "brand": "Wells Pharma of Houston LLC",
+    "product": "Ketamine Hydrochloride Injectable Solution, 50mg/ml, (50 mg per mL) Volume: 1 mL, 5265 Kitty Drive, Houston, TX 77054,",
+    "category": "Recall",
+    "summary": "cGMP deviations. Product details: Ketamine Hydrochloride Injectable Solution, 50mg/ml, (50 mg per mL) Volume: 1 mL, 5265 Kitty Drive, Houston, TX 77054, NDC 73702-302-31.",
+    "affectedPeople": "U.S. Nationwide.",
+    "remedy": "Affected quantity: 4975 syringes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0507-2026",
+    "recallInitiationDate": "20260401",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/wells-pharma-of-houston-llc-ketamine-hydrochloride-injectable-solution-50mg-ml-50-mg-per-m/"
+  }
+}

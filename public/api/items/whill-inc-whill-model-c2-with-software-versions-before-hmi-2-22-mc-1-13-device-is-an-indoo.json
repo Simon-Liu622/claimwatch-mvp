@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "item": {
+    "id": "whill-inc-whill-model-c2-with-software-versions-before-hmi-2-22-mc-1-13-device-is-an-indoo",
+    "slug": "whill-inc-whill-model-c2-with-software-versions-before-hmi-2-22-mc-1-13-device-is-an-indoo",
+    "title": "WHILL, INC.: WHILL Model C2, with software versions before HMI: 2.22 / MC: 1.13; device is an indoor/outdoor battery-operated 2-wheel drive (rear-wheel d Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "WHILL, INC.",
+    "brand": "WHILL, INC.",
+    "product": "WHILL Model C2, with software versions before HMI: 2.22 / MC: 1.13; device is an indoor/outdoor battery-operated 2-wheel drive (rear-wheel d",
+    "category": "Recall",
+    "summary": "Cyber vulnerability of BLE communication was found by CISA VDP program. Product details: WHILL Model C2, with software versions before HMI: 2.22 / MC: 1.13; device is an indoor/outdoor battery-operated 2-wheel drive (rear-wheel drive) powered wheelchair.",
+    "affectedPeople": "US: Kansas",
+    "remedy": "Affected quantity: 4685 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-1826-2026",
+    "recallInitiationDate": "20251229",
+    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "url": "https://claimwatch-mvp.vercel.app/item/whill-inc-whill-model-c2-with-software-versions-before-hmi-2-22-mc-1-13-device-is-an-indoo/"
+  }
+}

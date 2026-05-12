@@ -1,30 +1,62 @@
 [
   {
-    "rank": 11,
+    "rank": 15,
     "query": "dozens of popular snacks recalled due to salmonella contamination",
     "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "popular snack brands recalled dozens of products due salmonella risk",
       "salmonella snack recall",
-      "salmonella milk powder contamination"
+      "popular snack brands recalled dozens of products due salmonella risk"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
-    "increasePercentage": 1000,
+    "increasePercentage": 800,
     "source": "serpapi-google-trends",
-    "text": "dozens of popular snacks recalled due to salmonella contamination popular snack brands recalled dozens of products due salmonella risk salmonella snack recall salmonella milk powder contamination",
-    "trendScore": 46,
-    "detectedAt": "2026-05-12T14:49:18.056Z"
+    "text": "dozens of popular snacks recalled due to salmonella contamination salmonella snack recall popular snack brands recalled dozens of products due salmonella risk",
+    "trendScore": 44,
+    "detectedAt": "2026-05-12T20:07:48.826Z"
   },
   {
-    "rank": 39,
+    "rank": 278,
+    "query": "salmonella recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "salmonella recall",
+    "trendScore": 16,
+    "detectedAt": "2026-05-12T20:07:48.826Z"
+  },
+  {
+    "rank": 151,
+    "query": "alabama congressional map voting lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "scotus alabama",
+      "alabama"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
+    "increasePercentage": 600,
+    "source": "serpapi-google-trends",
+    "text": "alabama congressional map voting lawsuit scotus alabama alabama",
+    "trendScore": 12,
+    "detectedAt": "2026-05-12T20:07:48.826Z"
+  },
+  {
+    "rank": 117,
     "query": "lincoln memorial reflecting pool lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
       "reflecting pool"
     ],
@@ -32,58 +64,22 @@
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "lincoln memorial reflecting pool lawsuit reflecting pool",
-    "trendScore": 25,
-    "detectedAt": "2026-05-12T14:49:18.056Z"
+    "trendScore": 10,
+    "detectedAt": "2026-05-12T20:07:48.826Z"
   },
   {
-    "rank": 258,
-    "query": "salmonella recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "chocolate recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+recall&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "salmonella recall chocolate recall",
-    "trendScore": 18,
-    "detectedAt": "2026-05-12T14:49:18.056Z"
-  },
-  {
-    "rank": 110,
-    "query": "alabama congressional map voting lawsuit",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "scotus alabama",
-      "kay ivey alabama redistricting",
-      "alabama"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "alabama congressional map voting lawsuit scotus alabama kay ivey alabama redistricting alabama",
-    "trendScore": 15,
-    "detectedAt": "2026-05-12T14:49:18.056Z"
-  },
-  {
-    "rank": 262,
-    "query": "listeria",
-    "searchVolume": 2000,
+    "rank": 433,
+    "query": "chocolate recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+recall&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "listeria",
+    "text": "chocolate recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-12T14:49:18.056Z"
+    "detectedAt": "2026-05-12T20:07:48.826Z"
   }
 ]

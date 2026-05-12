@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-12T14:49:19.267Z",
+  "updatedAt": "2026-05-12T20:07:51.691Z",
   "item": {
-    "id": "listeria",
-    "slug": "listeria",
-    "title": "Listeria: Consumer Alert Monitoring",
+    "id": "chocolate-recall",
+    "slug": "chocolate-recall",
+    "title": "Chocolate Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "listeria",
+    "product": "chocolate recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 1000,
     "trendScore": 8,
     "matchedQueries": [
-      "listeria"
+      "chocolate recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-12T14:49:18.056Z",
-    "url": "https://simon622.shop/item/listeria/"
+    "lastUpdated": "2026-05-12T20:07:48.826Z",
+    "url": "https://simon622.shop/item/chocolate-recall/"
   }
 }

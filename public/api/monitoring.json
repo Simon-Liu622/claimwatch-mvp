@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "updatedAt": "2026-05-12T09:12:54.663Z",
   "count": 8,
   "items": [
     {
@@ -24,14 +24,15 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 44,
+      "trendScore": 46,
       "matchedQueries": [
         "popular snack brands recalled dozens of products due salmonella risk",
         "salmonella snack recall",
-        "salmonella milk powder contamination"
+        "salmonella milk powder contamination",
+        "dozens of popular snacks recalled due to salmonella contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "virginia-democrats-election-map-appeal",
@@ -54,50 +55,19 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=virginia+democrats+election+map+appeal&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 34,
+      "searchVolume": 10000,
+      "trendScore": 31,
       "matchedQueries": [
         "virginia democrats election map appeal",
         "redistricting in virginia",
         "democratic party",
         "politics",
         "virginia democrats congressional map lawsuit",
-        "kiro"
+        "kiro",
+        "t"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
-    },
-    {
-      "id": "alabama-congressional-map-voting-lawsuit",
-      "slug": "alabama-congressional-map-voting-lawsuit",
-      "title": "Alabama Congressional Map Voting Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "alabama congressional map voting lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 30,
-      "matchedQueries": [
-        "alabama congressional map voting lawsuit",
-        "scotus alabama",
-        "kay ivey alabama redistricting",
-        "alabama"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "lincoln-memorial-reflecting-pool-lawsuit",
@@ -126,7 +96,7 @@
         "lincoln memorial reflecting pool lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "salmonella-recall",
@@ -157,7 +127,40 @@
         "spring & mulberry"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
+    },
+    {
+      "id": "alabama-congressional-map-voting-lawsuit",
+      "slug": "alabama-congressional-map-voting-lawsuit",
+      "title": "Alabama Congressional Map Voting Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "alabama congressional map voting lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 17,
+      "matchedQueries": [
+        "alabama congressional map voting lawsuit",
+        "scotus alabama",
+        "kay ivey alabama redistricting",
+        "alabama",
+        "politics"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "irs-pandemic-penalty-refund",
@@ -186,7 +189,7 @@
         "irs pandemic penalty refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "ram-2500-tire-speed-recall",
@@ -215,7 +218,7 @@
         "ram 2500 tire speed recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     },
     {
       "id": "listeria",
@@ -244,7 +247,7 @@
         "listeria"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T04:05:36.623Z"
+      "lastUpdated": "2026-05-12T09:12:52.447Z"
     }
   ]
 }

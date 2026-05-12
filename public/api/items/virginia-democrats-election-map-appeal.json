@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "updatedAt": "2026-05-12T09:12:54.663Z",
   "item": {
     "id": "virginia-democrats-election-map-appeal",
     "slug": "virginia-democrats-election-map-appeal",
@@ -21,18 +21,19 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=virginia+democrats+election+map+appeal&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 34,
+    "searchVolume": 10000,
+    "trendScore": 31,
     "matchedQueries": [
       "virginia democrats election map appeal",
       "redistricting in virginia",
       "democratic party",
       "politics",
       "virginia democrats congressional map lawsuit",
-      "kiro"
+      "kiro",
+      "t"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-12T04:05:36.623Z",
+    "lastUpdated": "2026-05-12T09:12:52.447Z",
     "url": "https://claimwatch-mvp.vercel.app/item/virginia-democrats-election-map-appeal/"
   }
 }

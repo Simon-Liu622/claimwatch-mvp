@@ -1,67 +1,48 @@
 {
-  "updatedAt": "2026-05-12T04:05:41.389Z",
+  "updatedAt": "2026-05-12T09:12:54.663Z",
   "count": 8,
   "trends": [
     {
-      "rank": 14,
+      "rank": 10,
       "query": "popular snack brands recalled dozens of products due salmonella risk",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "salmonella snack recall",
-        "salmonella milk powder contamination"
+        "dozens of popular snacks recalled due to salmonella contamination",
+        "salmonella milk powder contamination",
+        "salmonella snack recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=popular+snack+brands+recalled+dozens+of+products+due+salmonella+risk&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "popular snack brands recalled dozens of products due salmonella risk salmonella snack recall salmonella milk powder contamination",
-      "trendScore": 44,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "text": "popular snack brands recalled dozens of products due salmonella risk dozens of popular snacks recalled due to salmonella contamination salmonella milk powder contamination salmonella snack recall",
+      "trendScore": 46,
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 41,
+      "rank": 29,
       "query": "virginia democrats election map appeal",
-      "searchVolume": 20000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
         "redistricting in virginia",
-        "democratic party",
-        "politics",
+        "t",
         "virginia democrats congressional map lawsuit",
         "kiro"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=virginia+democrats+election+map+appeal&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "virginia democrats election map appeal redistricting in virginia democratic party politics virginia democrats congressional map lawsuit kiro",
-      "trendScore": 34,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "text": "virginia democrats election map appeal redistricting in virginia t virginia democrats congressional map lawsuit kiro",
+      "trendScore": 31,
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 50,
-      "query": "alabama congressional map voting lawsuit",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "scotus alabama",
-        "kay ivey alabama redistricting",
-        "alabama"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "alabama congressional map voting lawsuit scotus alabama kay ivey alabama redistricting alabama",
-      "trendScore": 30,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
-    },
-    {
-      "rank": 67,
+      "rank": 47,
       "query": "lincoln memorial reflecting pool lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -73,10 +54,10 @@
       "source": "serpapi-google-trends",
       "text": "lincoln memorial reflecting pool lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 150,
+      "rank": 190,
       "query": "salmonella recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -91,10 +72,30 @@
       "source": "serpapi-google-trends",
       "text": "salmonella recall chocolate recall spring & mulberry",
       "trendScore": 20,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 120,
+      "rank": 80,
+      "query": "alabama congressional map voting lawsuit",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "kay ivey alabama redistricting",
+        "scotus alabama",
+        "alabama",
+        "politics"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "alabama congressional map voting lawsuit kay ivey alabama redistricting scotus alabama alabama politics",
+      "trendScore": 17,
+      "detectedAt": "2026-05-12T09:12:52.447Z"
+    },
+    {
+      "rank": 99,
       "query": "irs pandemic penalty refund",
       "searchVolume": 10000,
       "startedAt": "",
@@ -106,10 +107,10 @@
       "source": "serpapi-google-trends",
       "text": "irs pandemic penalty refund",
       "trendScore": 8,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 214,
+      "rank": 210,
       "query": "listeria",
       "searchVolume": 2000,
       "startedAt": "",
@@ -121,10 +122,10 @@
       "source": "serpapi-google-trends",
       "text": "listeria",
       "trendScore": 8,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     },
     {
-      "rank": 370,
+      "rank": 407,
       "query": "ram 2500 tire speed recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -136,7 +137,7 @@
       "source": "serpapi-google-trends",
       "text": "ram 2500 tire speed recall",
       "trendScore": 8,
-      "detectedAt": "2026-05-12T04:05:36.623Z"
+      "detectedAt": "2026-05-12T09:12:52.447Z"
     }
   ]
 }

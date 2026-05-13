@@ -1,21 +1,6 @@
 [
   {
-    "rank": 91,
-    "query": "dozens of popular snacks recalled due to salmonella contamination",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "dozens of popular snacks recalled due to salmonella contamination",
-    "trendScore": 25,
-    "detectedAt": "2026-05-13T04:12:22.844Z"
-  },
-  {
-    "rank": 228,
+    "rank": 212,
     "query": "fca us 2019-2023 recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "fca us 2019-2023 recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-13T04:12:22.844Z"
+    "detectedAt": "2026-05-13T09:19:42.105Z"
   }
 ]

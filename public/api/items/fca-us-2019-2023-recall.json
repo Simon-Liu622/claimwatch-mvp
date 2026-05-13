@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-12T20:07:51.691Z",
+  "updatedAt": "2026-05-13T04:12:28.632Z",
   "item": {
-    "id": "chocolate-recall",
-    "slug": "chocolate-recall",
-    "title": "Chocolate Recall: Consumer Alert Monitoring",
+    "id": "fca-us-2019-2023-recall",
+    "slug": "fca-us-2019-2023-recall",
+    "title": "Fca Us 2019-2023 Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "chocolate recall",
+    "product": "fca us 2019-2023 recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fca+us+2019-2023+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "trendScore": 8,
     "matchedQueries": [
-      "chocolate recall"
+      "fca us 2019-2023 recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-12T20:07:48.826Z",
-    "url": "https://simon622.shop/item/chocolate-recall/"
+    "lastUpdated": "2026-05-13T04:12:22.844Z",
+    "url": "https://simon622.shop/item/fca-us-2019-2023-recall/"
   }
 }

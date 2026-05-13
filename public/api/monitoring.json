@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-12T20:07:51.691Z",
-  "count": 5,
+  "updatedAt": "2026-05-13T04:12:28.632Z",
+  "count": 2,
   "items": [
     {
       "id": "dozens-of-popular-snacks-recalled-due-to-salmonella-contamination",
@@ -23,8 +23,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 44,
+      "searchVolume": 20000,
+      "trendScore": 25,
       "matchedQueries": [
         "dozens of popular snacks recalled due to salmonella contamination",
         "popular snack brands recalled dozens of products due salmonella risk",
@@ -32,17 +32,17 @@
         "salmonella milk powder contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T20:07:48.826Z"
+      "lastUpdated": "2026-05-13T04:12:22.844Z"
     },
     {
-      "id": "salmonella-recall",
-      "slug": "salmonella-recall",
-      "title": "Salmonella Recall: Consumer Alert Monitoring",
+      "id": "fca-us-2019-2023-recall",
+      "slug": "fca-us-2019-2023-recall",
+      "title": "Fca Us 2019-2023 Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "salmonella recall",
+      "product": "fca us 2019-2023 recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -52,110 +52,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fca+us+2019-2023+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "salmonella recall",
-        "chocolate recall",
-        "spring & mulberry"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "id": "alabama-congressional-map-voting-lawsuit",
-      "slug": "alabama-congressional-map-voting-lawsuit",
-      "title": "Alabama Congressional Map Voting Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "alabama congressional map voting lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 12,
-      "matchedQueries": [
-        "alabama congressional map voting lawsuit",
-        "scotus alabama",
-        "kay ivey alabama redistricting",
-        "alabama",
-        "politics"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "id": "lincoln-memorial-reflecting-pool-lawsuit",
-      "slug": "lincoln-memorial-reflecting-pool-lawsuit",
-      "title": "Lincoln Memorial Reflecting Pool Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lincoln memorial reflecting pool lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lincoln+memorial+reflecting+pool+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "lincoln memorial reflecting pool lawsuit",
-        "reflecting pool"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "id": "chocolate-recall",
-      "slug": "chocolate-recall",
-      "title": "Chocolate Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "chocolate recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
       "trendScore": 8,
       "matchedQueries": [
-        "chocolate recall"
+        "fca us 2019-2023 recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-12T20:07:48.826Z"
+      "lastUpdated": "2026-05-13T04:12:22.844Z"
     }
   ]
 }

@@ -1,89 +1,36 @@
 {
-  "updatedAt": "2026-05-12T20:07:51.691Z",
-  "count": 5,
+  "updatedAt": "2026-05-13T04:12:28.632Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 15,
+      "rank": 91,
       "query": "dozens of popular snacks recalled due to salmonella contamination",
-      "searchVolume": 50000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "salmonella snack recall",
-        "popular snack brands recalled dozens of products due salmonella risk"
-      ],
+      "active": false,
+      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dozens+of+popular+snacks+recalled+due+to+salmonella+contamination&tz=420",
-      "increasePercentage": 800,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "dozens of popular snacks recalled due to salmonella contamination salmonella snack recall popular snack brands recalled dozens of products due salmonella risk",
-      "trendScore": 44,
-      "detectedAt": "2026-05-12T20:07:48.826Z"
+      "text": "dozens of popular snacks recalled due to salmonella contamination",
+      "trendScore": 25,
+      "detectedAt": "2026-05-13T04:12:22.844Z"
     },
     {
-      "rank": 278,
-      "query": "salmonella recall",
+      "rank": 228,
+      "query": "fca us 2019-2023 recall",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "salmonella recall",
-      "trendScore": 16,
-      "detectedAt": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "rank": 151,
-      "query": "alabama congressional map voting lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "scotus alabama",
-        "alabama"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+congressional+map+voting+lawsuit&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "alabama congressional map voting lawsuit scotus alabama alabama",
-      "trendScore": 12,
-      "detectedAt": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "rank": 117,
-      "query": "lincoln memorial reflecting pool lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "reflecting pool"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lincoln+memorial+reflecting+pool+lawsuit&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fca+us+2019-2023+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "lincoln memorial reflecting pool lawsuit reflecting pool",
-      "trendScore": 10,
-      "detectedAt": "2026-05-12T20:07:48.826Z"
-    },
-    {
-      "rank": 433,
-      "query": "chocolate recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "chocolate recall",
+      "text": "fca us 2019-2023 recall",
       "trendScore": 8,
-      "detectedAt": "2026-05-12T20:07:48.826Z"
+      "detectedAt": "2026-05-13T04:12:22.844Z"
     }
   ]
 }

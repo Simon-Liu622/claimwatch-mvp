@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-13T15:14:44.950Z",
-  "count": 1,
+  "updatedAt": "2026-05-13T20:09:04.052Z",
+  "count": 2,
   "items": [
     {
-      "id": "fca-us-2019-2023-recall",
-      "slug": "fca-us-2019-2023-recall",
-      "title": "Fca Us 2019-2023 Recall: Consumer Alert Monitoring",
+      "id": "mg217-eczema-cream-recall",
+      "slug": "mg217-eczema-cream-recall",
+      "title": "Mg217 Eczema Cream Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fca us 2019-2023 recall",
+      "product": "mg217 eczema cream recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,16 +20,46 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fca+us+2019-2023+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 8,
+      "trendScore": 25,
       "matchedQueries": [
-        "fca us 2019-2023 recall"
+        "mg217 eczema cream recall",
+        "fda pharmacal eczema cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-13T15:14:17.414Z"
+      "lastUpdated": "2026-05-13T20:09:00.630Z"
+    },
+    {
+      "id": "albright-s-raw-pet-food-recall",
+      "slug": "albright-s-raw-pet-food-recall",
+      "title": "Albright'S Raw Pet Food Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "albright's raw pet food recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=albright%27s+raw+pet+food+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "albright's raw pet food recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-13T20:09:00.630Z"
     }
   ]
 }

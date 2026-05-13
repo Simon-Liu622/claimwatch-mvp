@@ -1,17 +1,34 @@
 [
   {
-    "rank": 211,
-    "query": "fca us 2019-2023 recall",
+    "rank": 64,
+    "query": "mg217 eczema cream recall",
     "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "fda pharmacal eczema cream recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "mg217 eczema cream recall fda pharmacal eczema cream recall",
+    "trendScore": 25,
+    "detectedAt": "2026-05-13T20:09:00.630Z"
+  },
+  {
+    "rank": 171,
+    "query": "albright's raw pet food recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fca+us+2019-2023+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=albright%27s+raw+pet+food+recall&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "fca us 2019-2023 recall",
+    "text": "albright's raw pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-13T15:14:17.414Z"
+    "detectedAt": "2026-05-13T20:09:00.630Z"
   }
 ]

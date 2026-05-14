@@ -1,23 +1,38 @@
 [
   {
-    "rank": 64,
-    "query": "mg217 eczema cream recall",
-    "searchVolume": 2000,
+    "rank": 60,
+    "query": "fda pharmacal eczema cream recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "fda pharmacal eczema cream recall"
+      "mg217 eczema cream recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "mg217 eczema cream recall fda pharmacal eczema cream recall",
+    "text": "fda pharmacal eczema cream recall mg217 eczema cream recall",
     "trendScore": 25,
-    "detectedAt": "2026-05-13T20:09:00.630Z"
+    "detectedAt": "2026-05-14T04:12:32.674Z"
   },
   {
-    "rank": 171,
+    "rank": 157,
+    "query": "trump irs lawsuit settlement talks",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+settlement+talks&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "trump irs lawsuit settlement talks",
+    "trendScore": 16,
+    "detectedAt": "2026-05-14T04:12:32.674Z"
+  },
+  {
+    "rank": 331,
     "query": "albright's raw pet food recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -29,6 +44,6 @@
     "source": "serpapi-google-trends",
     "text": "albright's raw pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-13T20:09:00.630Z"
+    "detectedAt": "2026-05-14T04:12:32.674Z"
   }
 ]

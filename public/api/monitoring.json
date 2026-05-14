@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-05-14T04:12:35.123Z",
+  "updatedAt": "2026-05-14T08:50:41.153Z",
   "count": 3,
   "items": [
-    {
-      "id": "fda-pharmacal-eczema-cream-recall",
-      "slug": "fda-pharmacal-eczema-cream-recall",
-      "title": "Fda Pharmacal Eczema Cream Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda pharmacal eczema cream recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "fda pharmacal eczema cream recall",
-        "mg217 eczema cream recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-14T04:12:32.674Z"
-    },
     {
       "id": "trump-irs-lawsuit-settlement-talks",
       "slug": "trump-irs-lawsuit-settlement-talks",
@@ -59,7 +29,37 @@
         "trump irs lawsuit settlement talks"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T04:12:32.674Z"
+      "lastUpdated": "2026-05-14T08:50:37.830Z"
+    },
+    {
+      "id": "fda-pharmacal-eczema-cream-recall",
+      "slug": "fda-pharmacal-eczema-cream-recall",
+      "title": "Fda Pharmacal Eczema Cream Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda pharmacal eczema cream recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "fda pharmacal eczema cream recall",
+        "mg217 eczema cream recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-14T08:50:37.830Z"
     },
     {
       "id": "albright-s-raw-pet-food-recall",
@@ -88,7 +88,7 @@
         "albright's raw pet food recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T04:12:32.674Z"
+      "lastUpdated": "2026-05-14T08:50:37.830Z"
     }
   ]
 }

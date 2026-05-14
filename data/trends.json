@@ -1,23 +1,6 @@
 [
   {
-    "rank": 60,
-    "query": "fda pharmacal eczema cream recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "mg217 eczema cream recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "fda pharmacal eczema cream recall mg217 eczema cream recall",
-    "trendScore": 25,
-    "detectedAt": "2026-05-14T04:12:32.674Z"
-  },
-  {
-    "rank": 157,
+    "rank": 153,
     "query": "trump irs lawsuit settlement talks",
     "searchVolume": 2000,
     "startedAt": "",
@@ -29,10 +12,27 @@
     "source": "serpapi-google-trends",
     "text": "trump irs lawsuit settlement talks",
     "trendScore": 16,
-    "detectedAt": "2026-05-14T04:12:32.674Z"
+    "detectedAt": "2026-05-14T08:50:37.830Z"
   },
   {
-    "rank": 331,
+    "rank": 87,
+    "query": "fda pharmacal eczema cream recall",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "mg217 eczema cream recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "fda pharmacal eczema cream recall mg217 eczema cream recall",
+    "trendScore": 10,
+    "detectedAt": "2026-05-14T08:50:37.830Z"
+  },
+  {
+    "rank": 337,
     "query": "albright's raw pet food recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -44,6 +44,6 @@
     "source": "serpapi-google-trends",
     "text": "albright's raw pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-14T04:12:32.674Z"
+    "detectedAt": "2026-05-14T08:50:37.830Z"
   }
 ]

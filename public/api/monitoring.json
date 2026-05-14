@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-14T14:40:52.665Z",
-  "count": 4,
+  "updatedAt": "2026-05-14T20:02:03.704Z",
+  "count": 2,
   "items": [
     {
       "id": "trump-irs-lawsuit-settlement-talks",
@@ -29,36 +29,7 @@
         "trump irs lawsuit settlement talks"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T14:40:48.592Z"
-    },
-    {
-      "id": "albright-s-raw-pet-food-recall",
-      "slug": "albright-s-raw-pet-food-recall",
-      "title": "Albright'S Raw Pet Food Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "albright's raw pet food recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=albright%27s+raw+pet+food+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "albright's raw pet food recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-14T14:40:48.592Z"
+      "lastUpdated": "2026-05-14T20:02:00.488Z"
     },
     {
       "id": "fidelity-investment-data-breach-lawsuit",
@@ -87,36 +58,7 @@
         "fidelity investment data breach lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T14:40:48.592Z"
-    },
-    {
-      "id": "mg217-eczema-cream-recall",
-      "slug": "mg217-eczema-cream-recall",
-      "title": "Mg217 Eczema Cream Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "mg217 eczema cream recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "mg217 eczema cream recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-14T14:40:48.592Z"
+      "lastUpdated": "2026-05-14T20:02:00.488Z"
     }
   ]
 }

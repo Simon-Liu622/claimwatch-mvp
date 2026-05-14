@@ -1,6 +1,6 @@
 [
   {
-    "rank": 221,
+    "rank": 240,
     "query": "trump irs lawsuit settlement talks",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,10 +12,10 @@
     "source": "serpapi-google-trends",
     "text": "trump irs lawsuit settlement talks",
     "trendScore": 16,
-    "detectedAt": "2026-05-14T14:40:48.592Z"
+    "detectedAt": "2026-05-14T20:02:00.488Z"
   },
   {
-    "rank": 108,
+    "rank": 132,
     "query": "fidelity investment data breach lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -27,36 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "fidelity investment data breach lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-14T14:40:48.592Z"
-  },
-  {
-    "rank": 263,
-    "query": "mg217 eczema cream recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "mg217 eczema cream recall",
-    "trendScore": 8,
-    "detectedAt": "2026-05-14T14:40:48.592Z"
-  },
-  {
-    "rank": 365,
-    "query": "albright's raw pet food recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=albright%27s+raw+pet+food+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "albright's raw pet food recall",
-    "trendScore": 8,
-    "detectedAt": "2026-05-14T14:40:48.592Z"
+    "detectedAt": "2026-05-14T20:02:00.488Z"
   }
 ]

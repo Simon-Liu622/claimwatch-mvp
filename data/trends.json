@@ -1,6 +1,6 @@
 [
   {
-    "rank": 153,
+    "rank": 221,
     "query": "trump irs lawsuit settlement talks",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,27 +12,40 @@
     "source": "serpapi-google-trends",
     "text": "trump irs lawsuit settlement talks",
     "trendScore": 16,
-    "detectedAt": "2026-05-14T08:50:37.830Z"
+    "detectedAt": "2026-05-14T14:40:48.592Z"
   },
   {
-    "rank": 87,
-    "query": "fda pharmacal eczema cream recall",
+    "rank": 108,
+    "query": "fidelity investment data breach lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "mg217 eczema cream recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+investment+data+breach+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "fda pharmacal eczema cream recall mg217 eczema cream recall",
-    "trendScore": 10,
-    "detectedAt": "2026-05-14T08:50:37.830Z"
+    "text": "fidelity investment data breach lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-05-14T14:40:48.592Z"
   },
   {
-    "rank": 337,
+    "rank": 263,
+    "query": "mg217 eczema cream recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "mg217 eczema cream recall",
+    "trendScore": 8,
+    "detectedAt": "2026-05-14T14:40:48.592Z"
+  },
+  {
+    "rank": 365,
     "query": "albright's raw pet food recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -44,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "albright's raw pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-14T08:50:37.830Z"
+    "detectedAt": "2026-05-14T14:40:48.592Z"
   }
 ]

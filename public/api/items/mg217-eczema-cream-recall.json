@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-14T08:50:41.153Z",
+  "updatedAt": "2026-05-14T14:40:52.665Z",
   "item": {
-    "id": "fda-pharmacal-eczema-cream-recall",
-    "slug": "fda-pharmacal-eczema-cream-recall",
-    "title": "Fda Pharmacal Eczema Cream Recall: Consumer Alert Monitoring",
+    "id": "mg217-eczema-cream-recall",
+    "slug": "mg217-eczema-cream-recall",
+    "title": "Mg217 Eczema Cream Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda pharmacal eczema cream recall",
+    "product": "mg217 eczema cream recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+pharmacal+eczema+cream+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mg217+eczema+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 10,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
-      "fda pharmacal eczema cream recall",
       "mg217 eczema cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-14T08:50:37.830Z",
-    "url": "https://simon622.shop/item/fda-pharmacal-eczema-cream-recall/"
+    "lastUpdated": "2026-05-14T14:40:48.592Z",
+    "url": "https://simon622.shop/item/mg217-eczema-cream-recall/"
   }
 }

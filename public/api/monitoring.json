@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-15T09:24:46.846Z",
-  "count": 2,
+  "updatedAt": "2026-05-15T14:35:34.450Z",
+  "count": 1,
   "items": [
     {
       "id": "gm-vehicle-safety-recall-2026",
@@ -23,7 +23,7 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 25,
       "matchedQueries": [
         "gm vehicle safety recall 2026",
@@ -31,36 +31,7 @@
         "chevy"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-15T09:24:37.936Z"
-    },
-    {
-      "id": "comcast-data-breach-lawsuit-settlement",
-      "slug": "comcast-data-breach-lawsuit-settlement",
-      "title": "Comcast Data Breach Lawsuit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "comcast data breach lawsuit settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=comcast+data+breach+lawsuit+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "comcast data breach lawsuit settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-15T09:24:37.936Z"
+      "lastUpdated": "2026-05-15T14:35:32.535Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-15T09:24:46.846Z",
-  "count": 2,
+  "updatedAt": "2026-05-15T14:35:34.450Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 65,
+      "rank": 75,
       "query": "gm vehicle safety recall 2026",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -17,22 +17,7 @@
       "source": "serpapi-google-trends",
       "text": "gm vehicle safety recall 2026 gm vehicle recall transfer case",
       "trendScore": 25,
-      "detectedAt": "2026-05-15T09:24:37.936Z"
-    },
-    {
-      "rank": 347,
-      "query": "comcast data breach lawsuit settlement",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=comcast+data+breach+lawsuit+settlement&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "comcast data breach lawsuit settlement",
-      "trendScore": 16,
-      "detectedAt": "2026-05-15T09:24:37.936Z"
+      "detectedAt": "2026-05-15T14:35:32.535Z"
     }
   ]
 }

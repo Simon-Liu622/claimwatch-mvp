@@ -1,19 +1,32 @@
 [
   {
-    "rank": 75,
-    "query": "gm vehicle safety recall 2026",
-    "searchVolume": 10000,
+    "rank": 38,
+    "query": "fidelity data breach settlement",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "gm vehicle recall transfer case"
-    ],
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "fidelity data breach settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-05-15T19:54:09.671Z"
+  },
+  {
+    "rank": 69,
+    "query": "gm vehicle safety recall 2026",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "gm vehicle safety recall 2026 gm vehicle recall transfer case",
-    "trendScore": 25,
-    "detectedAt": "2026-05-15T14:35:32.535Z"
+    "text": "gm vehicle safety recall 2026",
+    "trendScore": 23,
+    "detectedAt": "2026-05-15T19:54:09.671Z"
   }
 ]

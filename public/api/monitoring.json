@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-15T14:35:34.450Z",
-  "count": 1,
+  "updatedAt": "2026-05-15T19:54:17.704Z",
+  "count": 2,
   "items": [
     {
       "id": "gm-vehicle-safety-recall-2026",
@@ -23,15 +23,44 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
         "gm vehicle safety recall 2026",
         "gm vehicle recall transfer case",
         "chevy"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-15T14:35:32.535Z"
+      "lastUpdated": "2026-05-15T19:54:09.671Z"
+    },
+    {
+      "id": "fidelity-data-breach-settlement",
+      "slug": "fidelity-data-breach-settlement",
+      "title": "Fidelity Data Breach Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fidelity data breach settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fidelity data breach settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-15T19:54:09.671Z"
     }
   ]
 }

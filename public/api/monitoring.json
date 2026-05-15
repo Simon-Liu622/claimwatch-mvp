@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-14T20:02:03.704Z",
-  "count": 2,
+  "updatedAt": "2026-05-15T04:17:42.613Z",
+  "count": 3,
   "items": [
     {
-      "id": "trump-irs-lawsuit-settlement-talks",
-      "slug": "trump-irs-lawsuit-settlement-talks",
-      "title": "Trump Irs Lawsuit Settlement Talks: Consumer Alert Monitoring",
+      "id": "comcast-data-breach-lawsuit-settlement",
+      "slug": "comcast-data-breach-lawsuit-settlement",
+      "title": "Comcast Data Breach Lawsuit Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump irs lawsuit settlement talks",
+      "product": "comcast data breach lawsuit settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,27 +20,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+settlement+talks&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=comcast+data+breach+lawsuit+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 1000,
       "trendScore": 16,
       "matchedQueries": [
-        "trump irs lawsuit settlement talks"
+        "comcast data breach lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T20:02:00.488Z"
+      "lastUpdated": "2026-05-15T04:17:39.820Z"
     },
     {
-      "id": "fidelity-investment-data-breach-lawsuit",
-      "slug": "fidelity-investment-data-breach-lawsuit",
-      "title": "Fidelity Investment Data Breach Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "gm-vehicle-safety-recall-2026",
+      "slug": "gm-vehicle-safety-recall-2026",
+      "title": "Gm Vehicle Safety Recall 2026: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fidelity investment data breach lawsuit",
-      "category": "Consumer monitoring",
+      "product": "gm vehicle safety recall 2026",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -49,16 +49,47 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+investment+data+breach+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 12,
       "matchedQueries": [
-        "fidelity investment data breach lawsuit"
+        "gm vehicle safety recall 2026",
+        "gm vehicle recall transfer case",
+        "chevy"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-14T20:02:00.488Z"
+      "lastUpdated": "2026-05-15T04:17:39.820Z"
+    },
+    {
+      "id": "fly-by-jing-noodle-recall",
+      "slug": "fly-by-jing-noodle-recall",
+      "title": "Fly By Jing Noodle Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fly by jing noodle recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fly+by+jing+noodle+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "fly by jing noodle recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-15T04:17:39.820Z"
     }
   ]
 }

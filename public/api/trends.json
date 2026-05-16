@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T04:02:17.028Z",
+  "updatedAt": "2026-05-16T08:19:39.264Z",
   "count": 4,
   "trends": [
     {
-      "rank": 37,
+      "rank": 29,
       "query": "supreme court virginia redistricting",
       "searchVolume": 10000,
       "startedAt": "",
@@ -14,14 +14,14 @@
         "virginia congressional redistricting lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court+virginia+redistricting&tz=420",
-      "increasePercentage": 800,
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
       "text": "supreme court virginia redistricting redistricting in virginia virginia congressional redistricting lawsuit",
       "trendScore": 27,
-      "detectedAt": "2026-05-16T04:02:14.134Z"
+      "detectedAt": "2026-05-16T08:19:36.668Z"
     },
     {
-      "rank": 13,
+      "rank": 9,
       "query": "straus creamery ice cream recall",
       "searchVolume": 20000,
       "startedAt": "",
@@ -33,10 +33,10 @@
       "source": "serpapi-google-trends",
       "text": "straus creamery ice cream recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-16T04:02:14.134Z"
+      "detectedAt": "2026-05-16T08:19:36.668Z"
     },
     {
-      "rank": 43,
+      "rank": 25,
       "query": "fidelity data breach settlement",
       "searchVolume": 10000,
       "startedAt": "",
@@ -48,10 +48,10 @@
       "source": "serpapi-google-trends",
       "text": "fidelity data breach settlement",
       "trendScore": 23,
-      "detectedAt": "2026-05-16T04:02:14.134Z"
+      "detectedAt": "2026-05-16T08:19:36.668Z"
     },
     {
-      "rank": 113,
+      "rank": 45,
       "query": "bank of america 7-eleven settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -63,7 +63,7 @@
       "source": "serpapi-google-trends",
       "text": "bank of america 7-eleven settlement",
       "trendScore": 23,
-      "detectedAt": "2026-05-16T04:02:14.134Z"
+      "detectedAt": "2026-05-16T08:19:36.668Z"
     }
   ]
 }

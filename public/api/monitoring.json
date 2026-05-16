@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T13:59:44.083Z",
+  "updatedAt": "2026-05-16T19:33:14.200Z",
   "count": 6,
   "items": [
     {
@@ -31,7 +31,7 @@
         "virginia congressional redistricting lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
     },
     {
       "id": "straus-creamery-ice-cream-recall",
@@ -60,36 +60,7 @@
         "straus creamery ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
-    },
-    {
-      "id": "fidelity-data-breach-settlement",
-      "slug": "fidelity-data-breach-settlement",
-      "title": "Fidelity Data Breach Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fidelity data breach settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "fidelity data breach settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
     },
     {
       "id": "bank-of-america-7-eleven-settlement",
@@ -112,13 +83,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7-eleven+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 24,
       "matchedQueries": [
         "bank of america 7-eleven settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
+    },
+    {
+      "id": "etta-brock-carnival-lawsuit",
+      "slug": "etta-brock-carnival-lawsuit",
+      "title": "Etta Brock Carnival Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "etta brock carnival lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=etta+brock+carnival+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "etta brock carnival lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
     },
     {
       "id": "fly-by-jing-noodle-recall",
@@ -141,13 +141,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fly+by+jing+noodle+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 23,
+      "searchVolume": 1000,
+      "trendScore": 8,
       "matchedQueries": [
         "fly by jing noodle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
     },
     {
       "id": "hatch-trick-chick-fil-a-lawsuit",
@@ -170,13 +170,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hatch+trick+chick-fil-a+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
+      "searchVolume": 1000,
       "trendScore": 8,
       "matchedQueries": [
         "hatch trick chick-fil-a lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T13:59:39.924Z"
+      "lastUpdated": "2026-05-16T19:33:11.541Z"
     }
   ]
 }

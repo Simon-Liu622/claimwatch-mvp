@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T13:59:44.083Z",
+  "updatedAt": "2026-05-16T19:33:14.200Z",
   "item": {
     "id": "fly-by-jing-noodle-recall",
     "slug": "fly-by-jing-noodle-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fly+by+jing+noodle+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 23,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
       "fly by jing noodle recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T13:59:39.924Z",
+    "lastUpdated": "2026-05-16T19:33:11.541Z",
     "url": "https://simon622.shop/item/fly-by-jing-noodle-recall/"
   }
 }

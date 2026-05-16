@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-15T19:54:17.704Z",
+  "updatedAt": "2026-05-16T04:02:17.028Z",
   "item": {
-    "id": "gm-vehicle-safety-recall-2026",
-    "slug": "gm-vehicle-safety-recall-2026",
-    "title": "Gm Vehicle Safety Recall 2026: Consumer Alert Monitoring",
+    "id": "straus-creamery-ice-cream-recall",
+    "slug": "straus-creamery-ice-cream-recall",
+    "title": "Straus Creamery Ice Cream Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "gm vehicle safety recall 2026",
+    "product": "straus creamery ice cream recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=straus+creamery+ice+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
-      "gm vehicle safety recall 2026",
-      "gm vehicle recall transfer case",
-      "chevy"
+      "straus creamery ice cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-15T19:54:09.671Z",
-    "url": "https://simon622.shop/item/gm-vehicle-safety-recall-2026/"
+    "lastUpdated": "2026-05-16T04:02:14.134Z",
+    "url": "https://simon622.shop/item/straus-creamery-ice-cream-recall/"
   }
 }

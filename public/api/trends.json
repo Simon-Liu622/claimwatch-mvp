@@ -1,11 +1,44 @@
 {
-  "updatedAt": "2026-05-15T19:54:17.704Z",
-  "count": 2,
+  "updatedAt": "2026-05-16T04:02:17.028Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 38,
+      "rank": 37,
+      "query": "supreme court virginia redistricting",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "redistricting in virginia",
+        "virginia congressional redistricting lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court+virginia+redistricting&tz=420",
+      "increasePercentage": 800,
+      "source": "serpapi-google-trends",
+      "text": "supreme court virginia redistricting redistricting in virginia virginia congressional redistricting lawsuit",
+      "trendScore": 27,
+      "detectedAt": "2026-05-16T04:02:14.134Z"
+    },
+    {
+      "rank": 13,
+      "query": "straus creamery ice cream recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=straus+creamery+ice+cream+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "straus creamery ice cream recall",
+      "trendScore": 24,
+      "detectedAt": "2026-05-16T04:02:14.134Z"
+    },
+    {
+      "rank": 43,
       "query": "fidelity data breach settlement",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -15,22 +48,22 @@
       "source": "serpapi-google-trends",
       "text": "fidelity data breach settlement",
       "trendScore": 23,
-      "detectedAt": "2026-05-15T19:54:09.671Z"
+      "detectedAt": "2026-05-16T04:02:14.134Z"
     },
     {
-      "rank": 69,
-      "query": "gm vehicle safety recall 2026",
-      "searchVolume": 5000,
+      "rank": 113,
+      "query": "bank of america 7-eleven settlement",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gm+vehicle+safety+recall+2026&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7-eleven+settlement&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "gm vehicle safety recall 2026",
+      "text": "bank of america 7-eleven settlement",
       "trendScore": 23,
-      "detectedAt": "2026-05-15T19:54:09.671Z"
+      "detectedAt": "2026-05-16T04:02:14.134Z"
     }
   ]
 }

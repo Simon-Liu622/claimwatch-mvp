@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T08:19:39.264Z",
+  "updatedAt": "2026-05-16T13:59:44.083Z",
   "item": {
     "id": "straus-creamery-ice-cream-recall",
     "slug": "straus-creamery-ice-cream-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=straus+creamery+ice+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 24,
     "matchedQueries": [
       "straus creamery ice cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T08:19:36.668Z",
+    "lastUpdated": "2026-05-16T13:59:39.924Z",
     "url": "https://simon622.shop/item/straus-creamery-ice-cream-recall/"
   }
 }

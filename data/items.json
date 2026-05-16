@@ -20,15 +20,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court+virginia+redistricting&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 27,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "supreme court virginia redistricting",
       "redistricting in virginia",
       "virginia congressional redistricting lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
@@ -86,7 +86,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0669-2026",
     "recallInitiationDate": "20260325",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "straus-creamery-ice-cream-recall",
@@ -109,13 +109,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=straus+creamery+ice+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 24,
     "matchedQueries": [
       "straus creamery ice cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "fidelity-data-breach-settlement",
@@ -138,13 +138,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "fidelity data breach settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "bank-of-america-7-eleven-settlement",
@@ -167,13 +167,42 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7-eleven+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "bank of america 7-eleven settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
+  },
+  {
+    "id": "fly-by-jing-noodle-recall",
+    "slug": "fly-by-jing-noodle-recall",
+    "title": "Fly By Jing Noodle Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "fly by jing noodle recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fly+by+jing+noodle+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 200,
+    "trendScore": 23,
+    "matchedQueries": [
+      "fly by jing noodle recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p",
@@ -199,7 +228,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0652-2026",
     "recallInitiationDate": "20260326",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "zarlengo-italian-ice-zarlengo-s-chocolate-chocolate-chip-gelato-packaged-in-multiple-sizes",
@@ -225,7 +254,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0650-2026",
     "recallInitiationDate": "20260326",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "zarlengo-italian-ice-zarlengo-s-chocolate-gelato-packaged-in-multiple-sizes-6-fl-oz-cups-1",
@@ -254,6 +283,35 @@
     "lastUpdated": "2026-05-11T20:03:56.394Z"
   },
   {
+    "id": "hatch-trick-chick-fil-a-lawsuit",
+    "slug": "hatch-trick-chick-fil-a-lawsuit",
+    "title": "Hatch Trick Chick-Fil-A Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "hatch trick chick-fil-a lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hatch+trick+chick-fil-a+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "hatch trick chick-fil-a lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
+  },
+  {
     "id": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
     "slug": "costco-wholesale-corporation-kirkland-signature-traditional-madeleines-12-count-net-wt-18o",
     "title": "Costco Wholesale Corporation: Kirkland Signature Traditional Madeleines 12 Count/net wt. 18oz., Item #2000012, Recall",
@@ -277,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0682-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "summit-import-corporation-spice-powder-4-oz-plastic-bag",
@@ -303,7 +361,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0671-2026",
     "recallInitiationDate": "20241017",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-punjabi-mix-net-wt-9oz-255g",
@@ -329,7 +387,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0670-2026",
     "recallInitiationDate": "20260325",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "marquez-brothers-international-inc-bulk-horchata-powder-3951-100547-1-25-horchata",
@@ -355,7 +413,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0672-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "unistel-industries-inc-salute-seasonings-ground-all-spice-net-wt-16oz-unistel-industries-6",
@@ -381,7 +439,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0666-2026",
     "recallInitiationDate": "20260324",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "marquez-brothers-international-inc-el-mexicano-agua-fresca-de-horchata-instant-horchata-dr",
@@ -407,7 +465,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0674-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "marquez-brothers-international-inc-el-mexicano-horchata-casera-instant-horchata-drink-net-",
@@ -433,7 +491,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0673-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "mondelez-global-llc-chips-ahoy-baked-bites-brookie-22-4-oz-carton-2-8-oz-pouch-and-7-7-oz-",
@@ -459,7 +517,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0667-2026",
     "recallInitiationDate": "20251230",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "booey-s-gourmet-llc-booey-s-dragon-s-breath-sauce-15-2oz-ringneck-glass-bottle",
@@ -485,7 +543,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0665-2026",
     "recallInitiationDate": "20260323",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "bee-well-honey-farm-and-supply-inc-raw-and-unfiltered-bee-well-wildflower-honey-net-wt-12-",
@@ -511,7 +569,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0664-2026",
     "recallInitiationDate": "20260320",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "pure-palm-c-o-dvd-label-is-predominantly-green-with-white-lettering-in-a-clear-plastic-cla",
@@ -537,7 +595,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0681-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "connecticut-crab-company-llc-crab-cakes-various-sizes-sold-to-food-service",
@@ -563,7 +621,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0656-2026",
     "recallInitiationDate": "20260325",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "get-consumer-alerts",
@@ -587,7 +645,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -611,7 +669,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -635,7 +693,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -659,7 +717,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -683,7 +741,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "find-refund-cases",
@@ -707,7 +765,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "consumer-advice",
@@ -731,7 +789,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -755,7 +813,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -779,7 +837,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -803,7 +861,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "military-consumer",
@@ -827,7 +885,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "consumer-gov",
@@ -851,7 +909,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -877,7 +935,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -903,7 +961,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -929,7 +987,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -955,7 +1013,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -981,7 +1039,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v164000",
@@ -1007,7 +1065,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -1033,7 +1091,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -1059,7 +1117,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "14/05/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -1085,7 +1143,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -1111,7 +1169,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v128000",
@@ -1137,7 +1195,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "hadson-toko-trading-co-inc-negita-cracker-shrimp-2-8oz",
@@ -1163,7 +1221,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0679-2026",
     "recallInitiationDate": "20260416",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "guangdong-zonegoing-food-co-ltd-52usa-brand-popping-boba-passion-fruit-flavor-net-wt-7-lb-",
@@ -1189,7 +1247,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0677-2026",
     "recallInitiationDate": "20260413",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "guangdong-zonegoing-food-co-ltd-52usa-brand-popping-boba-mango-flavor-net-wt-7-lb-3-2kg",
@@ -1215,7 +1273,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0678-2026",
     "recallInitiationDate": "20260413",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "lactalis-canada-inc-specially-selected-brand-vanilla-creme-brulee-net-wt-3-6oz-103g",
@@ -1241,7 +1299,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0680-2026",
     "recallInitiationDate": "20260414",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "schreiber-foods-inc-top-lid-label-einstein-bros-bagels-honey-almond-double-whipped-shmear-",
@@ -1267,7 +1325,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0675-2026",
     "recallInitiationDate": "20260326",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "guangdong-zonegoing-food-co-ltd-52usa-brand-popping-boba-strawberry-flavor-net-wt-7-lb-3-2",
@@ -1293,7 +1351,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0676-2026",
     "recallInitiationDate": "20260413",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "the-mochi-ice-cream-company-llc-my-mochi-strawberry-flavored-non-dairy-frozen-dessert-7-5-",
@@ -1319,7 +1377,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0684-2026",
     "recallInitiationDate": "20260420",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "king-juice-company-inc-calypso-tropic-tango-lemonade-16-fl-oz-1pt-473-ml",
@@ -1345,7 +1403,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0685-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "ganesha-enterprises-llc-klg-kesar-mukhwas-perishable-24-months-flexible-plastic-200-gm-818",
@@ -1371,7 +1429,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0683-2026",
     "recallInitiationDate": "20260214",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "hemu-trading-inc-black-label-with-blue-lettering-food-korean-food-enoki-mushroom-150g-clea",
@@ -1397,7 +1455,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0686-2026",
     "recallInitiationDate": "20260402",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "thea-pharma-inc-similasan-ivizia-sterile-lubricant-eye-drops-povidone-0-5-0-33-fl-oz-10-ml",
@@ -1423,7 +1481,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0501-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-ketamine-hydrochloride-injectable-solution-50mg-ml-50-mg-per-m",
@@ -1449,7 +1507,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0507-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "thea-pharma-inc-ivizia-sterile-lubricant-eye-drops-povidone-0-5-0-33-fl-oz-10-ml-made-in-f",
@@ -1475,7 +1533,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0500-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-10",
@@ -1501,7 +1559,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0506-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-na",
@@ -1527,7 +1585,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0504-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "alcon-research-llc-genteal-tears-lubricant-eye-gel-sterile-10g-0-34-fl-oz",
@@ -1553,7 +1611,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0492-2026",
     "recallInitiationDate": "20260421",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "hikma-pharmaceuticals-usa-inc-alendronate-sodium-oral-solution-70-mg-75-ml-75-ml-rx-only-4",
@@ -1579,7 +1637,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0526-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-narcotic-cii-1000-mcg-100",
@@ -1605,7 +1663,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0503-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "scope-health-optase-dry-eye-intense-drops-glycerin-0-2-packaged-in-0-33-fl-oz-sterile-manu",
@@ -1631,7 +1689,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0499-2026",
     "recallInitiationDate": "20260420",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-narcotic-cii-1250-mcg-25m",
@@ -1657,7 +1715,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0505-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "water-jel-technologies-llc-lidocaine-wound-gel-benzalkonium-chloride-0-13-and-lidocaine-hy",
@@ -1683,7 +1741,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0509-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "alcon-research-llc-systane-lubricant-eye-gel-night-gel-sterile-10g-0-35-oz-processed-in-fr",
@@ -1709,7 +1767,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0491-2026",
     "recallInitiationDate": "20260421",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-phenylephrine-hydrochloride-injectable-solution-40mg-250-ml-ba",
@@ -1735,7 +1793,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0502-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "american-regent-inc-levocarnitine-injection-usp-1-g-5-ml-200-mg-ml-5-ml-single-dose-vial-f",
@@ -1761,7 +1819,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0494-2026",
     "recallInitiationDate": "20260416",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "wells-pharma-of-houston-llc-fentanyl-citrate-injectable-solution-in-0-9-sodium-chloride-50",
@@ -1787,7 +1845,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0508-2026",
     "recallInitiationDate": "20260401",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "becton-dickinson-and-co-bd-gaspak-ez-co2-pouch-system-catalog-number-260684-for-microbiolo",
@@ -1813,7 +1871,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1982-2026",
     "recallInitiationDate": "20260407",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "medline-industries-lp-medline-neuro-sponges-various-dimensions-labeled-as-1-neuro-sponges-",
@@ -1839,7 +1897,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2008-2026",
     "recallInitiationDate": "20260319",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "medline-industries-lp-medline-medical-procedure-kits-containing-medline-neuro-sponges-labe",
@@ -1865,7 +1923,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2037-2026",
     "recallInitiationDate": "20260319",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "hologic-inc-brand-name-genius-review-station-product-name-genius-review-station-display-ba",
@@ -1891,7 +1949,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1949-2026",
     "recallInitiationDate": "20260323",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "philips-north-america-philips-smartpath-to-dstream-for-3-0t-with-mr-elastography-mre-1-mod",
@@ -1917,7 +1975,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1966-2026",
     "recallInitiationDate": "20260414",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "boston-scientific-corporation-boston-scientific-cardiac-resynchronization-therapy-crt-labe",
@@ -1943,7 +2001,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1771-2026",
     "recallInitiationDate": "20260319",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "medline-industries-lp-medline-medical-convenience-kits-containing-webcol-large-alcohol-pre",
@@ -1969,7 +2027,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2040-2026",
     "recallInitiationDate": "20260316",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "whill-inc-whill-model-c2-with-software-versions-before-hmi-2-22-mc-1-13-device-is-an-indoo",
@@ -1995,7 +2053,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1826-2026",
     "recallInitiationDate": "20251229",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "medline-industries-lp-medline-and-centurion-medical-convenience-kits-containing-webcol-lar",
@@ -2021,7 +2079,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2045-2026",
     "recallInitiationDate": "20260316",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "medtronic-inc-medtronic-sphere-9-catheter-model-number-afr-00001-catheter-percutaneous-car",
@@ -2047,7 +2105,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1948-2026",
     "recallInitiationDate": "20260311",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "philips-north-america-philips-smartpath-to-ingenia-elition-x-with-mr-elastography-mre-1-mo",
@@ -2073,7 +2131,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-1968-2026",
     "recallInitiationDate": "20260414",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26448",
@@ -2099,7 +2157,7 @@
     "officialVerified": true,
     "officialRecordId": "26448",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26453",
@@ -2125,7 +2183,7 @@
     "officialVerified": true,
     "officialRecordId": "26453",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26449",
@@ -2151,7 +2209,7 @@
     "officialVerified": true,
     "officialRecordId": "26449",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26445",
@@ -2177,7 +2235,7 @@
     "officialVerified": true,
     "officialRecordId": "26445",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26458",
@@ -2203,7 +2261,7 @@
     "officialVerified": true,
     "officialRecordId": "26458",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26455",
@@ -2229,7 +2287,7 @@
     "officialVerified": true,
     "officialRecordId": "26455",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26457",
@@ -2255,7 +2313,7 @@
     "officialVerified": true,
     "officialRecordId": "26457",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26456",
@@ -2281,7 +2339,7 @@
     "officialVerified": true,
     "officialRecordId": "26456",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26451",
@@ -2307,7 +2365,7 @@
     "officialVerified": true,
     "officialRecordId": "26451",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26447",
@@ -2333,7 +2391,7 @@
     "officialVerified": true,
     "officialRecordId": "26447",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26452",
@@ -2359,7 +2417,7 @@
     "officialVerified": true,
     "officialRecordId": "26452",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26454",
@@ -2385,7 +2443,7 @@
     "officialVerified": true,
     "officialRecordId": "26454",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26450",
@@ -2411,7 +2469,7 @@
     "officialVerified": true,
     "officialRecordId": "26450",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26446",
@@ -2437,7 +2495,7 @@
     "officialVerified": true,
     "officialRecordId": "26446",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26444",
@@ -2463,7 +2521,7 @@
     "officialVerified": true,
     "officialRecordId": "26444",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26435",
@@ -2489,7 +2547,7 @@
     "officialVerified": true,
     "officialRecordId": "26435",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26434",
@@ -2515,7 +2573,7 @@
     "officialVerified": true,
     "officialRecordId": "26434",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26433",
@@ -2541,7 +2599,7 @@
     "officialVerified": true,
     "officialRecordId": "26433",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26432",
@@ -2567,7 +2625,7 @@
     "officialVerified": true,
     "officialRecordId": "26432",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26438",
@@ -2593,7 +2651,7 @@
     "officialVerified": true,
     "officialRecordId": "26438",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26437",
@@ -2619,7 +2677,7 @@
     "officialVerified": true,
     "officialRecordId": "26437",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26440",
@@ -2645,7 +2703,7 @@
     "officialVerified": true,
     "officialRecordId": "26440",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26436",
@@ -2671,7 +2729,7 @@
     "officialVerified": true,
     "officialRecordId": "26436",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26429",
@@ -2697,7 +2755,7 @@
     "officialVerified": true,
     "officialRecordId": "26429",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26431",
@@ -2723,7 +2781,7 @@
     "officialVerified": true,
     "officialRecordId": "26431",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26430",
@@ -2749,7 +2807,7 @@
     "officialVerified": true,
     "officialRecordId": "26430",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26425",
@@ -2775,7 +2833,7 @@
     "officialVerified": true,
     "officialRecordId": "26425",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26420",
@@ -2801,7 +2859,7 @@
     "officialVerified": true,
     "officialRecordId": "26420",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26426",
@@ -2827,7 +2885,7 @@
     "officialVerified": true,
     "officialRecordId": "26426",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26411",
@@ -2853,7 +2911,7 @@
     "officialVerified": true,
     "officialRecordId": "26411",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26421",
@@ -2879,7 +2937,7 @@
     "officialVerified": true,
     "officialRecordId": "26421",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26419",
@@ -2905,7 +2963,7 @@
     "officialVerified": true,
     "officialRecordId": "26419",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26413",
@@ -2931,7 +2989,7 @@
     "officialVerified": true,
     "officialRecordId": "26413",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26407",
@@ -2957,7 +3015,7 @@
     "officialVerified": true,
     "officialRecordId": "26407",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26428",
@@ -2983,7 +3041,7 @@
     "officialVerified": true,
     "officialRecordId": "26428",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26422",
@@ -3009,7 +3067,7 @@
     "officialVerified": true,
     "officialRecordId": "26422",
     "recallInitiationDate": "2026-04-16T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26477",
@@ -3035,7 +3093,7 @@
     "officialVerified": true,
     "officialRecordId": "26477",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26475",
@@ -3061,7 +3119,7 @@
     "officialVerified": true,
     "officialRecordId": "26475",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26465",
@@ -3087,7 +3145,7 @@
     "officialVerified": true,
     "officialRecordId": "26465",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26478",
@@ -3113,7 +3171,7 @@
     "officialVerified": true,
     "officialRecordId": "26478",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26467",
@@ -3139,7 +3197,7 @@
     "officialVerified": true,
     "officialRecordId": "26467",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26470",
@@ -3165,7 +3223,7 @@
     "officialVerified": true,
     "officialRecordId": "26470",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26469",
@@ -3191,7 +3249,7 @@
     "officialVerified": true,
     "officialRecordId": "26469",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26472",
@@ -3217,7 +3275,7 @@
     "officialVerified": true,
     "officialRecordId": "26472",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26468",
@@ -3243,7 +3301,7 @@
     "officialVerified": true,
     "officialRecordId": "26468",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26466",
@@ -3269,7 +3327,7 @@
     "officialVerified": true,
     "officialRecordId": "26466",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -3295,7 +3353,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -3321,7 +3379,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -3347,7 +3405,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -3373,7 +3431,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-23v782000",
@@ -3399,7 +3457,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -3425,7 +3483,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -3451,7 +3509,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26486",
@@ -3477,7 +3535,7 @@
     "officialVerified": true,
     "officialRecordId": "26486",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26482",
@@ -3503,7 +3561,7 @@
     "officialVerified": true,
     "officialRecordId": "26482",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26493",
@@ -3529,7 +3587,7 @@
     "officialVerified": true,
     "officialRecordId": "26493",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26494",
@@ -3555,7 +3613,7 @@
     "officialVerified": true,
     "officialRecordId": "26494",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26490",
@@ -3581,7 +3639,7 @@
     "officialVerified": true,
     "officialRecordId": "26490",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26484",
@@ -3607,7 +3665,7 @@
     "officialVerified": true,
     "officialRecordId": "26484",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26479",
@@ -3633,7 +3691,7 @@
     "officialVerified": true,
     "officialRecordId": "26479",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26483",
@@ -3659,7 +3717,7 @@
     "officialVerified": true,
     "officialRecordId": "26483",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26488",
@@ -3685,7 +3743,7 @@
     "officialVerified": true,
     "officialRecordId": "26488",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26487",
@@ -3711,7 +3769,7 @@
     "officialVerified": true,
     "officialRecordId": "26487",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26480",
@@ -3737,7 +3795,7 @@
     "officialVerified": true,
     "officialRecordId": "26480",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26481",
@@ -3763,7 +3821,7 @@
     "officialVerified": true,
     "officialRecordId": "26481",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26485",
@@ -3789,7 +3847,7 @@
     "officialVerified": true,
     "officialRecordId": "26485",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26489",
@@ -3815,7 +3873,7 @@
     "officialVerified": true,
     "officialRecordId": "26489",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-16T08:19:36.668Z"
+    "lastUpdated": "2026-05-16T13:59:39.924Z"
   },
   {
     "id": "cpsc-26412",

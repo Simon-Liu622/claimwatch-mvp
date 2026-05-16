@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-16T08:19:39.264Z",
-  "count": 4,
+  "updatedAt": "2026-05-16T13:59:44.083Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 29,
+      "rank": 14,
       "query": "supreme court virginia redistricting",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -14,16 +14,16 @@
         "virginia congressional redistricting lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court+virginia+redistricting&tz=420",
-      "increasePercentage": 700,
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "supreme court virginia redistricting redistricting in virginia virginia congressional redistricting lawsuit",
-      "trendScore": 27,
-      "detectedAt": "2026-05-16T08:19:36.668Z"
+      "trendScore": 28,
+      "detectedAt": "2026-05-16T13:59:39.924Z"
     },
     {
-      "rank": 9,
+      "rank": 3,
       "query": "straus creamery ice cream recall",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -33,37 +33,67 @@
       "source": "serpapi-google-trends",
       "text": "straus creamery ice cream recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-16T08:19:36.668Z"
+      "detectedAt": "2026-05-16T13:59:39.924Z"
     },
     {
-      "rank": 25,
-      "query": "fidelity data breach settlement",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "fidelity data breach settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-05-16T08:19:36.668Z"
-    },
-    {
-      "rank": 45,
+      "rank": 10,
       "query": "bank of america 7-eleven settlement",
-      "searchVolume": 2000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7-eleven+settlement&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "bank of america 7-eleven settlement",
+      "trendScore": 24,
+      "detectedAt": "2026-05-16T13:59:39.924Z"
+    },
+    {
+      "rank": 20,
+      "query": "fidelity data breach settlement",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fidelity+data+breach+settlement&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "fidelity data breach settlement",
+      "trendScore": 24,
+      "detectedAt": "2026-05-16T13:59:39.924Z"
+    },
+    {
+      "rank": 149,
+      "query": "fly by jing noodle recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fly+by+jing+noodle+recall&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "fly by jing noodle recall",
       "trendScore": 23,
-      "detectedAt": "2026-05-16T08:19:36.668Z"
+      "detectedAt": "2026-05-16T13:59:39.924Z"
+    },
+    {
+      "rank": 186,
+      "query": "hatch trick chick-fil-a lawsuit",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hatch+trick+chick-fil-a+lawsuit&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "hatch trick chick-fil-a lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-05-16T13:59:39.924Z"
     }
   ]
 }

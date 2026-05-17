@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-17T13:57:00.837Z",
+  "updatedAt": "2026-05-17T19:36:07.946Z",
   "item": {
-    "id": "gina-carano-mandalorian",
-    "slug": "gina-carano-mandalorian",
-    "title": "Gina Carano Mandalorian: Consumer Alert Monitoring",
+    "id": "the-mandalorian",
+    "slug": "the-mandalorian",
+    "title": "The Mandalorian: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "gina carano mandalorian",
+    "product": "the mandalorian",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,26 +18,24 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gina+carano+mandalorian&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+mandalorian&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 34,
+    "searchVolume": 10000,
+    "trendScore": 18,
     "matchedQueries": [
-      "gina carano mandalorian",
+      "the mandalorian",
+      "mandalorian",
       "gina carano controversy",
       "gina carano star wars",
       "why did gina carano get canceled",
       "gina carano cancelled",
       "why did gina carano get fired from disney",
       "what did gina carano say to get fired from disney",
-      "why was gina carano cancelled",
-      "gina carano the mandalorian",
-      "the mandalorian",
-      "mandalorian"
+      "why was gina carano cancelled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-17T13:56:57.829Z",
-    "url": "https://simon622.shop/item/gina-carano-mandalorian/"
+    "lastUpdated": "2026-05-17T19:36:05.006Z",
+    "url": "https://simon622.shop/item/the-mandalorian/"
   }
 }

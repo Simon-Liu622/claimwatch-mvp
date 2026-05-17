@@ -1,46 +1,7 @@
 {
-  "updatedAt": "2026-05-17T13:57:00.837Z",
-  "count": 5,
+  "updatedAt": "2026-05-17T19:36:07.946Z",
+  "count": 4,
   "items": [
-    {
-      "id": "gina-carano-mandalorian",
-      "slug": "gina-carano-mandalorian",
-      "title": "Gina Carano Mandalorian: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "gina carano mandalorian",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gina+carano+mandalorian&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 34,
-      "matchedQueries": [
-        "gina carano mandalorian",
-        "gina carano controversy",
-        "gina carano star wars",
-        "why did gina carano get canceled",
-        "gina carano cancelled",
-        "why did gina carano get fired from disney",
-        "what did gina carano say to get fired from disney",
-        "why was gina carano cancelled",
-        "gina carano the mandalorian",
-        "the mandalorian",
-        "mandalorian"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-17T13:56:57.829Z"
-    },
     {
       "id": "blue-cross-lawsuit-settlement-payment",
       "slug": "blue-cross-lawsuit-settlement-payment",
@@ -62,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+lawsuit+settlement+payment&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 31,
       "matchedQueries": [
         "blue cross lawsuit settlement payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T13:56:57.829Z"
+      "lastUpdated": "2026-05-17T19:36:05.006Z"
     },
     {
-      "id": "etta-brock-carnival-lawsuit",
-      "slug": "etta-brock-carnival-lawsuit",
-      "title": "Etta Brock Carnival Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "bank-of-america-7-eleven-settlement",
+      "slug": "bank-of-america-7-eleven-settlement",
+      "title": "Bank Of America 7 Eleven Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "etta brock carnival lawsuit",
+      "product": "bank of america 7 eleven settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -88,16 +49,53 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=etta+brock+carnival+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7+eleven+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "bank of america 7 eleven settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-17T19:36:05.006Z"
+    },
+    {
+      "id": "the-mandalorian",
+      "slug": "the-mandalorian",
+      "title": "The Mandalorian: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "the mandalorian",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+mandalorian&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 18,
       "matchedQueries": [
-        "etta brock carnival lawsuit"
+        "the mandalorian",
+        "mandalorian",
+        "gina carano controversy",
+        "gina carano star wars",
+        "why did gina carano get canceled",
+        "gina carano cancelled",
+        "why did gina carano get fired from disney",
+        "what did gina carano say to get fired from disney",
+        "why was gina carano cancelled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T13:56:57.829Z"
+      "lastUpdated": "2026-05-17T19:36:05.006Z"
     },
     {
       "id": "fda-straus-ice-cream-recall",
@@ -121,41 +119,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "fda straus ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T13:56:57.829Z"
-    },
-    {
-      "id": "bank-of-america-7-eleven-settlement",
-      "slug": "bank-of-america-7-eleven-settlement",
-      "title": "Bank Of America 7 Eleven Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "bank of america 7 eleven settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7+eleven+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 23,
-      "matchedQueries": [
-        "bank of america 7 eleven settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-17T13:56:57.829Z"
+      "lastUpdated": "2026-05-17T19:36:05.006Z"
     }
   ]
 }

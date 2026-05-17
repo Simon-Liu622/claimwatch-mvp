@@ -1,96 +1,7 @@
 {
-  "updatedAt": "2026-05-16T19:33:14.200Z",
-  "count": 6,
+  "updatedAt": "2026-05-17T04:32:41.007Z",
+  "count": 3,
   "items": [
-    {
-      "id": "supreme-court-virginia-redistricting",
-      "slug": "supreme-court-virginia-redistricting",
-      "title": "Supreme Court Virginia Redistricting: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "supreme court virginia redistricting",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court+virginia+redistricting&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "supreme court virginia redistricting",
-        "redistricting in virginia",
-        "virginia congressional redistricting lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
-    },
-    {
-      "id": "straus-creamery-ice-cream-recall",
-      "slug": "straus-creamery-ice-cream-recall",
-      "title": "Straus Creamery Ice Cream Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "straus creamery ice cream recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=straus+creamery+ice+cream+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "straus creamery ice cream recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
-    },
-    {
-      "id": "bank-of-america-7-eleven-settlement",
-      "slug": "bank-of-america-7-eleven-settlement",
-      "title": "Bank Of America 7-Eleven Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "bank of america 7-eleven settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7-eleven+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "bank of america 7-eleven settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
-    },
     {
       "id": "etta-brock-carnival-lawsuit",
       "slug": "etta-brock-carnival-lawsuit",
@@ -112,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=etta+brock+carnival+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "etta brock carnival lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
+      "lastUpdated": "2026-05-17T04:32:32.500Z"
     },
     {
       "id": "fly-by-jing-noodle-recall",
@@ -147,7 +58,7 @@
         "fly by jing noodle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
+      "lastUpdated": "2026-05-17T04:32:32.500Z"
     },
     {
       "id": "hatch-trick-chick-fil-a-lawsuit",
@@ -170,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hatch+trick+chick-fil-a+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
         "hatch trick chick-fil-a lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-16T19:33:11.541Z"
+      "lastUpdated": "2026-05-17T04:32:32.500Z"
     }
   ]
 }

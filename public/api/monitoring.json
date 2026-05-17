@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-05-17T04:32:41.007Z",
-  "count": 3,
+  "updatedAt": "2026-05-17T08:33:09.304Z",
+  "count": 5,
   "items": [
+    {
+      "id": "gina-carano-mandalorian",
+      "slug": "gina-carano-mandalorian",
+      "title": "Gina Carano Mandalorian: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "gina carano mandalorian",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gina+carano+mandalorian&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 34,
+      "matchedQueries": [
+        "gina carano mandalorian",
+        "gina carano controversy",
+        "gina carano star wars",
+        "why did gina carano get canceled",
+        "gina carano cancelled",
+        "why did gina carano get fired from disney",
+        "what did gina carano say to get fired from disney",
+        "why was gina carano cancelled",
+        "gina carano the mandalorian"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-17T08:33:06.632Z"
+    },
+    {
+      "id": "blue-cross-lawsuit-settlement-payment",
+      "slug": "blue-cross-lawsuit-settlement-payment",
+      "title": "Blue Cross Lawsuit Settlement Payment: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "blue cross lawsuit settlement payment",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+lawsuit+settlement+payment&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 31,
+      "matchedQueries": [
+        "blue cross lawsuit settlement payment"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-17T08:33:06.632Z"
+    },
     {
       "id": "etta-brock-carnival-lawsuit",
       "slug": "etta-brock-carnival-lawsuit",
@@ -29,7 +95,7 @@
         "etta brock carnival lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T04:32:32.500Z"
+      "lastUpdated": "2026-05-17T08:33:06.632Z"
     },
     {
       "id": "fly-by-jing-noodle-recall",
@@ -58,7 +124,7 @@
         "fly by jing noodle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T04:32:32.500Z"
+      "lastUpdated": "2026-05-17T08:33:06.632Z"
     },
     {
       "id": "hatch-trick-chick-fil-a-lawsuit",
@@ -87,7 +153,7 @@
         "hatch trick chick-fil-a lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-17T04:32:32.500Z"
+      "lastUpdated": "2026-05-17T08:33:06.632Z"
     }
   ]
 }

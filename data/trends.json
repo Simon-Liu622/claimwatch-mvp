@@ -1,6 +1,54 @@
 [
   {
-    "rank": 54,
+    "rank": 30,
+    "query": "gina carano mandalorian",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "gina carano controversy",
+      "gina carano star wars",
+      "why did gina carano get canceled",
+      "gina carano cancelled",
+      "why did gina carano get fired from disney",
+      "what did gina carano say to get fired from disney",
+      "why was gina carano cancelled",
+      "gina carano the mandalorian",
+      "mandalorian gina carano",
+      "gina carano in mandalorian",
+      "why was gina carano fired from the mandalorian",
+      "gina carano disney",
+      "gina mandalorian",
+      "what did gina carano get cancelled for",
+      "gina carano disney settlement",
+      "gina carano fired from disney",
+      "the mandalorian gina carano"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gina+carano+mandalorian&tz=420",
+    "increasePercentage": 900,
+    "source": "serpapi-google-trends",
+    "text": "gina carano mandalorian gina carano controversy gina carano star wars why did gina carano get canceled gina carano cancelled why did gina carano get fired from disney what did gina carano say to get fired from disney why was gina carano cancelled gina carano the mandalorian mandalorian gina carano gina carano in mandalorian why was gina carano fired from the mandalorian gina carano disney gina mandalorian what did gina carano get cancelled for gina carano disney settlement gina carano fired from disney the mandalorian gina carano",
+    "trendScore": 34,
+    "detectedAt": "2026-05-17T08:33:06.632Z"
+  },
+  {
+    "rank": 116,
+    "query": "blue cross lawsuit settlement payment",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+lawsuit+settlement+payment&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "blue cross lawsuit settlement payment",
+    "trendScore": 31,
+    "detectedAt": "2026-05-17T08:33:06.632Z"
+  },
+  {
+    "rank": 37,
     "query": "etta brock carnival lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -8,14 +56,14 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=etta+brock+carnival+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "etta brock carnival lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-05-17T04:32:32.500Z"
+    "detectedAt": "2026-05-17T08:33:06.632Z"
   },
   {
-    "rank": 379,
+    "rank": 353,
     "query": "hatch trick chick-fil-a lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,10 +75,10 @@
     "source": "serpapi-google-trends",
     "text": "hatch trick chick-fil-a lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-17T04:32:32.500Z"
+    "detectedAt": "2026-05-17T08:33:06.632Z"
   },
   {
-    "rank": 382,
+    "rank": 356,
     "query": "fly by jing noodle recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -42,6 +90,6 @@
     "source": "serpapi-google-trends",
     "text": "fly by jing noodle recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-17T04:32:32.500Z"
+    "detectedAt": "2026-05-17T08:33:06.632Z"
   }
 ]

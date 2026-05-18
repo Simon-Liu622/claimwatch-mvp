@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-18T10:41:15.861Z",
+  "updatedAt": "2026-05-18T15:56:24.440Z",
   "item": {
-    "id": "fda-straus-ice-cream-recall",
-    "slug": "fda-straus-ice-cream-recall",
-    "title": "Fda Straus Ice Cream Recall: Consumer Alert Monitoring",
+    "id": "creative-cake-decorating-recall",
+    "slug": "creative-cake-decorating-recall",
+    "title": "Creative Cake Decorating Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda straus ice cream recall",
+    "product": "creative cake decorating recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+straus+ice+cream+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=creative+cake+decorating+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 1000,
+    "trendScore": 23,
     "matchedQueries": [
-      "fda straus ice cream recall"
+      "creative cake decorating recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-18T10:41:10.898Z",
-    "url": "https://simon622.shop/item/fda-straus-ice-cream-recall/"
+    "lastUpdated": "2026-05-18T15:56:21.296Z",
+    "url": "https://simon622.shop/item/creative-cake-decorating-recall/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-18T10:41:15.861Z",
+  "updatedAt": "2026-05-18T15:56:24.440Z",
   "item": {
-    "id": "bank-of-america-7-eleven-settlement",
-    "slug": "bank-of-america-7-eleven-settlement",
-    "title": "Bank Of America 7 Eleven Settlement: Consumer Alert Monitoring",
+    "id": "trump-irs",
+    "slug": "trump-irs",
+    "title": "Trump Irs: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "bank of america 7 eleven settlement",
+    "product": "trump irs",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,20 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bank+of+america+7+eleven+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 39,
     "matchedQueries": [
-      "bank of america 7 eleven settlement"
+      "trump irs",
+      "trump irs tax leak settlement",
+      "donald trump irs lawsuit dismissed",
+      "trump irs lawsuit",
+      "trump irs lawsuit settlement talks"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-18T10:41:10.898Z",
-    "url": "https://simon622.shop/item/bank-of-america-7-eleven-settlement/"
+    "lastUpdated": "2026-05-18T15:56:21.296Z",
+    "url": "https://simon622.shop/item/trump-irs/"
   }
 }

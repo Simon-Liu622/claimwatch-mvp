@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-18T04:41:46.054Z",
-  "count": 4,
+  "updatedAt": "2026-05-18T10:41:15.861Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 48,
+      "rank": 51,
       "query": "trump irs lawsuit settlement talks",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -15,7 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "trump irs lawsuit settlement talks",
       "trendScore": 31,
-      "detectedAt": "2026-05-18T04:41:42.871Z"
+      "detectedAt": "2026-05-18T10:41:10.898Z"
     },
     {
       "rank": 13,
@@ -30,25 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "fda straus ice cream recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-18T04:41:42.871Z"
+      "detectedAt": "2026-05-18T10:41:10.898Z"
     },
     {
-      "rank": 109,
-      "query": "blue cross lawsuit settlement payment",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+cross+lawsuit+settlement+payment&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "blue cross lawsuit settlement payment",
-      "trendScore": 16,
-      "detectedAt": "2026-05-18T04:41:42.871Z"
-    },
-    {
-      "rank": 261,
+      "rank": 243,
       "query": "bank of america 7 eleven settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -60,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "bank of america 7 eleven settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-18T04:41:42.871Z"
+      "detectedAt": "2026-05-18T10:41:10.898Z"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-18T15:56:24.440Z",
+  "updatedAt": "2026-05-18T20:01:16.347Z",
   "count": 2,
   "items": [
     {
-      "id": "trump-irs",
-      "slug": "trump-irs",
-      "title": "Trump Irs: Consumer Alert Monitoring",
+      "id": "politics",
+      "slug": "politics",
+      "title": "Politics: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump irs",
+      "product": "politics",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,20 +20,21 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 39,
+      "searchVolume": 20000,
+      "trendScore": 42,
       "matchedQueries": [
-        "trump irs",
+        "politics",
         "trump irs tax leak settlement",
+        "trump irs",
+        "trump irs lawsuit settlement talks",
         "donald trump irs lawsuit dismissed",
-        "trump irs lawsuit",
-        "trump irs lawsuit settlement talks"
+        "trump irs lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-18T15:56:21.296Z"
+      "lastUpdated": "2026-05-18T20:01:12.234Z"
     },
     {
       "id": "creative-cake-decorating-recall",
@@ -56,13 +57,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=creative+cake+decorating+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "creative cake decorating recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-18T15:56:21.296Z"
+      "lastUpdated": "2026-05-18T20:01:12.234Z"
     }
   ]
 }

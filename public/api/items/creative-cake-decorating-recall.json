@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T15:56:24.440Z",
+  "updatedAt": "2026-05-18T20:01:16.347Z",
   "item": {
     "id": "creative-cake-decorating-recall",
     "slug": "creative-cake-decorating-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=creative+cake+decorating+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 23,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
       "creative cake decorating recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-18T15:56:21.296Z",
+    "lastUpdated": "2026-05-18T20:01:12.234Z",
     "url": "https://simon622.shop/item/creative-cake-decorating-recall/"
   }
 }

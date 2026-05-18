@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T19:36:07.946Z",
+  "updatedAt": "2026-05-18T04:41:46.054Z",
   "item": {
     "id": "fda-straus-ice-cream-recall",
     "slug": "fda-straus-ice-cream-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+straus+ice+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "fda straus ice cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-17T19:36:05.006Z",
+    "lastUpdated": "2026-05-18T04:41:42.871Z",
     "url": "https://simon622.shop/item/fda-straus-ice-cream-recall/"
   }
 }

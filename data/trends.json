@@ -1,42 +1,36 @@
 [
   {
-    "rank": 152,
-    "query": "trump irs tax leak settlement",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "doj anti-weaponization fund",
-      "trump irs",
-      "donald trump irs lawsuit dismissed",
-      "doj",
-      "trump irs lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+tax+leak+settlement&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "trump irs tax leak settlement doj anti-weaponization fund trump irs donald trump irs lawsuit dismissed doj trump irs lawsuit",
-    "trendScore": 26,
-    "detectedAt": "2026-05-19T10:07:42.718Z"
-  },
-  {
-    "rank": 71,
-    "query": "jeep cherokee ptu recall",
+    "rank": 57,
+    "query": "organic ice cream metal contamination",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=organic+ice+cream+metal+contamination&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "jeep cherokee ptu recall",
+    "text": "organic ice cream metal contamination",
     "trendScore": 23,
-    "detectedAt": "2026-05-19T10:07:42.718Z"
+    "detectedAt": "2026-05-19T15:49:26.089Z"
   },
   {
-    "rank": 139,
+    "rank": 134,
+    "query": "jeep cherokee ptu recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "jeep cherokee ptu recall",
+    "trendScore": 8,
+    "detectedAt": "2026-05-19T15:49:26.089Z"
+  },
+  {
+    "rank": 174,
     "query": "costco agio-menlo swing recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -48,21 +42,36 @@
     "source": "serpapi-google-trends",
     "text": "costco agio-menlo swing recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-19T10:07:42.718Z"
+    "detectedAt": "2026-05-19T15:49:26.089Z"
   },
   {
-    "rank": 277,
-    "query": "creative cake decorating recall",
-    "searchVolume": 2000,
+    "rank": 207,
+    "query": "blake lively, justin baldoni settlement",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=creative+cake+decorating+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively%2C+justin+baldoni+settlement&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "creative cake decorating recall",
+    "text": "blake lively, justin baldoni settlement",
     "trendScore": 8,
-    "detectedAt": "2026-05-19T10:07:42.718Z"
+    "detectedAt": "2026-05-19T15:49:26.089Z"
+  },
+  {
+    "rank": 263,
+    "query": "adani group us legal settlement",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adani+group+us+legal+settlement&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "adani group us legal settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-05-19T15:49:26.089Z"
   }
 ]

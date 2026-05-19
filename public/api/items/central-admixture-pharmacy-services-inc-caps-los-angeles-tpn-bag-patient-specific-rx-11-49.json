@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-19T15:49:30.248Z",
+  "item": {
+    "id": "central-admixture-pharmacy-services-inc-caps-los-angeles-tpn-bag-patient-specific-rx-11-49",
+    "slug": "central-admixture-pharmacy-services-inc-caps-los-angeles-tpn-bag-patient-specific-rx-11-49",
+    "title": "Central Admixture Pharmacy Services, Inc (CAPS) Los Angeles: TPN bag (patient specific), Rx# 11-4909703-0-1, Compound Volume 1660 mL per bag, Rx only, Single Dose Injection, Refrigerated Injection, Cen Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Central Admixture Pharmacy Services, Inc (CAPS) Los Angeles",
+    "brand": "Central Admixture Pharmacy Services, Inc (CAPS) Los Angeles",
+    "product": "TPN bag (patient specific), Rx# 11-4909703-0-1, Compound Volume 1660 mL per bag, Rx only, Single Dose Injection, Refrigerated Injection, Cen",
+    "category": "Recall",
+    "summary": "Incorrect Product Formulation: product did not contain insulin as listed in the label. Product details: TPN bag (patient specific), Rx# 11-4909703-0-1, Compound Volume 1660 mL per bag, Rx only, Single Dose Injection, Refrigerated Injection, Central Admixture Pharmacy Services, Los Angeles, 13128 Imperial Hwy, Santa Fe Spr., CA 90670",
+    "affectedPeople": "CA",
+    "remedy": "Affected quantity: 1 bag",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0524-2026",
+    "recallInitiationDate": "20251227",
+    "lastUpdated": "2026-05-19T15:49:26.089Z",
+    "url": "https://simon622.shop/item/central-admixture-pharmacy-services-inc-caps-los-angeles-tpn-bag-patient-specific-rx-11-49/"
+  }
+}

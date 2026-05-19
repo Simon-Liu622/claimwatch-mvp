@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-05-19T10:07:47.490Z",
-  "count": 3,
+  "updatedAt": "2026-05-19T15:49:30.248Z",
+  "count": 4,
   "items": [
     {
-      "id": "trump-irs-tax-leak-settlement",
-      "slug": "trump-irs-tax-leak-settlement",
-      "title": "Trump Irs Tax Leak Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "organic-ice-cream-metal-contamination",
+      "slug": "organic-ice-cream-metal-contamination",
+      "title": "Organic Ice Cream Metal Contamination: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump irs tax leak settlement",
-      "category": "Consumer monitoring",
+      "product": "organic ice cream metal contamination",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,21 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+tax+leak+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=organic+ice+cream+metal+contamination&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 26,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "trump irs tax leak settlement",
-        "doj anti-weaponization fund",
-        "trump irs",
-        "donald trump irs lawsuit dismissed",
-        "doj",
-        "trump irs lawsuit"
+        "organic ice cream metal contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T10:07:42.718Z"
+      "lastUpdated": "2026-05-19T15:49:26.089Z"
     },
     {
       "id": "jeep-cherokee-ptu-recall",
@@ -58,23 +53,23 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "jeep cherokee ptu recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T10:07:42.718Z"
+      "lastUpdated": "2026-05-19T15:49:26.089Z"
     },
     {
-      "id": "creative-cake-decorating-recall",
-      "slug": "creative-cake-decorating-recall",
-      "title": "Creative Cake Decorating Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "blake-lively-justin-baldoni-settlement",
+      "slug": "blake-lively-justin-baldoni-settlement",
+      "title": "Blake Lively, Justin Baldoni Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "creative cake decorating recall",
-      "category": "Recall monitoring",
+      "product": "blake lively, justin baldoni settlement",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -83,16 +78,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=creative+cake+decorating+recall&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively%2C+justin+baldoni+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "creative cake decorating recall"
+        "blake lively, justin baldoni settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T10:07:42.718Z"
+      "lastUpdated": "2026-05-19T15:49:26.089Z"
+    },
+    {
+      "id": "adani-group-us-legal-settlement",
+      "slug": "adani-group-us-legal-settlement",
+      "title": "Adani Group Us Legal Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "adani group us legal settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adani+group+us+legal+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "adani group us legal settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-19T15:49:26.089Z"
     }
   ]
 }

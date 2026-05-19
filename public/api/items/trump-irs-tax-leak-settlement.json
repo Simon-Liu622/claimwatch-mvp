@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-19T04:33:36.061Z",
+  "updatedAt": "2026-05-19T10:07:47.490Z",
   "item": {
-    "id": "politics",
-    "slug": "politics",
-    "title": "Politics: Consumer Alert Monitoring",
+    "id": "trump-irs-tax-leak-settlement",
+    "slug": "trump-irs-tax-leak-settlement",
+    "title": "Trump Irs Tax Leak Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "politics",
+    "product": "trump irs tax leak settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,23 +18,21 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+tax+leak+settlement&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 27,
+    "searchVolume": 10000,
+    "trendScore": 26,
     "matchedQueries": [
-      "politics",
       "trump irs tax leak settlement",
-      "trump irs",
-      "trump irs lawsuit settlement talks",
-      "donald trump irs lawsuit dismissed",
-      "trump irs lawsuit",
       "doj anti-weaponization fund",
-      "doj"
+      "trump irs",
+      "donald trump irs lawsuit dismissed",
+      "doj",
+      "trump irs lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-19T04:33:33.724Z",
-    "url": "https://simon622.shop/item/politics/"
+    "lastUpdated": "2026-05-19T10:07:42.718Z",
+    "url": "https://simon622.shop/item/trump-irs-tax-leak-settlement/"
   }
 }

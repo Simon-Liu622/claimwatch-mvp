@@ -1,28 +1,42 @@
 [
   {
-    "rank": 96,
-    "query": "politics",
-    "searchVolume": 20000,
+    "rank": 152,
+    "query": "trump irs tax leak settlement",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
       "doj anti-weaponization fund",
-      "trump irs tax leak settlement",
       "trump irs",
       "donald trump irs lawsuit dismissed",
       "doj",
       "trump irs lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+tax+leak+settlement&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "politics doj anti-weaponization fund trump irs tax leak settlement trump irs donald trump irs lawsuit dismissed doj trump irs lawsuit",
-    "trendScore": 27,
-    "detectedAt": "2026-05-19T04:33:33.724Z"
+    "text": "trump irs tax leak settlement doj anti-weaponization fund trump irs donald trump irs lawsuit dismissed doj trump irs lawsuit",
+    "trendScore": 26,
+    "detectedAt": "2026-05-19T10:07:42.718Z"
   },
   {
-    "rank": 165,
+    "rank": 71,
+    "query": "jeep cherokee ptu recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "jeep cherokee ptu recall",
+    "trendScore": 23,
+    "detectedAt": "2026-05-19T10:07:42.718Z"
+  },
+  {
+    "rank": 139,
     "query": "costco agio-menlo swing recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -34,25 +48,10 @@
     "source": "serpapi-google-trends",
     "text": "costco agio-menlo swing recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-19T04:33:33.724Z"
+    "detectedAt": "2026-05-19T10:07:42.718Z"
   },
   {
-    "rank": 173,
-    "query": "jeep cherokee ptu recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "jeep cherokee ptu recall",
-    "trendScore": 8,
-    "detectedAt": "2026-05-19T04:33:33.724Z"
-  },
-  {
-    "rank": 302,
+    "rank": 277,
     "query": "creative cake decorating recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -64,6 +63,6 @@
     "source": "serpapi-google-trends",
     "text": "creative cake decorating recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-19T04:33:33.724Z"
+    "detectedAt": "2026-05-19T10:07:42.718Z"
   }
 ]

@@ -1,42 +1,58 @@
 [
   {
-    "rank": 25,
+    "rank": 96,
     "query": "politics",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
+      "doj anti-weaponization fund",
       "trump irs tax leak settlement",
       "trump irs",
-      "trump irs lawsuit settlement talks",
       "donald trump irs lawsuit dismissed",
+      "doj",
       "trump irs lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=politics&tz=420",
     "increasePercentage": 500,
     "source": "serpapi-google-trends",
-    "text": "politics trump irs tax leak settlement trump irs trump irs lawsuit settlement talks donald trump irs lawsuit dismissed trump irs lawsuit",
-    "trendScore": 42,
-    "detectedAt": "2026-05-18T20:01:12.234Z"
+    "text": "politics doj anti-weaponization fund trump irs tax leak settlement trump irs donald trump irs lawsuit dismissed doj trump irs lawsuit",
+    "trendScore": 27,
+    "detectedAt": "2026-05-19T04:33:33.724Z"
   },
   {
-    "rank": 34,
+    "rank": 165,
     "query": "costco agio-menlo swing recall",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+agio-menlo+swing+recall&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "costco agio-menlo swing recall",
-    "trendScore": 23,
-    "detectedAt": "2026-05-18T20:01:12.234Z"
+    "trendScore": 8,
+    "detectedAt": "2026-05-19T04:33:33.724Z"
   },
   {
-    "rank": 135,
+    "rank": 173,
+    "query": "jeep cherokee ptu recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "jeep cherokee ptu recall",
+    "trendScore": 8,
+    "detectedAt": "2026-05-19T04:33:33.724Z"
+  },
+  {
+    "rank": 302,
     "query": "creative cake decorating recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -48,6 +64,6 @@
     "source": "serpapi-google-trends",
     "text": "creative cake decorating recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-18T20:01:12.234Z"
+    "detectedAt": "2026-05-19T04:33:33.724Z"
   }
 ]

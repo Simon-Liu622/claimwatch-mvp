@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-18T20:01:16.347Z",
-  "count": 2,
+  "updatedAt": "2026-05-19T04:33:36.061Z",
+  "count": 3,
   "items": [
     {
       "id": "politics",
@@ -24,17 +24,19 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 42,
+      "trendScore": 27,
       "matchedQueries": [
         "politics",
         "trump irs tax leak settlement",
         "trump irs",
         "trump irs lawsuit settlement talks",
         "donald trump irs lawsuit dismissed",
-        "trump irs lawsuit"
+        "trump irs lawsuit",
+        "doj anti-weaponization fund",
+        "doj"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-18T20:01:12.234Z"
+      "lastUpdated": "2026-05-19T04:33:33.724Z"
     },
     {
       "id": "creative-cake-decorating-recall",
@@ -63,7 +65,36 @@
         "creative cake decorating recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-18T20:01:12.234Z"
+      "lastUpdated": "2026-05-19T04:33:33.724Z"
+    },
+    {
+      "id": "jeep-cherokee-ptu-recall",
+      "slug": "jeep-cherokee-ptu-recall",
+      "title": "Jeep Cherokee Ptu Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jeep cherokee ptu recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "jeep cherokee ptu recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-19T04:33:33.724Z"
     }
   ]
 }

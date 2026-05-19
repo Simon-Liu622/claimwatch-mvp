@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T20:01:16.347Z",
+  "updatedAt": "2026-05-19T04:33:36.061Z",
   "item": {
     "id": "politics",
     "slug": "politics",
@@ -22,17 +22,19 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 20000,
-    "trendScore": 42,
+    "trendScore": 27,
     "matchedQueries": [
       "politics",
       "trump irs tax leak settlement",
       "trump irs",
       "trump irs lawsuit settlement talks",
       "donald trump irs lawsuit dismissed",
-      "trump irs lawsuit"
+      "trump irs lawsuit",
+      "doj anti-weaponization fund",
+      "doj"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-18T20:01:12.234Z",
+    "lastUpdated": "2026-05-19T04:33:33.724Z",
     "url": "https://simon622.shop/item/politics/"
   }
 }

@@ -1,38 +1,51 @@
 {
-  "updatedAt": "2026-05-20T15:57:14.633Z",
-  "count": 2,
+  "updatedAt": "2026-05-20T20:30:41.193Z",
+  "count": 3,
   "trends": [
     {
       "rank": 5,
-      "query": "kroger cheese garlic croutons recall",
-      "searchVolume": 50000,
+      "query": "hyundai vehicle fire risk recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kroger+cheese+garlic+croutons+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "kroger cheese garlic croutons recall",
+      "text": "hyundai vehicle fire risk recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-20T15:57:10.858Z"
+      "detectedAt": "2026-05-20T20:30:37.677Z"
     },
     {
-      "rank": 216,
-      "query": "student loan",
-      "searchVolume": 2000,
+      "rank": 119,
+      "query": "pizza hut dragontail ai lawsuit",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pizza+hut+dragontail+ai+lawsuit&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "pizza hut dragontail ai lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-05-20T20:30:37.677Z"
+    },
+    {
+      "rank": 431,
+      "query": "trump student loan lawsuit",
+      "searchVolume": 100,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "trump student loan lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+loan&tz=420",
-      "increasePercentage": 100,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+lawsuit&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "student loan trump student loan lawsuit",
-      "trendScore": 10,
-      "detectedAt": "2026-05-20T15:57:10.858Z"
+      "text": "trump student loan lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-05-20T20:30:37.677Z"
     }
   ]
 }

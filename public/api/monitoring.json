@@ -1,45 +1,16 @@
 {
-  "updatedAt": "2026-05-20T15:57:14.633Z",
+  "updatedAt": "2026-05-20T20:30:41.193Z",
   "count": 2,
   "items": [
     {
-      "id": "kroger-cheese-garlic-croutons-recall",
-      "slug": "kroger-cheese-garlic-croutons-recall",
-      "title": "Kroger Cheese Garlic Croutons Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "kroger cheese garlic croutons recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kroger+cheese+garlic+croutons+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "kroger cheese garlic croutons recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-20T15:57:10.858Z"
-    },
-    {
-      "id": "student-loan",
-      "slug": "student-loan",
-      "title": "Student Loan: Consumer Alert Monitoring",
+      "id": "pizza-hut-dragontail-ai-lawsuit",
+      "slug": "pizza-hut-dragontail-ai-lawsuit",
+      "title": "Pizza Hut Dragontail Ai Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "student loan",
+      "product": "pizza hut dragontail ai lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,17 +20,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+loan&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pizza+hut+dragontail+ai+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 200,
+      "trendScore": 23,
       "matchedQueries": [
-        "student loan",
+        "pizza hut dragontail ai lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-20T20:30:37.677Z"
+    },
+    {
+      "id": "trump-student-loan-lawsuit",
+      "slug": "trump-student-loan-lawsuit",
+      "title": "Trump Student Loan Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trump student loan lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 100,
+      "trendScore": 8,
+      "matchedQueries": [
         "trump student loan lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T15:57:10.858Z"
+      "lastUpdated": "2026-05-20T20:30:37.677Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T09:54:21.087Z",
+  "updatedAt": "2026-05-20T15:57:14.633Z",
   "item": {
     "id": "kroger-cheese-garlic-croutons-recall",
     "slug": "kroger-cheese-garlic-croutons-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kroger+cheese+garlic+croutons+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 24,
     "matchedQueries": [
       "kroger cheese garlic croutons recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-20T09:54:19.125Z",
+    "lastUpdated": "2026-05-20T15:57:10.858Z",
     "url": "https://simon622.shop/item/kroger-cheese-garlic-croutons-recall/"
   }
 }

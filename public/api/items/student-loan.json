@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-20T09:54:21.087Z",
+  "updatedAt": "2026-05-20T15:57:14.633Z",
   "item": {
-    "id": "adani-group-us-legal-settlement",
-    "slug": "adani-group-us-legal-settlement",
-    "title": "Adani Group Us Legal Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "student-loan",
+    "slug": "student-loan",
+    "title": "Student Loan: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "adani group us legal settlement",
+    "product": "student loan",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adani+group+us+legal+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+loan&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "adani group us legal settlement"
+      "student loan",
+      "trump student loan lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-20T09:54:19.125Z",
-    "url": "https://simon622.shop/item/adani-group-us-legal-settlement/"
+    "lastUpdated": "2026-05-20T15:57:10.858Z",
+    "url": "https://simon622.shop/item/student-loan/"
   }
 }

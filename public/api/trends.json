@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-20T09:54:21.087Z",
-  "count": 3,
+  "updatedAt": "2026-05-20T15:57:14.633Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 8,
+      "rank": 5,
       "query": "kroger cheese garlic croutons recall",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -15,37 +15,24 @@
       "source": "serpapi-google-trends",
       "text": "kroger cheese garlic croutons recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-20T09:54:19.125Z"
+      "detectedAt": "2026-05-20T15:57:10.858Z"
     },
     {
-      "rank": 193,
-      "query": "organic ice cream metal contamination",
+      "rank": 216,
+      "query": "student loan",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=organic+ice+cream+metal+contamination&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "organic ice cream metal contamination",
-      "trendScore": 8,
-      "detectedAt": "2026-05-20T09:54:19.125Z"
-    },
-    {
-      "rank": 409,
-      "query": "adani group us legal settlement",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adani+group+us+legal+settlement&tz=420",
+      "breakdown": [
+        "trump student loan lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+loan&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "adani group us legal settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-05-20T09:54:19.125Z"
+      "text": "student loan trump student loan lawsuit",
+      "trendScore": 10,
+      "detectedAt": "2026-05-20T15:57:10.858Z"
     }
   ]
 }

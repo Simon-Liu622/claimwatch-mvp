@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-19T20:03:57.573Z",
-  "count": 5,
+  "updatedAt": "2026-05-20T04:36:24.876Z",
+  "count": 4,
   "items": [
     {
       "id": "kroger-cheese-garlic-croutons-recall",
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kroger+cheese+garlic+croutons+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "kroger cheese garlic croutons recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T20:03:54.821Z"
+      "lastUpdated": "2026-05-20T04:36:22.377Z"
     },
     {
       "id": "organic-ice-cream-metal-contamination",
@@ -58,36 +58,7 @@
         "organic ice cream metal contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T20:03:54.821Z"
-    },
-    {
-      "id": "jeep-cherokee-ptu-recall",
-      "slug": "jeep-cherokee-ptu-recall",
-      "title": "Jeep Cherokee Ptu Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jeep cherokee ptu recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "jeep cherokee ptu recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-19T20:03:54.821Z"
+      "lastUpdated": "2026-05-20T04:36:22.377Z"
     },
     {
       "id": "blake-lively-justin-baldoni-settlement",
@@ -116,7 +87,7 @@
         "blake lively, justin baldoni settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T20:03:54.821Z"
+      "lastUpdated": "2026-05-20T04:36:22.377Z"
     },
     {
       "id": "adani-group-us-legal-settlement",
@@ -145,7 +116,7 @@
         "adani group us legal settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-19T20:03:54.821Z"
+      "lastUpdated": "2026-05-20T04:36:22.377Z"
     }
   ]
 }

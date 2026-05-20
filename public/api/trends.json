@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-19T20:03:57.573Z",
-  "count": 5,
+  "updatedAt": "2026-05-20T04:36:24.876Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 13,
+      "rank": 10,
       "query": "kroger cheese garlic croutons recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -14,11 +14,11 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "kroger cheese garlic croutons recall",
-      "trendScore": 23,
-      "detectedAt": "2026-05-19T20:03:54.821Z"
+      "trendScore": 24,
+      "detectedAt": "2026-05-20T04:36:22.377Z"
     },
     {
-      "rank": 142,
+      "rank": 248,
       "query": "organic ice cream metal contamination",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,25 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "organic ice cream metal contamination",
       "trendScore": 8,
-      "detectedAt": "2026-05-19T20:03:54.821Z"
+      "detectedAt": "2026-05-20T04:36:22.377Z"
     },
     {
-      "rank": 180,
-      "query": "jeep cherokee ptu recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeep+cherokee+ptu+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "jeep cherokee ptu recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-19T20:03:54.821Z"
-    },
-    {
-      "rank": 275,
+      "rank": 384,
       "query": "blake lively, justin baldoni settlement",
       "searchVolume": 500,
       "startedAt": "",
@@ -60,10 +45,10 @@
       "source": "serpapi-google-trends",
       "text": "blake lively, justin baldoni settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-19T20:03:54.821Z"
+      "detectedAt": "2026-05-20T04:36:22.377Z"
     },
     {
-      "rank": 323,
+      "rank": 413,
       "query": "adani group us legal settlement",
       "searchVolume": 200,
       "startedAt": "",
@@ -75,7 +60,7 @@
       "source": "serpapi-google-trends",
       "text": "adani group us legal settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-19T20:03:54.821Z"
+      "detectedAt": "2026-05-20T04:36:22.377Z"
     }
   ]
 }

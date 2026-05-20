@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T04:36:24.876Z",
-  "count": 4,
+  "updatedAt": "2026-05-20T09:54:21.087Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 10,
+      "rank": 8,
       "query": "kroger cheese garlic croutons recall",
       "searchVolume": 20000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "kroger cheese garlic croutons recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-20T04:36:22.377Z"
+      "detectedAt": "2026-05-20T09:54:19.125Z"
     },
     {
-      "rank": 248,
+      "rank": 193,
       "query": "organic ice cream metal contamination",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,25 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "organic ice cream metal contamination",
       "trendScore": 8,
-      "detectedAt": "2026-05-20T04:36:22.377Z"
+      "detectedAt": "2026-05-20T09:54:19.125Z"
     },
     {
-      "rank": 384,
-      "query": "blake lively, justin baldoni settlement",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively%2C+justin+baldoni+settlement&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "blake lively, justin baldoni settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-05-20T04:36:22.377Z"
-    },
-    {
-      "rank": 413,
+      "rank": 409,
       "query": "adani group us legal settlement",
       "searchVolume": 200,
       "startedAt": "",
@@ -60,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "adani group us legal settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-20T04:36:22.377Z"
+      "detectedAt": "2026-05-20T09:54:19.125Z"
     }
   ]
 }

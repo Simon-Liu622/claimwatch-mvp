@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-20T04:36:24.876Z",
-  "count": 4,
+  "updatedAt": "2026-05-20T09:54:21.087Z",
+  "count": 3,
   "items": [
     {
       "id": "kroger-cheese-garlic-croutons-recall",
@@ -29,7 +29,7 @@
         "kroger cheese garlic croutons recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T04:36:22.377Z"
+      "lastUpdated": "2026-05-20T09:54:19.125Z"
     },
     {
       "id": "organic-ice-cream-metal-contamination",
@@ -58,36 +58,7 @@
         "organic ice cream metal contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T04:36:22.377Z"
-    },
-    {
-      "id": "blake-lively-justin-baldoni-settlement",
-      "slug": "blake-lively-justin-baldoni-settlement",
-      "title": "Blake Lively, Justin Baldoni Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "blake lively, justin baldoni settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively%2C+justin+baldoni+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "blake lively, justin baldoni settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-20T04:36:22.377Z"
+      "lastUpdated": "2026-05-20T09:54:19.125Z"
     },
     {
       "id": "adani-group-us-legal-settlement",
@@ -116,7 +87,7 @@
         "adani group us legal settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T04:36:22.377Z"
+      "lastUpdated": "2026-05-20T09:54:19.125Z"
     }
   ]
 }

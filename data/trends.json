@@ -1,36 +1,38 @@
 [
   {
-    "rank": 5,
-    "query": "product recall",
-    "searchVolume": 50000,
+    "rank": 29,
+    "query": "jada pinkett legal victory lawsuit",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
+    "breakdown": [
+      "jada pinkett smith"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jada+pinkett+legal+victory+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "jada pinkett legal victory lawsuit jada pinkett smith",
+    "trendScore": 25,
+    "detectedAt": "2026-05-21T15:51:30.239Z"
+  },
+  {
+    "rank": 25,
+    "query": "product recall",
+    "searchVolume": 100000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-    "increasePercentage": 800,
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
     "text": "product recall",
-    "trendScore": 24,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
+    "trendScore": 11,
+    "detectedAt": "2026-05-21T15:51:30.239Z"
   },
   {
-    "rank": 10,
-    "query": "hyundai vehicle fire risk recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "hyundai vehicle fire risk recall",
-    "trendScore": 24,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
-  },
-  {
-    "rank": 224,
+    "rank": 276,
     "query": "pizza hut dragontail ai lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -42,25 +44,10 @@
     "source": "serpapi-google-trends",
     "text": "pizza hut dragontail ai lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
+    "detectedAt": "2026-05-21T15:51:30.239Z"
   },
   {
-    "rank": 398,
-    "query": "milwaukee brewers raffle lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=milwaukee+brewers+raffle+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "milwaukee brewers raffle lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
-  },
-  {
-    "rank": 402,
+    "rank": 468,
     "query": "costco agio menlo swing recall",
     "searchVolume": 200,
     "startedAt": "",
@@ -72,21 +59,6 @@
     "source": "serpapi-google-trends",
     "text": "costco agio menlo swing recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
-  },
-  {
-    "rank": 481,
-    "query": "trump student loan lawsuit",
-    "searchVolume": 100,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "trump student loan lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-05-21T10:03:36.996Z"
+    "detectedAt": "2026-05-21T15:51:30.239Z"
   }
 ]

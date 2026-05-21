@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-05-21T10:03:39.813Z",
-  "count": 4,
+  "updatedAt": "2026-05-21T15:51:38.973Z",
+  "count": 3,
   "items": [
+    {
+      "id": "jada-pinkett-legal-victory-lawsuit",
+      "slug": "jada-pinkett-legal-victory-lawsuit",
+      "title": "Jada Pinkett Legal Victory Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jada pinkett legal victory lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jada+pinkett+legal+victory+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "jada pinkett legal victory lawsuit",
+        "jada pinkett smith"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-21T15:51:30.239Z"
+    },
     {
       "id": "product-recall",
       "slug": "product-recall",
@@ -23,13 +53,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
+      "searchVolume": 100000,
+      "trendScore": 11,
       "matchedQueries": [
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-21T10:03:36.996Z"
+      "lastUpdated": "2026-05-21T15:51:30.239Z"
     },
     {
       "id": "pizza-hut-dragontail-ai-lawsuit",
@@ -58,65 +88,7 @@
         "pizza hut dragontail ai lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-21T10:03:36.996Z"
-    },
-    {
-      "id": "trump-student-loan-lawsuit",
-      "slug": "trump-student-loan-lawsuit",
-      "title": "Trump Student Loan Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump student loan lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100,
-      "trendScore": 8,
-      "matchedQueries": [
-        "trump student loan lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-21T10:03:36.996Z"
-    },
-    {
-      "id": "milwaukee-brewers-raffle-lawsuit",
-      "slug": "milwaukee-brewers-raffle-lawsuit",
-      "title": "Milwaukee Brewers Raffle Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "milwaukee brewers raffle lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=milwaukee+brewers+raffle+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "milwaukee brewers raffle lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-21T10:03:36.996Z"
+      "lastUpdated": "2026-05-21T15:51:30.239Z"
     }
   ]
 }

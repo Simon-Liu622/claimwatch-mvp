@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-05-21T04:44:10.464Z",
+  "updatedAt": "2026-05-21T10:03:39.813Z",
   "count": 6,
   "trends": [
     {
-      "rank": 13,
-      "query": "hyundai vehicle fire risk recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
-      "increasePercentage": 900,
-      "source": "serpapi-google-trends",
-      "text": "hyundai vehicle fire risk recall",
-      "trendScore": 24,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
-    },
-    {
-      "rank": 16,
+      "rank": 5,
       "query": "product recall",
       "searchVolume": 50000,
       "startedAt": "",
@@ -26,14 +11,29 @@
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 900,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
       "text": "product recall",
       "trendScore": 24,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
+      "detectedAt": "2026-05-21T10:03:36.996Z"
     },
     {
-      "rank": 229,
+      "rank": 10,
+      "query": "hyundai vehicle fire risk recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
+      "increasePercentage": 800,
+      "source": "serpapi-google-trends",
+      "text": "hyundai vehicle fire risk recall",
+      "trendScore": 24,
+      "detectedAt": "2026-05-21T10:03:36.996Z"
+    },
+    {
+      "rank": 224,
       "query": "pizza hut dragontail ai lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -45,25 +45,10 @@
       "source": "serpapi-google-trends",
       "text": "pizza hut dragontail ai lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
+      "detectedAt": "2026-05-21T10:03:36.996Z"
     },
     {
-      "rank": 337,
-      "query": "costco agio menlo swing recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+agio+menlo+swing+recall&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "costco agio menlo swing recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
-    },
-    {
-      "rank": 384,
+      "rank": 398,
       "query": "milwaukee brewers raffle lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -75,10 +60,25 @@
       "source": "serpapi-google-trends",
       "text": "milwaukee brewers raffle lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
+      "detectedAt": "2026-05-21T10:03:36.996Z"
     },
     {
-      "rank": 469,
+      "rank": 402,
+      "query": "costco agio menlo swing recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+agio+menlo+swing+recall&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "costco agio menlo swing recall",
+      "trendScore": 8,
+      "detectedAt": "2026-05-21T10:03:36.996Z"
+    },
+    {
+      "rank": 481,
       "query": "trump student loan lawsuit",
       "searchVolume": 100,
       "startedAt": "",
@@ -90,7 +90,7 @@
       "source": "serpapi-google-trends",
       "text": "trump student loan lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-21T04:44:08.093Z"
+      "detectedAt": "2026-05-21T10:03:36.996Z"
     }
   ]
 }

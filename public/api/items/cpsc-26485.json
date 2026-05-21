@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T20:30:41.193Z",
+  "updatedAt": "2026-05-21T04:44:10.464Z",
   "item": {
     "id": "cpsc-26485",
     "slug": "cpsc-26485",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/World-Bright-International-Limited-Recalls-Agio-Menlo-Woven-Patio-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Sold-at-Costco",
     "sourceAgency": "CPSC",
-    "searchVolume": 5000,
+    "searchVolume": 200,
     "trendScore": 23,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "costco agio menlo swing recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "26485",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-05-20T20:30:37.677Z",
+    "lastUpdated": "2026-05-21T04:44:08.093Z",
     "url": "https://simon622.shop/item/cpsc-26485/"
   }
 }

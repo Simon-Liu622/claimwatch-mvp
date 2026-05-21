@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-20T20:30:41.193Z",
-  "count": 2,
+  "updatedAt": "2026-05-21T04:44:10.464Z",
+  "count": 4,
   "items": [
+    {
+      "id": "product-recall",
+      "slug": "product-recall",
+      "title": "Product Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "product recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 50000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "product recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-21T04:44:08.093Z"
+    },
     {
       "id": "pizza-hut-dragontail-ai-lawsuit",
       "slug": "pizza-hut-dragontail-ai-lawsuit",
@@ -23,13 +52,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pizza+hut+dragontail+ai+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "pizza hut dragontail ai lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T20:30:37.677Z"
+      "lastUpdated": "2026-05-21T04:44:08.093Z"
     },
     {
       "id": "trump-student-loan-lawsuit",
@@ -58,7 +87,36 @@
         "trump student loan lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-20T20:30:37.677Z"
+      "lastUpdated": "2026-05-21T04:44:08.093Z"
+    },
+    {
+      "id": "milwaukee-brewers-raffle-lawsuit",
+      "slug": "milwaukee-brewers-raffle-lawsuit",
+      "title": "Milwaukee Brewers Raffle Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "milwaukee brewers raffle lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=milwaukee+brewers+raffle+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "milwaukee brewers raffle lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-21T04:44:08.093Z"
     }
   ]
 }

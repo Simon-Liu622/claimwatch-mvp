@@ -1,6 +1,6 @@
 [
   {
-    "rank": 29,
+    "rank": 69,
     "query": "jada pinkett legal victory lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
@@ -14,10 +14,25 @@
     "source": "serpapi-google-trends",
     "text": "jada pinkett legal victory lawsuit jada pinkett smith",
     "trendScore": 25,
-    "detectedAt": "2026-05-21T15:51:30.239Z"
+    "detectedAt": "2026-05-21T20:10:15.618Z"
   },
   {
-    "rank": 25,
+    "rank": 20,
+    "query": "nhtsa honda rearview camera recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "nhtsa honda rearview camera recall",
+    "trendScore": 23,
+    "detectedAt": "2026-05-21T20:10:15.618Z"
+  },
+  {
+    "rank": 58,
     "query": "product recall",
     "searchVolume": 100000,
     "startedAt": "",
@@ -29,25 +44,10 @@
     "source": "serpapi-google-trends",
     "text": "product recall",
     "trendScore": 11,
-    "detectedAt": "2026-05-21T15:51:30.239Z"
+    "detectedAt": "2026-05-21T20:10:15.618Z"
   },
   {
-    "rank": 276,
-    "query": "pizza hut dragontail ai lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pizza+hut+dragontail+ai+lawsuit&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "pizza hut dragontail ai lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-05-21T15:51:30.239Z"
-  },
-  {
-    "rank": 468,
+    "rank": 487,
     "query": "costco agio menlo swing recall",
     "searchVolume": 200,
     "startedAt": "",
@@ -59,6 +59,6 @@
     "source": "serpapi-google-trends",
     "text": "costco agio menlo swing recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-21T15:51:30.239Z"
+    "detectedAt": "2026-05-21T20:10:15.618Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T15:51:38.973Z",
+  "updatedAt": "2026-05-21T20:10:18.384Z",
   "count": 3,
   "items": [
     {
@@ -30,7 +30,36 @@
         "jada pinkett smith"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-21T15:51:30.239Z"
+      "lastUpdated": "2026-05-21T20:10:15.618Z"
+    },
+    {
+      "id": "nhtsa-honda-rearview-camera-recall",
+      "slug": "nhtsa-honda-rearview-camera-recall",
+      "title": "Nhtsa Honda Rearview Camera Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "nhtsa honda rearview camera recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "nhtsa honda rearview camera recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-21T20:10:15.618Z"
     },
     {
       "id": "product-recall",
@@ -59,36 +88,7 @@
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-21T15:51:30.239Z"
-    },
-    {
-      "id": "pizza-hut-dragontail-ai-lawsuit",
-      "slug": "pizza-hut-dragontail-ai-lawsuit",
-      "title": "Pizza Hut Dragontail Ai Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "pizza hut dragontail ai lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pizza+hut+dragontail+ai+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "pizza hut dragontail ai lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-21T15:51:30.239Z"
+      "lastUpdated": "2026-05-21T20:10:15.618Z"
     }
   ]
 }

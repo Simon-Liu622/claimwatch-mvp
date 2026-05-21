@@ -1,14 +1,14 @@
 {
   "updatedAt": "2026-05-21T20:10:18.384Z",
   "item": {
-    "id": "product-recall",
-    "slug": "product-recall",
-    "title": "Product Recall: Consumer Alert Monitoring",
+    "id": "nhtsa-honda-rearview-camera-recall",
+    "slug": "nhtsa-honda-rearview-camera-recall",
+    "title": "Nhtsa Honda Rearview Camera Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "product recall",
+    "product": "nhtsa honda rearview camera recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 100000,
-    "trendScore": 11,
+    "searchVolume": 5000,
+    "trendScore": 23,
     "matchedQueries": [
-      "product recall"
+      "nhtsa honda rearview camera recall"
     ],
     "officialVerified": false,
     "lastUpdated": "2026-05-21T20:10:15.618Z",
-    "url": "https://simon622.shop/item/product-recall/"
+    "url": "https://simon622.shop/item/nhtsa-honda-rearview-camera-recall/"
   }
 }

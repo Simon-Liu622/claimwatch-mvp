@@ -1,6 +1,6 @@
 [
   {
-    "rank": 18,
+    "rank": 22,
     "query": "nhtsa honda rearview camera recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -10,10 +10,10 @@
       "honda prologue"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "nhtsa honda rearview camera recall honda prologue",
     "trendScore": 26,
-    "detectedAt": "2026-05-22T09:49:30.974Z"
+    "detectedAt": "2026-05-22T15:22:31.547Z"
   }
 ]

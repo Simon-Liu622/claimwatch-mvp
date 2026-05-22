@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T20:10:18.384Z",
+  "updatedAt": "2026-05-22T04:35:28.903Z",
   "item": {
     "id": "nhtsa-honda-rearview-camera-recall",
     "slug": "nhtsa-honda-rearview-camera-recall",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "nhtsa honda rearview camera recall"
+      "nhtsa honda rearview camera recall",
+      "honda prologue"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-21T20:10:15.618Z",
+    "lastUpdated": "2026-05-22T04:35:26.575Z",
     "url": "https://simon622.shop/item/nhtsa-honda-rearview-camera-recall/"
   }
 }

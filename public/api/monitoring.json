@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-05-21T20:10:18.384Z",
-  "count": 3,
+  "updatedAt": "2026-05-22T04:35:28.903Z",
+  "count": 1,
   "items": [
-    {
-      "id": "jada-pinkett-legal-victory-lawsuit",
-      "slug": "jada-pinkett-legal-victory-lawsuit",
-      "title": "Jada Pinkett Legal Victory Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jada pinkett legal victory lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jada+pinkett+legal+victory+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "jada pinkett legal victory lawsuit",
-        "jada pinkett smith"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-21T20:10:15.618Z"
-    },
     {
       "id": "nhtsa-honda-rearview-camera-recall",
       "slug": "nhtsa-honda-rearview-camera-recall",
@@ -53,42 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "nhtsa honda rearview camera recall"
+        "nhtsa honda rearview camera recall",
+        "honda prologue"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-21T20:10:15.618Z"
-    },
-    {
-      "id": "product-recall",
-      "slug": "product-recall",
-      "title": "Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 11,
-      "matchedQueries": [
-        "product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-21T20:10:15.618Z"
+      "lastUpdated": "2026-05-22T04:35:26.575Z"
     }
   ]
 }

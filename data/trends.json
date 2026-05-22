@@ -1,19 +1,17 @@
 [
   {
-    "rank": 22,
-    "query": "nhtsa honda rearview camera recall",
-    "searchVolume": 20000,
+    "rank": 144,
+    "query": "erika girardi lawsuit settlement",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "honda prologue"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+honda+rearview+camera+recall&tz=420",
-    "increasePercentage": 400,
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "nhtsa honda rearview camera recall honda prologue",
-    "trendScore": 26,
-    "detectedAt": "2026-05-22T15:22:31.547Z"
+    "text": "erika girardi lawsuit settlement",
+    "trendScore": 16,
+    "detectedAt": "2026-05-22T20:10:47.722Z"
   }
 ]

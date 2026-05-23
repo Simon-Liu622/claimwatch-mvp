@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-22T20:10:55.164Z",
-  "count": 1,
+  "updatedAt": "2026-05-23T04:07:43.962Z",
+  "count": 2,
   "items": [
+    {
+      "id": "maine-election-data-lawsuit-dismissal",
+      "slug": "maine-election-data-lawsuit-dismissal",
+      "title": "Maine Election Data Lawsuit Dismissal: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "maine election data lawsuit dismissal",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maine+election+data+lawsuit+dismissal&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "maine election data lawsuit dismissal"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-23T04:07:38.037Z"
+    },
     {
       "id": "erika-girardi-lawsuit-settlement",
       "slug": "erika-girardi-lawsuit-settlement",
@@ -29,7 +58,7 @@
         "erika girardi lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-22T20:10:47.722Z"
+      "lastUpdated": "2026-05-23T04:07:38.037Z"
     }
   ]
 }

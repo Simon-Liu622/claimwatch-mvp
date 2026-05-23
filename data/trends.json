@@ -1,32 +1,32 @@
 [
   {
-    "rank": 51,
+    "rank": 86,
     "query": "maine election data lawsuit dismissal",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maine+election+data+lawsuit+dismissal&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "maine election data lawsuit dismissal",
-    "trendScore": 23,
-    "detectedAt": "2026-05-23T04:07:38.037Z"
+    "trendScore": 8,
+    "detectedAt": "2026-05-23T08:31:08.325Z"
   },
   {
-    "rank": 267,
-    "query": "erika girardi lawsuit settlement",
-    "searchVolume": 2000,
+    "rank": 263,
+    "query": "michael wolff melania trump lawsuit",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "erika girardi lawsuit settlement",
-    "trendScore": 16,
-    "detectedAt": "2026-05-23T04:07:38.037Z"
+    "text": "michael wolff melania trump lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-05-23T08:31:08.325Z"
   }
 ]

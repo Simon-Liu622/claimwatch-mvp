@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-23T14:02:28.213Z",
+  "updatedAt": "2026-05-23T19:37:46.340Z",
   "count": 3,
   "items": [
+    {
+      "id": "michael-wolff-melania-trump-lawsuit",
+      "slug": "michael-wolff-melania-trump-lawsuit",
+      "title": "Michael Wolff Melania Trump Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "michael wolff melania trump lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "michael wolff melania trump lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-23T19:37:43.215Z"
+    },
     {
       "id": "erika-girardi-lawsuit-settlement",
       "slug": "erika-girardi-lawsuit-settlement",
@@ -24,22 +53,22 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 31,
+      "trendScore": 16,
       "matchedQueries": [
         "erika girardi lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T14:02:25.426Z"
+      "lastUpdated": "2026-05-23T19:37:43.215Z"
     },
     {
-      "id": "maine-election-data-lawsuit-dismissal",
-      "slug": "maine-election-data-lawsuit-dismissal",
-      "title": "Maine Election Data Lawsuit Dismissal: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "tax-refund",
+      "slug": "tax-refund",
+      "title": "Tax Refund: Consumer Alert Monitoring",
+      "type": "refund",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "maine election data lawsuit dismissal",
+      "product": "tax refund",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,45 +78,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maine+election+data+lawsuit+dismissal&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
-        "maine election data lawsuit dismissal"
+        "tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T14:02:25.426Z"
-    },
-    {
-      "id": "michael-wolff-melania-trump-lawsuit",
-      "slug": "michael-wolff-melania-trump-lawsuit",
-      "title": "Michael Wolff Melania Trump Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "michael wolff melania trump lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "michael wolff melania trump lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-23T14:02:25.426Z"
+      "lastUpdated": "2026-05-23T19:37:43.215Z"
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
-  "updatedAt": "2026-05-23T14:02:28.213Z",
+  "updatedAt": "2026-05-23T19:37:46.340Z",
   "count": 3,
   "trends": [
     {
-      "rank": 79,
-      "query": "erika girardi lawsuit settlement",
+      "rank": 64,
+      "query": "michael wolff melania trump lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "erika girardi lawsuit settlement",
-      "trendScore": 31,
-      "detectedAt": "2026-05-23T14:02:25.426Z"
-    },
-    {
-      "rank": 48,
-      "query": "maine election data lawsuit dismissal",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maine+election+data+lawsuit+dismissal&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "maine election data lawsuit dismissal",
-      "trendScore": 23,
-      "detectedAt": "2026-05-23T14:02:25.426Z"
-    },
-    {
-      "rank": 141,
-      "query": "michael wolff melania trump lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
-      "increasePercentage": 75,
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "michael wolff melania trump lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-05-23T14:02:25.426Z"
+      "detectedAt": "2026-05-23T19:37:43.215Z"
+    },
+    {
+      "rank": 178,
+      "query": "erika girardi lawsuit settlement",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "erika girardi lawsuit settlement",
+      "trendScore": 16,
+      "detectedAt": "2026-05-23T19:37:43.215Z"
+    },
+    {
+      "rank": 228,
+      "query": "tax refund",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "tax refund",
+      "trendScore": 8,
+      "detectedAt": "2026-05-23T19:37:43.215Z"
     }
   ]
 }

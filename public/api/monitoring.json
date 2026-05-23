@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-23T08:31:10.601Z",
-  "count": 2,
+  "updatedAt": "2026-05-23T14:02:28.213Z",
+  "count": 3,
   "items": [
+    {
+      "id": "erika-girardi-lawsuit-settlement",
+      "slug": "erika-girardi-lawsuit-settlement",
+      "title": "Erika Girardi Lawsuit Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "erika girardi lawsuit settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 31,
+      "matchedQueries": [
+        "erika girardi lawsuit settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-23T14:02:25.426Z"
+    },
     {
       "id": "maine-election-data-lawsuit-dismissal",
       "slug": "maine-election-data-lawsuit-dismissal",
@@ -24,12 +53,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "maine election data lawsuit dismissal"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T08:31:08.325Z"
+      "lastUpdated": "2026-05-23T14:02:25.426Z"
     },
     {
       "id": "michael-wolff-melania-trump-lawsuit",
@@ -52,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
+      "searchVolume": 1000,
+      "trendScore": 23,
       "matchedQueries": [
         "michael wolff melania trump lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T08:31:08.325Z"
+      "lastUpdated": "2026-05-23T14:02:25.426Z"
     }
   ]
 }

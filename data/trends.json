@@ -1,36 +1,51 @@
 [
   {
-    "rank": 33,
+    "rank": 13,
+    "query": "raaw energy pet food recall",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raaw+energy+pet+food+recall&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "raaw energy pet food recall",
+    "trendScore": 23,
+    "detectedAt": "2026-05-24T13:59:40.486Z"
+  },
+  {
+    "rank": 25,
     "query": "tax refund",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "tax refund",
     "trendScore": 23,
-    "detectedAt": "2026-05-24T08:44:15.907Z"
+    "detectedAt": "2026-05-24T13:59:40.486Z"
   },
   {
-    "rank": 227,
-    "query": "erika girardi lawsuit settlement",
-    "searchVolume": 2000,
+    "rank": 131,
+    "query": "hyundai vehicle recall brake issue",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erika+girardi+lawsuit+settlement&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+recall+brake+issue&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "erika girardi lawsuit settlement",
-    "trendScore": 16,
-    "detectedAt": "2026-05-24T08:44:15.907Z"
+    "text": "hyundai vehicle recall brake issue",
+    "trendScore": 23,
+    "detectedAt": "2026-05-24T13:59:40.486Z"
   },
   {
-    "rank": 440,
+    "rank": 480,
     "query": "fernando tatis jr lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -42,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "fernando tatis jr lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-24T08:44:15.907Z"
+    "detectedAt": "2026-05-24T13:59:40.486Z"
   }
 ]

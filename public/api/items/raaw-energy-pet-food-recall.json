@@ -1,15 +1,15 @@
 {
   "updatedAt": "2026-05-24T13:59:42.844Z",
   "item": {
-    "id": "tax-refund",
-    "slug": "tax-refund",
-    "title": "Tax Refund: Consumer Alert Monitoring",
-    "type": "refund",
+    "id": "raaw-energy-pet-food-recall",
+    "slug": "raaw-energy-pet-food-recall",
+    "title": "Raaw Energy Pet Food Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "tax refund",
-    "category": "Consumer monitoring",
+    "product": "raaw energy pet food recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raaw+energy+pet+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
-      "tax refund"
+      "raaw energy pet food recall"
     ],
     "officialVerified": false,
     "lastUpdated": "2026-05-24T13:59:40.486Z",
-    "url": "https://simon622.shop/item/tax-refund/"
+    "url": "https://simon622.shop/item/raaw-energy-pet-food-recall/"
   }
 }

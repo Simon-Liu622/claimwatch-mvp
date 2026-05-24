@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-23T19:37:46.340Z",
-  "count": 3,
+  "updatedAt": "2026-05-24T04:38:42.084Z",
+  "count": 4,
   "items": [
     {
       "id": "michael-wolff-melania-trump-lawsuit",
@@ -23,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "michael wolff melania trump lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T19:37:43.215Z"
+      "lastUpdated": "2026-05-24T04:38:38.446Z"
+    },
+    {
+      "id": "tax-refund",
+      "slug": "tax-refund",
+      "title": "Tax Refund: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "tax refund",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "tax refund"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-24T04:38:38.446Z"
     },
     {
       "id": "erika-girardi-lawsuit-settlement",
@@ -58,17 +87,17 @@
         "erika girardi lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T19:37:43.215Z"
+      "lastUpdated": "2026-05-24T04:38:38.446Z"
     },
     {
-      "id": "tax-refund",
-      "slug": "tax-refund",
-      "title": "Tax Refund: Consumer Alert Monitoring",
-      "type": "refund",
+      "id": "fernando-tatis-jr-lawsuit",
+      "slug": "fernando-tatis-jr-lawsuit",
+      "title": "Fernando Tatis Jr Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "tax refund",
+      "product": "fernando tatis jr lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -78,16 +107,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fernando+tatis+jr+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 200,
       "trendScore": 8,
       "matchedQueries": [
-        "tax refund"
+        "fernando tatis jr lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-23T19:37:43.215Z"
+      "lastUpdated": "2026-05-24T04:38:38.446Z"
     }
   ]
 }

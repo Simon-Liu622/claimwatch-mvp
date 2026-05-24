@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T19:37:46.340Z",
+  "updatedAt": "2026-05-24T04:38:42.084Z",
   "item": {
     "id": "tax-refund",
     "slug": "tax-refund",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
       "tax refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-23T19:37:43.215Z",
+    "lastUpdated": "2026-05-24T04:38:38.446Z",
     "url": "https://simon622.shop/item/tax-refund/"
   }
 }

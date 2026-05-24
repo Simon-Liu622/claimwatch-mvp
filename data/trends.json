@@ -1,21 +1,36 @@
 [
   {
-    "rank": 64,
+    "rank": 41,
     "query": "michael wolff melania trump lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "michael wolff melania trump lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-05-23T19:37:43.215Z"
+    "detectedAt": "2026-05-24T04:38:38.446Z"
   },
   {
-    "rank": 178,
+    "rank": 82,
+    "query": "tax refund",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "tax refund",
+    "trendScore": 23,
+    "detectedAt": "2026-05-24T04:38:38.446Z"
+  },
+  {
+    "rank": 270,
     "query": "erika girardi lawsuit settlement",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,21 +42,21 @@
     "source": "serpapi-google-trends",
     "text": "erika girardi lawsuit settlement",
     "trendScore": 16,
-    "detectedAt": "2026-05-23T19:37:43.215Z"
+    "detectedAt": "2026-05-24T04:38:38.446Z"
   },
   {
-    "rank": 228,
-    "query": "tax refund",
+    "rank": 415,
+    "query": "fernando tatis jr lawsuit",
     "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fernando+tatis+jr+lawsuit&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "tax refund",
+    "text": "fernando tatis jr lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-23T19:37:43.215Z"
+    "detectedAt": "2026-05-24T04:38:38.446Z"
   }
 ]

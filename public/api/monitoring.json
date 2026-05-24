@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-05-24T04:38:42.084Z",
-  "count": 4,
+  "updatedAt": "2026-05-24T08:44:19.718Z",
+  "count": 3,
   "items": [
-    {
-      "id": "michael-wolff-melania-trump-lawsuit",
-      "slug": "michael-wolff-melania-trump-lawsuit",
-      "title": "Michael Wolff Melania Trump Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "michael wolff melania trump lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michael+wolff+melania+trump+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "michael wolff melania trump lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-24T04:38:38.446Z"
-    },
     {
       "id": "tax-refund",
       "slug": "tax-refund",
@@ -58,7 +29,7 @@
         "tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-24T04:38:38.446Z"
+      "lastUpdated": "2026-05-24T08:44:15.907Z"
     },
     {
       "id": "erika-girardi-lawsuit-settlement",
@@ -87,7 +58,7 @@
         "erika girardi lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-24T04:38:38.446Z"
+      "lastUpdated": "2026-05-24T08:44:15.907Z"
     },
     {
       "id": "fernando-tatis-jr-lawsuit",
@@ -116,7 +87,7 @@
         "fernando tatis jr lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-24T04:38:38.446Z"
+      "lastUpdated": "2026-05-24T08:44:15.907Z"
     }
   ]
 }

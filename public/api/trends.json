@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-05-24T13:59:42.844Z",
+  "updatedAt": "2026-05-24T19:40:24.512Z",
   "count": 4,
   "trends": [
     {
-      "rank": 13,
+      "rank": 7,
+      "query": "krispy kreme settlement payout amount",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+settlement+payout+amount&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "krispy kreme settlement payout amount",
+      "trendScore": 32,
+      "detectedAt": "2026-05-24T19:40:22.355Z"
+    },
+    {
+      "rank": 90,
+      "query": "google android data settlement claim",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+data+settlement+claim&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "google android data settlement claim",
+      "trendScore": 31,
+      "detectedAt": "2026-05-24T19:40:22.355Z"
+    },
+    {
+      "rank": 32,
       "query": "raaw energy pet food recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -15,52 +45,24 @@
       "source": "serpapi-google-trends",
       "text": "raaw energy pet food recall",
       "trendScore": 23,
-      "detectedAt": "2026-05-24T13:59:40.486Z"
+      "detectedAt": "2026-05-24T19:40:22.355Z"
     },
     {
-      "rank": 25,
-      "query": "tax refund",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "tax refund",
-      "trendScore": 23,
-      "detectedAt": "2026-05-24T13:59:40.486Z"
-    },
-    {
-      "rank": 131,
-      "query": "hyundai vehicle recall brake issue",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+recall+brake+issue&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "hyundai vehicle recall brake issue",
-      "trendScore": 23,
-      "detectedAt": "2026-05-24T13:59:40.486Z"
-    },
-    {
-      "rank": 480,
-      "query": "fernando tatis jr lawsuit",
-      "searchVolume": 200,
+      "rank": 489,
+      "query": "san diego padres",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fernando+tatis+jr+lawsuit&tz=420",
+      "breakdown": [
+        "fernando tatis jr lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=san+diego+padres&tz=420",
       "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "fernando tatis jr lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-05-24T13:59:40.486Z"
+      "text": "san diego padres fernando tatis jr lawsuit",
+      "trendScore": 10,
+      "detectedAt": "2026-05-24T19:40:22.355Z"
     }
   ]
 }

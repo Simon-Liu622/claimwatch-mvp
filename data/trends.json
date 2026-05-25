@@ -1,6 +1,6 @@
 [
   {
-    "rank": 15,
+    "rank": 11,
     "query": "krispy kreme data breach settlement",
     "searchVolume": 10000,
     "startedAt": "",
@@ -8,14 +8,29 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "krispy kreme data breach settlement",
     "trendScore": 23,
-    "detectedAt": "2026-05-25T10:48:03.334Z"
+    "detectedAt": "2026-05-25T15:28:45.258Z"
   },
   {
-    "rank": 155,
+    "rank": 50,
+    "query": "hyundai vehicle safety recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+safety+recall&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "hyundai vehicle safety recall",
+    "trendScore": 23,
+    "detectedAt": "2026-05-25T15:28:45.258Z"
+  },
+  {
+    "rank": 180,
     "query": "google android data settlement claim",
     "searchVolume": 5000,
     "startedAt": "",
@@ -27,10 +42,10 @@
     "source": "serpapi-google-trends",
     "text": "google android data settlement claim",
     "trendScore": 16,
-    "detectedAt": "2026-05-25T10:48:03.334Z"
+    "detectedAt": "2026-05-25T15:28:45.258Z"
   },
   {
-    "rank": 223,
+    "rank": 270,
     "query": "sks copack drink recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -42,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "sks copack drink recall",
     "trendScore": 8,
-    "detectedAt": "2026-05-25T10:48:03.334Z"
+    "detectedAt": "2026-05-25T15:28:45.258Z"
   }
 ]

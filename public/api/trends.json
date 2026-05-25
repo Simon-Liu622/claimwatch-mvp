@@ -1,68 +1,38 @@
 {
-  "updatedAt": "2026-05-24T19:40:24.512Z",
-  "count": 4,
+  "updatedAt": "2026-05-25T04:51:03.870Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 7,
+      "rank": 3,
       "query": "krispy kreme settlement payout amount",
-      "searchVolume": 20000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "krispy kreme data breach settlement"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+settlement+payout+amount&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "krispy kreme settlement payout amount",
-      "trendScore": 32,
-      "detectedAt": "2026-05-24T19:40:22.355Z"
+      "text": "krispy kreme settlement payout amount krispy kreme data breach settlement",
+      "trendScore": 36,
+      "detectedAt": "2026-05-25T04:51:01.349Z"
     },
     {
-      "rank": 90,
+      "rank": 161,
       "query": "google android data settlement claim",
-      "searchVolume": 1000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+data+settlement+claim&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "google android data settlement claim",
-      "trendScore": 31,
-      "detectedAt": "2026-05-24T19:40:22.355Z"
-    },
-    {
-      "rank": 32,
-      "query": "raaw energy pet food recall",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=raaw+energy+pet+food+recall&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "raaw energy pet food recall",
-      "trendScore": 23,
-      "detectedAt": "2026-05-24T19:40:22.355Z"
-    },
-    {
-      "rank": 489,
-      "query": "san diego padres",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "fernando tatis jr lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=san+diego+padres&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "san diego padres fernando tatis jr lawsuit",
-      "trendScore": 10,
-      "detectedAt": "2026-05-24T19:40:22.355Z"
+      "trendScore": 16,
+      "detectedAt": "2026-05-25T04:51:01.349Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T19:40:24.512Z",
+  "updatedAt": "2026-05-25T04:51:03.870Z",
   "item": {
     "id": "krispy-kreme-settlement-payout-amount",
     "slug": "krispy-kreme-settlement-payout-amount",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+settlement+payout+amount&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 32,
+    "searchVolume": 100000,
+    "trendScore": 36,
     "matchedQueries": [
-      "krispy kreme settlement payout amount"
+      "krispy kreme settlement payout amount",
+      "krispy kreme data breach settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-24T19:40:22.355Z",
+    "lastUpdated": "2026-05-25T04:51:01.349Z",
     "url": "https://simon622.shop/item/krispy-kreme-settlement-payout-amount/"
   }
 }

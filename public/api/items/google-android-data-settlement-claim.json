@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T19:40:24.512Z",
+  "updatedAt": "2026-05-25T04:51:03.870Z",
   "item": {
     "id": "google-android-data-settlement-claim",
     "slug": "google-android-data-settlement-claim",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+data+settlement+claim&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 31,
+    "searchVolume": 5000,
+    "trendScore": 16,
     "matchedQueries": [
       "google android data settlement claim"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-24T19:40:22.355Z",
+    "lastUpdated": "2026-05-25T04:51:01.349Z",
     "url": "https://simon622.shop/item/google-android-data-settlement-claim/"
   }
 }

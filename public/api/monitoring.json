@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-25T15:28:49.081Z",
-  "count": 3,
+  "updatedAt": "2026-05-25T19:58:41.450Z",
+  "count": 2,
   "items": [
     {
       "id": "krispy-kreme-data-breach-settlement",
@@ -23,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "krispy kreme data breach settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-25T15:28:45.258Z"
+      "lastUpdated": "2026-05-25T19:58:38.693Z"
     },
     {
-      "id": "google-android-data-settlement-claim",
-      "slug": "google-android-data-settlement-claim",
-      "title": "Google Android Data Settlement Claim: Consumer Alert Monitoring",
+      "id": "settlement",
+      "slug": "settlement",
+      "title": "Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "google android data settlement claim",
+      "product": "settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,45 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+data+settlement+claim&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 16,
+      "searchVolume": 1000,
+      "trendScore": 23,
       "matchedQueries": [
-        "google android data settlement claim"
+        "settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-25T15:28:45.258Z"
-    },
-    {
-      "id": "sks-copack-drink-recall",
-      "slug": "sks-copack-drink-recall",
-      "title": "Sks Copack Drink Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "sks copack drink recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+drink+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "sks copack drink recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-25T15:28:45.258Z"
+      "lastUpdated": "2026-05-25T19:58:38.693Z"
     }
   ]
 }

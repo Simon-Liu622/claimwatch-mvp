@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-25T15:28:49.081Z",
+  "updatedAt": "2026-05-25T19:58:41.450Z",
   "item": {
-    "id": "sks-copack-drink-recall",
-    "slug": "sks-copack-drink-recall",
-    "title": "Sks Copack Drink Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "settlement",
+    "slug": "settlement",
+    "title": "Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "sks copack drink recall",
-    "category": "Recall monitoring",
+    "product": "settlement",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+drink+recall&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 23,
     "matchedQueries": [
-      "sks copack drink recall"
+      "settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-25T15:28:45.258Z",
-    "url": "https://simon622.shop/item/sks-copack-drink-recall/"
+    "lastUpdated": "2026-05-25T19:58:38.693Z",
+    "url": "https://simon622.shop/item/settlement/"
   }
 }

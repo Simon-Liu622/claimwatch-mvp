@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-25T15:28:49.081Z",
-  "count": 4,
+  "updatedAt": "2026-05-25T19:58:41.450Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 11,
+      "rank": 4,
       "query": "krispy kreme data breach settlement",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
       "text": "krispy kreme data breach settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-05-25T15:28:45.258Z"
+      "trendScore": 24,
+      "detectedAt": "2026-05-25T19:58:38.693Z"
     },
     {
-      "rank": 50,
+      "rank": 35,
       "query": "hyundai vehicle safety recall",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -30,37 +30,22 @@
       "source": "serpapi-google-trends",
       "text": "hyundai vehicle safety recall",
       "trendScore": 23,
-      "detectedAt": "2026-05-25T15:28:45.258Z"
+      "detectedAt": "2026-05-25T19:58:38.693Z"
     },
     {
-      "rank": 180,
-      "query": "google android data settlement claim",
-      "searchVolume": 5000,
+      "rank": 94,
+      "query": "settlement",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+data+settlement+claim&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "google android data settlement claim",
-      "trendScore": 16,
-      "detectedAt": "2026-05-25T15:28:45.258Z"
-    },
-    {
-      "rank": 270,
-      "query": "sks copack drink recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+drink+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "sks copack drink recall",
-      "trendScore": 8,
-      "detectedAt": "2026-05-25T15:28:45.258Z"
+      "text": "settlement",
+      "trendScore": 23,
+      "detectedAt": "2026-05-25T19:58:38.693Z"
     }
   ]
 }

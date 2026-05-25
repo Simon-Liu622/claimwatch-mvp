@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-25T04:51:03.870Z",
+  "updatedAt": "2026-05-25T10:48:07.094Z",
   "item": {
-    "id": "krispy-kreme-settlement-payout-amount",
-    "slug": "krispy-kreme-settlement-payout-amount",
-    "title": "Krispy Kreme Settlement Payout Amount: Consumer Alert Monitoring",
+    "id": "krispy-kreme-data-breach-settlement",
+    "slug": "krispy-kreme-data-breach-settlement",
+    "title": "Krispy Kreme Data Breach Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "krispy kreme settlement payout amount",
+    "product": "krispy kreme data breach settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+settlement+payout+amount&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 100000,
-    "trendScore": 36,
+    "searchVolume": 10000,
+    "trendScore": 23,
     "matchedQueries": [
-      "krispy kreme settlement payout amount",
       "krispy kreme data breach settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-25T04:51:01.349Z",
-    "url": "https://simon622.shop/item/krispy-kreme-settlement-payout-amount/"
+    "lastUpdated": "2026-05-25T10:48:03.334Z",
+    "url": "https://simon622.shop/item/krispy-kreme-data-breach-settlement/"
   }
 }

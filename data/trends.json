@@ -1,23 +1,21 @@
 [
   {
-    "rank": 3,
-    "query": "krispy kreme settlement payout amount",
-    "searchVolume": 100000,
+    "rank": 15,
+    "query": "krispy kreme data breach settlement",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "krispy kreme data breach settlement"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+settlement+payout+amount&tz=420",
-    "increasePercentage": 1000,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "krispy kreme settlement payout amount krispy kreme data breach settlement",
-    "trendScore": 36,
-    "detectedAt": "2026-05-25T04:51:01.349Z"
+    "text": "krispy kreme data breach settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-05-25T10:48:03.334Z"
   },
   {
-    "rank": 161,
+    "rank": 155,
     "query": "google android data settlement claim",
     "searchVolume": 5000,
     "startedAt": "",
@@ -29,6 +27,21 @@
     "source": "serpapi-google-trends",
     "text": "google android data settlement claim",
     "trendScore": 16,
-    "detectedAt": "2026-05-25T04:51:01.349Z"
+    "detectedAt": "2026-05-25T10:48:03.334Z"
+  },
+  {
+    "rank": 223,
+    "query": "sks copack drink recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+drink+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "sks copack drink recall",
+    "trendScore": 8,
+    "detectedAt": "2026-05-25T10:48:03.334Z"
   }
 ]

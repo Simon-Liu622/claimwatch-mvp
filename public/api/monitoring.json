@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-26T16:09:26.238Z",
-  "count": 3,
+  "updatedAt": "2026-05-26T20:25:09.077Z",
+  "count": 4,
   "items": [
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
+      "id": "supreme-court",
+      "slug": "supreme-court",
+      "title": "Supreme Court: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
+      "product": "supreme court",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,16 +20,75 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
+        "supreme court",
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-26T16:09:22.488Z"
+      "lastUpdated": "2026-05-26T20:25:06.994Z"
+    },
+    {
+      "id": "walmart-blackstone-parmesan-ranch-recall",
+      "slug": "walmart-blackstone-parmesan-ranch-recall",
+      "title": "Walmart Blackstone Parmesan Ranch Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "walmart blackstone parmesan ranch recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+blackstone+parmesan+ranch+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "walmart blackstone parmesan ranch recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-26T20:25:06.994Z"
+    },
+    {
+      "id": "carnival-cruise-hot-deck-lawsuit",
+      "slug": "carnival-cruise-hot-deck-lawsuit",
+      "title": "Carnival Cruise Hot Deck Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "carnival cruise hot deck lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "carnival cruise hot deck lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-26T20:25:06.994Z"
     },
     {
       "id": "sks-copack-beverage-recall",
@@ -52,42 +111,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+beverage+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "sks copack beverage recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-26T16:09:22.488Z"
-    },
-    {
-      "id": "settlement",
-      "slug": "settlement",
-      "title": "Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-26T16:09:22.488Z"
+      "lastUpdated": "2026-05-26T20:25:06.994Z"
     }
   ]
 }

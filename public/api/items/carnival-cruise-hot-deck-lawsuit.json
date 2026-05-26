@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-26T16:09:26.238Z",
+  "updatedAt": "2026-05-26T20:25:09.077Z",
   "item": {
-    "id": "settlement",
-    "slug": "settlement",
-    "title": "Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "carnival-cruise-hot-deck-lawsuit",
+    "slug": "carnival-cruise-hot-deck-lawsuit",
+    "title": "Carnival Cruise Hot Deck Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "settlement",
+    "product": "carnival cruise hot deck lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 500,
+    "trendScore": 23,
     "matchedQueries": [
-      "settlement"
+      "carnival cruise hot deck lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-26T16:09:22.488Z",
-    "url": "https://simon622.shop/item/settlement/"
+    "lastUpdated": "2026-05-26T20:25:06.994Z",
+    "url": "https://simon622.shop/item/carnival-cruise-hot-deck-lawsuit/"
   }
 }

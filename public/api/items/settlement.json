@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:58:41.450Z",
+  "updatedAt": "2026-05-26T04:34:15.513Z",
   "item": {
     "id": "settlement",
     "slug": "settlement",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 23,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
       "settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-25T19:58:38.693Z",
+    "lastUpdated": "2026-05-26T04:34:12.769Z",
     "url": "https://simon622.shop/item/settlement/"
   }
 }

@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-05-25T19:58:41.450Z",
-  "count": 2,
+  "updatedAt": "2026-05-26T04:34:15.513Z",
+  "count": 1,
   "items": [
-    {
-      "id": "krispy-kreme-data-breach-settlement",
-      "slug": "krispy-kreme-data-breach-settlement",
-      "title": "Krispy Kreme Data Breach Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "krispy kreme data breach settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "krispy kreme data breach settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-25T19:58:38.693Z"
-    },
     {
       "id": "settlement",
       "slug": "settlement",
@@ -52,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-25T19:58:38.693Z"
+      "lastUpdated": "2026-05-26T04:34:12.769Z"
     }
   ]
 }

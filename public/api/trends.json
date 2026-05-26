@@ -1,51 +1,36 @@
 {
-  "updatedAt": "2026-05-25T19:58:41.450Z",
-  "count": 3,
+  "updatedAt": "2026-05-26T04:34:15.513Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 4,
-      "query": "krispy kreme data breach settlement",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krispy+kreme+data+breach+settlement&tz=420",
-      "increasePercentage": 800,
-      "source": "serpapi-google-trends",
-      "text": "krispy kreme data breach settlement",
-      "trendScore": 24,
-      "detectedAt": "2026-05-25T19:58:38.693Z"
-    },
-    {
-      "rank": 35,
+      "rank": 135,
       "query": "hyundai vehicle safety recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+safety+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "hyundai vehicle safety recall",
-      "trendScore": 23,
-      "detectedAt": "2026-05-25T19:58:38.693Z"
+      "trendScore": 8,
+      "detectedAt": "2026-05-26T04:34:12.769Z"
     },
     {
-      "rank": 94,
+      "rank": 270,
       "query": "settlement",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
       "increasePercentage": 50,
       "source": "serpapi-google-trends",
       "text": "settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-05-25T19:58:38.693Z"
+      "trendScore": 8,
+      "detectedAt": "2026-05-26T04:34:12.769Z"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-05-26T16:09:26.238Z",
+  "item": {
+    "id": "sks-copack-beverage-recall",
+    "slug": "sks-copack-beverage-recall",
+    "title": "Sks Copack Beverage Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "sks copack beverage recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+beverage+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 2000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "sks copack beverage recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-05-26T16:09:22.488Z",
+    "url": "https://simon622.shop/item/sks-copack-beverage-recall/"
+  }
+}

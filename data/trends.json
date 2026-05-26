@@ -1,21 +1,51 @@
 [
   {
-    "rank": 120,
-    "query": "hyundai vehicle safety recall",
-    "searchVolume": 10000,
+    "rank": 32,
+    "query": "lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-05-26T16:09:22.488Z"
+  },
+  {
+    "rank": 87,
+    "query": "sks copack beverage recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+beverage+recall&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "sks copack beverage recall",
+    "trendScore": 23,
+    "detectedAt": "2026-05-26T16:09:22.488Z"
+  },
+  {
+    "rank": 350,
+    "query": "hyundai vehicle recall software bug",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+safety+recall&tz=420",
-    "increasePercentage": 300,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+recall+software+bug&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "hyundai vehicle safety recall",
+    "text": "hyundai vehicle recall software bug",
     "trendScore": 8,
-    "detectedAt": "2026-05-26T10:18:17.802Z"
+    "detectedAt": "2026-05-26T16:09:22.488Z"
   },
   {
-    "rank": 282,
+    "rank": 368,
     "query": "settlement",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "settlement",
     "trendScore": 8,
-    "detectedAt": "2026-05-26T10:18:17.802Z"
+    "detectedAt": "2026-05-26T16:09:22.488Z"
   }
 ]

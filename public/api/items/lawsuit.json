@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-26T20:25:09.077Z",
+  "updatedAt": "2026-05-27T04:48:35.834Z",
   "item": {
-    "id": "sks-copack-beverage-recall",
-    "slug": "sks-copack-beverage-recall",
-    "title": "Sks Copack Beverage Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "lawsuit",
+    "slug": "lawsuit",
+    "title": "Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "sks copack beverage recall",
-    "category": "Recall monitoring",
+    "product": "lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+beverage+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 8,
+    "searchVolume": 10000,
+    "trendScore": 23,
     "matchedQueries": [
-      "sks copack beverage recall"
+      "lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-26T20:25:06.994Z",
-    "url": "https://simon622.shop/item/sks-copack-beverage-recall/"
+    "lastUpdated": "2026-05-27T04:48:31.892Z",
+    "url": "https://simon622.shop/item/lawsuit/"
   }
 }

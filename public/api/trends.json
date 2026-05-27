@@ -1,28 +1,11 @@
 {
-  "updatedAt": "2026-05-26T20:25:09.077Z",
+  "updatedAt": "2026-05-27T04:48:35.834Z",
   "count": 5,
   "trends": [
     {
-      "rank": 16,
-      "query": "supreme court",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "supreme court lawsuit",
-      "trendScore": 26,
-      "detectedAt": "2026-05-26T20:25:06.994Z"
-    },
-    {
-      "rank": 1,
+      "rank": 2,
       "query": "walmart blackstone parmesan ranch recall",
-      "searchVolume": 20000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -31,41 +14,58 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "walmart blackstone parmesan ranch recall",
-      "trendScore": 24,
-      "detectedAt": "2026-05-26T20:25:06.994Z"
+      "trendScore": 26,
+      "detectedAt": "2026-05-27T04:48:31.892Z"
     },
     {
-      "rank": 90,
-      "query": "carnival cruise hot deck lawsuit",
-      "searchVolume": 500,
+      "rank": 151,
+      "query": "toyota tundra recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "nhtsa vehicle recalls"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+tundra+recall&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "toyota tundra recall nhtsa vehicle recalls",
+      "trendScore": 25,
+      "detectedAt": "2026-05-27T04:48:31.892Z"
+    },
+    {
+      "rank": 30,
+      "query": "lawsuit",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "carnival cruise hot deck lawsuit",
+      "text": "lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-05-26T20:25:06.994Z"
+      "detectedAt": "2026-05-27T04:48:31.892Z"
     },
     {
-      "rank": 135,
-      "query": "sks copack beverage recall",
+      "rank": 125,
+      "query": "carnival cruise hot deck lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sks+copack+beverage+recall&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "sks copack beverage recall",
+      "text": "carnival cruise hot deck lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-26T20:25:06.994Z"
+      "detectedAt": "2026-05-27T04:48:31.892Z"
     },
     {
-      "rank": 409,
+      "rank": 457,
       "query": "hyundai vehicle recall software bug",
       "searchVolume": 200,
       "startedAt": "",
@@ -77,7 +77,7 @@
       "source": "serpapi-google-trends",
       "text": "hyundai vehicle recall software bug",
       "trendScore": 8,
-      "detectedAt": "2026-05-26T20:25:06.994Z"
+      "detectedAt": "2026-05-27T04:48:31.892Z"
     }
   ]
 }

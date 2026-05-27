@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T16:12:28.263Z",
+  "updatedAt": "2026-05-27T20:29:03.919Z",
   "item": {
     "id": "nhtsa-24v548000",
     "slug": "nhtsa-24v548000",
@@ -19,14 +19,14 @@
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V548000",
     "sourceAgency": "NHTSA",
     "searchVolume": 2000,
-    "trendScore": 8,
+    "trendScore": 23,
     "matchedQueries": [
       "toyota tundra recall"
     ],
     "officialVerified": true,
     "officialRecordId": "24V548000",
     "recallInitiationDate": "23/07/2024",
-    "lastUpdated": "2026-05-27T16:12:21.522Z",
+    "lastUpdated": "2026-05-27T20:29:01.709Z",
     "url": "https://simon622.shop/item/nhtsa-24v548000/"
   }
 }

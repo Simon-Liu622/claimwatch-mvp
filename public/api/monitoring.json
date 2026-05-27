@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-05-27T16:12:28.263Z",
-  "count": 3,
+  "updatedAt": "2026-05-27T20:29:03.919Z",
+  "count": 2,
   "items": [
-    {
-      "id": "walmart-blackstone-parmesan-ranch-recall",
-      "slug": "walmart-blackstone-parmesan-ranch-recall",
-      "title": "Walmart Blackstone Parmesan Ranch Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart blackstone parmesan ranch recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+blackstone+parmesan+ranch+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "walmart blackstone parmesan ranch recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-27T16:12:21.522Z"
-    },
     {
       "id": "biden-doj-audio-lawsuit",
       "slug": "biden-doj-audio-lawsuit",
@@ -53,24 +24,25 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 28,
+      "trendScore": 30,
       "matchedQueries": [
         "biden doj audio lawsuit",
         "special counsel of the united states",
-        "joe biden"
+        "joe biden",
+        "doj vs biden audio lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-27T16:12:21.522Z"
+      "lastUpdated": "2026-05-27T20:29:01.709Z"
     },
     {
-      "id": "carnival-cruise-hot-deck-lawsuit",
-      "slug": "carnival-cruise-hot-deck-lawsuit",
-      "title": "Carnival Cruise Hot Deck Lawsuit: Consumer Alert Monitoring",
+      "id": "bricks-and-minifigs-lawsuit",
+      "slug": "bricks-and-minifigs-lawsuit",
+      "title": "Bricks And Minifigs Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "carnival cruise hot deck lawsuit",
+      "product": "bricks and minifigs lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -80,16 +52,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bricks+and+minifigs+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "carnival cruise hot deck lawsuit"
+        "bricks and minifigs lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-27T16:12:21.522Z"
+      "lastUpdated": "2026-05-27T20:29:01.709Z"
     }
   ]
 }

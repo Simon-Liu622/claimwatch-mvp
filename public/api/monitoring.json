@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T10:19:59.007Z",
+  "updatedAt": "2026-05-27T16:12:28.263Z",
   "count": 3,
   "items": [
     {
@@ -23,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+blackstone+parmesan+ranch+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 26,
+      "searchVolume": 200000,
+      "trendScore": 28,
       "matchedQueries": [
         "walmart blackstone parmesan ranch recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-27T10:19:55.153Z"
+      "lastUpdated": "2026-05-27T16:12:21.522Z"
     },
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
+      "id": "biden-doj-audio-lawsuit",
+      "slug": "biden-doj-audio-lawsuit",
+      "title": "Biden Doj Audio Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
+      "product": "biden doj audio lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,17 +49,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=biden+doj+audio+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 28,
       "matchedQueries": [
-        "lawsuit",
+        "biden doj audio lawsuit",
+        "special counsel of the united states",
         "joe biden"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-27T10:19:55.153Z"
+      "lastUpdated": "2026-05-27T16:12:21.522Z"
     },
     {
       "id": "carnival-cruise-hot-deck-lawsuit",
@@ -82,13 +83,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carnival+cruise+hot+deck+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 8,
       "matchedQueries": [
         "carnival cruise hot deck lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-27T10:19:55.153Z"
+      "lastUpdated": "2026-05-27T16:12:21.522Z"
     }
   ]
 }

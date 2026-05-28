@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-28T10:34:02.793Z",
-  "count": 1,
+  "updatedAt": "2026-05-28T16:34:10.840Z",
+  "count": 2,
   "items": [
     {
       "id": "doj-vs-biden-audio-lawsuit",
@@ -23,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+vs+biden+audio+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "doj vs biden audio lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-28T10:34:00.168Z"
+      "lastUpdated": "2026-05-28T16:34:02.756Z"
+    },
+    {
+      "id": "krafton-subnautica-2-bonus-lawsuit",
+      "slug": "krafton-subnautica-2-bonus-lawsuit",
+      "title": "Krafton Subnautica 2 Bonus Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "krafton subnautica 2 bonus lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krafton+subnautica+2+bonus+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "krafton subnautica 2 bonus lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-28T16:34:02.756Z"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-28T04:39:34.376Z",
+  "updatedAt": "2026-05-28T10:34:02.793Z",
   "count": 1,
   "items": [
     {
-      "id": "biden-doj-audio-lawsuit",
-      "slug": "biden-doj-audio-lawsuit",
-      "title": "Biden Doj Audio Lawsuit: Consumer Alert Monitoring",
+      "id": "doj-vs-biden-audio-lawsuit",
+      "slug": "doj-vs-biden-audio-lawsuit",
+      "title": "Doj Vs Biden Audio Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "biden doj audio lawsuit",
+      "product": "doj vs biden audio lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=biden+doj+audio+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+vs+biden+audio+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 28,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "biden doj audio lawsuit",
-        "special counsel of the united states",
-        "joe biden",
         "doj vs biden audio lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-28T04:39:26.210Z"
+      "lastUpdated": "2026-05-28T10:34:00.168Z"
     }
   ]
 }

@@ -1,26 +1,45 @@
 {
-  "updatedAt": "2026-05-29T10:14:12.040Z",
+  "updatedAt": "2026-05-29T16:08:23.038Z",
   "count": 3,
   "trends": [
     {
-      "rank": 311,
-      "query": "will smith",
-      "searchVolume": 1000,
+      "rank": 37,
+      "query": "anti-weaponization fund legal challenge",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "sheree zampino lawsuit bilaal salaam"
+        "anti weaponization fund",
+        "justice department anti-weaponization fund lawsuit",
+        "leonie brinkema"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+legal+challenge&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "will smith sheree zampino lawsuit bilaal salaam",
-      "trendScore": 10,
-      "detectedAt": "2026-05-29T10:14:02.454Z"
+      "text": "anti-weaponization fund legal challenge anti weaponization fund justice department anti-weaponization fund lawsuit leonie brinkema",
+      "trendScore": 29,
+      "detectedAt": "2026-05-29T16:08:17.876Z"
     },
     {
-      "rank": 170,
+      "rank": 52,
+      "query": "maurene comey doj lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "maurene comey"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "maurene comey doj lawsuit maurene comey",
+      "trendScore": 25,
+      "detectedAt": "2026-05-29T16:08:17.876Z"
+    },
+    {
+      "rank": 192,
       "query": "google android $135m settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -32,22 +51,7 @@
       "source": "serpapi-google-trends",
       "text": "google android $135m settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-29T10:14:02.454Z"
-    },
-    {
-      "rank": 211,
-      "query": "krafton subnautica 2 bonus lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krafton+subnautica+2+bonus+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "krafton subnautica 2 bonus lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-05-29T10:14:02.454Z"
+      "detectedAt": "2026-05-29T16:08:17.876Z"
     }
   ]
 }

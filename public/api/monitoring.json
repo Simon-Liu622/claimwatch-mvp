@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-29T10:14:12.040Z",
+  "updatedAt": "2026-05-29T16:08:23.038Z",
   "count": 3,
   "items": [
     {
-      "id": "will-smith",
-      "slug": "will-smith",
-      "title": "Will Smith: Consumer Alert Monitoring",
+      "id": "anti-weaponization-fund-legal-challenge",
+      "slug": "anti-weaponization-fund-legal-challenge",
+      "title": "Anti-Weaponization Fund Legal Challenge: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "will smith",
+      "product": "anti-weaponization fund legal challenge",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,27 +20,29 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+legal+challenge&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
+      "searchVolume": 5000,
+      "trendScore": 29,
       "matchedQueries": [
-        "will smith",
-        "sheree zampino lawsuit bilaal salaam"
+        "anti-weaponization fund legal challenge",
+        "anti weaponization fund",
+        "justice department anti-weaponization fund lawsuit",
+        "leonie brinkema"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T10:14:02.454Z"
+      "lastUpdated": "2026-05-29T16:08:17.876Z"
     },
     {
-      "id": "krafton-subnautica-2-bonus-lawsuit",
-      "slug": "krafton-subnautica-2-bonus-lawsuit",
-      "title": "Krafton Subnautica 2 Bonus Lawsuit: Consumer Alert Monitoring",
+      "id": "maurene-comey-doj-lawsuit",
+      "slug": "maurene-comey-doj-lawsuit",
+      "title": "Maurene Comey Doj Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "krafton subnautica 2 bonus lawsuit",
+      "product": "maurene comey doj lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,16 +52,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=krafton+subnautica+2+bonus+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 25,
       "matchedQueries": [
-        "krafton subnautica 2 bonus lawsuit"
+        "maurene comey doj lawsuit",
+        "maurene comey"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T10:14:02.454Z"
+      "lastUpdated": "2026-05-29T16:08:17.876Z"
     },
     {
       "id": "google-android-135m-settlement",
@@ -88,7 +91,7 @@
         "google android $135m settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T10:14:02.454Z"
+      "lastUpdated": "2026-05-29T16:08:17.876Z"
     }
   ]
 }

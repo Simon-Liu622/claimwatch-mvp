@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-05-29T16:08:23.038Z",
-  "count": 3,
+  "updatedAt": "2026-05-29T20:38:17.159Z",
+  "count": 5,
   "items": [
     {
-      "id": "anti-weaponization-fund-legal-challenge",
-      "slug": "anti-weaponization-fund-legal-challenge",
-      "title": "Anti-Weaponization Fund Legal Challenge: Consumer Alert Monitoring",
+      "id": "justice-department-anti-weaponization-fund-lawsuit",
+      "slug": "justice-department-anti-weaponization-fund-lawsuit",
+      "title": "Justice Department Anti-Weaponization Fund Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "anti-weaponization fund legal challenge",
+      "product": "justice department anti-weaponization fund lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,21 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+legal+challenge&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=justice+department+anti-weaponization+fund+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 29,
+      "searchVolume": 20000,
+      "trendScore": 34,
       "matchedQueries": [
-        "anti-weaponization fund legal challenge",
-        "anti weaponization fund",
         "justice department anti-weaponization fund lawsuit",
+        "federal judge halts trump fund",
+        "us judge blocks doj fund",
+        "anti weaponization fund",
+        "anti-weaponization fund legal challenge",
         "leonie brinkema"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T16:08:17.876Z"
+      "lastUpdated": "2026-05-29T20:38:14.846Z"
     },
     {
       "id": "maurene-comey-doj-lawsuit",
@@ -62,7 +64,66 @@
         "maurene comey"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T16:08:17.876Z"
+      "lastUpdated": "2026-05-29T20:38:14.846Z"
+    },
+    {
+      "id": "circle-k-data-breach-settlement",
+      "slug": "circle-k-data-breach-settlement",
+      "title": "Circle K Data Breach Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "circle k data breach settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=circle+k+data+breach+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "circle k data breach settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-29T20:38:14.846Z"
+    },
+    {
+      "id": "will-smith",
+      "slug": "will-smith",
+      "title": "Will Smith: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "will smith",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "will smith",
+        "sheree zampino lawsuit bilaal salaam"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-29T20:38:14.846Z"
     },
     {
       "id": "google-android-135m-settlement",
@@ -91,7 +152,7 @@
         "google android $135m settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-29T16:08:17.876Z"
+      "lastUpdated": "2026-05-29T20:38:14.846Z"
     }
   ]
 }

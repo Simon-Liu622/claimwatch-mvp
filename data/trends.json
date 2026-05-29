@@ -1,25 +1,27 @@
 [
   {
-    "rank": 37,
-    "query": "anti-weaponization fund legal challenge",
-    "searchVolume": 5000,
+    "rank": 26,
+    "query": "justice department anti-weaponization fund lawsuit",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "federal judge halts trump fund",
+      "us judge blocks doj fund",
       "anti weaponization fund",
-      "justice department anti-weaponization fund lawsuit",
+      "anti-weaponization fund legal challenge",
       "leonie brinkema"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+legal+challenge&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=justice+department+anti-weaponization+fund+lawsuit&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "anti-weaponization fund legal challenge anti weaponization fund justice department anti-weaponization fund lawsuit leonie brinkema",
-    "trendScore": 29,
-    "detectedAt": "2026-05-29T16:08:17.876Z"
+    "text": "justice department anti-weaponization fund lawsuit federal judge halts trump fund us judge blocks doj fund anti weaponization fund anti-weaponization fund legal challenge leonie brinkema",
+    "trendScore": 34,
+    "detectedAt": "2026-05-29T20:38:14.846Z"
   },
   {
-    "rank": 52,
+    "rank": 54,
     "query": "maurene comey doj lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
@@ -29,14 +31,46 @@
       "maurene comey"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "maurene comey doj lawsuit maurene comey",
     "trendScore": 25,
-    "detectedAt": "2026-05-29T16:08:17.876Z"
+    "detectedAt": "2026-05-29T20:38:14.846Z"
   },
   {
-    "rank": 192,
+    "rank": 57,
+    "query": "circle k data breach settlement",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=circle+k+data+breach+settlement&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "circle k data breach settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-05-29T20:38:14.846Z"
+  },
+  {
+    "rank": 317,
+    "query": "will smith",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "sheree zampino lawsuit bilaal salaam"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "will smith sheree zampino lawsuit bilaal salaam",
+    "trendScore": 10,
+    "detectedAt": "2026-05-29T20:38:14.846Z"
+  },
+  {
+    "rank": 198,
     "query": "google android $135m settlement",
     "searchVolume": 2000,
     "startedAt": "",
@@ -48,6 +82,6 @@
     "source": "serpapi-google-trends",
     "text": "google android $135m settlement",
     "trendScore": 8,
-    "detectedAt": "2026-05-29T16:08:17.876Z"
+    "detectedAt": "2026-05-29T20:38:14.846Z"
   }
 ]

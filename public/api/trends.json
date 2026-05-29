@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-29T04:42:41.828Z",
+  "updatedAt": "2026-05-29T10:14:12.040Z",
   "count": 3,
   "trends": [
     {
-      "rank": 283,
+      "rank": 311,
       "query": "will smith",
       "searchVolume": 1000,
       "startedAt": "",
@@ -17,10 +17,10 @@
       "source": "serpapi-google-trends",
       "text": "will smith sheree zampino lawsuit bilaal salaam",
       "trendScore": 10,
-      "detectedAt": "2026-05-29T04:42:38.389Z"
+      "detectedAt": "2026-05-29T10:14:02.454Z"
     },
     {
-      "rank": 150,
+      "rank": 170,
       "query": "google android $135m settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -32,10 +32,10 @@
       "source": "serpapi-google-trends",
       "text": "google android $135m settlement",
       "trendScore": 8,
-      "detectedAt": "2026-05-29T04:42:38.389Z"
+      "detectedAt": "2026-05-29T10:14:02.454Z"
     },
     {
-      "rank": 232,
+      "rank": 211,
       "query": "krafton subnautica 2 bonus lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -47,7 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "krafton subnautica 2 bonus lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-29T04:42:38.389Z"
+      "detectedAt": "2026-05-29T10:14:02.454Z"
     }
   ]
 }

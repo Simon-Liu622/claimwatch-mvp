@@ -1,6 +1,38 @@
 [
   {
-    "rank": 147,
+    "rank": 283,
+    "query": "will smith",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "sheree zampino lawsuit bilaal salaam"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "will smith sheree zampino lawsuit bilaal salaam",
+    "trendScore": 10,
+    "detectedAt": "2026-05-29T04:42:38.389Z"
+  },
+  {
+    "rank": 150,
+    "query": "google android $135m settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+%24135m+settlement&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "google android $135m settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-05-29T04:42:38.389Z"
+  },
+  {
+    "rank": 232,
     "query": "krafton subnautica 2 bonus lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,6 +44,6 @@
     "source": "serpapi-google-trends",
     "text": "krafton subnautica 2 bonus lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-05-28T20:37:10.847Z"
+    "detectedAt": "2026-05-29T04:42:38.389Z"
   }
 ]

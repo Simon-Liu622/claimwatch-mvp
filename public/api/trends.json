@@ -1,63 +1,24 @@
 {
-  "updatedAt": "2026-05-30T14:04:44.735Z",
-  "count": 5,
+  "updatedAt": "2026-05-30T19:41:02.905Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 12,
-      "query": "united states federal judge",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "justice department anti-weaponization fund lawsuit",
-        "federal judge halts trump fund",
-        "us judge blocks doj fund",
-        "anti weaponization fund",
-        "anti-weaponization fund legal challenge",
-        "leonie brinkema"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+states+federal+judge&tz=420",
-      "increasePercentage": 800,
-      "source": "serpapi-google-trends",
-      "text": "united states federal judge justice department anti-weaponization fund lawsuit federal judge halts trump fund us judge blocks doj fund anti weaponization fund anti-weaponization fund legal challenge leonie brinkema",
-      "trendScore": 34,
-      "detectedAt": "2026-05-30T14:04:42.393Z"
-    },
-    {
-      "rank": 51,
-      "query": "trump irs lawsuit reopened",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "internal revenue service"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "trump irs lawsuit reopened internal revenue service",
-      "trendScore": 25,
-      "detectedAt": "2026-05-30T14:04:42.393Z"
-    },
-    {
-      "rank": 97,
+      "rank": 92,
       "query": "steve ruggiero specialized lawsuit",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+ruggiero+specialized+lawsuit&tz=420",
-      "increasePercentage": 75,
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "steve ruggiero specialized lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-05-30T14:04:42.393Z"
+      "detectedAt": "2026-05-30T19:40:56.133Z"
     },
     {
-      "rank": 228,
+      "rank": 322,
       "query": "june 2026 class action settlements",
       "searchVolume": 2000,
       "startedAt": "",
@@ -69,10 +30,27 @@
       "source": "serpapi-google-trends",
       "text": "june 2026 class action settlements",
       "trendScore": 16,
-      "detectedAt": "2026-05-30T14:04:42.393Z"
+      "detectedAt": "2026-05-30T19:40:56.133Z"
     },
     {
-      "rank": 215,
+      "rank": 167,
+      "query": "trump irs lawsuit reopened",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "internal revenue service"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "trump irs lawsuit reopened internal revenue service",
+      "trendScore": 10,
+      "detectedAt": "2026-05-30T19:40:56.133Z"
+    },
+    {
+      "rank": 314,
       "query": "giantex lounge chair recall amazon",
       "searchVolume": 2000,
       "startedAt": "",
@@ -84,7 +62,7 @@
       "source": "serpapi-google-trends",
       "text": "giantex lounge chair recall amazon",
       "trendScore": 8,
-      "detectedAt": "2026-05-30T14:04:42.393Z"
+      "detectedAt": "2026-05-30T19:40:56.133Z"
     }
   ]
 }

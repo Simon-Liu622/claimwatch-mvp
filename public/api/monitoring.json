@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-05-30T14:04:44.735Z",
+  "updatedAt": "2026-05-30T19:41:02.905Z",
   "count": 3,
   "items": [
-    {
-      "id": "trump-irs-lawsuit-reopened",
-      "slug": "trump-irs-lawsuit-reopened",
-      "title": "Trump Irs Lawsuit Reopened: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump irs lawsuit reopened",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "trump irs lawsuit reopened",
-        "internal revenue service"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-30T14:04:42.393Z"
-    },
     {
       "id": "steve-ruggiero-specialized-lawsuit",
       "slug": "steve-ruggiero-specialized-lawsuit",
@@ -53,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+ruggiero+specialized+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "steve ruggiero specialized lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-30T14:04:42.393Z"
+      "lastUpdated": "2026-05-30T19:40:56.133Z"
     },
     {
       "id": "june-2026-class-action-settlements",
@@ -88,7 +58,37 @@
         "june 2026 class action settlements"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-30T14:04:42.393Z"
+      "lastUpdated": "2026-05-30T19:40:56.133Z"
+    },
+    {
+      "id": "trump-irs-lawsuit-reopened",
+      "slug": "trump-irs-lawsuit-reopened",
+      "title": "Trump Irs Lawsuit Reopened: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trump irs lawsuit reopened",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "trump irs lawsuit reopened",
+        "internal revenue service"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-30T19:40:56.133Z"
     }
   ]
 }

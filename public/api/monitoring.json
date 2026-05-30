@@ -1,95 +1,7 @@
 {
-  "updatedAt": "2026-05-30T04:17:25.195Z",
-  "count": 5,
+  "updatedAt": "2026-05-30T08:40:26.684Z",
+  "count": 4,
   "items": [
-    {
-      "id": "superfood-supplement-salmonella-recall",
-      "slug": "superfood-supplement-salmonella-recall",
-      "title": "Superfood Supplement Salmonella Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "superfood supplement salmonella recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=superfood+supplement+salmonella+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 31,
-      "matchedQueries": [
-        "superfood supplement salmonella recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-30T04:17:22.882Z"
-    },
-    {
-      "id": "trump-irs-lawsuit-reopened",
-      "slug": "trump-irs-lawsuit-reopened",
-      "title": "Trump Irs Lawsuit Reopened: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump irs lawsuit reopened",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "trump irs lawsuit reopened",
-        "internal revenue service"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-30T04:17:22.882Z"
-    },
-    {
-      "id": "steve-ruggiero-specialized-lawsuit",
-      "slug": "steve-ruggiero-specialized-lawsuit",
-      "title": "Steve Ruggiero Specialized Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "steve ruggiero specialized lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+ruggiero+specialized+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "steve ruggiero specialized lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-05-30T04:17:22.882Z"
-    },
     {
       "id": "june-2026-class-action-settlements",
       "slug": "june-2026-class-action-settlements",
@@ -117,7 +29,66 @@
         "june 2026 class action settlements"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-30T04:17:22.882Z"
+      "lastUpdated": "2026-05-30T08:40:24.363Z"
+    },
+    {
+      "id": "trump-irs-lawsuit-reopened",
+      "slug": "trump-irs-lawsuit-reopened",
+      "title": "Trump Irs Lawsuit Reopened: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trump irs lawsuit reopened",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "trump irs lawsuit reopened",
+        "internal revenue service"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-30T08:40:24.363Z"
+    },
+    {
+      "id": "steve-ruggiero-specialized-lawsuit",
+      "slug": "steve-ruggiero-specialized-lawsuit",
+      "title": "Steve Ruggiero Specialized Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "steve ruggiero specialized lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+ruggiero+specialized+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "steve ruggiero specialized lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-05-30T08:40:24.363Z"
     },
     {
       "id": "maurene-comey-doj-lawsuit",
@@ -147,7 +118,7 @@
         "maurene comey"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-05-30T04:17:22.882Z"
+      "lastUpdated": "2026-05-30T08:40:24.363Z"
     }
   ]
 }

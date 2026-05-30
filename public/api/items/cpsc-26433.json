@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T20:38:17.159Z",
+  "updatedAt": "2026-05-30T04:17:25.195Z",
   "item": {
     "id": "cpsc-26433",
     "slug": "cpsc-26433",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Childrens-Tower-Stools-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-AMZCMJ-DGD",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 2000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "giantex lounge chair recall amazon",
+      "chair"
+    ],
     "officialVerified": true,
     "officialRecordId": "26433",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-05-29T20:38:14.846Z",
+    "lastUpdated": "2026-05-30T04:17:22.882Z",
     "url": "https://simon622.shop/item/cpsc-26433/"
   }
 }

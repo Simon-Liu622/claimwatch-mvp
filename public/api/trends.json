@@ -1,91 +1,122 @@
 {
-  "updatedAt": "2026-05-29T20:38:17.159Z",
-  "count": 5,
+  "updatedAt": "2026-05-30T04:17:25.195Z",
+  "count": 7,
   "trends": [
     {
-      "rank": 26,
-      "query": "justice department anti-weaponization fund lawsuit",
+      "rank": 42,
+      "query": "united states federal judge",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
         "federal judge halts trump fund",
+        "justice department anti-weaponization fund lawsuit",
         "us judge blocks doj fund",
         "anti weaponization fund",
         "anti-weaponization fund legal challenge",
         "leonie brinkema"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=justice+department+anti-weaponization+fund+lawsuit&tz=420",
-      "increasePercentage": 300,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+states+federal+judge&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "justice department anti-weaponization fund lawsuit federal judge halts trump fund us judge blocks doj fund anti weaponization fund anti-weaponization fund legal challenge leonie brinkema",
+      "text": "united states federal judge federal judge halts trump fund justice department anti-weaponization fund lawsuit us judge blocks doj fund anti weaponization fund anti-weaponization fund legal challenge leonie brinkema",
       "trendScore": 34,
-      "detectedAt": "2026-05-29T20:38:14.846Z"
-    },
-    {
-      "rank": 54,
-      "query": "maurene comey doj lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "maurene comey"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "maurene comey doj lawsuit maurene comey",
-      "trendScore": 25,
-      "detectedAt": "2026-05-29T20:38:14.846Z"
+      "detectedAt": "2026-05-30T04:17:22.882Z"
     },
     {
       "rank": 57,
-      "query": "circle k data breach settlement",
-      "searchVolume": 5000,
+      "query": "superfood supplement salmonella recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=circle+k+data+breach+settlement&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=superfood+supplement+salmonella+recall&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "circle k data breach settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-05-29T20:38:14.846Z"
+      "text": "superfood supplement salmonella recall",
+      "trendScore": 31,
+      "detectedAt": "2026-05-30T04:17:22.882Z"
     },
     {
-      "rank": 317,
-      "query": "will smith",
-      "searchVolume": 1000,
+      "rank": 58,
+      "query": "trump irs lawsuit reopened",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "sheree zampino lawsuit bilaal salaam"
+        "internal revenue service"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+smith&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopened&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "will smith sheree zampino lawsuit bilaal salaam",
-      "trendScore": 10,
-      "detectedAt": "2026-05-29T20:38:14.846Z"
+      "text": "trump irs lawsuit reopened internal revenue service",
+      "trendScore": 25,
+      "detectedAt": "2026-05-30T04:17:22.882Z"
     },
     {
-      "rank": 198,
-      "query": "google android $135m settlement",
+      "rank": 98,
+      "query": "steve ruggiero specialized lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+ruggiero+specialized+lawsuit&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "steve ruggiero specialized lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-05-30T04:17:22.882Z"
+    },
+    {
+      "rank": 187,
+      "query": "june 2026 class action settlements",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=google+android+%24135m+settlement&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=june+2026+class+action+settlements&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "google android $135m settlement",
+      "text": "june 2026 class action settlements",
+      "trendScore": 16,
+      "detectedAt": "2026-05-30T04:17:22.882Z"
+    },
+    {
+      "rank": 144,
+      "query": "giantex lounge chair recall amazon",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "chair"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=giantex+lounge+chair+recall+amazon&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "giantex lounge chair recall amazon chair",
+      "trendScore": 10,
+      "detectedAt": "2026-05-30T04:17:22.882Z"
+    },
+    {
+      "rank": 171,
+      "query": "maurene comey doj lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "maurene comey doj lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-05-29T20:38:14.846Z"
+      "detectedAt": "2026-05-30T04:17:22.882Z"
     }
   ]
 }

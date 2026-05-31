@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-05-30T19:41:02.905Z",
+  "updatedAt": "2026-05-31T04:51:22.701Z",
   "item": {
-    "id": "june-2026-class-action-settlements",
-    "slug": "june-2026-class-action-settlements",
-    "title": "June 2026 Class Action Settlements: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "trump-irs-lawsuit-reopening",
+    "slug": "trump-irs-lawsuit-reopening",
+    "title": "Trump Irs Lawsuit Reopening: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "june 2026 class action settlements",
+    "product": "trump irs lawsuit reopening",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=june+2026+class+action+settlements&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopening&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 16,
+    "searchVolume": 5000,
+    "trendScore": 8,
     "matchedQueries": [
-      "june 2026 class action settlements"
+      "trump irs lawsuit reopening"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-05-30T19:40:56.133Z",
-    "url": "https://simon622.shop/item/june-2026-class-action-settlements/"
+    "lastUpdated": "2026-05-31T04:51:20.294Z",
+    "url": "https://simon622.shop/item/trump-irs-lawsuit-reopening/"
   }
 }

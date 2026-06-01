@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:40:51.585Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 132,
-      "query": "trump irs lawsuit reopening",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+reopening&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "trump irs lawsuit reopening",
-      "trendScore": 8,
-      "detectedAt": "2026-05-31T19:40:47.621Z"
-    }
-  ]
+  "updatedAt": "2026-06-01T05:15:50.937Z",
+  "count": 0,
+  "trends": []
 }

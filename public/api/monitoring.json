@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-06-02T10:54:33.233Z",
-  "count": 2,
+  "updatedAt": "2026-06-02T16:55:23.137Z",
+  "count": 3,
   "items": [
+    {
+      "id": "champion-foods-pizza-recall",
+      "slug": "champion-foods-pizza-recall",
+      "title": "Champion Foods Pizza Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "champion foods pizza recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "champion foods pizza recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-02T16:54:54.109Z"
+    },
     {
       "id": "kash-patel-girlfriend-lawsuit",
       "slug": "kash-patel-girlfriend-lawsuit",
@@ -24,24 +53,24 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 25,
+      "trendScore": 10,
       "matchedQueries": [
         "kash patel girlfriend lawsuit",
         "ms now"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T10:54:30.817Z"
+      "lastUpdated": "2026-06-02T16:54:54.109Z"
     },
     {
-      "id": "champion-foods-pizza-recall",
-      "slug": "champion-foods-pizza-recall",
-      "title": "Champion Foods Pizza Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "shilo-sanders-lawsuit-dropped",
+      "slug": "shilo-sanders-lawsuit-dropped",
+      "title": "Shilo Sanders Lawsuit Dropped: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "champion foods pizza recall",
-      "category": "Recall monitoring",
+      "product": "shilo sanders lawsuit dropped",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -50,16 +79,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shilo+sanders+lawsuit+dropped&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
-        "champion foods pizza recall"
+        "shilo sanders lawsuit dropped"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T10:54:30.817Z"
+      "lastUpdated": "2026-06-02T16:54:54.109Z"
     }
   ]
 }

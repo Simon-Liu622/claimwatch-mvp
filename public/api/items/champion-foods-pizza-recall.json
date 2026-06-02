@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T10:54:33.233Z",
+  "updatedAt": "2026-06-02T16:55:23.137Z",
   "item": {
     "id": "champion-foods-pizza-recall",
     "slug": "champion-foods-pizza-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
       "champion foods pizza recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-02T10:54:30.817Z",
+    "lastUpdated": "2026-06-02T16:54:54.109Z",
     "url": "https://simon622.shop/item/champion-foods-pizza-recall/"
   }
 }

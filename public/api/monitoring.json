@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T05:00:13.462Z",
-  "count": 1,
+  "updatedAt": "2026-06-02T10:54:33.233Z",
+  "count": 2,
   "items": [
     {
       "id": "kash-patel-girlfriend-lawsuit",
@@ -23,13 +23,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kash+patel+girlfriend+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 25,
       "matchedQueries": [
-        "kash patel girlfriend lawsuit"
+        "kash patel girlfriend lawsuit",
+        "ms now"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T05:00:08.529Z"
+      "lastUpdated": "2026-06-02T10:54:30.817Z"
+    },
+    {
+      "id": "champion-foods-pizza-recall",
+      "slug": "champion-foods-pizza-recall",
+      "title": "Champion Foods Pizza Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "champion foods pizza recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "champion foods pizza recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-02T10:54:30.817Z"
     }
   ]
 }

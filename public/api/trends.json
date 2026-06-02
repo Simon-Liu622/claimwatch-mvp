@@ -1,21 +1,38 @@
 {
-  "updatedAt": "2026-06-02T05:00:13.462Z",
-  "count": 1,
+  "updatedAt": "2026-06-02T10:54:33.233Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 69,
+      "rank": 79,
       "query": "kash patel girlfriend lawsuit",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "ms now"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kash+patel+girlfriend+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "kash patel girlfriend lawsuit ms now",
+      "trendScore": 25,
+      "detectedAt": "2026-06-02T10:54:30.817Z"
+    },
+    {
+      "rank": 36,
+      "query": "champion foods pizza recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kash+patel+girlfriend+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "kash patel girlfriend lawsuit",
+      "text": "champion foods pizza recall",
       "trendScore": 23,
-      "detectedAt": "2026-06-02T05:00:08.529Z"
+      "detectedAt": "2026-06-02T10:54:30.817Z"
     }
   ]
 }

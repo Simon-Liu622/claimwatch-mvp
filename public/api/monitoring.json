@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T16:55:23.137Z",
-  "count": 3,
+  "updatedAt": "2026-06-02T21:23:53.817Z",
+  "count": 5,
   "items": [
     {
       "id": "champion-foods-pizza-recall",
@@ -23,13 +23,73 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "champion foods pizza recall"
+        "champion foods pizza recall",
+        "motor city pizza"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T16:54:54.109Z"
+      "lastUpdated": "2026-06-02T21:23:51.534Z"
+    },
+    {
+      "id": "tax-refund",
+      "slug": "tax-refund",
+      "title": "Tax Refund: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "tax refund",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "tax refund",
+        "taxpayers"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-02T21:23:51.534Z"
+    },
+    {
+      "id": "totalenergies-offshore-wind-lawsuit",
+      "slug": "totalenergies-offshore-wind-lawsuit",
+      "title": "Totalenergies Offshore Wind Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "totalenergies offshore wind lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "totalenergies offshore wind lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-02T21:23:51.534Z"
     },
     {
       "id": "kash-patel-girlfriend-lawsuit",
@@ -53,13 +113,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 10,
+      "trendScore": 8,
       "matchedQueries": [
         "kash patel girlfriend lawsuit",
         "ms now"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T16:54:54.109Z"
+      "lastUpdated": "2026-06-02T21:23:51.534Z"
     },
     {
       "id": "shilo-sanders-lawsuit-dropped",
@@ -88,7 +148,7 @@
         "shilo sanders lawsuit dropped"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-02T16:54:54.109Z"
+      "lastUpdated": "2026-06-02T21:23:51.534Z"
     }
   ]
 }

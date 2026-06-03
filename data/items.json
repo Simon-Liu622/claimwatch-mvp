@@ -1,5 +1,439 @@
 [
   {
+    "id": "nhtsa-25v164000",
+    "slug": "nhtsa-25v164000",
+    "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Bronco, 2024 Ranger, 2025 Mustang, Explorer, and Aviator vehicles. The transmission valve body may have been machined incorrectly, which can cause reverse gear failure, or unexpected forward movement in reverse or neutral gear.",
+    "affectedPeople": "Unexpected vehicle movement increases the risk of a crash.",
+    "remedy": "Dealers will replace the transmission main control valve body, free of charge. Owner notification letters were mailed April 11, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S19.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V164000",
+    "recallInitiationDate": "14/03/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v315000",
+    "slug": "nhtsa-25v315000",
+    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicles. A software error may cause the rearview camera image to delay, freeze, or not display when the vehicle is in reverse.",
+    "affectedPeople": "A frozen or missing rearview camera image can reduce the driver's view behind the vehicle, increasing the risk of a crash.",
+    "remedy": "The accessory protocol interface module (APIM) software will be updated by a dealer or through an over-the-air update, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model and model years. Interim letters notifying owners of the safety risk were mailed on June 26, 2025. Additional letters will be mailed once the final remedy is available on each phase. Owner notification letters were sent on October 8, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S49.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V315000",
+    "recallInitiationDate": "09/05/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-24v142000",
+    "slug": "nhtsa-24v142000",
+    "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2024 Bronco and Bronco Heritage vehicles. The rear quarter glass panels may have been improperly installed to the vehicle hard top, which can allow them to detach.",
+    "affectedPeople": "Detached rear glass panels may create a road hazard and increase the risk of a crash.",
+    "remedy": "Dealers will inspect and reinstall the rear glass panels on Bronco vehicles. On Bronco Heritage vehicles, dealers will replace the rear left-hand removable quarter glass panel. Repairs will be performed free of charge. Bronco owner notification letters were mailed June 6, 2024. Bronco Heritage owner letters were mailed June 12, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S10.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V142000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V142000",
+    "recallInitiationDate": "23/02/2024",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-24v189000",
+    "slug": "nhtsa-24v189000",
+    "title": "Ford Motor Company: LATCHES/LOCKS/LINKAGES:DOORS:LOCK Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2024 Bronco 4-door vehicles. The left-side rear door may be opened from the inside of the vehicle when the child safety lock is in the \"ON\" position.",
+    "affectedPeople": "A malfunctioning child safety lock that allows a rear door to be opened unintentionally can increase the risk of injury.",
+    "remedy": "Dealers will inspect the child safety locks and replace the rear door latch, as necessary, free of charge. Owner notification letters were mailed April 9, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S15.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V189000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V189000",
+    "recallInitiationDate": "08/03/2024",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-24v770000",
+    "slug": "nhtsa-24v770000",
+    "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Ranger, and 2024-2025 Bronco vehicles. The front upper control arm ball joint nut may not have been installed or tightened properly, allowing the front upper control arm to detach from the knuckle assembly.",
+    "affectedPeople": "A detached control arm can cause a loss of vehicle steering and control, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect and verify that the ball joint fastener is tightened properly. If a fastener is loose or missing, the dealer will replace the ball joint and knuckle assembly as necessary, free of charge. Owner notification letters were mailed on November 20, 2024. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 24S64.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V770000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V770000",
+    "recallInitiationDate": "16/10/2024",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v025000",
+    "slug": "nhtsa-25v025000",
+    "title": "Ford Motor Company: SUSPENSION:REAR:SHOCK ABSORBER Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco vehicles. The rear shock absorbers may corrode and fail, resulting in detachment of the external reservoir.",
+    "affectedPeople": "An external reservoir that detaches from a vehicle can create a road hazard, increasing the risk of a crash.",
+    "remedy": "Dealers will replace the rear shock absorbers, as necessary free of charge. Owner notification letters were mailed August 15, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S01.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V025000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V025000",
+    "recallInitiationDate": "17/01/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v308000",
+    "slug": "nhtsa-25v308000",
+    "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:LOWER ARM Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 Bronco vehicles. The front lower control arm fasteners may not have been tightened properly, allowing the control arm to detach from the frame.",
+    "affectedPeople": "A detached control arm can cause a loss of vehicle steering and control, increasing the risk of a crash.",
+    "remedy": "Owners are advised not to drive their vehicles until they have been repaired. Dealers will inspect and verify that the lower control arm fasteners are tightened properly. If a fastener is loose or missing, the dealer will replace the fastener. Repairs will be performed free of charge. Owner notification letters were mailed June 3, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S48.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V308000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V308000",
+    "recallInitiationDate": "09/05/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v303000",
+    "slug": "nhtsa-25v303000",
+    "title": "Ford Motor Company: LATCHES/LOCKS/LINKAGES:DOORS:LOCK Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Bronco vehicles. The left-side rear door may be opened from the inside of the vehicle when the child safety lock is in the \"ON\" position.",
+    "affectedPeople": "A malfunctioning child safety lock that allows a rear door to be opened unintentionally can increase the risk of injury.",
+    "remedy": "Dealers will inspect the child safety locks and replace the rear door latch, as necessary, free of charge. Owner notification letters were mailed on May 22, 2025. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 24S15. This recall expands previous recall number 24V-189.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V303000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V303000",
+    "recallInitiationDate": "09/05/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v310000",
+    "slug": "nhtsa-25v310000",
+    "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 Bronco and Ranger vehicles. The front upper control arm ball joint fastener may be missing or tightened improperly, allowing the front upper control arm to detach from the knuckle assembly.",
+    "affectedPeople": "A detached control arm can cause a loss of vehicle steering and control, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect and tighten, or replace the ball joint fastener as necessary, free of charge. Owner notification letters were mailed May 23, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S45.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V310000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V310000",
+    "recallInitiationDate": "09/05/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v597000",
+    "slug": "nhtsa-25v597000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Bronco and Ranger vehicles. The bolts securing the high pressure fuel pump may not be tightened properly, which can result in a fuel leak.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source increases the risk of a fire.",
+    "remedy": "Dealers will replace the high pressure fuel pump mounting bolts, free of charge. Owner notification letters were mailed September 25, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S90.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V597000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V597000",
+    "recallInitiationDate": "11/09/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-25v685000",
+    "slug": "nhtsa-25v685000",
+    "title": "Ford Motor Company: EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+    "affectedPeople": "An electrical short circuit can increase the risk of a fire.",
+    "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed December 3, 2025. Additional letters will be sent once the final remedy is available, anticipated September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 15, 2025.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V685000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V685000",
+    "recallInitiationDate": "10/10/2025",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-26v124000",
+    "slug": "nhtsa-26v124000",
+    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 Ford Bronco and 2021-2024 Ford Edge vehicles. The Accessory Protocol Interface Module (APIM) may overheat and shutdown, which can prevent the rearview camera image from displaying as intended.",
+    "affectedPeople": "A rearview camera that fails to display an image can reduce the driver’s view behind the vehicle, increasing the risk of a crash.",
+    "remedy": "The APIM software will be updated by a dealer, or through an over-the-air (OTA) update, free of charge. Owner notification letters were mailed April 13, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S09. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 5, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V124000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26V124000",
+    "recallInitiationDate": "03/03/2026",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-26v236000",
+    "slug": "nhtsa-26v236000",
+    "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2025 Bronco vehicles. The transmission to transfer case joint may be misaligned due to an incorrectly performed previous repair, which could lead to wear of the transmission output shaft splines and transfer case input splines.",
+    "affectedPeople": "Excessive wear of the transmission and transfer case splines may result in a loss of drive power or vehicle rollaway, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect the transmission to transfer case joint and replace the transmission and transfer case as necessary, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed April 27, 2026. Additional letters will be sent once the remedy is available, anticipated in July 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S26. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on April 15, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V236000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26V236000",
+    "recallInitiationDate": "14/04/2026",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "nhtsa-26v268000",
+    "slug": "nhtsa-26v268000",
+    "title": "Ford Motor Company: SEATS:CRITICAL FASTENERS Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2026 Ranger and Bronco vehicles. The front seats may have a loose or dislodged seat frame height-adjust pivot bolt.",
+    "affectedPeople": "A seat with a dislodged bolt may not properly restrain an occupant in a crash, increasing the risk of injury.",
+    "remedy": "Dealers will inspect and replace the pivot links and bolts as necessary, free of charge. Owner notification letters were mailed May 22, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford’s number for this recall is 26S30. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov beginning April 30, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V268000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26V268000",
+    "recallInitiationDate": "28/04/2026",
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -32,36 +466,6 @@
     "lastUpdated": "2026-05-07T08:40:29.023Z"
   },
   {
-    "id": "taxpayers",
-    "slug": "taxpayers",
-    "title": "Taxpayers: Consumer Alert Monitoring",
-    "type": "refund",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "taxpayers",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 26,
-    "matchedQueries": [
-      "taxpayers",
-      "tax refund"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
-  },
-  {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
     "title": "Toyota Motor Engineering & Manufacturing: SEATS Recall (2024 toyota camry)",
@@ -85,7 +489,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "alabama-gop-congressional-map-ruling",
@@ -108,14 +512,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 25,
     "matchedQueries": [
       "alabama gop congressional map ruling",
       "alabama house map lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
@@ -167,7 +571,36 @@
     "officialVerified": true,
     "officialRecordId": "26485",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
+  },
+  {
+    "id": "outback-steakhouse-virginia-lawsuit",
+    "slug": "outback-steakhouse-virginia-lawsuit",
+    "title": "Outback Steakhouse Virginia Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "outback steakhouse virginia lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+virginia+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "outback steakhouse virginia lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-23v757000",
@@ -473,7 +906,7 @@
     "officialVerified": true,
     "officialRecordId": "26433",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26502",
@@ -499,7 +932,7 @@
     "officialVerified": true,
     "officialRecordId": "26502",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26506",
@@ -525,7 +958,7 @@
     "officialVerified": true,
     "officialRecordId": "26506",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26512",
@@ -551,7 +984,7 @@
     "officialVerified": true,
     "officialRecordId": "26512",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "zarlengo-italian-ice-zarlengo-s-double-dark-chocolate-gelato-packaged-in-1-gallon-bucket-p",
@@ -660,46 +1093,17 @@
       "shilo sanders lawsuit dropped"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
-    "id": "totalenergies-offshore-wind-lawsuit",
-    "slug": "totalenergies-offshore-wind-lawsuit",
-    "title": "Totalenergies Offshore Wind Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "totalenergies offshore wind lawsuit",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 8,
-    "matchedQueries": [
-      "totalenergies offshore wind lawsuit"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
-  },
-  {
-    "id": "ford-bronco-sport-maverick-recall",
-    "slug": "ford-bronco-sport-maverick-recall",
-    "title": "Ford Bronco Sport Maverick Recall: Consumer Alert Monitoring",
+    "id": "ford-recall-26s36-details",
+    "slug": "ford-recall-26s36-details",
+    "title": "Ford Recall 26s36 Details: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford bronco sport maverick recall",
+    "product": "ford recall 26s36 details",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -709,16 +1113,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+sport+maverick+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "trendScore": 8,
     "matchedQueries": [
-      "ford bronco sport maverick recall"
+      "ford recall 26s36 details"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -742,7 +1146,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -766,7 +1170,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -790,7 +1194,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -814,7 +1218,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "find-refund-cases",
@@ -838,7 +1242,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "consumer-advice",
@@ -862,7 +1266,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -886,7 +1290,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -910,7 +1314,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -934,7 +1338,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "military-consumer",
@@ -958,7 +1362,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "consumer-gov",
@@ -982,7 +1386,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-23v782000",
@@ -1008,7 +1412,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -1034,7 +1438,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -1060,7 +1464,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -1084,7 +1488,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ps-seasoning-and-spices-inc-ellsworth-sour-cream-onion-seasoning-part-180000113-net-wt-25-",
@@ -1110,7 +1514,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0814-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "john-b-sanfilippo-and-sons-inc-good-and-gather-mexican-street-corn-trail-mix-8-oz-bag",
@@ -1136,7 +1540,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0835-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-sweet-ground-powder-white-chocolate-flavored-net",
@@ -1162,7 +1566,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0844-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "liquid-blenz-corp-menopause-bully-16-oz-and-32-oz",
@@ -1188,7 +1592,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0788-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036195-ranch-seasoning-50lb-bag",
@@ -1214,7 +1618,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0822-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "fontana-flavors-inc-vg7274d1-natural-cream-of-mushroom-type-flavor-net-weight-50-lbs-bag-i",
@@ -1240,7 +1644,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0812-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "john-b-sanfilippo-and-sons-inc-fisher-tex-mex-trail-mix-30-oz-plastic-jar",
@@ -1266,7 +1670,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0836-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-sleep-spray-dosage-6-sprays-liquid-packaging-aluminum-bo",
@@ -1292,7 +1696,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0808-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036443-cheddar-cheese-powder-seasoning-50lb-bag",
@@ -1318,7 +1722,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0823-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ps-seasoning-and-spices-inc-blackstone-parmesan-ranch-seasoning-net-wt-7-3-oz-207g",
@@ -1344,7 +1748,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0817-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-b12-spray-dosage-3-sprays-liquid-packaging-aluminum-bott",
@@ -1370,7 +1774,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0807-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-perfectly-premium-frappe-mix-frozen-hot-cocoa-ne",
@@ -1396,7 +1800,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0838-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036087-cr-me-fraiche-spice-seasoning-25lb-bag",
@@ -1422,7 +1826,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0827-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036277-garlic-cream-sauce-seasoning-40lb-bag",
@@ -1448,7 +1852,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0826-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-kids-liquid-multivitamin-drops-dosage-3ml-liquid-packagi",
@@ -1474,7 +1878,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0802-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036554-parmesan-breadstick-sauce-seasoning-40lb-bag",
@@ -1500,7 +1904,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0824-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "liquid-blenz-corp-fibroid-bully-16-oz-and-32-oz",
@@ -1526,7 +1930,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0789-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "pork-king-good-llc-pork-king-good-onion-and-sour-cream-seasoning-net-wt-3-oz-85g-bottle",
@@ -1552,7 +1956,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0830-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-perfectly-premium-frappe-mix-white-mocha-net-wt-",
@@ -1578,7 +1982,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0840-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "liquid-blenz-corp-prostate-bully-16-oz-and-32-oz",
@@ -1604,7 +2008,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0790-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "liquid-blenz-corp-blackseed-bitters-16-oz-and-32-oz",
@@ -1630,7 +2034,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0783-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "liquid-blenz-corp-pure-shilajit-tonic-16-oz-and-32-oz",
@@ -1656,7 +2060,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0791-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-sweet-ground-powder-chocolate-and-cocoa-net-wt-4",
@@ -1682,7 +2086,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0845-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-mens-50-liquid-multivitamin-drops-dosage-3ml-liquid-pack",
@@ -1708,7 +2112,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0799-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "solina-u-s-holding-solina-6022487-garlic-herb-topping-50lb-bag",
@@ -1734,7 +2138,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0829-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "safecor-health-llc-atomoxetine-capsules-hcl-10-mg-capsules-in-unit-dose-foil-strip-strips-",
@@ -1760,7 +2164,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0538-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "integradose-compounding-services-llc-fentanyl-citrate-sterile-cadd-for-injection-2-2500-mc",
@@ -1786,7 +2190,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0548-2026",
     "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-500-mg-30-tablets-per-bottle-rx-onl",
@@ -1812,7 +2216,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0545-2026",
     "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "lupin-pharmaceuticals-inc-liraglutide-injection-18-mg-3-ml-6-mg-ml-rx-only-manufactured-fo",
@@ -1838,7 +2242,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0541-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-250-mg-30-tablets-per-bottle-rx-onl",
@@ -1864,7 +2268,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0544-2026",
     "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "amerisource-health-services-llc-primidone-tablets-usp-50-mg-100-tablets-10-x-10-unit-dose-",
@@ -1890,7 +2294,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0537-2026",
     "recallInitiationDate": "20260501",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "golden-state-medical-supply-inc-primidone-tablets-usp-50-mg-50-count-bottle-rx-only",
@@ -1916,7 +2320,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0534-2026",
     "recallInitiationDate": "20260427",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "golden-state-medical-supply-inc-primidone-tablets-usp-250-mg-100-count-bottle-rx-only",
@@ -1942,7 +2346,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0535-2026",
     "recallInitiationDate": "20260427",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "wisconsin-pharmacal-company-mg217-multi-symptom-treatment-cream-and-skin-protectant-colloi",
@@ -1968,7 +2372,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0553-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ucb-biosciences-inc-cimzia-certolizumab-pegol-2x200mg-ml-prefilled-syringes-2-single-dose-",
@@ -1994,7 +2398,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0546-2026",
     "recallInitiationDate": "20260508",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "amerisource-health-services-llc-primidone-tablets-usp-250-mg-100-tablets-10-x-10-unit-dose",
@@ -2020,7 +2424,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0536-2026",
     "recallInitiationDate": "20260501",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ani-pharmaceuticals-inc-estradiol-gel-0-1-0-25-mg-0-25-g-per-packet-30-packets-per-carton-",
@@ -2046,7 +2450,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0543-2026",
     "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "sagent-pharmaceuticals-busulfan-injection-60-mg-per-10-ml-6-mg-per-ml-8x10-ml-single-dose-",
@@ -2072,7 +2476,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0539-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "lannett-company-inc-primidone-tablets-usp-250mg-100-count-bottle-rx-only",
@@ -2098,7 +2502,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0533-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "haleon-us-holdings-llc-gas-x-simethicone-125-mg-antigas-120-softgels",
@@ -2124,7 +2528,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0542-2026",
     "recallInitiationDate": "20260511",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "becton-dickinson-and-company-swan-ganz-jr-catheter-models-sgpt54-sgpt64p-sgpt755p",
@@ -2150,7 +2554,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2203-2026",
     "recallInitiationDate": "20260408",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "philips-medical-systems-nederland-b-v-azurion-system-system-code-description-model-numbers",
@@ -2176,7 +2580,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2227-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "medtronic-perfusion-systems-medtronic-dlp-retrograde-cannula-manual-inflate-silicone-body-",
@@ -2202,7 +2606,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2218-2026",
     "recallInitiationDate": "20260421",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "medtronic-perfusion-systems-medtronic-gundry-retrograde-cannula-manual-inflate-silicone-bo",
@@ -2228,7 +2632,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2214-2026",
     "recallInitiationDate": "20260421",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "becton-dickinson-and-company-swan-ganz-pacing-catheter-models-d200f7",
@@ -2254,7 +2658,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2204-2026",
     "recallInitiationDate": "20260408",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "philips-medical-systems-nederland-b-v-philips-azurion-systems-not-configured-with-an-optio",
@@ -2280,7 +2684,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2225-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "novapproach-spine-llc-onelif-interbody-cage-ref-description-010-107-1007-small-7-degree-10",
@@ -2306,7 +2710,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2213-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "c-r-bard-inc-silastic-foley-catheters-silastic-brand-foley-catheter-30cc-ref-33416-33418-3",
@@ -2332,7 +2736,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2226-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "tangent-endoscopy-llc-tangent-endoscopy-tangent-single-use-digital-catheter-model-numbers-",
@@ -2358,7 +2762,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2209-2026",
     "recallInitiationDate": "20260323",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "philips-medical-systems-nederland-b-v-integris-allura-system-system-code-description-model",
@@ -2384,7 +2788,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2229-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -2410,7 +2814,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2436,7 +2840,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2462,7 +2866,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2488,7 +2892,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2514,33 +2918,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
-  },
-  {
-    "id": "nhtsa-25v164000",
-    "slug": "nhtsa-25v164000",
-    "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Bronco, 2024 Ranger, 2025 Mustang, Explorer, and Aviator vehicles. The transmission valve body may have been machined incorrectly, which can cause reverse gear failure, or unexpected forward movement in reverse or neutral gear.",
-    "affectedPeople": "Unexpected vehicle movement increases the risk of a crash.",
-    "remedy": "Dealers will replace the transmission main control valve body, free of charge. Owner notification letters were mailed April 11, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S19.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V164000",
-    "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2566,33 +2944,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
-  },
-  {
-    "id": "nhtsa-25v315000",
-    "slug": "nhtsa-25v315000",
-    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicles. A software error may cause the rearview camera image to delay, freeze, or not display when the vehicle is in reverse.",
-    "affectedPeople": "A frozen or missing rearview camera image can reduce the driver's view behind the vehicle, increasing the risk of a crash.",
-    "remedy": "The accessory protocol interface module (APIM) software will be updated by a dealer or through an over-the-air update, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model and model years. Interim letters notifying owners of the safety risk were mailed on June 26, 2025. Additional letters will be mailed once the final remedy is available on each phase. Owner notification letters were sent on October 8, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S49.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V315000",
-    "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2618,7 +2970,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2644,7 +2996,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -2670,7 +3022,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -2696,7 +3048,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -2722,7 +3074,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -2748,7 +3100,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",
@@ -2772,7 +3124,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26448",
@@ -2798,7 +3150,7 @@
     "officialVerified": true,
     "officialRecordId": "26448",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26453",
@@ -2824,7 +3176,7 @@
     "officialVerified": true,
     "officialRecordId": "26453",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26449",
@@ -2850,7 +3202,7 @@
     "officialVerified": true,
     "officialRecordId": "26449",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26445",
@@ -2876,7 +3228,7 @@
     "officialVerified": true,
     "officialRecordId": "26445",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26458",
@@ -2902,7 +3254,7 @@
     "officialVerified": true,
     "officialRecordId": "26458",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26455",
@@ -2928,7 +3280,7 @@
     "officialVerified": true,
     "officialRecordId": "26455",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26457",
@@ -2954,7 +3306,7 @@
     "officialVerified": true,
     "officialRecordId": "26457",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26456",
@@ -2980,7 +3332,7 @@
     "officialVerified": true,
     "officialRecordId": "26456",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26451",
@@ -3006,7 +3358,7 @@
     "officialVerified": true,
     "officialRecordId": "26451",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26447",
@@ -3032,7 +3384,7 @@
     "officialVerified": true,
     "officialRecordId": "26447",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26452",
@@ -3058,7 +3410,7 @@
     "officialVerified": true,
     "officialRecordId": "26452",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26454",
@@ -3084,7 +3436,7 @@
     "officialVerified": true,
     "officialRecordId": "26454",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26450",
@@ -3110,7 +3462,7 @@
     "officialVerified": true,
     "officialRecordId": "26450",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26446",
@@ -3136,7 +3488,7 @@
     "officialVerified": true,
     "officialRecordId": "26446",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26444",
@@ -3162,7 +3514,7 @@
     "officialVerified": true,
     "officialRecordId": "26444",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26435",
@@ -3188,7 +3540,7 @@
     "officialVerified": true,
     "officialRecordId": "26435",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26434",
@@ -3214,7 +3566,7 @@
     "officialVerified": true,
     "officialRecordId": "26434",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26432",
@@ -3240,7 +3592,7 @@
     "officialVerified": true,
     "officialRecordId": "26432",
     "recallInitiationDate": "2026-04-23T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26477",
@@ -3266,7 +3618,7 @@
     "officialVerified": true,
     "officialRecordId": "26477",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26475",
@@ -3292,7 +3644,7 @@
     "officialVerified": true,
     "officialRecordId": "26475",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26465",
@@ -3318,7 +3670,7 @@
     "officialVerified": true,
     "officialRecordId": "26465",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26478",
@@ -3344,7 +3696,7 @@
     "officialVerified": true,
     "officialRecordId": "26478",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26467",
@@ -3370,7 +3722,7 @@
     "officialVerified": true,
     "officialRecordId": "26467",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26470",
@@ -3396,7 +3748,7 @@
     "officialVerified": true,
     "officialRecordId": "26470",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26469",
@@ -3422,7 +3774,7 @@
     "officialVerified": true,
     "officialRecordId": "26469",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26472",
@@ -3448,7 +3800,7 @@
     "officialVerified": true,
     "officialRecordId": "26472",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26468",
@@ -3474,7 +3826,7 @@
     "officialVerified": true,
     "officialRecordId": "26468",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26466",
@@ -3500,7 +3852,7 @@
     "officialVerified": true,
     "officialRecordId": "26466",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26486",
@@ -3526,7 +3878,7 @@
     "officialVerified": true,
     "officialRecordId": "26486",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26482",
@@ -3552,7 +3904,7 @@
     "officialVerified": true,
     "officialRecordId": "26482",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26493",
@@ -3578,7 +3930,7 @@
     "officialVerified": true,
     "officialRecordId": "26493",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26494",
@@ -3604,7 +3956,7 @@
     "officialVerified": true,
     "officialRecordId": "26494",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26490",
@@ -3630,7 +3982,7 @@
     "officialVerified": true,
     "officialRecordId": "26490",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26484",
@@ -3656,7 +4008,7 @@
     "officialVerified": true,
     "officialRecordId": "26484",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26479",
@@ -3682,7 +4034,7 @@
     "officialVerified": true,
     "officialRecordId": "26479",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26483",
@@ -3708,7 +4060,7 @@
     "officialVerified": true,
     "officialRecordId": "26483",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26488",
@@ -3734,7 +4086,7 @@
     "officialVerified": true,
     "officialRecordId": "26488",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26487",
@@ -3760,7 +4112,7 @@
     "officialVerified": true,
     "officialRecordId": "26487",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26480",
@@ -3786,7 +4138,7 @@
     "officialVerified": true,
     "officialRecordId": "26480",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26481",
@@ -3812,7 +4164,7 @@
     "officialVerified": true,
     "officialRecordId": "26481",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26489",
@@ -3838,7 +4190,7 @@
     "officialVerified": true,
     "officialRecordId": "26489",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26497",
@@ -3864,7 +4216,7 @@
     "officialVerified": true,
     "officialRecordId": "26497",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26503",
@@ -3890,7 +4242,7 @@
     "officialVerified": true,
     "officialRecordId": "26503",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26504",
@@ -3916,7 +4268,7 @@
     "officialVerified": true,
     "officialRecordId": "26504",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26501",
@@ -3942,7 +4294,7 @@
     "officialVerified": true,
     "officialRecordId": "26501",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26499",
@@ -3968,7 +4320,7 @@
     "officialVerified": true,
     "officialRecordId": "26499",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26498",
@@ -3994,7 +4346,7 @@
     "officialVerified": true,
     "officialRecordId": "26498",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26509",
@@ -4020,7 +4372,7 @@
     "officialVerified": true,
     "officialRecordId": "26509",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26513",
@@ -4046,7 +4398,7 @@
     "officialVerified": true,
     "officialRecordId": "26513",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26510",
@@ -4072,7 +4424,7 @@
     "officialVerified": true,
     "officialRecordId": "26510",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26515",
@@ -4098,7 +4450,7 @@
     "officialVerified": true,
     "officialRecordId": "26515",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26508",
@@ -4124,7 +4476,7 @@
     "officialVerified": true,
     "officialRecordId": "26508",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26514",
@@ -4150,7 +4502,7 @@
     "officialVerified": true,
     "officialRecordId": "26514",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26511",
@@ -4176,7 +4528,7 @@
     "officialVerified": true,
     "officialRecordId": "26511",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "cpsc-26522",
@@ -4202,7 +4554,7 @@
     "officialVerified": true,
     "officialRecordId": "26522",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-03T17:17:25.048Z"
+    "lastUpdated": "2026-06-03T21:30:04.604Z"
   },
   {
     "id": "ftc-nevada-will-require-tax-relief-scammers-to-pay-cash-and-turn-over-assets-worth-nearly-",

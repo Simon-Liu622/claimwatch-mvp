@@ -1,6 +1,230 @@
 {
-  "updatedAt": "2026-06-03T17:17:28.860Z",
+  "updatedAt": "2026-06-03T21:30:10.097Z",
   "items": [
+    {
+      "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v164000",
+      "url": "https://simon622.shop/item/nhtsa-25v164000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Bronco, 2024 Ranger, 2025 Mustang, Explorer, and Aviator vehicles. The transmission valve body may have been machined incorrectly, which can cause reverse gear failure, or unexpected forward movement in reverse or neutral gear.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v315000",
+      "url": "https://simon622.shop/item/nhtsa-25v315000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicles. A software error may cause the rearview camera image to delay, freeze, or not display when the vehicle is in reverse.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
+      "slug": "nhtsa-24v142000",
+      "url": "https://simon622.shop/item/nhtsa-24v142000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2023-2024 Bronco and Bronco Heritage vehicles. The rear quarter glass panels may have been improperly installed to the vehicle hard top, which can allow them to detach.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V142000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: LATCHES/LOCKS/LINKAGES:DOORS:LOCK Recall (2024 ford bronco)",
+      "slug": "nhtsa-24v189000",
+      "url": "https://simon622.shop/item/nhtsa-24v189000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2023-2024 Bronco 4-door vehicles. The left-side rear door may be opened from the inside of the vehicle when the child safety lock is in the \"ON\" position.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V189000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT Recall (2024 ford bronco)",
+      "slug": "nhtsa-24v770000",
+      "url": "https://simon622.shop/item/nhtsa-24v770000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024 Ranger, and 2024-2025 Bronco vehicles. The front upper control arm ball joint nut may not have been installed or tightened properly, allowing the front upper control arm to detach from the knuckle assembly.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V770000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: SUSPENSION:REAR:SHOCK ABSORBER Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v025000",
+      "url": "https://simon622.shop/item/nhtsa-25v025000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco vehicles. The rear shock absorbers may corrode and fail, resulting in detachment of the external reservoir.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V025000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:LOWER ARM Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v308000",
+      "url": "https://simon622.shop/item/nhtsa-25v308000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 Bronco vehicles. The front lower control arm fasteners may not have been tightened properly, allowing the control arm to detach from the frame.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V308000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: LATCHES/LOCKS/LINKAGES:DOORS:LOCK Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v303000",
+      "url": "https://simon622.shop/item/nhtsa-25v303000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024 Bronco vehicles. The left-side rear door may be opened from the inside of the vehicle when the child safety lock is in the \"ON\" position.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V303000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v310000",
+      "url": "https://simon622.shop/item/nhtsa-25v310000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 Bronco and Ranger vehicles. The front upper control arm ball joint fastener may be missing or tightened improperly, allowing the front upper control arm to detach from the knuckle assembly.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V310000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v597000",
+      "url": "https://simon622.shop/item/nhtsa-25v597000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024 Bronco and Ranger vehicles. The bolts securing the high pressure fuel pump may not be tightened properly, which can result in a fuel leak.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V597000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER Recall (2024 ford bronco)",
+      "slug": "nhtsa-25v685000",
+      "url": "https://simon622.shop/item/nhtsa-25v685000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Lincoln MKC, 2016-2023 Explorer, 2019-2020 Fusion, 2019-2024 Ranger, 2020-2022 Lincoln Corsair, Escape, 2021-2024 Bronco, Bronco Sport, and 2022-2024 Maverick vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V685000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford bronco)",
+      "slug": "nhtsa-26v124000",
+      "url": "https://simon622.shop/item/nhtsa-26v124000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 Ford Bronco and 2021-2024 Ford Edge vehicles. The Accessory Protocol Interface Module (APIM) may overheat and shutdown, which can prevent the rearview camera image from displaying as intended.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V124000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION Recall (2024 ford bronco)",
+      "slug": "nhtsa-26v236000",
+      "url": "https://simon622.shop/item/nhtsa-26v236000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2021-2025 Bronco vehicles. The transmission to transfer case joint may be misaligned due to an incorrectly performed previous repair, which could lead to wear of the transmission output shaft splines and transfer case input splines.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V236000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "title": "Ford Motor Company: SEATS:CRITICAL FASTENERS Recall (2024 ford bronco)",
+      "slug": "nhtsa-26v268000",
+      "url": "https://simon622.shop/item/nhtsa-26v268000/",
+      "type": "recall",
+      "status": "active",
+      "company": "Ford Motor Company",
+      "product": "2024 ford bronco",
+      "summary": "Ford Motor Company (Ford) is recalling certain 2024-2026 Ranger and Bronco vehicles. The front seats may have a loose or dislodged seat frame height-adjust pivot bolt.",
+      "sourceAgency": "NHTSA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V268000",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
     {
       "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
       "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
@@ -31,7 +255,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall",
@@ -63,7 +287,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/World-Bright-International-Limited-Recalls-Agio-Menlo-Woven-Patio-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Sold-at-Costco",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Southeast Toyota Distributors, LLC: EQUIPMENT:OTHER:LABELS Recall (2024 toyota tundra)",
@@ -239,7 +463,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Childrens-Tower-Stools-Recalled-Due-to-Risk-of-Serious-Injury-and-Death-from-Entrapment-and-Fall-Hazards-Imported-by-AMZCMJ-DGD",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "PandaEar Recalls Portable Hook-On Chairs Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Portable Hook-On Chairs",
@@ -255,7 +479,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/PandaEar-Recalls-Portable-Hook-On-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violates-Mandatory-Standard-for-Portable-Hook-On-Chairs",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
@@ -271,7 +495,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Giantex-and-Costway-Portable-Steam-Saunas-Due-to-Burn-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Giantex Recalls Lounge Chairs Due to Amputation Hazard",
@@ -287,7 +511,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Lounge-Chairs-Due-to-Amputation-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Zarlengo Italian Ice: Zarlengo's Double Dark Chocolate Gelato packaged in 1 Gallon bucket/pail - white round food and freezer grade High-Density Polyethylene buck Recall",
@@ -351,7 +575,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Consumer Sentinel Network",
@@ -367,7 +591,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/consumer-sentinel-network",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "FTC Refund Programs",
@@ -383,7 +607,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Sign up for consumer alerts",
@@ -399,7 +623,7 @@
       "officialSourceUrl": "https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Find refund cases",
@@ -415,7 +639,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Consumer Advice",
@@ -431,7 +655,7 @@
       "officialSourceUrl": "https://www.consumer.ftc.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Visit militaryconsumer.gov",
@@ -447,7 +671,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Visit consumer.gov",
@@ -463,7 +687,7 @@
       "officialSourceUrl": "https://consumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "FTC Refunds to Consumers",
@@ -479,7 +703,7 @@
       "officialSourceUrl": "https://public.tableau.com/app/profile/federal.trade.commission/viz/Refunds_15797958402020/RefundsbyCase",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Military Consumer",
@@ -495,7 +719,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Consumer.gov",
@@ -511,7 +735,7 @@
       "officialSourceUrl": "https://consumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEAT BELTS:FRONT Recall (2024 honda accord)",
@@ -527,7 +751,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -543,7 +767,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -559,7 +783,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "title": "Data on Refunds to Consumers",
@@ -575,231 +799,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "PS Seasoning & Spices, Inc.: Ellsworth Sour Cream + Onion Seasoning, Part #: 180000113. Net Wt 25.00 lbs (11.3kg). PS Seasoning & Spices 216 W Pleasant St Iron Ridge WI  Recall",
-      "slug": "ps-seasoning-and-spices-inc-ellsworth-sour-cream-onion-seasoning-part-180000113-net-wt-25-",
-      "url": "https://simon622.shop/item/ps-seasoning-and-spices-inc-ellsworth-sour-cream-onion-seasoning-part-180000113-net-wt-25-/",
-      "type": "recall",
-      "status": "active",
-      "company": "PS Seasoning & Spices, Inc.",
-      "product": "Ellsworth Sour Cream + Onion Seasoning, Part #: 180000113. Net Wt 25.00 lbs (11.3kg). PS Seasoning & Spices 216 W Pleasant St Iron Ridge WI ",
-      "summary": "Product was made with milk powder recalled by the supplier due to Salmonella contamination. Product details: Ellsworth Sour Cream + Onion Seasoning, Part #: 180000113. Net Wt 25.00 lbs (11.3kg). PS Seasoning & Spices 216 W Pleasant St Iron Ridge WI 53035",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "JOHN B SANFILIPPO & SONS INC: Good & Gather Mexican Street Corn Trail Mix 8 oz bag Recall",
-      "slug": "john-b-sanfilippo-and-sons-inc-good-and-gather-mexican-street-corn-trail-mix-8-oz-bag",
-      "url": "https://simon622.shop/item/john-b-sanfilippo-and-sons-inc-good-and-gather-mexican-street-corn-trail-mix-8-oz-bag/",
-      "type": "recall",
-      "status": "active",
-      "company": "JOHN B SANFILIPPO & SONS INC",
-      "product": "Good & Gather Mexican Street Corn Trail Mix 8 oz bag",
-      "summary": "potential presence of Salmonella Product details: Good & Gather Mexican Street Corn Trail Mix 8 oz bag UPC 085239270240, 8 bags per case",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Ghirardelli Chocolate Company: GHIRARDELLI SWEET GROUND POWDER WHITE CHOCOLATE FLAVORED NET WT 50oz (3lbs 2oz) 1.41kg Recall",
-      "slug": "ghirardelli-chocolate-company-ghirardelli-sweet-ground-powder-white-chocolate-flavored-net",
-      "url": "https://simon622.shop/item/ghirardelli-chocolate-company-ghirardelli-sweet-ground-powder-white-chocolate-flavored-net/",
-      "type": "recall",
-      "status": "active",
-      "company": "Ghirardelli Chocolate Company",
-      "product": "GHIRARDELLI SWEET GROUND POWDER WHITE CHOCOLATE FLAVORED NET WT 50oz (3lbs 2oz) 1.41kg",
-      "summary": "Potential contamination with Salmonella. Product details: GHIRARDELLI SWEET GROUND POWDER WHITE CHOCOLATE FLAVORED NET WT 50oz (3lbs 2oz) 1.41kg Distributed by Ghirardelli Chocolate Company, San Leandro, CA 94578, U.S.A. UPC: 747599620386",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "LIQUID BLENZ CORP: Menopause Bully 16 oz and 32 oz. Recall",
-      "slug": "liquid-blenz-corp-menopause-bully-16-oz-and-32-oz",
-      "url": "https://simon622.shop/item/liquid-blenz-corp-menopause-bully-16-oz-and-32-oz/",
-      "type": "recall",
-      "status": "active",
-      "company": "LIQUID BLENZ CORP",
-      "product": "Menopause Bully 16 oz and 32 oz.",
-      "summary": "May be under-processed resulting in growth of Clostridium botulinum and lists health claims. Product details: Menopause Bully 16 oz and 32 oz.",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Solina U.S. Holding: Solina 6036195 Ranch Seasoning, 50lb bag Recall",
-      "slug": "solina-u-s-holding-solina-6036195-ranch-seasoning-50lb-bag",
-      "url": "https://simon622.shop/item/solina-u-s-holding-solina-6036195-ranch-seasoning-50lb-bag/",
-      "type": "recall",
-      "status": "active",
-      "company": "Solina U.S. Holding",
-      "product": "Solina 6036195 Ranch Seasoning, 50lb bag",
-      "summary": "potential to be contaminated with Salmonella Product details: Solina 6036195 Ranch Seasoning, 50lb bag",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Fontana Flavors, Inc: VG7274D1 Natural Cream of Mushroom Type Flavor, Net Weight: 50 lbs. bag. Item #: R5302. For Further Processing. Fontana Flavors, Janesville, Recall",
-      "slug": "fontana-flavors-inc-vg7274d1-natural-cream-of-mushroom-type-flavor-net-weight-50-lbs-bag-i",
-      "url": "https://simon622.shop/item/fontana-flavors-inc-vg7274d1-natural-cream-of-mushroom-type-flavor-net-weight-50-lbs-bag-i/",
-      "type": "recall",
-      "status": "active",
-      "company": "Fontana Flavors, Inc",
-      "product": "VG7274D1 Natural Cream of Mushroom Type Flavor, Net Weight: 50 lbs. bag. Item #: R5302. For Further Processing. Fontana Flavors, Janesville,",
-      "summary": "Product was made with milk powder recalled by the supplier due to Salmonella contamination. Product details: VG7274D1 Natural Cream of Mushroom Type Flavor, Net Weight: 50 lbs. bag. Item #: R5302. For Further Processing. Fontana Flavors, Janesville, WI.",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "JOHN B SANFILIPPO & SONS INC: Fisher Tex Mex Trail Mix 30 oz plastic jar Recall",
-      "slug": "john-b-sanfilippo-and-sons-inc-fisher-tex-mex-trail-mix-30-oz-plastic-jar",
-      "url": "https://simon622.shop/item/john-b-sanfilippo-and-sons-inc-fisher-tex-mex-trail-mix-30-oz-plastic-jar/",
-      "type": "recall",
-      "status": "active",
-      "company": "JOHN B SANFILIPPO & SONS INC",
-      "product": "Fisher Tex Mex Trail Mix 30 oz plastic jar",
-      "summary": "potential presence of Salmonella Product details: Fisher Tex Mex Trail Mix 30 oz plastic jar UPC 070690275941, 6 jars per case",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Wellnov Supplements LLC: Liposomal Sleep Spray. Dosage: 6 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225 Recall",
-      "slug": "wellnov-supplements-llc-liposomal-sleep-spray-dosage-6-sprays-liquid-packaging-aluminum-bo",
-      "url": "https://simon622.shop/item/wellnov-supplements-llc-liposomal-sleep-spray-dosage-6-sprays-liquid-packaging-aluminum-bo/",
-      "type": "recall",
-      "status": "active",
-      "company": "Wellnov Supplements LLC",
-      "product": "Liposomal Sleep Spray. Dosage: 6 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225",
-      "summary": "Deviations from current Good Manufacturing Practices (cGMP) that could lead to bacterial pathogen and possible C. Botulinum concerns. Product details: Liposomal Sleep Spray. Dosage: 6 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Solina U.S. Holding: Solina 6036443 Cheddar Cheese Powder Seasoning, 50lb bag Recall",
-      "slug": "solina-u-s-holding-solina-6036443-cheddar-cheese-powder-seasoning-50lb-bag",
-      "url": "https://simon622.shop/item/solina-u-s-holding-solina-6036443-cheddar-cheese-powder-seasoning-50lb-bag/",
-      "type": "recall",
-      "status": "active",
-      "company": "Solina U.S. Holding",
-      "product": "Solina 6036443 Cheddar Cheese Powder Seasoning, 50lb bag",
-      "summary": "potential to be contaminated with Salmonella Product details: Solina 6036443 Cheddar Cheese Powder Seasoning, 50lb bag",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "PS Seasoning & Spices, Inc.: Blackstone Parmesan Ranch Seasoning, Net Wt 7.3 oz (207g). Recall",
-      "slug": "ps-seasoning-and-spices-inc-blackstone-parmesan-ranch-seasoning-net-wt-7-3-oz-207g",
-      "url": "https://simon622.shop/item/ps-seasoning-and-spices-inc-blackstone-parmesan-ranch-seasoning-net-wt-7-3-oz-207g/",
-      "type": "recall",
-      "status": "active",
-      "company": "PS Seasoning & Spices, Inc.",
-      "product": "Blackstone Parmesan Ranch Seasoning, Net Wt 7.3 oz (207g).",
-      "summary": "Product was made with milk powder recalled by the supplier due to Salmonella contamination. Product details: Blackstone Parmesan Ranch Seasoning, Net Wt 7.3 oz (207g). UPC 7 17604-04106 2. Manufactured for North Atlantic Imports, LLC, Logan, UT 84321.",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Wellnov Supplements LLC: Liposomal B12 Spray. Dosage: 3 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225 Recall",
-      "slug": "wellnov-supplements-llc-liposomal-b12-spray-dosage-3-sprays-liquid-packaging-aluminum-bott",
-      "url": "https://simon622.shop/item/wellnov-supplements-llc-liposomal-b12-spray-dosage-3-sprays-liquid-packaging-aluminum-bott/",
-      "type": "recall",
-      "status": "active",
-      "company": "Wellnov Supplements LLC",
-      "product": "Liposomal B12 Spray. Dosage: 3 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225",
-      "summary": "Deviations from current Good Manufacturing Practices (cGMP) that could lead to bacterial pathogen and possible C. Botulinum concerns. Product details: Liposomal B12 Spray. Dosage: 3 sprays Liquid. Packaging: Aluminum bottle. 30 ml. Firm Address: VitaminAlly LLC Chandler, AZ 85225",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Ghirardelli Chocolate Company: GHIRARDELLI PERFECTLY PREMIUM FRAPPE MIX FROZEN HOT COCOA NET WT 50oz (3lbs 2oz) 1.42kg Recall",
-      "slug": "ghirardelli-chocolate-company-ghirardelli-perfectly-premium-frappe-mix-frozen-hot-cocoa-ne",
-      "url": "https://simon622.shop/item/ghirardelli-chocolate-company-ghirardelli-perfectly-premium-frappe-mix-frozen-hot-cocoa-ne/",
-      "type": "recall",
-      "status": "active",
-      "company": "Ghirardelli Chocolate Company",
-      "product": "GHIRARDELLI PERFECTLY PREMIUM FRAPPE MIX FROZEN HOT COCOA NET WT 50oz (3lbs 2oz) 1.42kg",
-      "summary": "Potential contamination with Salmonella. Product details: GHIRARDELLI PERFECTLY PREMIUM FRAPPE MIX FROZEN HOT COCOA NET WT 50oz (3lbs 2oz) 1.42kg Ingredients: *** nonfat dry milk *** Distributed by Ghirardelli Chocolate Company, San Leandro, CA 94578, U.S.A. UPC: 747599662133",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Solina U.S. Holding: Solina 6036087 Cr¿me Fraiche Spice Seasoning, 25lb bag Recall",
-      "slug": "solina-u-s-holding-solina-6036087-cr-me-fraiche-spice-seasoning-25lb-bag",
-      "url": "https://simon622.shop/item/solina-u-s-holding-solina-6036087-cr-me-fraiche-spice-seasoning-25lb-bag/",
-      "type": "recall",
-      "status": "active",
-      "company": "Solina U.S. Holding",
-      "product": "Solina 6036087 Cr¿me Fraiche Spice Seasoning, 25lb bag",
-      "summary": "potential to be contaminated with Salmonella Product details: Solina 6036087 Cr¿me Fraiche Spice Seasoning, 25lb bag",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "title": "Solina U.S. Holding: Solina 6036277 Garlic Cream Sauce Seasoning, 40lb bag Recall",
-      "slug": "solina-u-s-holding-solina-6036277-garlic-cream-sauce-seasoning-40lb-bag",
-      "url": "https://simon622.shop/item/solina-u-s-holding-solina-6036277-garlic-cream-sauce-seasoning-40lb-bag/",
-      "type": "recall",
-      "status": "active",
-      "company": "Solina U.S. Holding",
-      "product": "Solina 6036277 Garlic Cream Sauce Seasoning, 40lb bag",
-      "summary": "potential to be contaminated with Salmonella Product details: Solina 6036277 Garlic Cream Sauce Seasoning, 40lb bag",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     }
   ]
 }

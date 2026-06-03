@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-06-03T17:17:28.860Z",
-  "count": 5,
+  "updatedAt": "2026-06-03T21:30:10.097Z",
+  "count": 4,
   "items": [
-    {
-      "id": "taxpayers",
-      "slug": "taxpayers",
-      "title": "Taxpayers: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "taxpayers",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "taxpayers",
-        "tax refund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
     {
       "id": "alabama-gop-congressional-map-ruling",
       "slug": "alabama-gop-congressional-map-ruling",
@@ -53,14 +23,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 25,
       "matchedQueries": [
         "alabama gop congressional map ruling",
         "alabama house map lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "id": "outback-steakhouse-virginia-lawsuit",
+      "slug": "outback-steakhouse-virginia-lawsuit",
+      "title": "Outback Steakhouse Virginia Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "outback steakhouse virginia lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+virginia+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "outback steakhouse virginia lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
       "id": "mercedes-benz-shilo-sanders-lawsuit",
@@ -91,46 +90,17 @@
         "shilo sanders lawsuit dropped"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     },
     {
-      "id": "totalenergies-offshore-wind-lawsuit",
-      "slug": "totalenergies-offshore-wind-lawsuit",
-      "title": "Totalenergies Offshore Wind Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "totalenergies offshore wind lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "totalenergies offshore wind lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "id": "ford-bronco-sport-maverick-recall",
-      "slug": "ford-bronco-sport-maverick-recall",
-      "title": "Ford Bronco Sport Maverick Recall: Consumer Alert Monitoring",
+      "id": "ford-recall-26s36-details",
+      "slug": "ford-recall-26s36-details",
+      "title": "Ford Recall 26s36 Details: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ford bronco sport maverick recall",
+      "product": "ford recall 26s36 details",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -140,16 +110,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+sport+maverick+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "trendScore": 8,
       "matchedQueries": [
-        "ford bronco sport maverick recall"
+        "ford recall 26s36 details"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T17:17:25.048Z"
+      "lastUpdated": "2026-06-03T21:30:04.604Z"
     }
   ]
 }

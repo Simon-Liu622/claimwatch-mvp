@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-06-03T21:30:10.097Z",
+  "item": {
+    "id": "nhtsa-24v189000",
+    "slug": "nhtsa-24v189000",
+    "title": "Ford Motor Company: LATCHES/LOCKS/LINKAGES:DOORS:LOCK Recall (2024 ford bronco)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford bronco",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2024 Bronco 4-door vehicles. The left-side rear door may be opened from the inside of the vehicle when the child safety lock is in the \"ON\" position.",
+    "affectedPeople": "A malfunctioning child safety lock that allows a rear door to be opened unintentionally can increase the risk of injury.",
+    "remedy": "Dealers will inspect the child safety locks and replace the rear door latch, as necessary, free of charge. Owner notification letters were mailed April 9, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S15.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V189000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 5000,
+    "trendScore": 29,
+    "matchedQueries": [
+      "ford bronco recall",
+      "ford bronco",
+      "ford bronco sport recall",
+      "ford bronco sport maverick recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V189000",
+    "recallInitiationDate": "08/03/2024",
+    "lastUpdated": "2026-06-03T21:30:04.604Z",
+    "url": "https://simon622.shop/item/nhtsa-24v189000/"
+  }
+}

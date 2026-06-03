@@ -1,28 +1,30 @@
 {
-  "updatedAt": "2026-06-03T17:17:28.860Z",
+  "updatedAt": "2026-06-03T21:30:10.097Z",
   "count": 6,
   "trends": [
     {
-      "rank": 41,
-      "query": "taxpayers",
-      "searchVolume": 20000,
+      "rank": 46,
+      "query": "ford bronco recall",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "tax refund"
+        "ford bronco",
+        "ford bronco sport recall",
+        "ford bronco sport maverick recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "taxpayers tax refund",
-      "trendScore": 26,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
+      "text": "ford bronco recall ford bronco ford bronco sport recall ford bronco sport maverick recall",
+      "trendScore": 29,
+      "detectedAt": "2026-06-03T21:30:04.604Z"
     },
     {
-      "rank": 46,
+      "rank": 41,
       "query": "alabama gop congressional map ruling",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -34,10 +36,25 @@
       "source": "serpapi-google-trends",
       "text": "alabama gop congressional map ruling alabama house map lawsuit",
       "trendScore": 25,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
+      "detectedAt": "2026-06-03T21:30:04.604Z"
     },
     {
-      "rank": 234,
+      "rank": 58,
+      "query": "outback steakhouse virginia lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+virginia+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "outback steakhouse virginia lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "rank": 267,
       "query": "california dairies milk powder recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -51,10 +68,25 @@
       "source": "serpapi-google-trends",
       "text": "california dairies milk powder recall meijer",
       "trendScore": 10,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
+      "detectedAt": "2026-06-03T21:30:04.604Z"
     },
     {
-      "rank": 116,
+      "rank": 102,
+      "query": "ford recall 26s36 details",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "ford recall 26s36 details",
+      "trendScore": 8,
+      "detectedAt": "2026-06-03T21:30:04.604Z"
+    },
+    {
+      "rank": 152,
       "query": "mercedes benz shilo sanders lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -66,37 +98,7 @@
       "source": "serpapi-google-trends",
       "text": "mercedes benz shilo sanders lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "rank": 125,
-      "query": "totalenergies offshore wind lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "totalenergies offshore wind lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
-    },
-    {
-      "rank": 139,
-      "query": "ford bronco sport maverick recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+sport+maverick+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "ford bronco sport maverick recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-03T17:17:25.048Z"
+      "detectedAt": "2026-06-03T21:30:04.604Z"
     }
   ]
 }

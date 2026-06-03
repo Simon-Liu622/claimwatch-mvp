@@ -1,38 +1,7 @@
 {
-  "updatedAt": "2026-06-03T11:22:44.300Z",
-  "count": 3,
+  "updatedAt": "2026-06-03T17:17:28.860Z",
+  "count": 5,
   "items": [
-    {
-      "id": "mercedes-benz-shilo-sanders-lawsuit",
-      "slug": "mercedes-benz-shilo-sanders-lawsuit",
-      "title": "Mercedes Benz Shilo Sanders Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "mercedes benz shilo sanders lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 27,
-      "matchedQueries": [
-        "mercedes benz shilo sanders lawsuit",
-        "deion sanders",
-        "shilo sanders lawsuit dropped"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-03T11:22:41.408Z"
-    },
     {
       "id": "taxpayers",
       "slug": "taxpayers",
@@ -61,7 +30,68 @@
         "tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T11:22:41.408Z"
+      "lastUpdated": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "id": "alabama-gop-congressional-map-ruling",
+      "slug": "alabama-gop-congressional-map-ruling",
+      "title": "Alabama Gop Congressional Map Ruling: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "alabama gop congressional map ruling",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "alabama gop congressional map ruling",
+        "alabama house map lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "id": "mercedes-benz-shilo-sanders-lawsuit",
+      "slug": "mercedes-benz-shilo-sanders-lawsuit",
+      "title": "Mercedes Benz Shilo Sanders Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "mercedes benz shilo sanders lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "mercedes benz shilo sanders lawsuit",
+        "deion sanders",
+        "shilo sanders lawsuit dropped"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-03T17:17:25.048Z"
     },
     {
       "id": "totalenergies-offshore-wind-lawsuit",
@@ -90,7 +120,36 @@
         "totalenergies offshore wind lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T11:22:41.408Z"
+      "lastUpdated": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "id": "ford-bronco-sport-maverick-recall",
+      "slug": "ford-bronco-sport-maverick-recall",
+      "title": "Ford Bronco Sport Maverick Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford bronco sport maverick recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+sport+maverick+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "ford bronco sport maverick recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-03T17:17:25.048Z"
     }
   ]
 }

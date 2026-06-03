@@ -1,27 +1,9 @@
 {
-  "updatedAt": "2026-06-03T11:22:44.300Z",
-  "count": 4,
+  "updatedAt": "2026-06-03T17:17:28.860Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 95,
-      "query": "mercedes benz shilo sanders lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "deion sanders",
-        "shilo sanders lawsuit dropped"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "mercedes benz shilo sanders lawsuit deion sanders shilo sanders lawsuit dropped",
-      "trendScore": 27,
-      "detectedAt": "2026-06-03T11:22:41.408Z"
-    },
-    {
-      "rank": 40,
+      "rank": 41,
       "query": "taxpayers",
       "searchVolume": 20000,
       "startedAt": "",
@@ -35,27 +17,59 @@
       "source": "serpapi-google-trends",
       "text": "taxpayers tax refund",
       "trendScore": 26,
-      "detectedAt": "2026-06-03T11:22:41.408Z"
+      "detectedAt": "2026-06-03T17:17:25.048Z"
     },
     {
-      "rank": 210,
+      "rank": 46,
+      "query": "alabama gop congressional map ruling",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "alabama house map lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "alabama gop congressional map ruling alabama house map lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "rank": 234,
       "query": "california dairies milk powder recall",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "motor city pizza"
+        "meijer"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+dairies+milk+powder+recall&tz=420",
       "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "california dairies milk powder recall motor city pizza",
+      "text": "california dairies milk powder recall meijer",
       "trendScore": 10,
-      "detectedAt": "2026-06-03T11:22:41.408Z"
+      "detectedAt": "2026-06-03T17:17:25.048Z"
     },
     {
-      "rank": 135,
+      "rank": 116,
+      "query": "mercedes benz shilo sanders lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "mercedes benz shilo sanders lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "rank": 125,
       "query": "totalenergies offshore wind lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -67,7 +81,22 @@
       "source": "serpapi-google-trends",
       "text": "totalenergies offshore wind lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-03T11:22:41.408Z"
+      "detectedAt": "2026-06-03T17:17:25.048Z"
+    },
+    {
+      "rank": 139,
+      "query": "ford bronco sport maverick recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+sport+maverick+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "ford bronco sport maverick recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-03T17:17:25.048Z"
     }
   ]
 }

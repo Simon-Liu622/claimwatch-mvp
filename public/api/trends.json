@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-06-03T05:16:19.830Z",
+  "updatedAt": "2026-06-03T11:22:44.300Z",
   "count": 4,
   "trends": [
     {
-      "rank": 60,
+      "rank": 95,
+      "query": "mercedes benz shilo sanders lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "deion sanders",
+        "shilo sanders lawsuit dropped"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "mercedes benz shilo sanders lawsuit deion sanders shilo sanders lawsuit dropped",
+      "trendScore": 27,
+      "detectedAt": "2026-06-03T11:22:41.408Z"
+    },
+    {
+      "rank": 40,
       "query": "taxpayers",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -16,28 +34,28 @@
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "taxpayers tax refund",
-      "trendScore": 25,
-      "detectedAt": "2026-06-03T05:16:16.950Z"
+      "trendScore": 26,
+      "detectedAt": "2026-06-03T11:22:41.408Z"
     },
     {
-      "rank": 379,
-      "query": "deion sanders",
-      "searchVolume": 1000,
+      "rank": 210,
+      "query": "california dairies milk powder recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "shilo sanders lawsuit dropped"
+        "motor city pizza"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=deion+sanders&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+dairies+milk+powder+recall&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "deion sanders shilo sanders lawsuit dropped",
+      "text": "california dairies milk powder recall motor city pizza",
       "trendScore": 10,
-      "detectedAt": "2026-06-03T05:16:16.950Z"
+      "detectedAt": "2026-06-03T11:22:41.408Z"
     },
     {
-      "rank": 118,
+      "rank": 135,
       "query": "totalenergies offshore wind lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -49,22 +67,7 @@
       "source": "serpapi-google-trends",
       "text": "totalenergies offshore wind lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-03T05:16:16.950Z"
-    },
-    {
-      "rank": 330,
-      "query": "california dairies milk powder recall",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+dairies+milk+powder+recall&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "california dairies milk powder recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-03T05:16:16.950Z"
+      "detectedAt": "2026-06-03T11:22:41.408Z"
     }
   ]
 }

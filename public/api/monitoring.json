@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-06-03T05:16:19.830Z",
+  "updatedAt": "2026-06-03T11:22:44.300Z",
   "count": 3,
   "items": [
+    {
+      "id": "mercedes-benz-shilo-sanders-lawsuit",
+      "slug": "mercedes-benz-shilo-sanders-lawsuit",
+      "title": "Mercedes Benz Shilo Sanders Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "mercedes benz shilo sanders lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "mercedes benz shilo sanders lawsuit",
+        "deion sanders",
+        "shilo sanders lawsuit dropped"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-03T11:22:41.408Z"
+    },
     {
       "id": "taxpayers",
       "slug": "taxpayers",
@@ -23,44 +54,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
         "taxpayers",
         "tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T05:16:16.950Z"
-    },
-    {
-      "id": "deion-sanders",
-      "slug": "deion-sanders",
-      "title": "Deion Sanders: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "deion sanders",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=deion+sanders&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "deion sanders",
-        "shilo sanders lawsuit dropped"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-03T05:16:16.950Z"
+      "lastUpdated": "2026-06-03T11:22:41.408Z"
     },
     {
       "id": "totalenergies-offshore-wind-lawsuit",
@@ -89,7 +90,7 @@
         "totalenergies offshore wind lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T05:16:16.950Z"
+      "lastUpdated": "2026-06-03T11:22:41.408Z"
     }
   ]
 }

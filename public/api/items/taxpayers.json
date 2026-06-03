@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T05:16:19.830Z",
+  "updatedAt": "2026-06-03T11:22:44.300Z",
   "item": {
     "id": "taxpayers",
     "slug": "taxpayers",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
       "taxpayers",
       "tax refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-03T05:16:16.950Z",
+    "lastUpdated": "2026-06-03T11:22:41.408Z",
     "url": "https://simon622.shop/item/taxpayers/"
   }
 }

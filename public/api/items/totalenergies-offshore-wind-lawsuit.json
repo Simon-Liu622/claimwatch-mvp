@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:23:53.817Z",
+  "updatedAt": "2026-06-03T05:16:19.830Z",
   "item": {
     "id": "totalenergies-offshore-wind-lawsuit",
     "slug": "totalenergies-offshore-wind-lawsuit",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 8,
     "matchedQueries": [
       "totalenergies offshore wind lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-02T21:23:51.534Z",
+    "lastUpdated": "2026-06-03T05:16:16.950Z",
     "url": "https://simon622.shop/item/totalenergies-offshore-wind-lawsuit/"
   }
 }

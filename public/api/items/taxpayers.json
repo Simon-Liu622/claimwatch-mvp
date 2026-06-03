@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-02T21:23:53.817Z",
+  "updatedAt": "2026-06-03T05:16:19.830Z",
   "item": {
-    "id": "shilo-sanders-lawsuit-dropped",
-    "slug": "shilo-sanders-lawsuit-dropped",
-    "title": "Shilo Sanders Lawsuit Dropped: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "taxpayers",
+    "slug": "taxpayers",
+    "title": "Taxpayers: Consumer Alert Monitoring",
+    "type": "refund",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "shilo sanders lawsuit dropped",
+    "product": "taxpayers",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shilo+sanders+lawsuit+dropped&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 10000,
+    "trendScore": 25,
     "matchedQueries": [
-      "shilo sanders lawsuit dropped"
+      "taxpayers",
+      "tax refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-02T21:23:51.534Z",
-    "url": "https://simon622.shop/item/shilo-sanders-lawsuit-dropped/"
+    "lastUpdated": "2026-06-03T05:16:16.950Z",
+    "url": "https://simon622.shop/item/taxpayers/"
   }
 }

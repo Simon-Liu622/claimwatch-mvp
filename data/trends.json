@@ -1,81 +1,66 @@
 [
   {
-    "rank": 25,
-    "query": "champion foods pizza recall",
-    "searchVolume": 20000,
+    "rank": 60,
+    "query": "taxpayers",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "motor city pizza"
+      "tax refund"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=champion+foods+pizza+recall&tz=420",
-    "increasePercentage": 400,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taxpayers&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "champion foods pizza recall motor city pizza",
-    "trendScore": 26,
-    "detectedAt": "2026-06-02T21:23:51.534Z"
-  },
-  {
-    "rank": 54,
-    "query": "tax refund",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "taxpayers"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
-    "increasePercentage": 700,
-    "source": "serpapi-google-trends",
-    "text": "tax refund taxpayers",
+    "text": "taxpayers tax refund",
     "trendScore": 25,
-    "detectedAt": "2026-06-02T21:23:51.534Z"
+    "detectedAt": "2026-06-03T05:16:16.950Z"
   },
   {
-    "rank": 44,
-    "query": "totalenergies offshore wind lawsuit",
-    "searchVolume": 2000,
+    "rank": 379,
+    "query": "deion sanders",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
+    "breakdown": [
+      "shilo sanders lawsuit dropped"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=deion+sanders&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "deion sanders shilo sanders lawsuit dropped",
+    "trendScore": 10,
+    "detectedAt": "2026-06-03T05:16:16.950Z"
+  },
+  {
+    "rank": 118,
+    "query": "totalenergies offshore wind lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=totalenergies+offshore+wind+lawsuit&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "totalenergies offshore wind lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-06-02T21:23:51.534Z"
-  },
-  {
-    "rank": 188,
-    "query": "kash patel girlfriend lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kash+patel+girlfriend+lawsuit&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "kash patel girlfriend lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-02T21:23:51.534Z"
+    "detectedAt": "2026-06-03T05:16:16.950Z"
   },
   {
-    "rank": 336,
-    "query": "shilo sanders lawsuit dropped",
-    "searchVolume": 200,
+    "rank": 330,
+    "query": "california dairies milk powder recall",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shilo+sanders+lawsuit+dropped&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+dairies+milk+powder+recall&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "shilo sanders lawsuit dropped",
+    "text": "california dairies milk powder recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-02T21:23:51.534Z"
+    "detectedAt": "2026-06-03T05:16:16.950Z"
   }
 ]

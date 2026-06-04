@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T10:11:45.719Z",
+  "updatedAt": "2026-06-04T15:43:39.399Z",
   "item": {
     "id": "ford-bronco-recall",
     "slug": "ford-bronco-recall",
@@ -21,15 +21,17 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 15,
     "matchedQueries": [
       "ford bronco recall",
       "ford bronco sport recall",
-      "ford bronco sport maverick recall"
+      "ford bronco sport maverick recall",
+      "ford",
+      "ford recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-04T10:11:42.849Z",
+    "lastUpdated": "2026-06-04T15:43:35.694Z",
     "url": "https://simon622.shop/item/ford-bronco-recall/"
   }
 }

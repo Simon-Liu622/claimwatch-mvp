@@ -1,31 +1,33 @@
 {
-  "updatedAt": "2026-06-04T10:11:45.719Z",
-  "count": 3,
+  "updatedAt": "2026-06-04T15:43:39.399Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 21,
+      "rank": 63,
       "query": "ford bronco recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
+        "ford",
+        "ford recall",
         "ford bronco sport recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "ford bronco recall ford bronco sport recall",
-      "trendScore": 25,
-      "detectedAt": "2026-06-04T10:11:42.849Z"
+      "text": "ford bronco recall ford ford recall ford bronco sport recall",
+      "trendScore": 15,
+      "detectedAt": "2026-06-04T15:43:35.694Z"
     },
     {
-      "rank": 31,
+      "rank": 99,
       "query": "tracy renshaw outback steakhouse lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "outback steakhouse virginia lawsuit"
       ],
@@ -33,23 +35,8 @@
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "tracy renshaw outback steakhouse lawsuit outback steakhouse virginia lawsuit",
-      "trendScore": 25,
-      "detectedAt": "2026-06-04T10:11:42.849Z"
-    },
-    {
-      "rank": 378,
-      "query": "alabama house map lawsuit",
-      "searchVolume": 100,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+house+map+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "alabama house map lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-06-04T10:11:42.849Z"
+      "trendScore": 10,
+      "detectedAt": "2026-06-04T15:43:35.694Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T10:11:45.719Z",
-  "count": 3,
+  "updatedAt": "2026-06-04T15:43:39.399Z",
+  "count": 2,
   "items": [
     {
       "id": "ford-bronco-recall",
@@ -23,15 +23,17 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 15,
       "matchedQueries": [
         "ford bronco recall",
         "ford bronco sport recall",
-        "ford bronco sport maverick recall"
+        "ford bronco sport maverick recall",
+        "ford",
+        "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-04T10:11:42.849Z"
+      "lastUpdated": "2026-06-04T15:43:35.694Z"
     },
     {
       "id": "tracy-renshaw-outback-steakhouse-lawsuit",
@@ -55,42 +57,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 25,
+      "trendScore": 10,
       "matchedQueries": [
         "tracy renshaw outback steakhouse lawsuit",
         "outback steakhouse virginia lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-04T10:11:42.849Z"
-    },
-    {
-      "id": "alabama-house-map-lawsuit",
-      "slug": "alabama-house-map-lawsuit",
-      "title": "Alabama House Map Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "alabama house map lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+house+map+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100,
-      "trendScore": 8,
-      "matchedQueries": [
-        "alabama house map lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-04T10:11:42.849Z"
+      "lastUpdated": "2026-06-04T15:43:35.694Z"
     }
   ]
 }

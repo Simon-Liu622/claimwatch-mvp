@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-04T15:43:39.399Z",
+  "updatedAt": "2026-06-04T20:24:17.762Z",
   "item": {
-    "id": "ford-bronco-recall",
-    "slug": "ford-bronco-recall",
-    "title": "Ford Bronco Recall: Consumer Alert Monitoring",
+    "id": "ford",
+    "slug": "ford",
+    "title": "Ford: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford bronco recall",
+    "product": "ford",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,20 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 15,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "ford bronco recall",
-      "ford bronco sport recall",
-      "ford bronco sport maverick recall",
       "ford",
       "ford recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-04T15:43:35.694Z",
-    "url": "https://simon622.shop/item/ford-bronco-recall/"
+    "lastUpdated": "2026-06-04T20:24:15.812Z",
+    "url": "https://simon622.shop/item/ford/"
   }
 }

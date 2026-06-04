@@ -1,38 +1,34 @@
 [
   {
-    "rank": 63,
-    "query": "ford bronco recall",
-    "searchVolume": 20000,
+    "rank": 159,
+    "query": "ford",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "ford",
-      "ford recall",
-      "ford bronco sport recall"
+      "ford recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "ford bronco recall ford ford recall ford bronco sport recall",
-    "trendScore": 15,
-    "detectedAt": "2026-06-04T15:43:35.694Z"
+    "text": "ford ford recall",
+    "trendScore": 10,
+    "detectedAt": "2026-06-04T20:24:15.812Z"
   },
   {
-    "rank": 99,
+    "rank": 125,
     "query": "tracy renshaw outback steakhouse lawsuit",
-    "searchVolume": 10000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "outback steakhouse virginia lawsuit"
-    ],
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tracy+renshaw+outback+steakhouse+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "tracy renshaw outback steakhouse lawsuit outback steakhouse virginia lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-06-04T15:43:35.694Z"
+    "text": "tracy renshaw outback steakhouse lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-06-04T20:24:15.812Z"
   }
 ]

@@ -1,16 +1,47 @@
 {
-  "updatedAt": "2026-06-03T21:30:10.097Z",
+  "updatedAt": "2026-06-04T05:04:34.024Z",
   "count": 4,
   "items": [
     {
-      "id": "alabama-gop-congressional-map-ruling",
-      "slug": "alabama-gop-congressional-map-ruling",
-      "title": "Alabama Gop Congressional Map Ruling: Consumer Alert Monitoring",
+      "id": "ford-bronco-recall",
+      "slug": "ford-bronco-recall",
+      "title": "Ford Bronco Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford bronco recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 13,
+      "matchedQueries": [
+        "ford bronco recall",
+        "ford bronco sport recall",
+        "ford bronco sport maverick recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-04T05:04:31.431Z"
+    },
+    {
+      "id": "tracy-renshaw-outback-steakhouse-lawsuit",
+      "slug": "tracy-renshaw-outback-steakhouse-lawsuit",
+      "title": "Tracy Renshaw Outback Steakhouse Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "alabama gop congressional map ruling",
+      "product": "tracy renshaw outback steakhouse lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,27 +51,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tracy+renshaw+outback+steakhouse+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 25,
+      "trendScore": 10,
       "matchedQueries": [
-        "alabama gop congressional map ruling",
-        "alabama house map lawsuit"
+        "tracy renshaw outback steakhouse lawsuit",
+        "outback steakhouse virginia lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T21:30:04.604Z"
+      "lastUpdated": "2026-06-04T05:04:31.431Z"
     },
     {
-      "id": "outback-steakhouse-virginia-lawsuit",
-      "slug": "outback-steakhouse-virginia-lawsuit",
-      "title": "Outback Steakhouse Virginia Lawsuit: Consumer Alert Monitoring",
+      "id": "gerrymandering",
+      "slug": "gerrymandering",
+      "title": "Gerrymandering: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "outback steakhouse virginia lawsuit",
+      "product": "gerrymandering",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,16 +81,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+virginia+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gerrymandering&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "outback steakhouse virginia lawsuit"
+        "gerrymandering",
+        "alabama house map lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T21:30:04.604Z"
+      "lastUpdated": "2026-06-04T05:04:31.431Z"
     },
     {
       "id": "mercedes-benz-shilo-sanders-lawsuit",
@@ -90,36 +122,7 @@
         "shilo sanders lawsuit dropped"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-03T21:30:04.604Z"
-    },
-    {
-      "id": "ford-recall-26s36-details",
-      "slug": "ford-recall-26s36-details",
-      "title": "Ford Recall 26s36 Details: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ford recall 26s36 details",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ford recall 26s36 details"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-03T21:30:04.604Z"
+      "lastUpdated": "2026-06-04T05:04:31.431Z"
     }
   ]
 }

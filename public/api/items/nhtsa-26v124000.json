@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-03T21:30:10.097Z",
+  "updatedAt": "2026-06-04T05:04:34.024Z",
   "item": {
     "id": "nhtsa-26v124000",
     "slug": "nhtsa-26v124000",
     "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford bronco)",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "Ford Motor Company",
     "brand": "Ford Motor Company",
     "product": "2024 ford bronco",
@@ -20,16 +20,11 @@
     "sourceAgency": "NHTSA",
     "searchVolume": 5000,
     "trendScore": 29,
-    "matchedQueries": [
-      "ford bronco recall",
-      "ford bronco",
-      "ford bronco sport recall",
-      "ford bronco sport maverick recall"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "26V124000",
     "recallInitiationDate": "03/03/2026",
-    "lastUpdated": "2026-06-03T21:30:04.604Z",
+    "lastUpdated": "2026-06-04T05:04:31.431Z",
     "url": "https://simon622.shop/item/nhtsa-26v124000/"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-03T21:30:10.097Z",
+  "updatedAt": "2026-06-04T05:04:34.024Z",
   "item": {
-    "id": "ford-recall-26s36-details",
-    "slug": "ford-recall-26s36-details",
-    "title": "Ford Recall 26s36 Details: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "gerrymandering",
+    "slug": "gerrymandering",
+    "title": "Gerrymandering: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford recall 26s36 details",
-    "category": "Recall monitoring",
+    "product": "gerrymandering",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gerrymandering&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "ford recall 26s36 details"
+      "gerrymandering",
+      "alabama house map lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-03T21:30:04.604Z",
-    "url": "https://simon622.shop/item/ford-recall-26s36-details/"
+    "lastUpdated": "2026-06-04T05:04:31.431Z",
+    "url": "https://simon622.shop/item/gerrymandering/"
   }
 }

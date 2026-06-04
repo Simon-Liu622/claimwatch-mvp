@@ -1,89 +1,58 @@
 [
   {
-    "rank": 46,
+    "rank": 70,
     "query": "ford bronco recall",
-    "searchVolume": 5000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
-      "ford bronco",
       "ford bronco sport recall",
       "ford bronco sport maverick recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
-    "text": "ford bronco recall ford bronco ford bronco sport recall ford bronco sport maverick recall",
-    "trendScore": 29,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
+    "text": "ford bronco recall ford bronco sport recall ford bronco sport maverick recall",
+    "trendScore": 13,
+    "detectedAt": "2026-06-04T05:04:31.431Z"
   },
   {
-    "rank": 41,
-    "query": "alabama gop congressional map ruling",
+    "rank": 95,
+    "query": "tracy renshaw outback steakhouse lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
-      "alabama house map lawsuit"
+      "outback steakhouse virginia lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+gop+congressional+map+ruling&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tracy+renshaw+outback+steakhouse+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "alabama gop congressional map ruling alabama house map lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
+    "text": "tracy renshaw outback steakhouse lawsuit outback steakhouse virginia lawsuit",
+    "trendScore": 10,
+    "detectedAt": "2026-06-04T05:04:31.431Z"
   },
   {
-    "rank": 58,
-    "query": "outback steakhouse virginia lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+virginia+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "outback steakhouse virginia lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
-  },
-  {
-    "rank": 267,
-    "query": "california dairies milk powder recall",
+    "rank": 183,
+    "query": "gerrymandering",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "meijer"
+      "alabama house map lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+dairies+milk+powder+recall&tz=420",
-    "increasePercentage": 50,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gerrymandering&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "california dairies milk powder recall meijer",
+    "text": "gerrymandering alabama house map lawsuit",
     "trendScore": 10,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
+    "detectedAt": "2026-06-04T05:04:31.431Z"
   },
   {
-    "rank": 102,
-    "query": "ford recall 26s36 details",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall+26s36+details&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "ford recall 26s36 details",
-    "trendScore": 8,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
-  },
-  {
-    "rank": 152,
+    "rank": 263,
     "query": "mercedes benz shilo sanders lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -95,6 +64,6 @@
     "source": "serpapi-google-trends",
     "text": "mercedes benz shilo sanders lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-03T21:30:04.604Z"
+    "detectedAt": "2026-06-04T05:04:31.431Z"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T05:04:34.024Z",
-  "count": 4,
+  "updatedAt": "2026-06-04T10:11:45.719Z",
+  "count": 3,
   "items": [
     {
       "id": "ford-bronco-recall",
@@ -23,15 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
+      "searchVolume": 10000,
+      "trendScore": 25,
       "matchedQueries": [
         "ford bronco recall",
         "ford bronco sport recall",
         "ford bronco sport maverick recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-04T05:04:31.431Z"
+      "lastUpdated": "2026-06-04T10:11:42.849Z"
     },
     {
       "id": "tracy-renshaw-outback-steakhouse-lawsuit",
@@ -55,23 +55,23 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 10,
+      "trendScore": 25,
       "matchedQueries": [
         "tracy renshaw outback steakhouse lawsuit",
         "outback steakhouse virginia lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-04T05:04:31.431Z"
+      "lastUpdated": "2026-06-04T10:11:42.849Z"
     },
     {
-      "id": "gerrymandering",
-      "slug": "gerrymandering",
-      "title": "Gerrymandering: Consumer Alert Monitoring",
+      "id": "alabama-house-map-lawsuit",
+      "slug": "alabama-house-map-lawsuit",
+      "title": "Alabama House Map Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "gerrymandering",
+      "product": "alabama house map lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -81,48 +81,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gerrymandering&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+house+map+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 100,
+      "trendScore": 8,
       "matchedQueries": [
-        "gerrymandering",
         "alabama house map lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-04T05:04:31.431Z"
-    },
-    {
-      "id": "mercedes-benz-shilo-sanders-lawsuit",
-      "slug": "mercedes-benz-shilo-sanders-lawsuit",
-      "title": "Mercedes Benz Shilo Sanders Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "mercedes benz shilo sanders lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "mercedes benz shilo sanders lawsuit",
-        "deion sanders",
-        "shilo sanders lawsuit dropped"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-04T05:04:31.431Z"
+      "lastUpdated": "2026-06-04T10:11:42.849Z"
     }
   ]
 }

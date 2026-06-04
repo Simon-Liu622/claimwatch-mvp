@@ -1,32 +1,31 @@
 {
-  "updatedAt": "2026-06-04T05:04:34.024Z",
-  "count": 4,
+  "updatedAt": "2026-06-04T10:11:45.719Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 70,
+      "rank": 21,
       "query": "ford bronco recall",
-      "searchVolume": 20000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "ford bronco sport recall",
-        "ford bronco sport maverick recall"
+        "ford bronco sport recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+recall&tz=420",
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "ford bronco recall ford bronco sport recall ford bronco sport maverick recall",
-      "trendScore": 13,
-      "detectedAt": "2026-06-04T05:04:31.431Z"
+      "text": "ford bronco recall ford bronco sport recall",
+      "trendScore": 25,
+      "detectedAt": "2026-06-04T10:11:42.849Z"
     },
     {
-      "rank": 95,
+      "rank": 31,
       "query": "tracy renshaw outback steakhouse lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
         "outback steakhouse virginia lawsuit"
       ],
@@ -34,40 +33,23 @@
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "tracy renshaw outback steakhouse lawsuit outback steakhouse virginia lawsuit",
-      "trendScore": 10,
-      "detectedAt": "2026-06-04T05:04:31.431Z"
+      "trendScore": 25,
+      "detectedAt": "2026-06-04T10:11:42.849Z"
     },
     {
-      "rank": 183,
-      "query": "gerrymandering",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "alabama house map lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gerrymandering&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "gerrymandering alabama house map lawsuit",
-      "trendScore": 10,
-      "detectedAt": "2026-06-04T05:04:31.431Z"
-    },
-    {
-      "rank": 263,
-      "query": "mercedes benz shilo sanders lawsuit",
-      "searchVolume": 2000,
+      "rank": 378,
+      "query": "alabama house map lawsuit",
+      "searchVolume": 100,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes+benz+shilo+sanders+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alabama+house+map+lawsuit&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "mercedes benz shilo sanders lawsuit",
+      "text": "alabama house map lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-04T05:04:31.431Z"
+      "detectedAt": "2026-06-04T10:11:42.849Z"
     }
   ]
 }

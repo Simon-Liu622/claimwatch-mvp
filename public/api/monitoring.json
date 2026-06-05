@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-06-05T04:46:15.488Z",
+  "updatedAt": "2026-06-05T10:16:04.623Z",
   "count": 3,
   "items": [
+    {
+      "id": "outback-steakhouse-slip-lawsuit",
+      "slug": "outback-steakhouse-slip-lawsuit",
+      "title": "Outback Steakhouse Slip Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "outback steakhouse slip lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "outback steakhouse slip lawsuit",
+        "outback steakhouse slip fall case",
+        "restaurant mashed potato lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-05T10:16:01.288Z"
+    },
     {
       "id": "ford",
       "slug": "ford",
@@ -30,37 +61,7 @@
         "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T04:46:13.806Z"
-    },
-    {
-      "id": "outback-steakhouse-slip-fall-case",
-      "slug": "outback-steakhouse-slip-fall-case",
-      "title": "Outback Steakhouse Slip Fall Case: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "outback steakhouse slip fall case",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+fall+case&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "outback steakhouse slip fall case",
-        "restaurant mashed potato lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-05T04:46:13.806Z"
+      "lastUpdated": "2026-06-05T10:16:01.288Z"
     },
     {
       "id": "trump-administration-tariff-refund-dispute",
@@ -89,7 +90,7 @@
         "trump administration tariff refund dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T04:46:13.806Z"
+      "lastUpdated": "2026-06-05T10:16:01.288Z"
     }
   ]
 }

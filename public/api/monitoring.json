@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-05T10:16:04.623Z",
-  "count": 3,
+  "updatedAt": "2026-06-05T15:27:42.188Z",
+  "count": 4,
   "items": [
     {
       "id": "outback-steakhouse-slip-lawsuit",
@@ -24,25 +24,25 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 27,
+      "trendScore": 12,
       "matchedQueries": [
         "outback steakhouse slip lawsuit",
         "outback steakhouse slip fall case",
         "restaurant mashed potato lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T10:16:01.288Z"
+      "lastUpdated": "2026-06-05T15:27:35.383Z"
     },
     {
-      "id": "ford",
-      "slug": "ford",
-      "title": "Ford: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "facebook-user-privacy-settlement",
+      "slug": "facebook-user-privacy-settlement",
+      "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ford",
-      "category": "Recall monitoring",
+      "product": "facebook user privacy settlement",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -51,17 +51,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 12,
       "matchedQueries": [
-        "ford",
-        "ford recall"
+        "facebook user privacy settlement",
+        "facebook settlement amount",
+        "facebook settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T10:16:01.288Z"
+      "lastUpdated": "2026-06-05T15:27:35.383Z"
     },
     {
       "id": "trump-administration-tariff-refund-dispute",
@@ -90,7 +91,36 @@
         "trump administration tariff refund dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T10:16:01.288Z"
+      "lastUpdated": "2026-06-05T15:27:35.383Z"
+    },
+    {
+      "id": "subaru-forester-moonroof-recall",
+      "slug": "subaru-forester-moonroof-recall",
+      "title": "Subaru Forester Moonroof Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "subaru forester moonroof recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+forester+moonroof+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "subaru forester moonroof recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-05T15:27:35.383Z"
     }
   ]
 }

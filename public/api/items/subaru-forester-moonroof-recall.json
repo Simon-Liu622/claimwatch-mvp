@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-05T10:16:04.623Z",
+  "updatedAt": "2026-06-05T15:27:42.188Z",
   "item": {
-    "id": "ford",
-    "slug": "ford",
-    "title": "Ford: Consumer Alert Monitoring",
+    "id": "subaru-forester-moonroof-recall",
+    "slug": "subaru-forester-moonroof-recall",
+    "title": "Subaru Forester Moonroof Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford",
+    "product": "subaru forester moonroof recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+forester+moonroof+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 10,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
-      "ford",
-      "ford recall"
+      "subaru forester moonroof recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-05T10:16:01.288Z",
-    "url": "https://simon622.shop/item/ford/"
+    "lastUpdated": "2026-06-05T15:27:35.383Z",
+    "url": "https://simon622.shop/item/subaru-forester-moonroof-recall/"
   }
 }

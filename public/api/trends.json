@@ -1,44 +1,45 @@
 {
-  "updatedAt": "2026-06-05T10:16:04.623Z",
-  "count": 3,
+  "updatedAt": "2026-06-05T15:27:42.188Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 60,
+      "rank": 120,
       "query": "outback steakhouse slip lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "outback steakhouse slip fall case",
         "restaurant mashed potato lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+lawsuit&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "outback steakhouse slip lawsuit outback steakhouse slip fall case restaurant mashed potato lawsuit",
-      "trendScore": 27,
-      "detectedAt": "2026-06-05T10:16:01.288Z"
+      "trendScore": 12,
+      "detectedAt": "2026-06-05T15:27:35.383Z"
     },
     {
-      "rank": 229,
-      "query": "ford",
-      "searchVolume": 2000,
+      "rank": 134,
+      "query": "facebook user privacy settlement",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "ford recall"
+        "facebook settlement amount",
+        "facebook settlement"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "ford ford recall",
-      "trendScore": 10,
-      "detectedAt": "2026-06-05T10:16:01.288Z"
+      "text": "facebook user privacy settlement facebook settlement amount facebook settlement",
+      "trendScore": 12,
+      "detectedAt": "2026-06-05T15:27:35.383Z"
     },
     {
-      "rank": 152,
+      "rank": 211,
       "query": "trump administration tariff refund dispute",
       "searchVolume": 2000,
       "startedAt": "",
@@ -50,7 +51,22 @@
       "source": "serpapi-google-trends",
       "text": "trump administration tariff refund dispute",
       "trendScore": 8,
-      "detectedAt": "2026-06-05T10:16:01.288Z"
+      "detectedAt": "2026-06-05T15:27:35.383Z"
+    },
+    {
+      "rank": 336,
+      "query": "subaru forester moonroof recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+forester+moonroof+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "subaru forester moonroof recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-05T15:27:35.383Z"
     }
   ]
 }

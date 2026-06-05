@@ -1,6 +1,23 @@
 [
   {
-    "rank": 159,
+    "rank": 129,
+    "query": "outback steakhouse slip fall case",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "restaurant mashed potato lawsuit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+fall+case&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "outback steakhouse slip fall case restaurant mashed potato lawsuit",
+    "trendScore": 10,
+    "detectedAt": "2026-06-05T04:46:13.806Z"
+  },
+  {
+    "rank": 251,
     "query": "ford",
     "searchVolume": 2000,
     "startedAt": "",
@@ -14,21 +31,21 @@
     "source": "serpapi-google-trends",
     "text": "ford ford recall",
     "trendScore": 10,
-    "detectedAt": "2026-06-04T20:24:15.812Z"
+    "detectedAt": "2026-06-05T04:46:13.806Z"
   },
   {
-    "rank": 125,
-    "query": "tracy renshaw outback steakhouse lawsuit",
-    "searchVolume": 5000,
+    "rank": 168,
+    "query": "trump administration tariff refund dispute",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tracy+renshaw+outback+steakhouse+lawsuit&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tariff+refund+dispute&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "tracy renshaw outback steakhouse lawsuit",
+    "text": "trump administration tariff refund dispute",
     "trendScore": 8,
-    "detectedAt": "2026-06-04T20:24:15.812Z"
+    "detectedAt": "2026-06-05T04:46:13.806Z"
   }
 ]

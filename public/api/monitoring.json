@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-05T20:12:43.464Z",
-  "count": 5,
+  "updatedAt": "2026-06-06T04:19:46.773Z",
+  "count": 3,
   "items": [
     {
       "id": "trump-white-house-ballroom-lawsuit",
@@ -23,27 +23,28 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 29,
+      "searchVolume": 20000,
+      "trendScore": 30,
       "matchedQueries": [
         "trump white house ballroom lawsuit",
         "white house east wing",
         "white house state ballroom",
-        "statue of liberty"
+        "statue of liberty",
+        "doj statue of liberty"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T20:12:41.491Z"
+      "lastUpdated": "2026-06-06T04:19:42.195Z"
     },
     {
-      "id": "outback-steakhouse-slip-lawsuit",
-      "slug": "outback-steakhouse-slip-lawsuit",
-      "title": "Outback Steakhouse Slip Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "2018-2022-ford-safety-recall",
+      "slug": "2018-2022-ford-safety-recall",
+      "title": "2018-2022 Ford Safety Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "outback steakhouse slip lawsuit",
-      "category": "Consumer monitoring",
+      "product": "2018-2022 ford safety recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -52,18 +53,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 12,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "outback steakhouse slip lawsuit",
-        "outback steakhouse slip fall case",
-        "restaurant mashed potato lawsuit"
+        "2018-2022 ford safety recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T20:12:41.491Z"
+      "lastUpdated": "2026-06-06T04:19:42.195Z"
     },
     {
       "id": "facebook-user-privacy-settlement",
@@ -94,65 +93,7 @@
         "facebook settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-05T20:12:41.491Z"
-    },
-    {
-      "id": "trump-administration-tariff-refund-dispute",
-      "slug": "trump-administration-tariff-refund-dispute",
-      "title": "Trump Administration Tariff Refund Dispute: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump administration tariff refund dispute",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tariff+refund+dispute&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "trump administration tariff refund dispute"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-05T20:12:41.491Z"
-    },
-    {
-      "id": "subaru-forester-moonroof-recall",
-      "slug": "subaru-forester-moonroof-recall",
-      "title": "Subaru Forester Moonroof Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "subaru forester moonroof recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+forester+moonroof+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "subaru forester moonroof recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-05T20:12:41.491Z"
+      "lastUpdated": "2026-06-06T04:19:42.195Z"
     }
   ]
 }

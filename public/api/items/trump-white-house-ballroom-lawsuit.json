@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T20:12:43.464Z",
+  "updatedAt": "2026-06-06T04:19:46.773Z",
   "item": {
     "id": "trump-white-house-ballroom-lawsuit",
     "slug": "trump-white-house-ballroom-lawsuit",
@@ -21,16 +21,17 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 29,
+    "searchVolume": 20000,
+    "trendScore": 30,
     "matchedQueries": [
       "trump white house ballroom lawsuit",
       "white house east wing",
       "white house state ballroom",
-      "statue of liberty"
+      "statue of liberty",
+      "doj statue of liberty"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-05T20:12:41.491Z",
+    "lastUpdated": "2026-06-06T04:19:42.195Z",
     "url": "https://simon622.shop/item/trump-white-house-ballroom-lawsuit/"
   }
 }

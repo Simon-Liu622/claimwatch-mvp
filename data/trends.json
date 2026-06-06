@@ -1,43 +1,40 @@
 [
   {
-    "rank": 53,
+    "rank": 71,
     "query": "trump white house ballroom lawsuit",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "doj statue of liberty",
       "white house east wing",
-      "white house state ballroom",
       "statue of liberty"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "trump white house ballroom lawsuit white house east wing white house state ballroom statue of liberty",
-    "trendScore": 29,
-    "detectedAt": "2026-06-05T20:12:41.491Z"
+    "text": "trump white house ballroom lawsuit doj statue of liberty white house east wing statue of liberty",
+    "trendScore": 30,
+    "detectedAt": "2026-06-06T04:19:42.195Z"
   },
   {
-    "rank": 145,
-    "query": "outback steakhouse slip lawsuit",
-    "searchVolume": 10000,
+    "rank": 78,
+    "query": "2018-2022 ford safety recall",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "outback steakhouse slip fall case",
-      "restaurant mashed potato lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outback+steakhouse+slip+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "outback steakhouse slip lawsuit outback steakhouse slip fall case restaurant mashed potato lawsuit",
-    "trendScore": 12,
-    "detectedAt": "2026-06-05T20:12:41.491Z"
+    "text": "2018-2022 ford safety recall",
+    "trendScore": 23,
+    "detectedAt": "2026-06-06T04:19:42.195Z"
   },
   {
-    "rank": 185,
+    "rank": 395,
     "query": "facebook user privacy settlement",
     "searchVolume": 1000,
     "startedAt": "",
@@ -52,36 +49,6 @@
     "source": "serpapi-google-trends",
     "text": "facebook user privacy settlement facebook settlement amount facebook settlement",
     "trendScore": 12,
-    "detectedAt": "2026-06-05T20:12:41.491Z"
-  },
-  {
-    "rank": 218,
-    "query": "trump administration tariff refund dispute",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tariff+refund+dispute&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "trump administration tariff refund dispute",
-    "trendScore": 8,
-    "detectedAt": "2026-06-05T20:12:41.491Z"
-  },
-  {
-    "rank": 342,
-    "query": "subaru forester moonroof recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+forester+moonroof+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "subaru forester moonroof recall",
-    "trendScore": 8,
-    "detectedAt": "2026-06-05T20:12:41.491Z"
+    "detectedAt": "2026-06-06T04:19:42.195Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T14:07:38.482Z",
+  "updatedAt": "2026-06-06T19:46:44.867Z",
   "item": {
     "id": "target-baby-wipes-recall",
     "slug": "target-baby-wipes-recall",
@@ -21,14 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "target baby wipes recall",
-      "target wipes recall"
+      "target wipes recall",
+      "product recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-06T14:07:27.031Z",
+    "lastUpdated": "2026-06-06T19:46:39.973Z",
     "url": "https://simon622.shop/item/target-baby-wipes-recall/"
   }
 }

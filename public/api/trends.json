@@ -1,77 +1,44 @@
 {
-  "updatedAt": "2026-06-06T14:07:38.482Z",
-  "count": 5,
+  "updatedAt": "2026-06-06T19:46:44.867Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 52,
-      "query": "trump white house ballroom lawsuit",
+      "rank": 71,
+      "query": "target baby wipes recall",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "doj statue of liberty",
-        "white house east wing",
-        "statue of liberty"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "trump white house ballroom lawsuit doj statue of liberty white house east wing statue of liberty",
-      "trendScore": 30,
-      "detectedAt": "2026-06-06T14:07:27.031Z"
-    },
-    {
-      "rank": 54,
-      "query": "target baby wipes recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "target wipes recall"
+        "target wipes recall",
+        "product recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "target baby wipes recall target wipes recall",
-      "trendScore": 25,
-      "detectedAt": "2026-06-06T14:07:27.031Z"
+      "text": "target baby wipes recall target wipes recall product recall",
+      "trendScore": 28,
+      "detectedAt": "2026-06-06T19:46:39.973Z"
     },
     {
-      "rank": 23,
-      "query": "2018-2022 ford safety recall",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "2018-2022 ford safety recall",
-      "trendScore": 23,
-      "detectedAt": "2026-06-06T14:07:27.031Z"
-    },
-    {
-      "rank": 25,
+      "rank": 28,
       "query": "hannah smith carnival cruise lawsuit",
-      "searchVolume": 5000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+carnival+cruise+lawsuit&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
       "text": "hannah smith carnival cruise lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-06T14:07:27.031Z"
+      "trendScore": 24,
+      "detectedAt": "2026-06-06T19:46:39.973Z"
     },
     {
-      "rank": 99,
+      "rank": 66,
       "query": "kennedy center chuck redd lawsuit",
-      "searchVolume": 1000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -81,7 +48,22 @@
       "source": "serpapi-google-trends",
       "text": "kennedy center chuck redd lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-06-06T14:07:27.031Z"
+      "detectedAt": "2026-06-06T19:46:39.973Z"
+    },
+    {
+      "rank": 133,
+      "query": "2018-2022 ford safety recall",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "2018-2022 ford safety recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-06T19:46:39.973Z"
     }
   ]
 }

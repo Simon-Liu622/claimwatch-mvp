@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-06T08:46:45.351Z",
+  "updatedAt": "2026-06-06T14:07:38.482Z",
   "item": {
-    "id": "facebook-user-privacy-settlement",
-    "slug": "facebook-user-privacy-settlement",
-    "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "kennedy-center-chuck-redd-lawsuit",
+    "slug": "kennedy-center-chuck-redd-lawsuit",
+    "title": "Kennedy Center Chuck Redd Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "facebook user privacy settlement",
+    "product": "kennedy center chuck redd lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 1000,
-    "trendScore": 12,
+    "trendScore": 23,
     "matchedQueries": [
-      "facebook user privacy settlement",
-      "facebook settlement amount",
-      "facebook settlement"
+      "kennedy center chuck redd lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-06T08:46:30.264Z",
-    "url": "https://simon622.shop/item/facebook-user-privacy-settlement/"
+    "lastUpdated": "2026-06-06T14:07:27.031Z",
+    "url": "https://simon622.shop/item/kennedy-center-chuck-redd-lawsuit/"
   }
 }

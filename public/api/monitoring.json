@@ -1,65 +1,7 @@
 {
-  "updatedAt": "2026-06-06T08:46:45.351Z",
+  "updatedAt": "2026-06-06T14:07:38.482Z",
   "count": 5,
   "items": [
-    {
-      "id": "2018-2022-ford-safety-recall",
-      "slug": "2018-2022-ford-safety-recall",
-      "title": "2018-2022 Ford Safety Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "2018-2022 ford safety recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "2018-2022 ford safety recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-06T08:46:30.264Z"
-    },
-    {
-      "id": "hannah-smith-carnival-cruise-lawsuit",
-      "slug": "hannah-smith-carnival-cruise-lawsuit",
-      "title": "Hannah Smith Carnival Cruise Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "hannah smith carnival cruise lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+carnival+cruise+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "hannah smith carnival cruise lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-06T08:46:30.264Z"
-    },
     {
       "id": "trump-white-house-ballroom-lawsuit",
       "slug": "trump-white-house-ballroom-lawsuit",
@@ -82,7 +24,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 15,
+      "trendScore": 30,
       "matchedQueries": [
         "trump white house ballroom lawsuit",
         "white house east wing",
@@ -91,38 +33,7 @@
         "doj statue of liberty"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-06T08:46:30.264Z"
-    },
-    {
-      "id": "facebook-user-privacy-settlement",
-      "slug": "facebook-user-privacy-settlement",
-      "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "facebook user privacy settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 12,
-      "matchedQueries": [
-        "facebook user privacy settlement",
-        "facebook settlement amount",
-        "facebook settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-06T08:46:30.264Z"
+      "lastUpdated": "2026-06-06T14:07:27.031Z"
     },
     {
       "id": "target-baby-wipes-recall",
@@ -145,13 +56,101 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 25,
       "matchedQueries": [
-        "target baby wipes recall"
+        "target baby wipes recall",
+        "target wipes recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-06T08:46:30.264Z"
+      "lastUpdated": "2026-06-06T14:07:27.031Z"
+    },
+    {
+      "id": "2018-2022-ford-safety-recall",
+      "slug": "2018-2022-ford-safety-recall",
+      "title": "2018-2022 Ford Safety Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "2018-2022 ford safety recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "2018-2022 ford safety recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-06T14:07:27.031Z"
+    },
+    {
+      "id": "hannah-smith-carnival-cruise-lawsuit",
+      "slug": "hannah-smith-carnival-cruise-lawsuit",
+      "title": "Hannah Smith Carnival Cruise Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "hannah smith carnival cruise lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+carnival+cruise+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "hannah smith carnival cruise lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-06T14:07:27.031Z"
+    },
+    {
+      "id": "kennedy-center-chuck-redd-lawsuit",
+      "slug": "kennedy-center-chuck-redd-lawsuit",
+      "title": "Kennedy Center Chuck Redd Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "kennedy center chuck redd lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "kennedy center chuck redd lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-06T14:07:27.031Z"
     }
   ]
 }

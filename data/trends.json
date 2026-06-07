@@ -1,36 +1,32 @@
 [
   {
-    "rank": 15,
-    "query": "kennedy center chuck redd lawsuit",
-    "searchVolume": 20000,
+    "rank": 54,
+    "query": "kennedy center lawsuit chuck redd",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "kennedy center lawsuit chuck redd"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+chuck+redd&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "kennedy center chuck redd lawsuit kennedy center lawsuit chuck redd",
-    "trendScore": 26,
-    "detectedAt": "2026-06-07T09:36:05.399Z"
+    "text": "kennedy center lawsuit chuck redd",
+    "trendScore": 23,
+    "detectedAt": "2026-06-07T14:19:37.417Z"
   },
   {
-    "rank": 96,
-    "query": "product recall",
-    "searchVolume": 10000,
+    "rank": 76,
+    "query": "up & up baby wipes contamination",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "target wipes recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-    "increasePercentage": 300,
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "product recall target wipes recall",
-    "trendScore": 10,
-    "detectedAt": "2026-06-07T09:36:05.399Z"
+    "text": "up & up baby wipes contamination",
+    "trendScore": 23,
+    "detectedAt": "2026-06-07T14:19:37.417Z"
   }
 ]

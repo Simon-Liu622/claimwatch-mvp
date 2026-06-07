@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-07T09:36:08.187Z",
+  "updatedAt": "2026-06-07T14:19:39.866Z",
   "count": 2,
   "items": [
     {
-      "id": "kennedy-center-chuck-redd-lawsuit",
-      "slug": "kennedy-center-chuck-redd-lawsuit",
-      "title": "Kennedy Center Chuck Redd Lawsuit: Consumer Alert Monitoring",
+      "id": "kennedy-center-lawsuit-chuck-redd",
+      "slug": "kennedy-center-lawsuit-chuck-redd",
+      "title": "Kennedy Center Lawsuit Chuck Redd: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "kennedy center chuck redd lawsuit",
+      "product": "kennedy center lawsuit chuck redd",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,27 +20,26 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+chuck+redd&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "kennedy center chuck redd lawsuit",
         "kennedy center lawsuit chuck redd"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-07T09:36:05.399Z"
+      "lastUpdated": "2026-06-07T14:19:37.417Z"
     },
     {
-      "id": "product-recall",
-      "slug": "product-recall",
-      "title": "Product Recall: Consumer Alert Monitoring",
+      "id": "up-and-up-baby-wipes-contamination",
+      "slug": "up-and-up-baby-wipes-contamination",
+      "title": "Up & Up Baby Wipes Contamination: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "product recall",
+      "product": "up & up baby wipes contamination",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,17 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 23,
       "matchedQueries": [
-        "product recall",
-        "target wipes recall"
+        "up & up baby wipes contamination"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-07T09:36:05.399Z"
+      "lastUpdated": "2026-06-07T14:19:37.417Z"
     }
   ]
 }

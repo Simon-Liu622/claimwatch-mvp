@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-06T19:46:44.867Z",
+  "updatedAt": "2026-06-07T04:55:53.025Z",
   "item": {
-    "id": "target-baby-wipes-recall",
-    "slug": "target-baby-wipes-recall",
-    "title": "Target Baby Wipes Recall: Consumer Alert Monitoring",
+    "id": "product-recall",
+    "slug": "product-recall",
+    "title": "Product Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "target baby wipes recall",
+    "product": "product recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 28,
+    "searchVolume": 10000,
+    "trendScore": 10,
     "matchedQueries": [
-      "target baby wipes recall",
-      "target wipes recall",
-      "product recall"
+      "product recall",
+      "target wipes recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-06T19:46:39.973Z",
-    "url": "https://simon622.shop/item/target-baby-wipes-recall/"
+    "lastUpdated": "2026-06-07T04:55:51.191Z",
+    "url": "https://simon622.shop/item/product-recall/"
   }
 }

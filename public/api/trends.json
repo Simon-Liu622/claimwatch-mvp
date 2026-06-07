@@ -1,69 +1,40 @@
 {
-  "updatedAt": "2026-06-06T19:46:44.867Z",
-  "count": 4,
+  "updatedAt": "2026-06-07T04:55:53.025Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 71,
-      "query": "target baby wipes recall",
+      "rank": 20,
+      "query": "kennedy center chuck redd lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "target wipes recall",
-        "product recall"
+        "kennedy center lawsuit chuck redd"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "target baby wipes recall target wipes recall product recall",
-      "trendScore": 28,
-      "detectedAt": "2026-06-06T19:46:39.973Z"
-    },
-    {
-      "rank": 28,
-      "query": "hannah smith carnival cruise lawsuit",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+carnival+cruise+lawsuit&tz=420",
-      "increasePercentage": 700,
-      "source": "serpapi-google-trends",
-      "text": "hannah smith carnival cruise lawsuit",
-      "trendScore": 24,
-      "detectedAt": "2026-06-06T19:46:39.973Z"
-    },
-    {
-      "rank": 66,
-      "query": "kennedy center chuck redd lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "kennedy center chuck redd lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-06T19:46:39.973Z"
+      "text": "kennedy center chuck redd lawsuit kennedy center lawsuit chuck redd",
+      "trendScore": 26,
+      "detectedAt": "2026-06-07T04:55:51.191Z"
     },
     {
-      "rank": 133,
-      "query": "2018-2022 ford safety recall",
+      "rank": 127,
+      "query": "product recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
+      "breakdown": [
+        "target wipes recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "2018-2022 ford safety recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-06T19:46:39.973Z"
+      "text": "product recall target wipes recall",
+      "trendScore": 10,
+      "detectedAt": "2026-06-07T04:55:51.191Z"
     }
   ]
 }

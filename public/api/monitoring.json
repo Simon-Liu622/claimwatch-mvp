@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-06-06T19:46:44.867Z",
-  "count": 4,
+  "updatedAt": "2026-06-07T04:55:53.025Z",
+  "count": 2,
   "items": [
-    {
-      "id": "target-baby-wipes-recall",
-      "slug": "target-baby-wipes-recall",
-      "title": "Target Baby Wipes Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "target baby wipes recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+baby+wipes+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "target baby wipes recall",
-        "target wipes recall",
-        "product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-06T19:46:39.973Z"
-    },
-    {
-      "id": "hannah-smith-carnival-cruise-lawsuit",
-      "slug": "hannah-smith-carnival-cruise-lawsuit",
-      "title": "Hannah Smith Carnival Cruise Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "hannah smith carnival cruise lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannah+smith+carnival+cruise+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "hannah smith carnival cruise lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-06T19:46:39.973Z"
-    },
     {
       "id": "kennedy-center-chuck-redd-lawsuit",
       "slug": "kennedy-center-chuck-redd-lawsuit",
@@ -83,23 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "kennedy center chuck redd lawsuit"
+        "kennedy center chuck redd lawsuit",
+        "kennedy center lawsuit chuck redd"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-06T19:46:39.973Z"
+      "lastUpdated": "2026-06-07T04:55:51.191Z"
     },
     {
-      "id": "2018-2022-ford-safety-recall",
-      "slug": "2018-2022-ford-safety-recall",
-      "title": "2018-2022 Ford Safety Recall: Consumer Alert Monitoring",
+      "id": "product-recall",
+      "slug": "product-recall",
+      "title": "Product Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "2018-2022 ford safety recall",
+      "product": "product recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -109,16 +50,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=2018-2022+ford+safety+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 8,
+      "trendScore": 10,
       "matchedQueries": [
-        "2018-2022 ford safety recall"
+        "product recall",
+        "target wipes recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-06T19:46:39.973Z"
+      "lastUpdated": "2026-06-07T04:55:51.191Z"
     }
   ]
 }

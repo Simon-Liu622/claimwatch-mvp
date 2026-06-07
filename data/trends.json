@@ -1,32 +1,34 @@
 [
   {
-    "rank": 54,
+    "rank": 46,
+    "query": "up & up baby wipes contamination",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "product recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "up & up baby wipes contamination product recall",
+    "trendScore": 33,
+    "detectedAt": "2026-06-07T19:46:04.826Z"
+  },
+  {
+    "rank": 153,
     "query": "kennedy center lawsuit chuck redd",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+chuck+redd&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "kennedy center lawsuit chuck redd",
-    "trendScore": 23,
-    "detectedAt": "2026-06-07T14:19:37.417Z"
-  },
-  {
-    "rank": 76,
-    "query": "up & up baby wipes contamination",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "up & up baby wipes contamination",
-    "trendScore": 23,
-    "detectedAt": "2026-06-07T14:19:37.417Z"
+    "trendScore": 8,
+    "detectedAt": "2026-06-07T19:46:04.826Z"
   }
 ]

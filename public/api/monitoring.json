@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-07T14:19:39.866Z",
+  "updatedAt": "2026-06-07T19:46:21.953Z",
   "count": 2,
   "items": [
+    {
+      "id": "up-and-up-baby-wipes-contamination",
+      "slug": "up-and-up-baby-wipes-contamination",
+      "title": "Up & Up Baby Wipes Contamination: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "up & up baby wipes contamination",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 33,
+      "matchedQueries": [
+        "up & up baby wipes contamination",
+        "product recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-07T19:46:04.826Z"
+    },
     {
       "id": "kennedy-center-lawsuit-chuck-redd",
       "slug": "kennedy-center-lawsuit-chuck-redd",
@@ -24,41 +54,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "kennedy center lawsuit chuck redd"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-07T14:19:37.417Z"
-    },
-    {
-      "id": "up-and-up-baby-wipes-contamination",
-      "slug": "up-and-up-baby-wipes-contamination",
-      "title": "Up & Up Baby Wipes Contamination: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "up & up baby wipes contamination",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "up & up baby wipes contamination"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-07T14:19:37.417Z"
+      "lastUpdated": "2026-06-07T19:46:04.826Z"
     }
   ]
 }

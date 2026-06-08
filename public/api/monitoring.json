@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T19:46:21.953Z",
-  "count": 2,
+  "updatedAt": "2026-06-08T05:01:12.417Z",
+  "count": 4,
   "items": [
     {
       "id": "up-and-up-baby-wipes-contamination",
@@ -23,24 +23,25 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=up+%26+up+baby+wipes+contamination&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 33,
+      "searchVolume": 10000,
+      "trendScore": 35,
       "matchedQueries": [
         "up & up baby wipes contamination",
-        "product recall"
+        "product recall",
+        "wet wipe"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-07T19:46:04.826Z"
+      "lastUpdated": "2026-06-08T05:01:09.792Z"
     },
     {
-      "id": "kennedy-center-lawsuit-chuck-redd",
-      "slug": "kennedy-center-lawsuit-chuck-redd",
-      "title": "Kennedy Center Lawsuit Chuck Redd: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "facebook-user-privacy-settlement",
+      "slug": "facebook-user-privacy-settlement",
+      "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "kennedy center lawsuit chuck redd",
+      "product": "facebook user privacy settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,16 +51,76 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+chuck+redd&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 12,
+      "matchedQueries": [
+        "facebook user privacy settlement",
+        "facebook settlement",
+        "facebook privacy settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-08T05:01:09.792Z"
+    },
+    {
+      "id": "ufc-white-house-lawsuit",
+      "slug": "ufc-white-house-lawsuit",
+      "title": "Ufc White House Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ufc white house lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+white+house+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "kennedy center lawsuit chuck redd"
+        "ufc white house lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-07T19:46:04.826Z"
+      "lastUpdated": "2026-06-08T05:01:09.792Z"
+    },
+    {
+      "id": "trader-joe-s-receipt-class-action",
+      "slug": "trader-joe-s-receipt-class-action",
+      "title": "Trader Joe'S Receipt Class Action: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trader joe's receipt class action",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+receipt+class+action&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "trader joe's receipt class action"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-08T05:01:09.792Z"
     }
   ]
 }

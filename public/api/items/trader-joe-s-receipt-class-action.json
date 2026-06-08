@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-06-08T05:01:12.417Z",
+  "item": {
+    "id": "trader-joe-s-receipt-class-action",
+    "slug": "trader-joe-s-receipt-class-action",
+    "title": "Trader Joe'S Receipt Class Action: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "trader joe's receipt class action",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+receipt+class+action&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "trader joe's receipt class action"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-06-08T05:01:09.792Z",
+    "url": "https://simon622.shop/item/trader-joe-s-receipt-class-action/"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-08T16:18:53.101Z",
-  "count": 4,
+  "updatedAt": "2026-06-08T20:33:49.892Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 34,
+      "rank": 41,
       "query": "ufc freedom 250",
       "searchVolume": 10000,
       "startedAt": "",
@@ -14,14 +14,14 @@
         "ufc white house lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
-      "increasePercentage": 50,
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
       "text": "ufc freedom 250 lawsuit aims to stop ufc fight at the white house ufc white house lawsuit",
       "trendScore": 27,
-      "detectedAt": "2026-06-08T16:18:46.932Z"
+      "detectedAt": "2026-06-08T20:33:43.376Z"
     },
     {
-      "rank": 161,
+      "rank": 167,
       "query": "facebook user privacy settlement",
       "searchVolume": 5000,
       "startedAt": "",
@@ -36,27 +36,10 @@
       "source": "serpapi-google-trends",
       "text": "facebook user privacy settlement facebook settlement facebook privacy settlement",
       "trendScore": 12,
-      "detectedAt": "2026-06-08T16:18:46.932Z"
+      "detectedAt": "2026-06-08T20:33:43.376Z"
     },
     {
-      "rank": 187,
-      "query": "wet wipe",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "product recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wet+wipe&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "wet wipe product recall",
-      "trendScore": 10,
-      "detectedAt": "2026-06-08T16:18:46.932Z"
-    },
-    {
-      "rank": 456,
+      "rank": 423,
       "query": "trader joe's receipt class action",
       "searchVolume": 500,
       "startedAt": "",
@@ -68,7 +51,7 @@
       "source": "serpapi-google-trends",
       "text": "trader joe's receipt class action",
       "trendScore": 8,
-      "detectedAt": "2026-06-08T16:18:46.932Z"
+      "detectedAt": "2026-06-08T20:33:43.376Z"
     }
   ]
 }

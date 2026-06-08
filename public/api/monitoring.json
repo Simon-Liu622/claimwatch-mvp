@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T16:18:53.101Z",
-  "count": 4,
+  "updatedAt": "2026-06-08T20:33:49.892Z",
+  "count": 3,
   "items": [
     {
       "id": "ufc-freedom-250",
@@ -31,7 +31,7 @@
         "ufc white house lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T16:18:46.932Z"
+      "lastUpdated": "2026-06-08T20:33:43.376Z"
     },
     {
       "id": "facebook-user-privacy-settlement",
@@ -62,37 +62,7 @@
         "facebook privacy settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T16:18:46.932Z"
-    },
-    {
-      "id": "wet-wipe",
-      "slug": "wet-wipe",
-      "title": "Wet Wipe: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "wet wipe",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wet+wipe&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "wet wipe",
-        "product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-08T16:18:46.932Z"
+      "lastUpdated": "2026-06-08T20:33:43.376Z"
     },
     {
       "id": "trader-joe-s-receipt-class-action",
@@ -121,7 +91,7 @@
         "trader joe's receipt class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T16:18:46.932Z"
+      "lastUpdated": "2026-06-08T20:33:43.376Z"
     }
   ]
 }

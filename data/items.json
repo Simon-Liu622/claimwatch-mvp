@@ -23,7 +23,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -49,7 +49,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -392,7 +392,7 @@
       "ufc white house lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
@@ -450,7 +450,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
@@ -502,7 +502,7 @@
     "officialVerified": true,
     "officialRecordId": "26485",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-23v757000",
@@ -813,37 +813,7 @@
       "facebook privacy settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "wet-wipe",
-    "slug": "wet-wipe",
-    "title": "Wet Wipe: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "wet wipe",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wet+wipe&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
-    "matchedQueries": [
-      "wet wipe",
-      "product recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26502",
@@ -869,7 +839,7 @@
     "officialVerified": true,
     "officialRecordId": "26502",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26506",
@@ -895,7 +865,7 @@
     "officialVerified": true,
     "officialRecordId": "26506",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26512",
@@ -921,7 +891,7 @@
     "officialVerified": true,
     "officialRecordId": "26512",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26433",
@@ -1054,7 +1024,7 @@
       "trader joe's receipt class action"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -1078,7 +1048,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -1102,7 +1072,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -1126,7 +1096,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -1150,7 +1120,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "find-refund-cases",
@@ -1174,7 +1144,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "consumer-advice",
@@ -1198,7 +1168,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -1222,7 +1192,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -1246,7 +1216,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -1270,7 +1240,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "military-consumer",
@@ -1294,7 +1264,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "consumer-gov",
@@ -1318,7 +1288,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-23v782000",
@@ -1344,7 +1314,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -1370,7 +1340,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -1396,7 +1366,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -1420,7 +1390,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -1446,7 +1416,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -1472,7 +1442,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -1498,7 +1468,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -1524,7 +1494,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -1550,7 +1520,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -1576,7 +1546,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -1602,7 +1572,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -1628,7 +1598,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -1654,7 +1624,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -1680,7 +1650,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -1706,7 +1676,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -1732,7 +1702,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26448",
@@ -1758,7 +1728,7 @@
     "officialVerified": true,
     "officialRecordId": "26448",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26453",
@@ -1784,7 +1754,7 @@
     "officialVerified": true,
     "officialRecordId": "26453",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26449",
@@ -1810,7 +1780,7 @@
     "officialVerified": true,
     "officialRecordId": "26449",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26445",
@@ -1836,7 +1806,7 @@
     "officialVerified": true,
     "officialRecordId": "26445",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26458",
@@ -1862,7 +1832,7 @@
     "officialVerified": true,
     "officialRecordId": "26458",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26455",
@@ -1888,7 +1858,7 @@
     "officialVerified": true,
     "officialRecordId": "26455",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26457",
@@ -1914,7 +1884,7 @@
     "officialVerified": true,
     "officialRecordId": "26457",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26456",
@@ -1940,7 +1910,7 @@
     "officialVerified": true,
     "officialRecordId": "26456",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26451",
@@ -1966,7 +1936,7 @@
     "officialVerified": true,
     "officialRecordId": "26451",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26447",
@@ -1992,7 +1962,7 @@
     "officialVerified": true,
     "officialRecordId": "26447",
     "recallInitiationDate": "2026-04-30T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26477",
@@ -2018,7 +1988,7 @@
     "officialVerified": true,
     "officialRecordId": "26477",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26475",
@@ -2044,7 +2014,7 @@
     "officialVerified": true,
     "officialRecordId": "26475",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26465",
@@ -2070,7 +2040,7 @@
     "officialVerified": true,
     "officialRecordId": "26465",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26478",
@@ -2096,7 +2066,7 @@
     "officialVerified": true,
     "officialRecordId": "26478",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26467",
@@ -2122,7 +2092,7 @@
     "officialVerified": true,
     "officialRecordId": "26467",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26470",
@@ -2148,7 +2118,7 @@
     "officialVerified": true,
     "officialRecordId": "26470",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26469",
@@ -2174,7 +2144,7 @@
     "officialVerified": true,
     "officialRecordId": "26469",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26472",
@@ -2200,7 +2170,7 @@
     "officialVerified": true,
     "officialRecordId": "26472",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26468",
@@ -2226,7 +2196,7 @@
     "officialVerified": true,
     "officialRecordId": "26468",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26466",
@@ -2252,7 +2222,7 @@
     "officialVerified": true,
     "officialRecordId": "26466",
     "recallInitiationDate": "2026-05-07T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26486",
@@ -2278,7 +2248,7 @@
     "officialVerified": true,
     "officialRecordId": "26486",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26482",
@@ -2304,7 +2274,7 @@
     "officialVerified": true,
     "officialRecordId": "26482",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26493",
@@ -2330,7 +2300,7 @@
     "officialVerified": true,
     "officialRecordId": "26493",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26494",
@@ -2356,7 +2326,7 @@
     "officialVerified": true,
     "officialRecordId": "26494",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26490",
@@ -2382,7 +2352,7 @@
     "officialVerified": true,
     "officialRecordId": "26490",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26484",
@@ -2408,7 +2378,7 @@
     "officialVerified": true,
     "officialRecordId": "26484",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26479",
@@ -2434,7 +2404,7 @@
     "officialVerified": true,
     "officialRecordId": "26479",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26483",
@@ -2460,7 +2430,7 @@
     "officialVerified": true,
     "officialRecordId": "26483",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26488",
@@ -2486,7 +2456,7 @@
     "officialVerified": true,
     "officialRecordId": "26488",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26487",
@@ -2512,7 +2482,7 @@
     "officialVerified": true,
     "officialRecordId": "26487",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26480",
@@ -2538,7 +2508,7 @@
     "officialVerified": true,
     "officialRecordId": "26480",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26481",
@@ -2564,7 +2534,7 @@
     "officialVerified": true,
     "officialRecordId": "26481",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26489",
@@ -2590,7 +2560,7 @@
     "officialVerified": true,
     "officialRecordId": "26489",
     "recallInitiationDate": "2026-05-14T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26497",
@@ -2616,7 +2586,7 @@
     "officialVerified": true,
     "officialRecordId": "26497",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26503",
@@ -2642,7 +2612,7 @@
     "officialVerified": true,
     "officialRecordId": "26503",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26504",
@@ -2668,7 +2638,7 @@
     "officialVerified": true,
     "officialRecordId": "26504",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26501",
@@ -2694,7 +2664,7 @@
     "officialVerified": true,
     "officialRecordId": "26501",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26499",
@@ -2720,7 +2690,7 @@
     "officialVerified": true,
     "officialRecordId": "26499",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26498",
@@ -2746,7 +2716,7 @@
     "officialVerified": true,
     "officialRecordId": "26498",
     "recallInitiationDate": "2026-05-21T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26509",
@@ -2772,7 +2742,7 @@
     "officialVerified": true,
     "officialRecordId": "26509",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26513",
@@ -2798,7 +2768,7 @@
     "officialVerified": true,
     "officialRecordId": "26513",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26510",
@@ -2824,7 +2794,7 @@
     "officialVerified": true,
     "officialRecordId": "26510",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26515",
@@ -2850,7 +2820,7 @@
     "officialVerified": true,
     "officialRecordId": "26515",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26508",
@@ -2876,7 +2846,7 @@
     "officialVerified": true,
     "officialRecordId": "26508",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26514",
@@ -2902,7 +2872,7 @@
     "officialVerified": true,
     "officialRecordId": "26514",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26511",
@@ -2928,7 +2898,7 @@
     "officialVerified": true,
     "officialRecordId": "26511",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26522",
@@ -2954,7 +2924,7 @@
     "officialVerified": true,
     "officialRecordId": "26522",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "military-consumer-protection-in-action-tools-and-tactics-for-service-providers",
@@ -2978,7 +2948,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26528",
@@ -3004,7 +2974,7 @@
     "officialVerified": true,
     "officialRecordId": "26528",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26527",
@@ -3030,7 +3000,7 @@
     "officialVerified": true,
     "officialRecordId": "26527",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26525",
@@ -3056,7 +3026,7 @@
     "officialVerified": true,
     "officialRecordId": "26525",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26529",
@@ -3082,7 +3052,7 @@
     "officialVerified": true,
     "officialRecordId": "26529",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26531",
@@ -3108,7 +3078,7 @@
     "officialVerified": true,
     "officialRecordId": "26531",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26526",
@@ -3134,7 +3104,7 @@
     "officialVerified": true,
     "officialRecordId": "26526",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26530",
@@ -3160,7 +3130,7 @@
     "officialVerified": true,
     "officialRecordId": "26530",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26532",
@@ -3186,7 +3156,7 @@
     "officialVerified": true,
     "officialRecordId": "26532",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "cpsc-26524",
@@ -3212,7 +3182,7 @@
     "officialVerified": true,
     "officialRecordId": "26524",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ps-seasoning-and-spices-inc-ellsworth-sour-cream-onion-seasoning-part-180000113-net-wt-25-",
@@ -3238,7 +3208,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0814-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "john-b-sanfilippo-and-sons-inc-good-and-gather-mexican-street-corn-trail-mix-8-oz-bag",
@@ -3264,7 +3234,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0835-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-sweet-ground-powder-white-chocolate-flavored-net",
@@ -3290,7 +3260,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0844-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "liquid-blenz-corp-menopause-bully-16-oz-and-32-oz",
@@ -3316,7 +3286,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0788-2026",
     "recallInitiationDate": "20260406",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036195-ranch-seasoning-50lb-bag",
@@ -3342,7 +3312,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0822-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "fontana-flavors-inc-vg7274d1-natural-cream-of-mushroom-type-flavor-net-weight-50-lbs-bag-i",
@@ -3368,7 +3338,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0812-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "john-b-sanfilippo-and-sons-inc-fisher-tex-mex-trail-mix-30-oz-plastic-jar",
@@ -3394,7 +3364,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0836-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-sleep-spray-dosage-6-sprays-liquid-packaging-aluminum-bo",
@@ -3420,7 +3390,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0808-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036443-cheddar-cheese-powder-seasoning-50lb-bag",
@@ -3446,7 +3416,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0823-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ps-seasoning-and-spices-inc-blackstone-parmesan-ranch-seasoning-net-wt-7-3-oz-207g",
@@ -3472,7 +3442,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0817-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-b12-spray-dosage-3-sprays-liquid-packaging-aluminum-bott",
@@ -3498,7 +3468,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0807-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "ghirardelli-chocolate-company-ghirardelli-perfectly-premium-frappe-mix-frozen-hot-cocoa-ne",
@@ -3524,7 +3494,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0838-2026",
     "recallInitiationDate": "20260426",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036087-cr-me-fraiche-spice-seasoning-25lb-bag",
@@ -3550,7 +3520,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0827-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036277-garlic-cream-sauce-seasoning-40lb-bag",
@@ -3576,7 +3546,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0826-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "wellnov-supplements-llc-liposomal-kids-liquid-multivitamin-drops-dosage-3ml-liquid-packagi",
@@ -3602,7 +3572,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0802-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "solina-u-s-holding-solina-6036554-parmesan-breadstick-sauce-seasoning-40lb-bag",
@@ -3628,7 +3598,865 @@
     "officialVerified": true,
     "officialRecordId": "H-0824-2026",
     "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "safecor-health-llc-atomoxetine-capsules-hcl-10-mg-capsules-in-unit-dose-foil-strip-strips-",
+    "slug": "safecor-health-llc-atomoxetine-capsules-hcl-10-mg-capsules-in-unit-dose-foil-strip-strips-",
+    "title": "Safecor Health, LLC: Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, O Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Safecor Health, LLC",
+    "brand": "Safecor Health, LLC",
+    "product": "Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, O",
+    "category": "Recall",
+    "summary": "Labeling: Label Mix-Up: Atomoxetine HCl 25mg Capsule incorrectly labeled as Atomoxetine HCl 10mg Capsule. Product details: Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, OH 43204. NDC: 64380-474-01",
+    "affectedPeople": "TX only",
+    "remedy": "Affected quantity: 149 capsules",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0538-2026",
+    "recallInitiationDate": "20260430",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "integradose-compounding-services-llc-fentanyl-citrate-sterile-cadd-for-injection-2-2500-mc",
+    "slug": "integradose-compounding-services-llc-fentanyl-citrate-sterile-cadd-for-injection-2-2500-mc",
+    "title": "IntegraDose Compounding Services LLC: fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Su Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "IntegraDose Compounding Services LLC",
+    "brand": "IntegraDose Compounding Services LLC",
+    "product": "fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Su",
+    "category": "Recall",
+    "summary": "Subpotent Drug Product details: fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Suite 900, Shoreview, MN, NDC 71139-6030-1.",
+    "affectedPeople": "Nationwide.",
+    "remedy": "Affected quantity: 376 cassettes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0548-2026",
+    "recallInitiationDate": "20260512",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-500-mg-30-tablets-per-bottle-rx-onl",
+    "slug": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-500-mg-30-tablets-per-bottle-rx-onl",
+    "title": "Zydus Pharmaceuticals (USA) Inc: Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Zydus Pharmaceuticals (USA) Inc",
+    "brand": "Zydus Pharmaceuticals (USA) Inc",
+    "product": "Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only,",
+    "category": "Recall",
+    "summary": "CGMP Deviations; presence of N-Nitroso-Desmethyl-Erythromycin above the recommended acceptable intake limit Product details: Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only, Manufactured by: Zydus Lifesciences Ltd., Ahmedabad, India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534; (NDC 70710-1048-3).",
+    "affectedPeople": "Nationwide within the U.S",
+    "remedy": "Affected quantity: 10,992 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0545-2026",
+    "recallInitiationDate": "20260429",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "lupin-pharmaceuticals-inc-liraglutide-injection-18-mg-3-ml-6-mg-ml-rx-only-manufactured-fo",
+    "slug": "lupin-pharmaceuticals-inc-liraglutide-injection-18-mg-3-ml-6-mg-ml-rx-only-manufactured-fo",
+    "title": "Lupin Pharmaceuticals Inc.: Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Lupin Pharmaceuticals Inc.",
+    "brand": "Lupin Pharmaceuticals Inc.",
+    "product": "Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108,",
+    "category": "Recall",
+    "summary": "Presence of particulate matter: a white thread-like structure in the cartridge Product details: Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108, Manufactured by: Lupin Limited, Nagpur 441108, INDIA, a) 2 Pens- NDC 70748-346-02; b) 3 Pens - NDC 70748-346-03.",
+    "affectedPeople": "Nationwide within U.S",
+    "remedy": "Affected quantity: 217,621 pen injectors",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0541-2026",
+    "recallInitiationDate": "20260424",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-250-mg-30-tablets-per-bottle-rx-onl",
+    "slug": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-250-mg-30-tablets-per-bottle-rx-onl",
+    "title": "Zydus Pharmaceuticals (USA) Inc: Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Zydus Pharmaceuticals (USA) Inc",
+    "brand": "Zydus Pharmaceuticals (USA) Inc",
+    "product": "Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only,",
+    "category": "Recall",
+    "summary": "CGMP Deviations; presence of N-Nitroso-Desmethyl-Erythromycin above the recommended acceptable intake limit Product details: Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only, Manufactured by: Zydus Lifesciences Ltd., Ahmedabad, India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534; a) 30 count bottles (NDC 70710-1047-3); b) 100 count bottles ...",
+    "affectedPeople": "Nationwide within the U.S",
+    "remedy": "Affected quantity: 23,880 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0544-2026",
+    "recallInitiationDate": "20260429",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "amerisource-health-services-llc-primidone-tablets-usp-50-mg-100-tablets-10-x-10-unit-dose-",
+    "slug": "amerisource-health-services-llc-primidone-tablets-usp-50-mg-100-tablets-10-x-10-unit-dose-",
+    "title": "Amerisource Health Services LLC: Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Amerisource Health Services LLC",
+    "brand": "Amerisource Health Services LLC",
+    "product": "Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only,",
+    "category": "Recall",
+    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Distributed by: American Health Packaging, Columbus, Ohio 43217. Carton NDC: 68084-202-01; Individual Dose NDC: 68084-202-11",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 225,000 tablets",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0537-2026",
+    "recallInitiationDate": "20260501",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "golden-state-medical-supply-inc-primidone-tablets-usp-50-mg-50-count-bottle-rx-only",
+    "slug": "golden-state-medical-supply-inc-primidone-tablets-usp-50-mg-50-count-bottle-rx-only",
+    "title": "Golden State Medical Supply Inc.: Primidone Tablets, USP, 50 mg, 50-count bottle, RX only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Golden State Medical Supply Inc.",
+    "brand": "Golden State Medical Supply Inc.",
+    "product": "Primidone Tablets, USP, 50 mg, 50-count bottle, RX only,",
+    "category": "Recall",
+    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 50 mg, 50-count bottle, RX only, Manufactured by: Lannett Company, Inc., Marketed by: GSMS, Incorporated, Camarillo, CA 93012. NDC 51407-637-05",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 8,526 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0534-2026",
+    "recallInitiationDate": "20260427",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "golden-state-medical-supply-inc-primidone-tablets-usp-250-mg-100-count-bottle-rx-only",
+    "slug": "golden-state-medical-supply-inc-primidone-tablets-usp-250-mg-100-count-bottle-rx-only",
+    "title": "Golden State Medical Supply Inc.: Primidone Tablets, USP, 250 mg, 100-count bottle, RX only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Golden State Medical Supply Inc.",
+    "brand": "Golden State Medical Supply Inc.",
+    "product": "Primidone Tablets, USP, 250 mg, 100-count bottle, RX only,",
+    "category": "Recall",
+    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 250 mg, 100-count bottle, RX only, Manufactured by: Lannett Company, Inc., Marketed by: GSMS, Incorporated, Camarillo, CA 93012. NDC 51407-638-01",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 1,620 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0535-2026",
+    "recallInitiationDate": "20260427",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "wisconsin-pharmacal-company-mg217-multi-symptom-treatment-cream-and-skin-protectant-colloi",
+    "slug": "wisconsin-pharmacal-company-mg217-multi-symptom-treatment-cream-and-skin-protectant-colloi",
+    "title": "Wisconsin Pharmacal Company: MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g), Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wisconsin Pharmacal Company",
+    "brand": "Wisconsin Pharmacal Company",
+    "product": "MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g),",
+    "category": "Recall",
+    "summary": "Microbial Contamination of Non-Sterile Products: confirmed presence of Staphylococcus Aureus. Product details: MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g), Manufactured by: Pharmacal 1 Pharmacal Way, P.O. Box 198, Jackson, WI 53037.",
+    "affectedPeople": "USA Nationwide and Bahamas",
+    "remedy": "Affected quantity: 690 tubes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0553-2026",
+    "recallInitiationDate": "20260424",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "ucb-biosciences-inc-cimzia-certolizumab-pegol-2x200mg-ml-prefilled-syringes-2-single-dose-",
+    "slug": "ucb-biosciences-inc-cimzia-certolizumab-pegol-2x200mg-ml-prefilled-syringes-2-single-dose-",
+    "title": "UCB Biosciences Inc.: cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "UCB Biosciences Inc.",
+    "brand": "UCB Biosciences Inc.",
+    "product": "cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY, Manufactured by: UCB Inc., Smyrna, GA 30080, a) NDC 50474-710-79, b) Professional sample, NDC 50474-710-80; c) 3 cartons, STARTER KIT, NDC 50474-710-81.",
+    "affectedPeople": "US Nationwide.",
+    "remedy": "Affected quantity: 141,708 cartons",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0546-2026",
+    "recallInitiationDate": "20260508",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "amerisource-health-services-llc-primidone-tablets-usp-250-mg-100-tablets-10-x-10-unit-dose",
+    "slug": "amerisource-health-services-llc-primidone-tablets-usp-250-mg-100-tablets-10-x-10-unit-dose",
+    "title": "Amerisource Health Services LLC: Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Amerisource Health Services LLC",
+    "brand": "Amerisource Health Services LLC",
+    "product": "Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only,",
+    "category": "Recall",
+    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Distributed by: American Health Packaging, Columbus, Ohio 43217. Carton NDC: 68084-203-01; Individual Dose NDC: 68084-203-11",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 63,500 tablets",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0536-2026",
+    "recallInitiationDate": "20260501",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "ani-pharmaceuticals-inc-estradiol-gel-0-1-0-25-mg-0-25-g-per-packet-30-packets-per-carton-",
+    "slug": "ani-pharmaceuticals-inc-estradiol-gel-0-1-0-25-mg-0-25-g-per-packet-30-packets-per-carton-",
+    "title": "ANI Pharmaceuticals, Inc.: Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "ANI Pharmaceuticals, Inc.",
+    "brand": "ANI Pharmaceuticals, Inc.",
+    "product": "Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only,",
+    "category": "Recall",
+    "summary": "Defective Container; packets were found to be either empty or partially full. Product details: Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only, Distributed by: ANI Pharmaceuticals, Inc., Baudette, MN 56623. NDC 70954-531-20",
+    "affectedPeople": "Nationwide in the USA",
+    "remedy": "Affected quantity: 3964 Cartons",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0543-2026",
+    "recallInitiationDate": "20260512",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "sagent-pharmaceuticals-busulfan-injection-60-mg-per-10-ml-6-mg-per-ml-8x10-ml-single-dose-",
+    "slug": "sagent-pharmaceuticals-busulfan-injection-60-mg-per-10-ml-6-mg-per-ml-8x10-ml-single-dose-",
+    "title": "Sagent Pharmaceuticals: Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sagent Pharmaceuticals",
+    "brand": "Sagent Pharmaceuticals",
+    "product": "Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195",
+    "category": "Recall",
+    "summary": "Failed Impurities/Degradation Specifications Product details: Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195, Made in Canada, NDC 25021-241-10.",
+    "affectedPeople": "Nationwide within the United States",
+    "remedy": "Affected quantity: Lot 656412: 6,200 vials. Lot 659646: 3,328 vials.",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0539-2026",
+    "recallInitiationDate": "20260504",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "philips-medical-systems-nederland-b-v-azurion-system-system-code-description-model-numbers",
+    "slug": "philips-medical-systems-nederland-b-v-azurion-system-system-code-description-model-numbers",
+    "title": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.: Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063, 722221), Azurion 3 M15 (722064, 722222), Azurion 5 M12 (7222 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+    "brand": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+    "product": "Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063, 722221), Azurion 3 M15 (722064, 722222), Azurion 5 M12 (7222",
+    "category": "Recall",
+    "summary": "It was identified that HDDs used in the PCs of Azurion and Allura systems may show a decrease in performance as they age, particularly beyond six years of service. Issues with an HDD may, depending on the specific system PC in which the affected HDD is installed, result in loss of imaging functionality. Additionally, in Allura systems, this may lead to loss of motorized movement, or loss of data. In some cases, a system restart may temporarily restore functionality. Product details: Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063, 722221), Azurion 3 M15 (722064, 722222), Azurion 5 M12 (722227), Azurion 5 M20 (722228), Azurion 7 B12 (722067, 722225), Azurion 7 B20 (722068, 722226), Azurion 7 M12 (722078, 7222...",
+    "affectedPeople": "Worldwide distribution - US Nationwide and the countries of Canada, Afghanistan, Albania, Algeria, Argentina, Australia, Austria, Bahrain, Bangladesh, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussal, Bulgaria, Chile, China, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Egypt, Estonia, Fiji, Finland, France, French Polynesia, Georgia, Germany, Greece, Guinea, Honduras, Hong Kong, Hungary, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Korea, South, Kosovo, Kuwait, Kyrgyzstan, Lao, Latvia, Lebanon, Libya, Lithuania, Macedonia, Malaysia, Maldives, Malta, Martinique, Mauritius, Mexico, Moldova, Mongolia, Morocco, Myanmar, Nepal, Netherlands, New Caledonia, New Zealand, Nicaragua, Nigeria, Norway, Oman, Pakistan, Palestine, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, R¿union, Romania, Russian Fed., Russian Federation, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Uzbekistan, Vietnam, Yemen.",
+    "remedy": "Affected quantity: 3069 units (872 US, 2224 OUS)",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2258-2026",
+    "recallInitiationDate": "20260430",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "legacy-bakehouse-llc-butter-parsley-bagel-crisps-item-number-18490-net-weight-10-lbs-legac",
+    "slug": "legacy-bakehouse-llc-butter-parsley-bagel-crisps-item-number-18490-net-weight-10-lbs-legac",
+    "title": "Legacy Bakehouse LLC: Butter Parsley Bagel Crisps, Item Number 18490, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166. Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Legacy Bakehouse LLC",
+    "brand": "Legacy Bakehouse LLC",
+    "product": "Butter Parsley Bagel Crisps, Item Number 18490, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166.",
+    "category": "Recall",
+    "summary": "Products were made with recalled California Dairies milk powder due to Salmonella. Product details: Butter Parsley Bagel Crisps, Item Number 18490, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166.",
+    "affectedPeople": "PA, WI",
+    "remedy": "Affected quantity: 750 - 10 lb. cases",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0850-2026",
+    "recallInitiationDate": "20260505",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "wawa-beverage-company-wawa-diet-iced-tea-lemon-pint-16oz-plastic-bottle",
+    "slug": "wawa-beverage-company-wawa-diet-iced-tea-lemon-pint-16oz-plastic-bottle",
+    "title": "Wawa Beverage Company: Wawa Diet Iced Tea Lemon Pint (16oz),Plastic bottle Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wawa Beverage Company",
+    "brand": "Wawa Beverage Company",
+    "product": "Wawa Diet Iced Tea Lemon Pint (16oz),Plastic bottle",
+    "category": "Recall",
+    "summary": "Undeclared Milk Allergen, Product details: Wawa Diet Iced Tea Lemon Pint (16oz),Plastic bottle",
+    "affectedPeople": "The product has been distributed to the following states: DE, MD, NJ, PA, VA",
+    "remedy": "Affected quantity: Wawa Diet Iced Tea Lemon Pint (16oz) \u0013 616",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0856-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "wawa-beverage-company-wawa-diet-lemonade-pint-16oz-plastic-bottle",
+    "slug": "wawa-beverage-company-wawa-diet-lemonade-pint-16oz-plastic-bottle",
+    "title": "Wawa Beverage Company: Wawa Diet Lemonade Pint (16oz), Plastic bottle Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wawa Beverage Company",
+    "brand": "Wawa Beverage Company",
+    "product": "Wawa Diet Lemonade Pint (16oz), Plastic bottle",
+    "category": "Recall",
+    "summary": "Undeclared Milk Allergen, Product details: Wawa Diet Lemonade Pint (16oz), Plastic bottle",
+    "affectedPeople": "The product has been distributed to the following states: DE, MD, NJ, PA, VA",
+    "remedy": "Affected quantity: Wawa Diet Lemonade Pint (16oz) - 374",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0857-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "honeyville-inc-bulk-spl-bev-banana-cwt-banana-smoothie-super-sack-tote-item-355-0099",
+    "slug": "honeyville-inc-bulk-spl-bev-banana-cwt-banana-smoothie-super-sack-tote-item-355-0099",
+    "title": "Honeyville, Inc: (BULK) SPL-BEV Banana CWT (Banana Smoothie); Super Sack Tote Item# 355-0099 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Honeyville, Inc",
+    "brand": "Honeyville, Inc",
+    "product": "(BULK) SPL-BEV Banana CWT (Banana Smoothie); Super Sack Tote Item# 355-0099",
+    "category": "Recall",
+    "summary": "Firm received and used potentially contaminated (Salmonella) ingredient to manufacture various products. Product details: (BULK) SPL-BEV Banana CWT (Banana Smoothie); Super Sack Tote Item# 355-0099",
+    "affectedPeople": "Distribution is to California and Utah consignees.",
+    "remedy": "Affected quantity: 4980 pounds (all on hold at customer location)",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0849-2026",
+    "recallInitiationDate": "20260421",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "legacy-bakehouse-llc-giant-eagle-baked-pita-chips-with-parmesan-garlic-and-herb-bagel-cris",
+    "slug": "legacy-bakehouse-llc-giant-eagle-baked-pita-chips-with-parmesan-garlic-and-herb-bagel-cris",
+    "title": "Legacy Bakehouse LLC: giant eagle Baked Pita Chips with Parmesan, Garlic & Herb Bagel Crisps, Net Wt 7.33 oz. Shipping Case: 12 ct - 7.33 oz Bags Net Weight: 5.49 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Legacy Bakehouse LLC",
+    "brand": "Legacy Bakehouse LLC",
+    "product": "giant eagle Baked Pita Chips with Parmesan, Garlic & Herb Bagel Crisps, Net Wt 7.33 oz. Shipping Case: 12 ct - 7.33 oz Bags Net Weight: 5.49",
+    "category": "Recall",
+    "summary": "Products were made with recalled California Dairies milk powder due to Salmonella. Product details: giant eagle Baked Pita Chips with Parmesan, Garlic & Herb Bagel Crisps, Net Wt 7.33 oz. Shipping Case: 12 ct - 7.33 oz Bags Net Weight: 5.49 lbs. Legacy Bakehouse, LLC, Waukesha WI 53186.",
+    "affectedPeople": "PA, WI",
+    "remedy": "Affected quantity: 224 cases - 7.33 oz/12 ct",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0852-2026",
+    "recallInitiationDate": "20260505",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "legacy-bakehouse-llc-parmesan-and-herb-bagel-crisps-item-number-18139-net-weight-10-lbs-le",
+    "slug": "legacy-bakehouse-llc-parmesan-and-herb-bagel-crisps-item-number-18139-net-weight-10-lbs-le",
+    "title": "Legacy Bakehouse LLC: Parmesan & Herb Bagel Crisps, Item Number 18139, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166. Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Legacy Bakehouse LLC",
+    "brand": "Legacy Bakehouse LLC",
+    "product": "Parmesan & Herb Bagel Crisps, Item Number 18139, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166.",
+    "category": "Recall",
+    "summary": "Products were made with recalled California Dairies milk powder due to Salmonella. Product details: Parmesan & Herb Bagel Crisps, Item Number 18139, Net Weight: 10 lbs. Legacy Bakehouse, LLC, N8W22100 Johnson Dr., Waukesha, WI 53166.",
+    "affectedPeople": "PA, WI",
+    "remedy": "Affected quantity: 588 - 10 lb. cases",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0851-2026",
+    "recallInitiationDate": "20260505",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "wawa-beverage-company-wawa-iced-tea-lemon-16-oz-pint-plastic-bottle",
+    "slug": "wawa-beverage-company-wawa-iced-tea-lemon-16-oz-pint-plastic-bottle",
+    "title": "Wawa Beverage Company: Wawa Iced Tea Lemon 16 oz Pint, Plastic bottle Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wawa Beverage Company",
+    "brand": "Wawa Beverage Company",
+    "product": "Wawa Iced Tea Lemon 16 oz Pint, Plastic bottle",
+    "category": "Recall",
+    "summary": "Undeclared Milk Allergen, Product details: Wawa Iced Tea Lemon 16 oz Pint, Plastic bottle",
+    "affectedPeople": "The product has been distributed to the following states: DE, MD, NJ, PA, VA",
+    "remedy": "Affected quantity: Wawa Iced Tea Lemon Pint (16oz) - 15,510",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0855-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "wawa-beverage-company-wawa-fruit-punch-pint-16oz-plastic-bottle",
+    "slug": "wawa-beverage-company-wawa-fruit-punch-pint-16oz-plastic-bottle",
+    "title": "Wawa Beverage Company: Wawa Fruit Punch Pint (16oz), Plastic bottle Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Wawa Beverage Company",
+    "brand": "Wawa Beverage Company",
+    "product": "Wawa Fruit Punch Pint (16oz), Plastic bottle",
+    "category": "Recall",
+    "summary": "Undeclared Milk Allergen, Product details: Wawa Fruit Punch Pint (16oz), Plastic bottle",
+    "affectedPeople": "The product has been distributed to the following states: DE, MD, NJ, PA, VA",
+    "remedy": "Affected quantity: Wawa Fruit Punch Pint (16oz) - 1,694",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0858-2026",
+    "recallInitiationDate": "20260402",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "fly-by-jing-inc-fly-by-jing-branded-creamy-sesame-noodles-3-8-oz-packets-sold-in-single-an",
+    "slug": "fly-by-jing-inc-fly-by-jing-branded-creamy-sesame-noodles-3-8-oz-packets-sold-in-single-an",
+    "title": "Fly By Jing Inc.: Fly By Jing (branded) Creamy Sesame Noodles; 3.8 oz packets. Sold in single and 4 packs. Single Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Fly By Jing Inc.",
+    "brand": "Fly By Jing Inc.",
+    "product": "Fly By Jing (branded) Creamy Sesame Noodles; 3.8 oz packets. Sold in single and 4 packs. Single",
+    "category": "Recall",
+    "summary": "Possible cross-contamination resulting in undeclared allergen ingredient (Peanut) Product details: Fly By Jing (branded) Creamy Sesame Noodles; 3.8 oz packets. Sold in single and 4 packs. Single UPC: 8-50052-23988-6 4 pack UPC: 8-50052-23991-6",
+    "affectedPeople": "Nationwide",
+    "remedy": "Affected quantity: 3,419 cases across all sizes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0854-2026",
+    "recallInitiationDate": "20260508",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "aveva-drug-delivery-systems-inc-nicotine-transdermal-system-patch-14-mg-14-patches-per-box",
+    "slug": "aveva-drug-delivery-systems-inc-nicotine-transdermal-system-patch-14-mg-14-patches-per-box",
+    "title": "AVEVA Drug Delivery Systems, Inc.: Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "AVEVA Drug Delivery Systems, Inc.",
+    "brand": "AVEVA Drug Delivery Systems, Inc.",
+    "product": "Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva,",
+    "category": "Recall",
+    "summary": "Failed Impurities/Degradation Specifications: Elevated levels of oxidative-related impurities, exceeding shelf-life specifications during stability testing of individual units. Product details: Nicotine Transdermal System Patch, 14 mg, 14 patches per box, Aveva, Distributed by: RUGBY LABORATORIES, Indianapolis, IN 46268, www.majorpharmaceuticals.com, NDC 0536-5895-88.",
+    "affectedPeople": "Nationwide within the U.S",
+    "remedy": "Affected quantity: 59,808 pouches (4,272 Individual Folding Carton (IFC))",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0550-2026",
+    "recallInitiationDate": "20260514",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "abbvie-inc-pred-mild-prednisolone-acetate-ophthalmic-suspension-usp-0-12-10-ml-sterile-rx-",
+    "slug": "abbvie-inc-pred-mild-prednisolone-acetate-ophthalmic-suspension-usp-0-12-10-ml-sterile-rx-",
+    "title": "AbbVie Inc.: PRED MILD, prednisolone acetate ophthalmic suspension, USP, 0.12%, 10 mL, Sterile, Rx only, Allergen, Inc., an AbbVie company, North Chicago Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "AbbVie Inc.",
+    "brand": "AbbVie Inc.",
+    "product": "PRED MILD, prednisolone acetate ophthalmic suspension, USP, 0.12%, 10 mL, Sterile, Rx only, Allergen, Inc., an AbbVie company, North Chicago",
+    "category": "Recall",
+    "summary": "Failed Stability Specifications Product details: PRED MILD, prednisolone acetate ophthalmic suspension, USP, 0.12%, 10 mL, Sterile, Rx only, Allergen, Inc., an AbbVie company, North Chicago, IL 60064, Product of France, NDC 11980-174-10.",
+    "affectedPeople": "US Nationwide.",
+    "remedy": "Affected quantity: 2,736 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0551-2026",
+    "recallInitiationDate": "20260518",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "ge-medical-systems-information-technologies-inc-ge-healthcare-trade-in-carescape-telemetry",
+    "slug": "ge-medical-systems-information-technologies-inc-ge-healthcare-trade-in-carescape-telemetry",
+    "title": "GE Medical Systems Information Technologies Inc: GE HealthCare TRADE IN CARESCAPE TELEMETRY SERVER ARK-2250L - NORTH AMERICA, REF #5697603-902, Product Code KSA; used in conjunction wtih Ap Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "GE Medical Systems Information Technologies Inc",
+    "brand": "GE Medical Systems Information Technologies Inc",
+    "product": "GE HealthCare TRADE IN CARESCAPE TELEMETRY SERVER ARK-2250L - NORTH AMERICA, REF #5697603-902, Product Code KSA; used in conjunction wtih Ap",
+    "category": "Recall",
+    "summary": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Center (Central Station). Product details: GE HealthCare TRADE IN CARESCAPE TELEMETRY SERVER ARK-2250L - NORTH AMERICA, REF #5697603-902, Product Code KSA; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (CTS) v6.0; Monitor, Physiological, Patient(With Arrhythmia Detection Or Alarms)",
+    "affectedPeople": "Worldwide distribution.",
+    "remedy": "Affected quantity: 2366 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2246-2026",
+    "recallInitiationDate": "20260424",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "medline-industries-lp-medline-kits-containing-huons-co-bupivacaine-hcl-in-dextrose-injecti",
+    "slug": "medline-industries-lp-medline-kits-containing-huons-co-bupivacaine-hcl-in-dextrose-injecti",
+    "title": "Medline Industries, LP: Medline kits containing Huons Co. Bupivacaine HCL in Dextrose Injection, USP, labeled as: 1) BLOCK TRAY, Medline Kit SKU DYNJRA1181C; 2) SPI Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medline Industries, LP",
+    "brand": "Medline Industries, LP",
+    "product": "Medline kits containing Huons Co. Bupivacaine HCL in Dextrose Injection, USP, labeled as: 1) BLOCK TRAY, Medline Kit SKU DYNJRA1181C; 2) SPI",
+    "category": "Recall",
+    "summary": "Medline kits were distributed containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP, which was subsequently recalled due to quality issues, including microbiology testing data integrity concerns and reported efficacy complaints. Product details: Medline kits containing Huons Co. Bupivacaine HCL in Dextrose Injection, USP, labeled as: 1) BLOCK TRAY, Medline Kit SKU DYNJRA1181C; 2) SPINAL BLOCK 25G WHTCRE 5S BU, Medline Kit SKu DYNJRA1860.",
+    "affectedPeople": "Worldwide - US Nationwide distribution in the US Territory of Virgin Islands and the countries of Bahamas, Panama, Barbados.",
+    "remedy": "Affected quantity: 270 kits",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2234-2026",
+    "recallInitiationDate": "20260410",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "abiomed-inc-automated-impella-controller-aic-with-the-below-product-descriptions-and-corre",
+    "slug": "abiomed-inc-automated-impella-controller-aic-with-the-below-product-descriptions-and-corre",
+    "title": "Abiomed, Inc.: Automated Impella Controller (AIC) with the below product descriptions and corresponding Product Codes. 1. Impella Controller, Packaged, CA; Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Abiomed, Inc.",
+    "brand": "Abiomed, Inc.",
+    "product": "Automated Impella Controller (AIC) with the below product descriptions and corresponding Product Codes. 1. Impella Controller, Packaged, CA;",
+    "category": "Recall",
+    "summary": "Retrospective submission for following issues identified: 1. Alarm failures, power-path faults, electrical-short risks, and inaccurate motor-current sensing were identified in certain AIC consoles. 2. There is improper alignment between the purge cassette and the motor drive in the AIC. This can result in a piston block event and lead to the inability to complete priming of the purge system, requiring the user to switch to backup AIC console. Product details: Automated Impella Controller (AIC) with the below product descriptions and corresponding Product Codes. 1. Impella Controller, Packaged, CA; Product Code: 0042-0000-CA. 2. Impella Controller, Packaged, EU; Product Code: 0042-0000-EU. 3. Impella Controller, Pac...",
+    "affectedPeople": "Worldwide distribution - US Nationwide and the countries of Canada, Denmark, France, Germany, Italy, Kuwait, Netherlands, Norway, Saudi Arabia, Spain, Switzerland, United Arab Emirates, United Kingdom.",
+    "remedy": "Affected quantity: 625 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2238-2026",
+    "recallInitiationDate": "20110117",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "ge-medical-systems-information-technologies-inc-ge-healthcare-apexpro-v6-0-edelivery-softw",
+    "slug": "ge-medical-systems-information-technologies-inc-ge-healthcare-apexpro-v6-0-edelivery-softw",
+    "title": "GE Medical Systems Information Technologies Inc: GE HealthCare ApexPro v6.0 eDelivery Software, REF #5700026, Product Code SUV; used in conjunction wtih ApexPro CARESCAPE Telemetry Server ( Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "GE Medical Systems Information Technologies Inc",
+    "brand": "GE Medical Systems Information Technologies Inc",
+    "product": "GE HealthCare ApexPro v6.0 eDelivery Software, REF #5700026, Product Code SUV; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (",
+    "category": "Recall",
+    "summary": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Center (Central Station). Product details: GE HealthCare ApexPro v6.0 eDelivery Software, REF #5700026, Product Code SUV; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (CTS) v6.0; Monitor, Physiological, Patient(With Arrhythmia Detection Or Alarms)",
+    "affectedPeople": "Worldwide distribution.",
+    "remedy": "Affected quantity: 2187 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2247-2026",
+    "recallInitiationDate": "20260424",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "medline-industries-lp-medline-medical-convenience-kit-labeled-as-eye-tray-lf-medline-kit-s",
+    "slug": "medline-industries-lp-medline-medical-convenience-kit-labeled-as-eye-tray-lf-medline-kit-s",
+    "title": "Medline Industries, LP: Medline medical convenience kit labeled as EYE TRAY-LF, Medline Kit SKU DYNJ21627P Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medline Industries, LP",
+    "brand": "Medline Industries, LP",
+    "product": "Medline medical convenience kit labeled as EYE TRAY-LF, Medline Kit SKU DYNJ21627P",
+    "category": "Recall",
+    "summary": "Specific Medline Kits contain Cardinal Health Monoject 1mL Luer Lock Syringes, Tuberculin Print, Sterile. Cardinal Health has recalled these syringes because the outer carton and blister pack are labeled as a 1 mL Luer Lock Tuberculin Syringe (Product Code 1180100777), but the syringes inside are U-100 insulin syringes. Product details: Medline medical convenience kit labeled as EYE TRAY-LF, Medline Kit SKU DYNJ21627P",
+    "affectedPeople": "US Nationwide distribution in the states of California.",
+    "remedy": "Affected quantity: 8 kits",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2260-2026",
+    "recallInitiationDate": "20260410",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "bolton-medical-inc-relaypro-thoracic-stent-graft-system-various-sizes-reference-numbers-28",
+    "slug": "bolton-medical-inc-relaypro-thoracic-stent-graft-system-various-sizes-reference-numbers-28",
+    "title": "Bolton Medical Inc.: RelayPro Thoracic Stent-Graft System (various sizes) Reference numbers: 28-N4-32-104-32U 28-N4-32-164-28U 28-N4-32-164-32U 28-N4-32-209-28U  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Bolton Medical Inc.",
+    "brand": "Bolton Medical Inc.",
+    "product": "RelayPro Thoracic Stent-Graft System (various sizes) Reference numbers: 28-N4-32-104-32U 28-N4-32-164-28U 28-N4-32-164-32U 28-N4-32-209-28U ",
+    "category": "Recall",
+    "summary": "Labeling update concerning proximal clasp disconnection from the outer control tube which may prevent stent graft from being released from the delivery system. Product details: RelayPro Thoracic Stent-Graft System (various sizes) Reference numbers: 28-N4-32-104-32U 28-N4-32-164-28U 28-N4-32-164-32U 28-N4-32-209-28U 28-N4-32-209-32U 28-N4-32-259-32U 28-N4-34-109-34U 28-N4-34-154-30U 28-N4-34-154-34U 28-N4-34-209-30U 28-N4-34-209-34U 2...",
+    "affectedPeople": "Worldwide - distribution in the US Territory of Puerto Rico and the countries of Argentina, Chile, Canada, Colombia, Mexico, United Kingdom.",
+    "remedy": "Follow official recall instructions.",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2160-2026",
+    "recallInitiationDate": "20260422",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "medtronic-neuromodulation-medtronic-1x4-pocket-adaptor-kit-for-deep-brain-stimulation-mode",
+    "slug": "medtronic-neuromodulation-medtronic-1x4-pocket-adaptor-kit-for-deep-brain-stimulation-mode",
+    "title": "Medtronic Neuromodulation: Medtronic 1x4 Pocket Adaptor Kit for Deep Brain Stimulation, Model 64001; Stimulator, electrical, implanted, for parkinsonian tremor Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medtronic Neuromodulation",
+    "brand": "Medtronic Neuromodulation",
+    "product": "Medtronic 1x4 Pocket Adaptor Kit for Deep Brain Stimulation, Model 64001; Stimulator, electrical, implanted, for parkinsonian tremor",
+    "category": "Recall",
+    "summary": "A limited number of Pocket Adaptor Kits, Model 64001 and 64002, are labeled with incorrect Use-By-Dates. Product details: Medtronic 1x4 Pocket Adaptor Kit for Deep Brain Stimulation, Model 64001; Stimulator, electrical, implanted, for parkinsonian tremor",
+    "affectedPeople": "Worldwide distribution - US Nationwide and The countries of Austria, France, Germany, Italy, Japan, Latvia, Netherlands, Poland, Spain, Sweden, Switzerland, United Kingdom.",
+    "remedy": "Affected quantity: 275 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2240-2026",
+    "recallInitiationDate": "20260513",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
+  },
+  {
+    "id": "o-and-m-halyard-inc-halyard-purezero-ultraviolet-nitrile-exam-gloves-reference-numbers-487",
+    "slug": "o-and-m-halyard-inc-halyard-purezero-ultraviolet-nitrile-exam-gloves-reference-numbers-487",
+    "title": "O&M HALYARD INC: Halyard Purezero Ultraviolet Nitrile Exam Gloves Reference Numbers: 48771 (XS), 48772 (Sm.), 48773 (Md.), 48774 (Lg.), 48775 (Xl) Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "O&M HALYARD INC",
+    "brand": "O&M HALYARD INC",
+    "product": "Halyard Purezero Ultraviolet Nitrile Exam Gloves Reference Numbers: 48771 (XS), 48772 (Sm.), 48773 (Md.), 48774 (Lg.), 48775 (Xl)",
+    "category": "Recall",
+    "summary": "Nitrile Exam Glove failed to meet specifications chemical permeation performance. Product details: Halyard Purezero Ultraviolet Nitrile Exam Gloves Reference Numbers: 48771 (XS), 48772 (Sm.), 48773 (Md.), 48774 (Lg.), 48775 (Xl)",
+    "affectedPeople": "US Nationwide distribution in the states of GA, CA, NJ, MA, NY, NC.",
+    "remedy": "Affected quantity: 452,500 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2230-2026",
+    "recallInitiationDate": "20260413",
+    "lastUpdated": "2026-06-08T20:33:43.376Z"
   },
   {
     "id": "liquid-blenz-corp-fibroid-bully-16-oz-and-32-oz",
@@ -3865,344 +4693,6 @@
     "lastUpdated": "2026-06-08T16:18:46.932Z"
   },
   {
-    "id": "safecor-health-llc-atomoxetine-capsules-hcl-10-mg-capsules-in-unit-dose-foil-strip-strips-",
-    "slug": "safecor-health-llc-atomoxetine-capsules-hcl-10-mg-capsules-in-unit-dose-foil-strip-strips-",
-    "title": "Safecor Health, LLC: Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, O Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Safecor Health, LLC",
-    "brand": "Safecor Health, LLC",
-    "product": "Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, O",
-    "category": "Recall",
-    "summary": "Labeling: Label Mix-Up: Atomoxetine HCl 25mg Capsule incorrectly labeled as Atomoxetine HCl 10mg Capsule. Product details: Atomoxetine Capsules HCL, 10 mg Capsules in unit dose foil strip, strips are packed in cartons of 100, Rx Only, Pkg by: Safecor, Columbus, OH 43204. NDC: 64380-474-01",
-    "affectedPeople": "TX only",
-    "remedy": "Affected quantity: 149 capsules",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0538-2026",
-    "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "integradose-compounding-services-llc-fentanyl-citrate-sterile-cadd-for-injection-2-2500-mc",
-    "slug": "integradose-compounding-services-llc-fentanyl-citrate-sterile-cadd-for-injection-2-2500-mc",
-    "title": "IntegraDose Compounding Services LLC: fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Su Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "IntegraDose Compounding Services LLC",
-    "brand": "IntegraDose Compounding Services LLC",
-    "product": "fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Su",
-    "category": "Recall",
-    "summary": "Subpotent Drug Product details: fentaNYL Citrate, Sterile CADD for Injection, 2,2500 mcg/50mL in Sterile Water, IntegraDose Compounding Services LLC, 3650 Victorie St N, Suite 900, Shoreview, MN, NDC 71139-6030-1.",
-    "affectedPeople": "Nationwide.",
-    "remedy": "Affected quantity: 376 cassettes",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0548-2026",
-    "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-500-mg-30-tablets-per-bottle-rx-onl",
-    "slug": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-500-mg-30-tablets-per-bottle-rx-onl",
-    "title": "Zydus Pharmaceuticals (USA) Inc: Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Zydus Pharmaceuticals (USA) Inc",
-    "brand": "Zydus Pharmaceuticals (USA) Inc",
-    "product": "Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only,",
-    "category": "Recall",
-    "summary": "CGMP Deviations; presence of N-Nitroso-Desmethyl-Erythromycin above the recommended acceptable intake limit Product details: Erythromycin Tablets, USP, 500 mg, 30 tablets per bottle, Rx only, Manufactured by: Zydus Lifesciences Ltd., Ahmedabad, India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534; (NDC 70710-1048-3).",
-    "affectedPeople": "Nationwide within the U.S",
-    "remedy": "Affected quantity: 10,992 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0545-2026",
-    "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "lupin-pharmaceuticals-inc-liraglutide-injection-18-mg-3-ml-6-mg-ml-rx-only-manufactured-fo",
-    "slug": "lupin-pharmaceuticals-inc-liraglutide-injection-18-mg-3-ml-6-mg-ml-rx-only-manufactured-fo",
-    "title": "Lupin Pharmaceuticals Inc.: Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Lupin Pharmaceuticals Inc.",
-    "brand": "Lupin Pharmaceuticals Inc.",
-    "product": "Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108,",
-    "category": "Recall",
-    "summary": "Presence of particulate matter: a white thread-like structure in the cartridge Product details: Liraglutide Injection, 18 mg/3 mL (6 mg/mL), Rx only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108, Manufactured by: Lupin Limited, Nagpur 441108, INDIA, a) 2 Pens- NDC 70748-346-02; b) 3 Pens - NDC 70748-346-03.",
-    "affectedPeople": "Nationwide within U.S",
-    "remedy": "Affected quantity: 217,621 pen injectors",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0541-2026",
-    "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-250-mg-30-tablets-per-bottle-rx-onl",
-    "slug": "zydus-pharmaceuticals-usa-inc-erythromycin-tablets-usp-250-mg-30-tablets-per-bottle-rx-onl",
-    "title": "Zydus Pharmaceuticals (USA) Inc: Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Zydus Pharmaceuticals (USA) Inc",
-    "brand": "Zydus Pharmaceuticals (USA) Inc",
-    "product": "Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only,",
-    "category": "Recall",
-    "summary": "CGMP Deviations; presence of N-Nitroso-Desmethyl-Erythromycin above the recommended acceptable intake limit Product details: Erythromycin Tablets, USP, 250 mg, 30 tablets per bottle, Rx only, Manufactured by: Zydus Lifesciences Ltd., Ahmedabad, India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534; a) 30 count bottles (NDC 70710-1047-3); b) 100 count bottles ...",
-    "affectedPeople": "Nationwide within the U.S",
-    "remedy": "Affected quantity: 23,880 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0544-2026",
-    "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "amerisource-health-services-llc-primidone-tablets-usp-50-mg-100-tablets-10-x-10-unit-dose-",
-    "slug": "amerisource-health-services-llc-primidone-tablets-usp-50-mg-100-tablets-10-x-10-unit-dose-",
-    "title": "Amerisource Health Services LLC: Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Amerisource Health Services LLC",
-    "brand": "Amerisource Health Services LLC",
-    "product": "Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only,",
-    "category": "Recall",
-    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 50 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Distributed by: American Health Packaging, Columbus, Ohio 43217. Carton NDC: 68084-202-01; Individual Dose NDC: 68084-202-11",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 225,000 tablets",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0537-2026",
-    "recallInitiationDate": "20260501",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "golden-state-medical-supply-inc-primidone-tablets-usp-50-mg-50-count-bottle-rx-only",
-    "slug": "golden-state-medical-supply-inc-primidone-tablets-usp-50-mg-50-count-bottle-rx-only",
-    "title": "Golden State Medical Supply Inc.: Primidone Tablets, USP, 50 mg, 50-count bottle, RX only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Golden State Medical Supply Inc.",
-    "brand": "Golden State Medical Supply Inc.",
-    "product": "Primidone Tablets, USP, 50 mg, 50-count bottle, RX only,",
-    "category": "Recall",
-    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 50 mg, 50-count bottle, RX only, Manufactured by: Lannett Company, Inc., Marketed by: GSMS, Incorporated, Camarillo, CA 93012. NDC 51407-637-05",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 8,526 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0534-2026",
-    "recallInitiationDate": "20260427",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "golden-state-medical-supply-inc-primidone-tablets-usp-250-mg-100-count-bottle-rx-only",
-    "slug": "golden-state-medical-supply-inc-primidone-tablets-usp-250-mg-100-count-bottle-rx-only",
-    "title": "Golden State Medical Supply Inc.: Primidone Tablets, USP, 250 mg, 100-count bottle, RX only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Golden State Medical Supply Inc.",
-    "brand": "Golden State Medical Supply Inc.",
-    "product": "Primidone Tablets, USP, 250 mg, 100-count bottle, RX only,",
-    "category": "Recall",
-    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 250 mg, 100-count bottle, RX only, Manufactured by: Lannett Company, Inc., Marketed by: GSMS, Incorporated, Camarillo, CA 93012. NDC 51407-638-01",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 1,620 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0535-2026",
-    "recallInitiationDate": "20260427",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "wisconsin-pharmacal-company-mg217-multi-symptom-treatment-cream-and-skin-protectant-colloi",
-    "slug": "wisconsin-pharmacal-company-mg217-multi-symptom-treatment-cream-and-skin-protectant-colloi",
-    "title": "Wisconsin Pharmacal Company: MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g), Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Wisconsin Pharmacal Company",
-    "brand": "Wisconsin Pharmacal Company",
-    "product": "MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g),",
-    "category": "Recall",
-    "summary": "Microbial Contamination of Non-Sterile Products: confirmed presence of Staphylococcus Aureus. Product details: MG217 Multi-Symptom Treatment Cream & Skin Protectant (colloidal oatmeal 2%), NET WT 6 oz (170 g), Manufactured by: Pharmacal 1 Pharmacal Way, P.O. Box 198, Jackson, WI 53037.",
-    "affectedPeople": "USA Nationwide and Bahamas",
-    "remedy": "Affected quantity: 690 tubes",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0553-2026",
-    "recallInitiationDate": "20260424",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "ucb-biosciences-inc-cimzia-certolizumab-pegol-2x200mg-ml-prefilled-syringes-2-single-dose-",
-    "slug": "ucb-biosciences-inc-cimzia-certolizumab-pegol-2x200mg-ml-prefilled-syringes-2-single-dose-",
-    "title": "UCB Biosciences Inc.: cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "UCB Biosciences Inc.",
-    "brand": "UCB Biosciences Inc.",
-    "product": "cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: cimzia (certolizumab pegol), 2x200mg/mL PREFILLED SYRINGES (2 single-dose), Rx ONLY, Manufactured by: UCB Inc., Smyrna, GA 30080, a) NDC 50474-710-79, b) Professional sample, NDC 50474-710-80; c) 3 cartons, STARTER KIT, NDC 50474-710-81.",
-    "affectedPeople": "US Nationwide.",
-    "remedy": "Affected quantity: 141,708 cartons",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0546-2026",
-    "recallInitiationDate": "20260508",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "amerisource-health-services-llc-primidone-tablets-usp-250-mg-100-tablets-10-x-10-unit-dose",
-    "slug": "amerisource-health-services-llc-primidone-tablets-usp-250-mg-100-tablets-10-x-10-unit-dose",
-    "title": "Amerisource Health Services LLC: Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Amerisource Health Services LLC",
-    "brand": "Amerisource Health Services LLC",
-    "product": "Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only,",
-    "category": "Recall",
-    "summary": "Cross contamination with other products: API contaminated with trace amounts of Acemetacin API. Product details: Primidone Tablets, USP, 250 mg, 100 Tablets (10 x 10 unit dose blister) per carton, Rx only, Distributed by: American Health Packaging, Columbus, Ohio 43217. Carton NDC: 68084-203-01; Individual Dose NDC: 68084-203-11",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 63,500 tablets",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0536-2026",
-    "recallInitiationDate": "20260501",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "ani-pharmaceuticals-inc-estradiol-gel-0-1-0-25-mg-0-25-g-per-packet-30-packets-per-carton-",
-    "slug": "ani-pharmaceuticals-inc-estradiol-gel-0-1-0-25-mg-0-25-g-per-packet-30-packets-per-carton-",
-    "title": "ANI Pharmaceuticals, Inc.: Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "ANI Pharmaceuticals, Inc.",
-    "brand": "ANI Pharmaceuticals, Inc.",
-    "product": "Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only,",
-    "category": "Recall",
-    "summary": "Defective Container; packets were found to be either empty or partially full. Product details: Estradiol Gel, 0.1%, 0.25 mg, 0.25 g per packet, 30 packets per carton, Rx only, Distributed by: ANI Pharmaceuticals, Inc., Baudette, MN 56623. NDC 70954-531-20",
-    "affectedPeople": "Nationwide in the USA",
-    "remedy": "Affected quantity: 3964 Cartons",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0543-2026",
-    "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "sagent-pharmaceuticals-busulfan-injection-60-mg-per-10-ml-6-mg-per-ml-8x10-ml-single-dose-",
-    "slug": "sagent-pharmaceuticals-busulfan-injection-60-mg-per-10-ml-6-mg-per-ml-8x10-ml-single-dose-",
-    "title": "Sagent Pharmaceuticals: Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195 Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sagent Pharmaceuticals",
-    "brand": "Sagent Pharmaceuticals",
-    "product": "Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195",
-    "category": "Recall",
-    "summary": "Failed Impurities/Degradation Specifications Product details: Busulfan Injection, 60 mg per 10 mL (6 mg per mL), 8x10 mL Single-Dose Vials, Rx only, Mfd. for Sagent Pharmaceuticals, Schaumburg, IL 60195, Made in Canada, NDC 25021-241-10.",
-    "affectedPeople": "Nationwide within the United States",
-    "remedy": "Affected quantity: Lot 656412: 6,200 vials. Lot 659646: 3,328 vials.",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0539-2026",
-    "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
     "id": "lannett-company-inc-primidone-tablets-usp-250mg-100-count-bottle-rx-only",
     "slug": "lannett-company-inc-primidone-tablets-usp-250mg-100-count-bottle-rx-only",
     "title": "Lannett Company Inc.: Primidone Tablets USP, 250mg, 100-count bottle, Rx only, Recall",
@@ -4278,32 +4768,6 @@
     "officialVerified": true,
     "officialRecordId": "Z-2203-2026",
     "recallInitiationDate": "20260408",
-    "lastUpdated": "2026-06-08T16:18:46.932Z"
-  },
-  {
-    "id": "philips-medical-systems-nederland-b-v-azurion-system-system-code-description-model-numbers",
-    "slug": "philips-medical-systems-nederland-b-v-azurion-system-system-code-description-model-numbers",
-    "title": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.: Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063), Azurion 3 M15 (722064), Azurion 7 B12 (722067), Azurion 7 B Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-    "brand": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-    "product": "Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063), Azurion 3 M15 (722064), Azurion 7 B12 (722067), Azurion 7 B",
-    "category": "Recall",
-    "summary": "The deaeration hose in X-ray tube cooling units type CU3101, manufactured between February 2016 and May 2020, may degrade over time, potentially resulting in oil leakage. Oil leakage may affect the cooling performance of the X-ray tube. When the oil flow drops below a certain threshold, the system automatically switches to low-dose fluoroscopy and displays the message Low load fluoroscopy flavor selected: Tube cooler problem . This condition cannot be resolved by restarting the system. Product details: Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063), Azurion 3 M15 (722064), Azurion 7 B12 (722067), Azurion 7 B20 (722068), Azurion 7 M12 (722078), Azurion 7 M20 (722079, 722224).",
-    "affectedPeople": "Domestic: Nationwide; International: Canada, Algeria, Argentina, Australia, Austria, Bahrain, Bangladesh, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Chile, China, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, Egypt, Ethiopia, Finland, France, French Polynesia, Georgia, Germany, Greece, Hong Kong, Hungary, India, Indonesia, Iran, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Korea, Republic of, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Libya, Lithuania, Malaysia, Maldives, Malta, Martinique, Mexico, Moldova, Mongolia, Morocco, Myanmar, Nepal, Netherlands, New Caledonia, New Zealand, Nigeria, Norway, Oman, Pakistan, Palestine, State of, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, R¿union, Romania, Russian Federation, Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Taiwan, Thailand, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Uzbekistan, Viet Nam, Yemen;",
-    "remedy": "Affected quantity: 1651 units (592 US, 1359 OUS)",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "Z-2227-2026",
-    "recallInitiationDate": "20260428",
     "lastUpdated": "2026-06-08T16:18:46.932Z"
   },
   {

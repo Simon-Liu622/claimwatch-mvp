@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-08T05:01:12.417Z",
+  "updatedAt": "2026-06-08T11:20:57.600Z",
   "item": {
-    "id": "ufc-white-house-lawsuit",
-    "slug": "ufc-white-house-lawsuit",
-    "title": "Ufc White House Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "wet-wipe",
+    "slug": "wet-wipe",
+    "title": "Wet Wipe: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ufc white house lawsuit",
-    "category": "Consumer monitoring",
+    "product": "wet wipe",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+white+house+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wet+wipe&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 8,
+    "trendScore": 25,
     "matchedQueries": [
-      "ufc white house lawsuit"
+      "wet wipe",
+      "product recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-08T05:01:09.792Z",
-    "url": "https://simon622.shop/item/ufc-white-house-lawsuit/"
+    "lastUpdated": "2026-06-08T11:20:47.657Z",
+    "url": "https://simon622.shop/item/wet-wipe/"
   }
 }

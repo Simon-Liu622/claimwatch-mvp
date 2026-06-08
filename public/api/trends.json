@@ -1,49 +1,50 @@
 {
-  "updatedAt": "2026-06-08T11:20:57.600Z",
+  "updatedAt": "2026-06-08T16:18:53.101Z",
   "count": 4,
   "trends": [
     {
-      "rank": 76,
-      "query": "facebook user privacy settlement",
-      "searchVolume": 2000,
+      "rank": 34,
+      "query": "ufc freedom 250",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
+      "breakdown": [
+        "lawsuit aims to stop ufc fight at the white house",
+        "ufc white house lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "ufc freedom 250 lawsuit aims to stop ufc fight at the white house ufc white house lawsuit",
+      "trendScore": 27,
+      "detectedAt": "2026-06-08T16:18:46.932Z"
+    },
+    {
+      "rank": 161,
+      "query": "facebook user privacy settlement",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
       "breakdown": [
         "facebook settlement",
         "facebook privacy settlement"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "facebook user privacy settlement facebook settlement facebook privacy settlement",
-      "trendScore": 27,
-      "detectedAt": "2026-06-08T11:20:47.657Z"
+      "trendScore": 12,
+      "detectedAt": "2026-06-08T16:18:46.932Z"
     },
     {
-      "rank": 62,
-      "query": "lawsuit aims to stop ufc fight at the white house",
+      "rank": 187,
+      "query": "wet wipe",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "ufc white house lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+aims+to+stop+ufc+fight+at+the+white+house&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "lawsuit aims to stop ufc fight at the white house ufc white house lawsuit",
-      "trendScore": 25,
-      "detectedAt": "2026-06-08T11:20:47.657Z"
-    },
-    {
-      "rank": 158,
-      "query": "wet wipe",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "product recall"
       ],
@@ -51,11 +52,11 @@
       "increasePercentage": 75,
       "source": "serpapi-google-trends",
       "text": "wet wipe product recall",
-      "trendScore": 25,
-      "detectedAt": "2026-06-08T11:20:47.657Z"
+      "trendScore": 10,
+      "detectedAt": "2026-06-08T16:18:46.932Z"
     },
     {
-      "rank": 411,
+      "rank": 456,
       "query": "trader joe's receipt class action",
       "searchVolume": 500,
       "startedAt": "",
@@ -67,7 +68,7 @@
       "source": "serpapi-google-trends",
       "text": "trader joe's receipt class action",
       "trendScore": 8,
-      "detectedAt": "2026-06-08T11:20:47.657Z"
+      "detectedAt": "2026-06-08T16:18:46.932Z"
     }
   ]
 }

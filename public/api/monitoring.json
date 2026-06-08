@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-06-08T11:20:57.600Z",
+  "updatedAt": "2026-06-08T16:18:53.101Z",
   "count": 4,
   "items": [
+    {
+      "id": "ufc-freedom-250",
+      "slug": "ufc-freedom-250",
+      "title": "Ufc Freedom 250: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ufc freedom 250",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "ufc freedom 250",
+        "lawsuit aims to stop ufc fight at the white house",
+        "ufc white house lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-08T16:18:46.932Z"
+    },
     {
       "id": "facebook-user-privacy-settlement",
       "slug": "facebook-user-privacy-settlement",
@@ -23,45 +54,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 27,
+      "searchVolume": 5000,
+      "trendScore": 12,
       "matchedQueries": [
         "facebook user privacy settlement",
         "facebook settlement",
         "facebook privacy settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T11:20:47.657Z"
-    },
-    {
-      "id": "lawsuit-aims-to-stop-ufc-fight-at-the-white-house",
-      "slug": "lawsuit-aims-to-stop-ufc-fight-at-the-white-house",
-      "title": "Lawsuit Aims To Stop Ufc Fight At The White House: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit aims to stop ufc fight at the white house",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+aims+to+stop+ufc+fight+at+the+white+house&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "lawsuit aims to stop ufc fight at the white house",
-        "ufc white house lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-08T11:20:47.657Z"
+      "lastUpdated": "2026-06-08T16:18:46.932Z"
     },
     {
       "id": "wet-wipe",
@@ -84,14 +85,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wet+wipe&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
         "wet wipe",
         "product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T11:20:47.657Z"
+      "lastUpdated": "2026-06-08T16:18:46.932Z"
     },
     {
       "id": "trader-joe-s-receipt-class-action",
@@ -120,7 +121,7 @@
         "trader joe's receipt class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-08T11:20:47.657Z"
+      "lastUpdated": "2026-06-08T16:18:46.932Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T04:34:24.294Z",
+  "updatedAt": "2026-06-09T10:02:54.375Z",
   "count": 5,
   "items": [
     {
@@ -31,38 +31,7 @@
         "facebook settlement second payment amount"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T04:34:21.853Z"
-    },
-    {
-      "id": "ufc-freedom-250",
-      "slug": "ufc-freedom-250",
-      "title": "Ufc Freedom 250: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ufc freedom 250",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "ufc freedom 250",
-        "lawsuit aims to stop ufc fight at the white house",
-        "ufc white house lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-09T04:34:21.853Z"
+      "lastUpdated": "2026-06-09T10:02:48.996Z"
     },
     {
       "id": "royal-caribbean-negligence-lawsuit",
@@ -91,7 +60,7 @@
         "royal caribbean negligence lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T04:34:21.853Z"
+      "lastUpdated": "2026-06-09T10:02:48.996Z"
     },
     {
       "id": "kia-telluride-seatbelt-recall",
@@ -114,13 +83,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+seatbelt+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "kia telluride seatbelt recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T04:34:21.853Z"
+      "lastUpdated": "2026-06-09T10:02:48.996Z"
     },
     {
       "id": "target-wipes-recall",
@@ -149,7 +118,36 @@
         "target wipes recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T04:34:21.853Z"
+      "lastUpdated": "2026-06-09T10:02:48.996Z"
+    },
+    {
+      "id": "trader-joe-s-lawsuit",
+      "slug": "trader-joe-s-lawsuit",
+      "title": "Trader Joe'S Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trader joe's lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "trader joe's lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-09T10:02:48.996Z"
     }
   ]
 }

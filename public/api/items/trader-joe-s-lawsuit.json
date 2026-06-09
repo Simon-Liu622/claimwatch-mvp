@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-09T04:34:24.294Z",
+  "updatedAt": "2026-06-09T10:02:54.375Z",
   "item": {
-    "id": "ufc-freedom-250",
-    "slug": "ufc-freedom-250",
-    "title": "Ufc Freedom 250: Consumer Alert Monitoring",
+    "id": "trader-joe-s-lawsuit",
+    "slug": "trader-joe-s-lawsuit",
+    "title": "Trader Joe'S Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ufc freedom 250",
+    "product": "trader joe's lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 26,
+    "searchVolume": 200,
+    "trendScore": 8,
     "matchedQueries": [
-      "ufc freedom 250",
-      "lawsuit aims to stop ufc fight at the white house",
-      "ufc white house lawsuit"
+      "trader joe's lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-09T04:34:21.853Z",
-    "url": "https://simon622.shop/item/ufc-freedom-250/"
+    "lastUpdated": "2026-06-09T10:02:48.996Z",
+    "url": "https://simon622.shop/item/trader-joe-s-lawsuit/"
   }
 }

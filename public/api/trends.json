@@ -1,57 +1,86 @@
 {
-  "updatedAt": "2026-06-08T20:33:49.892Z",
-  "count": 3,
+  "updatedAt": "2026-06-09T04:34:24.294Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 41,
+      "rank": 245,
+      "query": "facebook settlement",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "facebook privacy lawsuit second payout",
+        "facebook settlement second payment amount"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+settlement&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "facebook settlement facebook privacy lawsuit second payout facebook settlement second payment amount",
+      "trendScore": 28,
+      "detectedAt": "2026-06-09T04:34:21.853Z"
+    },
+    {
+      "rank": 42,
       "query": "ufc freedom 250",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "lawsuit aims to stop ufc fight at the white house",
-        "ufc white house lawsuit"
+        "lawsuit aims to stop ufc fight at the white house"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ufc+freedom+250&tz=420",
       "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "ufc freedom 250 lawsuit aims to stop ufc fight at the white house ufc white house lawsuit",
-      "trendScore": 27,
-      "detectedAt": "2026-06-08T20:33:43.376Z"
+      "text": "ufc freedom 250 lawsuit aims to stop ufc fight at the white house",
+      "trendScore": 26,
+      "detectedAt": "2026-06-09T04:34:21.853Z"
     },
     {
-      "rank": 167,
-      "query": "facebook user privacy settlement",
+      "rank": 33,
+      "query": "royal caribbean negligence lawsuit",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+negligence+lawsuit&tz=420",
+      "increasePercentage": 700,
+      "source": "serpapi-google-trends",
+      "text": "royal caribbean negligence lawsuit",
+      "trendScore": 24,
+      "detectedAt": "2026-06-09T04:34:21.853Z"
+    },
+    {
+      "rank": 38,
+      "query": "kia telluride seatbelt recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "facebook settlement",
-        "facebook privacy settlement"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-      "increasePercentage": 200,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+seatbelt+recall&tz=420",
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "facebook user privacy settlement facebook settlement facebook privacy settlement",
-      "trendScore": 12,
-      "detectedAt": "2026-06-08T20:33:43.376Z"
+      "text": "kia telluride seatbelt recall",
+      "trendScore": 23,
+      "detectedAt": "2026-06-09T04:34:21.853Z"
     },
     {
-      "rank": 423,
-      "query": "trader joe's receipt class action",
-      "searchVolume": 500,
+      "rank": 301,
+      "query": "target wipes recall",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+receipt+class+action&tz=420",
-      "increasePercentage": 75,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "trader joe's receipt class action",
+      "text": "target wipes recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-08T20:33:43.376Z"
+      "detectedAt": "2026-06-09T04:34:21.853Z"
     }
   ]
 }

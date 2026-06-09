@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-08T20:33:49.892Z",
+  "updatedAt": "2026-06-09T04:34:24.294Z",
   "item": {
-    "id": "facebook-user-privacy-settlement",
-    "slug": "facebook-user-privacy-settlement",
-    "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
+    "id": "facebook-settlement",
+    "slug": "facebook-settlement",
+    "title": "Facebook Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "facebook user privacy settlement",
+    "product": "facebook settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 12,
+    "searchVolume": 2000,
+    "trendScore": 28,
     "matchedQueries": [
-      "facebook user privacy settlement",
       "facebook settlement",
-      "facebook privacy settlement"
+      "facebook privacy lawsuit second payout",
+      "facebook settlement second payment amount"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-08T20:33:43.376Z",
-    "url": "https://simon622.shop/item/facebook-user-privacy-settlement/"
+    "lastUpdated": "2026-06-09T04:34:21.853Z",
+    "url": "https://simon622.shop/item/facebook-settlement/"
   }
 }

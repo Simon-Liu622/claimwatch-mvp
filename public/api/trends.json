@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-09T10:02:54.375Z",
-  "count": 5,
+  "updatedAt": "2026-06-09T15:27:15.445Z",
+  "count": 7,
   "trends": [
     {
-      "rank": 221,
+      "rank": 253,
       "query": "facebook settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -18,10 +18,42 @@
       "source": "serpapi-google-trends",
       "text": "facebook settlement facebook privacy lawsuit second payout facebook settlement second payment amount",
       "trendScore": 28,
-      "detectedAt": "2026-06-09T10:02:48.996Z"
+      "detectedAt": "2026-06-09T15:27:10.568Z"
     },
     {
-      "rank": 27,
+      "rank": 65,
+      "query": "stellantis jeep fire recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "fire"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stellantis+jeep+fire+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "stellantis jeep fire recall fire",
+      "trendScore": 25,
+      "detectedAt": "2026-06-09T15:27:10.568Z"
+    },
+    {
+      "rank": 10,
+      "query": "kia telluride seatbelt recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+seatbelt+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "kia telluride seatbelt recall",
+      "trendScore": 24,
+      "detectedAt": "2026-06-09T15:27:10.568Z"
+    },
+    {
+      "rank": 17,
       "query": "royal caribbean negligence lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
@@ -33,25 +65,40 @@
       "source": "serpapi-google-trends",
       "text": "royal caribbean negligence lawsuit",
       "trendScore": 24,
-      "detectedAt": "2026-06-09T10:02:48.996Z"
+      "detectedAt": "2026-06-09T15:27:10.568Z"
     },
     {
-      "rank": 17,
-      "query": "kia telluride seatbelt recall",
-      "searchVolume": 10000,
+      "rank": 151,
+      "query": "target wipes recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+seatbelt+recall&tz=420",
-      "increasePercentage": 800,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "kia telluride seatbelt recall",
-      "trendScore": 23,
-      "detectedAt": "2026-06-09T10:02:48.996Z"
+      "text": "target wipes recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-09T15:27:10.568Z"
     },
     {
-      "rank": 295,
+      "rank": 196,
+      "query": "stephen toyota bristol lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephen+toyota+bristol+lawsuit&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "stephen toyota bristol lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-09T15:27:10.568Z"
+    },
+    {
+      "rank": 370,
       "query": "trader joe's lawsuit",
       "searchVolume": 200,
       "startedAt": "",
@@ -63,22 +110,7 @@
       "source": "serpapi-google-trends",
       "text": "trader joe's lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-09T10:02:48.996Z"
-    },
-    {
-      "rank": 306,
-      "query": "target wipes recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "target wipes recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-09T10:02:48.996Z"
+      "detectedAt": "2026-06-09T15:27:10.568Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T10:02:54.375Z",
+  "updatedAt": "2026-06-09T15:27:15.445Z",
   "item": {
     "id": "target-wipes-recall",
     "slug": "target-wipes-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "trendScore": 8,
     "matchedQueries": [
       "target wipes recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-09T10:02:48.996Z",
+    "lastUpdated": "2026-06-09T15:27:10.568Z",
     "url": "https://simon622.shop/item/target-wipes-recall/"
   }
 }

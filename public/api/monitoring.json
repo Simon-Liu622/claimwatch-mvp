@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T10:02:54.375Z",
-  "count": 5,
+  "updatedAt": "2026-06-09T15:27:15.445Z",
+  "count": 7,
   "items": [
     {
       "id": "facebook-settlement",
@@ -31,7 +31,37 @@
         "facebook settlement second payment amount"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T10:02:48.996Z"
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
+    },
+    {
+      "id": "stellantis-jeep-fire-recall",
+      "slug": "stellantis-jeep-fire-recall",
+      "title": "Stellantis Jeep Fire Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "stellantis jeep fire recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stellantis+jeep+fire+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "stellantis jeep fire recall",
+        "fire"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
     },
     {
       "id": "royal-caribbean-negligence-lawsuit",
@@ -60,7 +90,7 @@
         "royal caribbean negligence lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T10:02:48.996Z"
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
     },
     {
       "id": "kia-telluride-seatbelt-recall",
@@ -83,13 +113,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+seatbelt+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "kia telluride seatbelt recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T10:02:48.996Z"
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
     },
     {
       "id": "target-wipes-recall",
@@ -112,13 +142,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
         "target wipes recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T10:02:48.996Z"
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
     },
     {
       "id": "trader-joe-s-lawsuit",
@@ -147,7 +177,36 @@
         "trader joe's lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-09T10:02:48.996Z"
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
+    },
+    {
+      "id": "stephen-toyota-bristol-lawsuit",
+      "slug": "stephen-toyota-bristol-lawsuit",
+      "title": "Stephen Toyota Bristol Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "stephen toyota bristol lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephen+toyota+bristol+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "stephen toyota bristol lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-09T15:27:10.568Z"
     }
   ]
 }

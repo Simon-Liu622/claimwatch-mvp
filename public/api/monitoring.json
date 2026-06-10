@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T04:48:05.937Z",
-  "count": 5,
+  "updatedAt": "2026-06-10T10:32:33.068Z",
+  "count": 3,
   "items": [
     {
       "id": "steve-s-real-food-recall",
@@ -30,65 +30,7 @@
         "fda pet food nutritional deficiency"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T04:48:02.592Z"
-    },
-    {
-      "id": "trader-joe-s-lawsuit",
-      "slug": "trader-joe-s-lawsuit",
-      "title": "Trader Joe'S Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trader joe's lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trader+joe%27s+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "trader joe's lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-10T04:48:02.592Z"
-    },
-    {
-      "id": "stephen-toyota-bristol-lawsuit",
-      "slug": "stephen-toyota-bristol-lawsuit",
-      "title": "Stephen Toyota Bristol Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "stephen toyota bristol lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephen+toyota+bristol+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "stephen toyota bristol lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-10T04:48:02.592Z"
+      "lastUpdated": "2026-06-10T10:32:30.487Z"
     },
     {
       "id": "visa-mastercard-settlement-judge-approval",
@@ -117,7 +59,7 @@
         "visa mastercard settlement judge approval"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T04:48:02.592Z"
+      "lastUpdated": "2026-06-10T10:32:30.487Z"
     },
     {
       "id": "todd-julie-chrisley-lawsuit",
@@ -146,7 +88,7 @@
         "todd julie chrisley lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T04:48:02.592Z"
+      "lastUpdated": "2026-06-10T10:32:30.487Z"
     }
   ]
 }

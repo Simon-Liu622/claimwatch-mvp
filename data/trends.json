@@ -1,11 +1,11 @@
 [
   {
-    "rank": 36,
+    "rank": 105,
     "query": "jeep recall",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
       "jeep recall 2026",
       "gladiator",
@@ -15,47 +15,47 @@
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "jeep recall jeep recall 2026 gladiator jeep wrangler recall",
-    "trendScore": 29,
-    "detectedAt": "2026-06-10T16:07:54.249Z"
+    "trendScore": 15,
+    "detectedAt": "2026-06-10T20:45:15.237Z"
   },
   {
-    "rank": 51,
-    "query": "facebook user privacy settlement",
+    "rank": 79,
+    "query": "honda recalls",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
-      "bonus payment",
+      "acura mdx safety recall repair",
+      "honda america vehicle recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+recalls&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "honda recalls acura mdx safety recall repair honda america vehicle recall",
+    "trendScore": 12,
+    "detectedAt": "2026-06-10T20:45:15.237Z"
+  },
+  {
+    "rank": 153,
+    "query": "facebook user privacy settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
       "facebook settlement",
       "facebook settlement payment"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "facebook user privacy settlement bonus payment facebook settlement facebook settlement payment",
-    "trendScore": 29,
-    "detectedAt": "2026-06-10T16:07:54.249Z"
+    "text": "facebook user privacy settlement facebook settlement facebook settlement payment",
+    "trendScore": 12,
+    "detectedAt": "2026-06-10T20:45:15.237Z"
   },
   {
-    "rank": 23,
-    "query": "acura mdx safety recall repair",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "honda america vehicle recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=acura+mdx+safety+recall+repair&tz=420",
-    "increasePercentage": 700,
-    "source": "serpapi-google-trends",
-    "text": "acura mdx safety recall repair honda america vehicle recall",
-    "trendScore": 25,
-    "detectedAt": "2026-06-10T16:07:54.249Z"
-  },
-  {
-    "rank": 176,
+    "rank": 196,
     "query": "visa",
     "searchVolume": 2000,
     "startedAt": "",
@@ -69,6 +69,6 @@
     "source": "serpapi-google-trends",
     "text": "visa visa mastercard settlement judge approval",
     "trendScore": 10,
-    "detectedAt": "2026-06-10T16:07:54.249Z"
+    "detectedAt": "2026-06-10T20:45:15.237Z"
   }
 ]

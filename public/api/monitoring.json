@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T16:08:02.761Z",
+  "updatedAt": "2026-06-10T20:45:18.027Z",
   "count": 2,
   "items": [
     {
@@ -23,8 +23,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 29,
+      "searchVolume": 2000,
+      "trendScore": 12,
       "matchedQueries": [
         "facebook user privacy settlement",
         "bonus payment",
@@ -32,7 +32,7 @@
         "facebook settlement payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T16:07:54.249Z"
+      "lastUpdated": "2026-06-10T20:45:15.237Z"
     },
     {
       "id": "visa",
@@ -62,7 +62,7 @@
         "visa mastercard settlement judge approval"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T16:07:54.249Z"
+      "lastUpdated": "2026-06-10T20:45:15.237Z"
     }
   ]
 }

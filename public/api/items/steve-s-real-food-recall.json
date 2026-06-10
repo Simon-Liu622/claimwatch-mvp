@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-09T20:20:31.025Z",
+  "updatedAt": "2026-06-10T04:48:05.937Z",
   "item": {
-    "id": "target-wipes-recall",
-    "slug": "target-wipes-recall",
-    "title": "Target Wipes Recall: Consumer Alert Monitoring",
+    "id": "steve-s-real-food-recall",
+    "slug": "steve-s-real-food-recall",
+    "title": "Steve'S Real Food Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "target wipes recall",
+    "product": "steve's real food recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+wipes+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve%27s+real+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "target wipes recall"
+      "steve's real food recall",
+      "fda pet food nutritional deficiency"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-09T20:20:19.918Z",
-    "url": "https://simon622.shop/item/target-wipes-recall/"
+    "lastUpdated": "2026-06-10T04:48:02.592Z",
+    "url": "https://simon622.shop/item/steve-s-real-food-recall/"
   }
 }

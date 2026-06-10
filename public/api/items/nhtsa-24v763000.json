@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-10T10:32:33.068Z",
+  "updatedAt": "2026-06-10T16:08:02.761Z",
   "item": {
     "id": "nhtsa-24v763000",
     "slug": "nhtsa-24v763000",
     "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
     "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 5000,
+    "trendScore": 25,
+    "matchedQueries": [
+      "acura mdx safety recall repair",
+      "honda america vehicle recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-06-10T10:32:30.487Z",
+    "lastUpdated": "2026-06-10T16:07:54.249Z",
     "url": "https://simon622.shop/item/nhtsa-24v763000/"
   }
 }

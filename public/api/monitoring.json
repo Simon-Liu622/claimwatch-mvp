@@ -1,46 +1,16 @@
 {
-  "updatedAt": "2026-06-10T10:32:33.068Z",
-  "count": 3,
+  "updatedAt": "2026-06-10T16:08:02.761Z",
+  "count": 2,
   "items": [
     {
-      "id": "steve-s-real-food-recall",
-      "slug": "steve-s-real-food-recall",
-      "title": "Steve'S Real Food Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "steve's real food recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve%27s+real+food+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "steve's real food recall",
-        "fda pet food nutritional deficiency"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-10T10:32:30.487Z"
-    },
-    {
-      "id": "visa-mastercard-settlement-judge-approval",
-      "slug": "visa-mastercard-settlement-judge-approval",
-      "title": "Visa Mastercard Settlement Judge Approval: Consumer Alert Monitoring",
+      "id": "facebook-user-privacy-settlement",
+      "slug": "facebook-user-privacy-settlement",
+      "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "visa mastercard settlement judge approval",
+      "product": "facebook user privacy settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,26 +20,29 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=visa+mastercard+settlement+judge+approval&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
+      "searchVolume": 10000,
+      "trendScore": 29,
       "matchedQueries": [
-        "visa mastercard settlement judge approval"
+        "facebook user privacy settlement",
+        "bonus payment",
+        "facebook settlement",
+        "facebook settlement payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T10:32:30.487Z"
+      "lastUpdated": "2026-06-10T16:07:54.249Z"
     },
     {
-      "id": "todd-julie-chrisley-lawsuit",
-      "slug": "todd-julie-chrisley-lawsuit",
-      "title": "Todd Julie Chrisley Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "visa",
+      "slug": "visa",
+      "title": "Visa: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "todd julie chrisley lawsuit",
+      "product": "visa",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -79,16 +52,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=todd+julie+chrisley+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=visa&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "todd julie chrisley lawsuit"
+        "visa",
+        "visa mastercard settlement judge approval"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-10T10:32:30.487Z"
+      "lastUpdated": "2026-06-10T16:07:54.249Z"
     }
   ]
 }

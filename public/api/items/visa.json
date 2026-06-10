@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-10T10:32:33.068Z",
+  "updatedAt": "2026-06-10T16:08:02.761Z",
   "item": {
-    "id": "visa-mastercard-settlement-judge-approval",
-    "slug": "visa-mastercard-settlement-judge-approval",
-    "title": "Visa Mastercard Settlement Judge Approval: Consumer Alert Monitoring",
+    "id": "visa",
+    "slug": "visa",
+    "title": "Visa: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "visa mastercard settlement judge approval",
+    "product": "visa",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=visa+mastercard+settlement+judge+approval&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=visa&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
+      "visa",
       "visa mastercard settlement judge approval"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-10T10:32:30.487Z",
-    "url": "https://simon622.shop/item/visa-mastercard-settlement-judge-approval/"
+    "lastUpdated": "2026-06-10T16:07:54.249Z",
+    "url": "https://simon622.shop/item/visa/"
   }
 }

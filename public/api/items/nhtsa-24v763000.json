@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T04:58:30.926Z",
+  "updatedAt": "2026-06-11T10:58:11.974Z",
   "item": {
     "id": "nhtsa-24v763000",
     "slug": "nhtsa-24v763000",
@@ -19,7 +19,7 @@
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
     "sourceAgency": "NHTSA",
     "searchVolume": 20000,
-    "trendScore": 25,
+    "trendScore": 34,
     "matchedQueries": [
       "honda",
       "honda rear suspension recall",
@@ -31,7 +31,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-06-11T04:58:28.088Z",
+    "lastUpdated": "2026-06-11T10:58:07.854Z",
     "url": "https://simon622.shop/item/nhtsa-24v763000/"
   }
 }

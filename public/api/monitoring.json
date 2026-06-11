@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T04:58:30.926Z",
-  "count": 2,
+  "updatedAt": "2026-06-11T10:58:11.974Z",
+  "count": 3,
   "items": [
     {
       "id": "madison-cupp-delta-air-lawsuit",
@@ -29,7 +29,36 @@
         "madison cupp delta air lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T04:58:28.088Z"
+      "lastUpdated": "2026-06-11T10:58:07.854Z"
+    },
+    {
+      "id": "ftc-may-2026-refund-payments",
+      "slug": "ftc-may-2026-refund-payments",
+      "title": "Ftc May 2026 Refund Payments: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ftc may 2026 refund payments",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+may+2026+refund+payments&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ftc may 2026 refund payments"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-11T10:58:07.854Z"
     },
     {
       "id": "facebook-user-privacy-settlement",
@@ -61,7 +90,7 @@
         "facebook settlement payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T04:58:28.088Z"
+      "lastUpdated": "2026-06-11T10:58:07.854Z"
     }
   ]
 }

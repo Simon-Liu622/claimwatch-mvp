@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-11T16:20:26.822Z",
-  "count": 5,
+  "updatedAt": "2026-06-11T20:35:16.809Z",
+  "count": 6,
   "items": [
     {
       "id": "anti-weaponization-fund-judge-ruling",
       "slug": "anti-weaponization-fund-judge-ruling",
-      "title": "Anti-Weaponization Fund Judge Ruling: Consumer Alert Monitoring",
+      "title": "Anti Weaponization Fund Judge Ruling: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "anti-weaponization fund judge ruling",
+      "product": "anti weaponization fund judge ruling",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,7 +20,7 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+judge+ruling&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti+weaponization+fund+judge+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
@@ -31,38 +31,7 @@
         "doj anti-weaponization fund lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T16:20:23.807Z"
-    },
-    {
-      "id": "honda",
-      "slug": "honda",
-      "title": "Honda: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "honda",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "honda",
-        "honda rear suspension recall",
-        "honda suspension recall nhtsa"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-11T16:20:23.807Z"
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
     },
     {
       "id": "ftc-may-2026-refund-payments",
@@ -91,7 +60,7 @@
         "ftc may 2026 refund payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T16:20:23.807Z"
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
     },
     {
       "id": "louis-rossmann-vs-samsung-lawsuit",
@@ -114,13 +83,73 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "louis rossmann vs samsung lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T16:20:23.807Z"
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
+    },
+    {
+      "id": "fda-farm-rich-pizza-recall",
+      "slug": "fda-farm-rich-pizza-recall",
+      "title": "Fda Farm Rich Pizza Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda farm rich pizza recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fda farm rich pizza recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
+    },
+    {
+      "id": "honda",
+      "slug": "honda",
+      "title": "Honda: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "honda",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 13,
+      "matchedQueries": [
+        "honda",
+        "honda rear suspension recall",
+        "honda suspension recall nhtsa"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
     },
     {
       "id": "madison-cupp-delta-air-lawsuit",
@@ -149,7 +178,7 @@
         "madison cupp delta air lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T16:20:23.807Z"
+      "lastUpdated": "2026-06-11T20:35:12.613Z"
     }
   ]
 }

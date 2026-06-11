@@ -1,42 +1,39 @@
 [
   {
-    "rank": 17,
-    "query": "anti-weaponization fund judge ruling",
+    "rank": 26,
+    "query": "anti weaponization fund judge ruling",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "anti weaponization fund judge ruling",
+      "anti-weaponization fund judge ruling",
       "doj anti-weaponization fund lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+judge+ruling&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti+weaponization+fund+judge+ruling&tz=420",
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "anti-weaponization fund judge ruling anti weaponization fund judge ruling doj anti-weaponization fund lawsuit",
+    "text": "anti weaponization fund judge ruling anti-weaponization fund judge ruling doj anti-weaponization fund lawsuit",
     "trendScore": 28,
-    "detectedAt": "2026-06-11T16:20:23.807Z"
+    "detectedAt": "2026-06-11T20:35:12.613Z"
   },
   {
-    "rank": 47,
-    "query": "honda",
-    "searchVolume": 20000,
+    "rank": 32,
+    "query": "fda farm rich pizza recall",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "honda rear suspension recall",
-      "honda suspension recall nhtsa"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
-    "increasePercentage": 75,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "honda honda rear suspension recall honda suspension recall nhtsa",
-    "trendScore": 28,
-    "detectedAt": "2026-06-11T16:20:23.807Z"
+    "text": "fda farm rich pizza recall",
+    "trendScore": 23,
+    "detectedAt": "2026-06-11T20:35:12.613Z"
   },
   {
-    "rank": 43,
+    "rank": 77,
     "query": "ftc may 2026 refund payments",
     "searchVolume": 10000,
     "startedAt": "",
@@ -48,25 +45,43 @@
     "source": "serpapi-google-trends",
     "text": "ftc may 2026 refund payments",
     "trendScore": 23,
-    "detectedAt": "2026-06-11T16:20:23.807Z"
+    "detectedAt": "2026-06-11T20:35:12.613Z"
   },
   {
-    "rank": 58,
+    "rank": 84,
     "query": "louis rossmann vs samsung lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "louis rossmann vs samsung lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-06-11T16:20:23.807Z"
+    "detectedAt": "2026-06-11T20:35:12.613Z"
   },
   {
-    "rank": 78,
+    "rank": 197,
+    "query": "honda",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "honda rear suspension recall",
+      "honda suspension recall nhtsa"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "honda honda rear suspension recall honda suspension recall nhtsa",
+    "trendScore": 13,
+    "detectedAt": "2026-06-11T20:35:12.613Z"
+  },
+  {
+    "rank": 150,
     "query": "madison cupp delta air lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -78,6 +93,6 @@
     "source": "serpapi-google-trends",
     "text": "madison cupp delta air lawsuit",
     "trendScore": 9,
-    "detectedAt": "2026-06-11T16:20:23.807Z"
+    "detectedAt": "2026-06-11T20:35:12.613Z"
   }
 ]

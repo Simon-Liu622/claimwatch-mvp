@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T20:45:18.027Z",
+  "updatedAt": "2026-06-11T04:58:30.926Z",
   "item": {
     "id": "nhtsa-23v782000",
     "slug": "nhtsa-23v782000",
@@ -18,17 +18,20 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "trendScore": 25,
     "matchedQueries": [
+      "honda",
+      "honda rear suspension recall",
       "honda recalls",
       "acura mdx safety recall repair",
+      "honda suspension recall nhtsa",
       "honda america vehicle recall"
     ],
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-06-10T20:45:15.237Z",
+    "lastUpdated": "2026-06-11T04:58:28.088Z",
     "url": "https://simon622.shop/item/nhtsa-23v782000/"
   }
 }

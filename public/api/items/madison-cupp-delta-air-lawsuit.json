@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-10T20:45:18.027Z",
+  "updatedAt": "2026-06-11T04:58:30.926Z",
   "item": {
-    "id": "visa",
-    "slug": "visa",
-    "title": "Visa: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "madison-cupp-delta-air-lawsuit",
+    "slug": "madison-cupp-delta-air-lawsuit",
+    "title": "Madison Cupp Delta Air Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "visa",
+    "product": "madison cupp delta air lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=visa&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 10,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
-      "visa",
-      "visa mastercard settlement judge approval"
+      "madison cupp delta air lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-10T20:45:15.237Z",
-    "url": "https://simon622.shop/item/visa/"
+    "lastUpdated": "2026-06-11T04:58:28.088Z",
+    "url": "https://simon622.shop/item/madison-cupp-delta-air-lawsuit/"
   }
 }

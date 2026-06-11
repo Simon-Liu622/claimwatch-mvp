@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-11T10:58:11.974Z",
+  "updatedAt": "2026-06-11T16:20:26.822Z",
   "item": {
     "id": "nhtsa-24v859000",
     "slug": "nhtsa-24v859000",
     "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -20,18 +20,11 @@
     "sourceAgency": "NHTSA",
     "searchVolume": 20000,
     "trendScore": 34,
-    "matchedQueries": [
-      "honda",
-      "honda rear suspension recall",
-      "honda recalls",
-      "acura mdx safety recall repair",
-      "honda suspension recall nhtsa",
-      "honda america vehicle recall"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-06-11T10:58:07.854Z",
+    "lastUpdated": "2026-06-11T16:20:23.807Z",
     "url": "https://simon622.shop/item/nhtsa-24v859000/"
   }
 }

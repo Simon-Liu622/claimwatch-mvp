@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-06-11T10:58:11.974Z",
-  "count": 4,
+  "updatedAt": "2026-06-11T16:20:26.822Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 62,
+      "rank": 17,
+      "query": "anti-weaponization fund judge ruling",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "anti weaponization fund judge ruling",
+        "doj anti-weaponization fund lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+judge+ruling&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "anti-weaponization fund judge ruling anti weaponization fund judge ruling doj anti-weaponization fund lawsuit",
+      "trendScore": 28,
+      "detectedAt": "2026-06-11T16:20:23.807Z"
+    },
+    {
+      "rank": 47,
       "query": "honda",
       "searchVolume": 20000,
       "startedAt": "",
@@ -11,65 +29,59 @@
       "active": true,
       "breakdown": [
         "honda rear suspension recall",
-        "honda recalls",
-        "acura mdx safety recall repair",
-        "honda suspension recall nhtsa",
-        "honda america vehicle recall"
+        "honda suspension recall nhtsa"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
       "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "honda honda rear suspension recall honda recalls acura mdx safety recall repair honda suspension recall nhtsa honda america vehicle recall",
-      "trendScore": 34,
-      "detectedAt": "2026-06-11T10:58:07.854Z"
+      "text": "honda honda rear suspension recall honda suspension recall nhtsa",
+      "trendScore": 28,
+      "detectedAt": "2026-06-11T16:20:23.807Z"
     },
     {
-      "rank": 10,
-      "query": "madison cupp delta air lawsuit",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "madison cupp delta air lawsuit",
-      "trendScore": 24,
-      "detectedAt": "2026-06-11T10:58:07.854Z"
-    },
-    {
-      "rank": 46,
+      "rank": 43,
       "query": "ftc may 2026 refund payments",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+may+2026+refund+payments&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "ftc may 2026 refund payments",
       "trendScore": 23,
-      "detectedAt": "2026-06-11T10:58:07.854Z"
+      "detectedAt": "2026-06-11T16:20:23.807Z"
     },
     {
-      "rank": 309,
-      "query": "facebook user privacy settlement",
+      "rank": 58,
+      "query": "louis rossmann vs samsung lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "facebook settlement",
-        "facebook settlement payment"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-      "increasePercentage": 300,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "facebook user privacy settlement facebook settlement facebook settlement payment",
-      "trendScore": 12,
-      "detectedAt": "2026-06-11T10:58:07.854Z"
+      "text": "louis rossmann vs samsung lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-06-11T16:20:23.807Z"
+    },
+    {
+      "rank": 78,
+      "query": "madison cupp delta air lawsuit",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
+      "increasePercentage": 900,
+      "source": "serpapi-google-trends",
+      "text": "madison cupp delta air lawsuit",
+      "trendScore": 9,
+      "detectedAt": "2026-06-11T16:20:23.807Z"
     }
   ]
 }

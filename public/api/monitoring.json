@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-11T10:58:11.974Z",
-  "count": 3,
+  "updatedAt": "2026-06-11T16:20:26.822Z",
+  "count": 5,
   "items": [
     {
-      "id": "madison-cupp-delta-air-lawsuit",
-      "slug": "madison-cupp-delta-air-lawsuit",
-      "title": "Madison Cupp Delta Air Lawsuit: Consumer Alert Monitoring",
+      "id": "anti-weaponization-fund-judge-ruling",
+      "slug": "anti-weaponization-fund-judge-ruling",
+      "title": "Anti-Weaponization Fund Judge Ruling: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "madison cupp delta air lawsuit",
+      "product": "anti-weaponization fund judge ruling",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,16 +20,49 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti-weaponization+fund+judge+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 24,
+      "trendScore": 28,
       "matchedQueries": [
-        "madison cupp delta air lawsuit"
+        "anti-weaponization fund judge ruling",
+        "anti weaponization fund judge ruling",
+        "doj anti-weaponization fund lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T10:58:07.854Z"
+      "lastUpdated": "2026-06-11T16:20:23.807Z"
+    },
+    {
+      "id": "honda",
+      "slug": "honda",
+      "title": "Honda: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "honda",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 28,
+      "matchedQueries": [
+        "honda",
+        "honda rear suspension recall",
+        "honda suspension recall nhtsa"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-11T16:20:23.807Z"
     },
     {
       "id": "ftc-may-2026-refund-payments",
@@ -52,23 +85,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+may+2026+refund+payments&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "ftc may 2026 refund payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T10:58:07.854Z"
+      "lastUpdated": "2026-06-11T16:20:23.807Z"
     },
     {
-      "id": "facebook-user-privacy-settlement",
-      "slug": "facebook-user-privacy-settlement",
-      "title": "Facebook User Privacy Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "louis-rossmann-vs-samsung-lawsuit",
+      "slug": "louis-rossmann-vs-samsung-lawsuit",
+      "title": "Louis Rossmann Vs Samsung Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "facebook user privacy settlement",
+      "product": "louis rossmann vs samsung lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -78,19 +111,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+user+privacy+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 12,
+      "trendScore": 23,
       "matchedQueries": [
-        "facebook user privacy settlement",
-        "bonus payment",
-        "facebook settlement",
-        "facebook settlement payment"
+        "louis rossmann vs samsung lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T10:58:07.854Z"
+      "lastUpdated": "2026-06-11T16:20:23.807Z"
+    },
+    {
+      "id": "madison-cupp-delta-air-lawsuit",
+      "slug": "madison-cupp-delta-air-lawsuit",
+      "title": "Madison Cupp Delta Air Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "madison cupp delta air lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 9,
+      "matchedQueries": [
+        "madison cupp delta air lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-11T16:20:23.807Z"
     }
   ]
 }

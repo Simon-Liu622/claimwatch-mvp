@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-11T20:35:16.809Z",
+  "updatedAt": "2026-06-12T05:03:03.386Z",
   "item": {
-    "id": "honda",
-    "slug": "honda",
-    "title": "Honda: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "sisters-rodeo-bull-lawsuit",
+    "slug": "sisters-rodeo-bull-lawsuit",
+    "title": "Sisters Rodeo Bull Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "honda",
-    "category": "Recall monitoring",
+    "product": "sisters rodeo bull lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sisters+rodeo+bull+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 13,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
-      "honda",
-      "honda rear suspension recall",
-      "honda suspension recall nhtsa"
+      "sisters rodeo bull lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-11T20:35:12.613Z",
-    "url": "https://simon622.shop/item/honda/"
+    "lastUpdated": "2026-06-12T05:03:01.146Z",
+    "url": "https://simon622.shop/item/sisters-rodeo-bull-lawsuit/"
   }
 }

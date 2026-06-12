@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T20:35:16.809Z",
+  "updatedAt": "2026-06-12T05:03:03.386Z",
   "item": {
     "id": "fda-farm-rich-pizza-recall",
     "slug": "fda-farm-rich-pizza-recall",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 34,
     "matchedQueries": [
-      "fda farm rich pizza recall"
+      "fda farm rich pizza recall",
+      "metal contamination frozen snack recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-11T20:35:12.613Z",
+    "lastUpdated": "2026-06-12T05:03:01.146Z",
     "url": "https://simon622.shop/item/fda-farm-rich-pizza-recall/"
   }
 }

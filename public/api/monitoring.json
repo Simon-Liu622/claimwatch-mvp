@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-11T20:35:16.809Z",
-  "count": 6,
+  "updatedAt": "2026-06-12T05:03:03.386Z",
+  "count": 5,
   "items": [
+    {
+      "id": "fda-farm-rich-pizza-recall",
+      "slug": "fda-farm-rich-pizza-recall",
+      "title": "Fda Farm Rich Pizza Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda farm rich pizza recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 34,
+      "matchedQueries": [
+        "fda farm rich pizza recall",
+        "metal contamination frozen snack recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T05:03:01.146Z"
+    },
     {
       "id": "anti-weaponization-fund-judge-ruling",
       "slug": "anti-weaponization-fund-judge-ruling",
@@ -24,43 +54,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 28,
+      "trendScore": 26,
       "matchedQueries": [
         "anti-weaponization fund judge ruling",
         "anti weaponization fund judge ruling",
         "doj anti-weaponization fund lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
-    },
-    {
-      "id": "ftc-may-2026-refund-payments",
-      "slug": "ftc-may-2026-refund-payments",
-      "title": "Ftc May 2026 Refund Payments: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ftc may 2026 refund payments",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+may+2026+refund+payments&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "ftc may 2026 refund payments"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
+      "lastUpdated": "2026-06-12T05:03:01.146Z"
     },
     {
       "id": "louis-rossmann-vs-samsung-lawsuit",
@@ -84,82 +85,22 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "louis rossmann vs samsung lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
+      "lastUpdated": "2026-06-12T05:03:01.146Z"
     },
     {
-      "id": "fda-farm-rich-pizza-recall",
-      "slug": "fda-farm-rich-pizza-recall",
-      "title": "Fda Farm Rich Pizza Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda farm rich pizza recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "fda farm rich pizza recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
-    },
-    {
-      "id": "honda",
-      "slug": "honda",
-      "title": "Honda: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "honda",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
-      "matchedQueries": [
-        "honda",
-        "honda rear suspension recall",
-        "honda suspension recall nhtsa"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
-    },
-    {
-      "id": "madison-cupp-delta-air-lawsuit",
-      "slug": "madison-cupp-delta-air-lawsuit",
-      "title": "Madison Cupp Delta Air Lawsuit: Consumer Alert Monitoring",
+      "id": "ken-paxton-actblue-lawsuit-ruling",
+      "slug": "ken-paxton-actblue-lawsuit-ruling",
+      "title": "Ken Paxton Actblue Lawsuit Ruling: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "madison cupp delta air lawsuit",
+      "product": "ken paxton actblue lawsuit ruling",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -169,16 +110,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ken+paxton+actblue+lawsuit+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 9,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
-        "madison cupp delta air lawsuit"
+        "ken paxton actblue lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-11T20:35:12.613Z"
+      "lastUpdated": "2026-06-12T05:03:01.146Z"
+    },
+    {
+      "id": "sisters-rodeo-bull-lawsuit",
+      "slug": "sisters-rodeo-bull-lawsuit",
+      "title": "Sisters Rodeo Bull Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "sisters rodeo bull lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sisters+rodeo+bull+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "sisters rodeo bull lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T05:03:01.146Z"
     }
   ]
 }

@@ -1,102 +1,85 @@
 {
-  "updatedAt": "2026-06-11T20:35:16.809Z",
-  "count": 6,
+  "updatedAt": "2026-06-12T05:03:03.386Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 26,
+      "rank": 22,
+      "query": "fda farm rich pizza recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "metal contamination frozen snack recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "fda farm rich pizza recall metal contamination frozen snack recall",
+      "trendScore": 34,
+      "detectedAt": "2026-06-12T05:03:01.146Z"
+    },
+    {
+      "rank": 47,
       "query": "anti weaponization fund judge ruling",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "anti-weaponization fund judge ruling",
         "doj anti-weaponization fund lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti+weaponization+fund+judge+ruling&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "anti weaponization fund judge ruling anti-weaponization fund judge ruling doj anti-weaponization fund lawsuit",
-      "trendScore": 28,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
+      "text": "anti weaponization fund judge ruling doj anti-weaponization fund lawsuit",
+      "trendScore": 26,
+      "detectedAt": "2026-06-12T05:03:01.146Z"
     },
     {
-      "rank": 32,
-      "query": "fda farm rich pizza recall",
+      "rank": 127,
+      "query": "ken paxton actblue lawsuit ruling",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
-      "increasePercentage": 1000,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ken+paxton+actblue+lawsuit+ruling&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "fda farm rich pizza recall",
-      "trendScore": 23,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
+      "text": "ken paxton actblue lawsuit ruling",
+      "trendScore": 8,
+      "detectedAt": "2026-06-12T05:03:01.146Z"
     },
     {
-      "rank": 77,
-      "query": "ftc may 2026 refund payments",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+may+2026+refund+payments&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "ftc may 2026 refund payments",
-      "trendScore": 23,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
-    },
-    {
-      "rank": 84,
+      "rank": 226,
       "query": "louis rossmann vs samsung lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "louis rossmann vs samsung lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
+      "trendScore": 8,
+      "detectedAt": "2026-06-12T05:03:01.146Z"
     },
     {
-      "rank": 197,
-      "query": "honda",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "honda rear suspension recall",
-        "honda suspension recall nhtsa"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "honda honda rear suspension recall honda suspension recall nhtsa",
-      "trendScore": 13,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
-    },
-    {
-      "rank": 150,
-      "query": "madison cupp delta air lawsuit",
-      "searchVolume": 20000,
+      "rank": 386,
+      "query": "sisters rodeo bull lawsuit",
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madison+cupp+delta+air+lawsuit&tz=420",
-      "increasePercentage": 900,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sisters+rodeo+bull+lawsuit&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "madison cupp delta air lawsuit",
-      "trendScore": 9,
-      "detectedAt": "2026-06-11T20:35:12.613Z"
+      "text": "sisters rodeo bull lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-12T05:03:01.146Z"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-12T10:39:45.562Z",
-  "count": 5,
+  "updatedAt": "2026-06-12T15:40:09.192Z",
+  "count": 3,
   "items": [
     {
-      "id": "fda-farm-rich-pizza-recall",
-      "slug": "fda-farm-rich-pizza-recall",
-      "title": "Fda Farm Rich Pizza Recall: Consumer Alert Monitoring",
+      "id": "metal-contamination-frozen-snack-recall",
+      "slug": "metal-contamination-frozen-snack-recall",
+      "title": "Metal Contamination Frozen Snack Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fda farm rich pizza recall",
+      "product": "metal contamination frozen snack recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,46 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=metal+contamination+frozen+snack+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 34,
       "matchedQueries": [
-        "fda farm rich pizza recall",
-        "metal contamination frozen snack recall"
+        "metal contamination frozen snack recall",
+        "fda farm rich pizza recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T10:39:42.058Z"
-    },
-    {
-      "id": "louis-rossmann-vs-samsung-lawsuit",
-      "slug": "louis-rossmann-vs-samsung-lawsuit",
-      "title": "Louis Rossmann Vs Samsung Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "louis rossmann vs samsung lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=louis+rossmann+vs+samsung+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "louis rossmann vs samsung lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-12T10:39:42.058Z"
+      "lastUpdated": "2026-06-12T15:39:19.744Z"
     },
     {
       "id": "ken-paxton-actblue-lawsuit-ruling",
@@ -88,7 +59,7 @@
         "ken paxton actblue lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T10:39:42.058Z"
+      "lastUpdated": "2026-06-12T15:39:19.744Z"
     },
     {
       "id": "sisters-rodeo-bull-lawsuit",
@@ -117,36 +88,7 @@
         "sisters rodeo bull lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T10:39:42.058Z"
-    },
-    {
-      "id": "doj-anti-weaponization-fund-lawsuit",
-      "slug": "doj-anti-weaponization-fund-lawsuit",
-      "title": "Doj Anti-Weaponization Fund Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doj anti-weaponization fund lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+anti-weaponization+fund+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "doj anti-weaponization fund lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-12T10:39:42.058Z"
+      "lastUpdated": "2026-06-12T15:39:19.744Z"
     }
   ]
 }

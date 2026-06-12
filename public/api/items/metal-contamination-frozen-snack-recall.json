@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-12T10:39:45.562Z",
+  "updatedAt": "2026-06-12T15:40:09.192Z",
   "item": {
-    "id": "fda-farm-rich-pizza-recall",
-    "slug": "fda-farm-rich-pizza-recall",
-    "title": "Fda Farm Rich Pizza Recall: Consumer Alert Monitoring",
+    "id": "metal-contamination-frozen-snack-recall",
+    "slug": "metal-contamination-frozen-snack-recall",
+    "title": "Metal Contamination Frozen Snack Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda farm rich pizza recall",
+    "product": "metal contamination frozen snack recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+farm+rich+pizza+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=metal+contamination+frozen+snack+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 34,
     "matchedQueries": [
-      "fda farm rich pizza recall",
-      "metal contamination frozen snack recall"
+      "metal contamination frozen snack recall",
+      "fda farm rich pizza recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-12T10:39:42.058Z",
-    "url": "https://simon622.shop/item/fda-farm-rich-pizza-recall/"
+    "lastUpdated": "2026-06-12T15:39:19.744Z",
+    "url": "https://simon622.shop/item/metal-contamination-frozen-snack-recall/"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T05:03:03.386Z",
+  "updatedAt": "2026-06-12T10:39:45.562Z",
   "count": 5,
   "items": [
     {
@@ -30,38 +30,7 @@
         "metal contamination frozen snack recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T05:03:01.146Z"
-    },
-    {
-      "id": "anti-weaponization-fund-judge-ruling",
-      "slug": "anti-weaponization-fund-judge-ruling",
-      "title": "Anti Weaponization Fund Judge Ruling: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "anti weaponization fund judge ruling",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti+weaponization+fund+judge+ruling&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "anti-weaponization fund judge ruling",
-        "anti weaponization fund judge ruling",
-        "doj anti-weaponization fund lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-12T05:03:01.146Z"
+      "lastUpdated": "2026-06-12T10:39:42.058Z"
     },
     {
       "id": "louis-rossmann-vs-samsung-lawsuit",
@@ -90,7 +59,7 @@
         "louis rossmann vs samsung lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T05:03:01.146Z"
+      "lastUpdated": "2026-06-12T10:39:42.058Z"
     },
     {
       "id": "ken-paxton-actblue-lawsuit-ruling",
@@ -119,7 +88,7 @@
         "ken paxton actblue lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T05:03:01.146Z"
+      "lastUpdated": "2026-06-12T10:39:42.058Z"
     },
     {
       "id": "sisters-rodeo-bull-lawsuit",
@@ -148,7 +117,36 @@
         "sisters rodeo bull lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T05:03:01.146Z"
+      "lastUpdated": "2026-06-12T10:39:42.058Z"
+    },
+    {
+      "id": "doj-anti-weaponization-fund-lawsuit",
+      "slug": "doj-anti-weaponization-fund-lawsuit",
+      "title": "Doj Anti-Weaponization Fund Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "doj anti-weaponization fund lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+anti-weaponization+fund+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "doj anti-weaponization fund lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T10:39:42.058Z"
     }
   ]
 }

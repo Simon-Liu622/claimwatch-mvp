@@ -1,6 +1,6 @@
 [
   {
-    "rank": 22,
+    "rank": 14,
     "query": "fda farm rich pizza recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -14,27 +14,10 @@
     "source": "serpapi-google-trends",
     "text": "fda farm rich pizza recall metal contamination frozen snack recall",
     "trendScore": 34,
-    "detectedAt": "2026-06-12T05:03:01.146Z"
+    "detectedAt": "2026-06-12T10:39:42.058Z"
   },
   {
-    "rank": 47,
-    "query": "anti weaponization fund judge ruling",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "doj anti-weaponization fund lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anti+weaponization+fund+judge+ruling&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "anti weaponization fund judge ruling doj anti-weaponization fund lawsuit",
-    "trendScore": 26,
-    "detectedAt": "2026-06-12T05:03:01.146Z"
-  },
-  {
-    "rank": 127,
+    "rank": 168,
     "query": "ken paxton actblue lawsuit ruling",
     "searchVolume": 5000,
     "startedAt": "",
@@ -46,10 +29,10 @@
     "source": "serpapi-google-trends",
     "text": "ken paxton actblue lawsuit ruling",
     "trendScore": 8,
-    "detectedAt": "2026-06-12T05:03:01.146Z"
+    "detectedAt": "2026-06-12T10:39:42.058Z"
   },
   {
-    "rank": 226,
+    "rank": 212,
     "query": "louis rossmann vs samsung lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
@@ -61,10 +44,25 @@
     "source": "serpapi-google-trends",
     "text": "louis rossmann vs samsung lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-12T05:03:01.146Z"
+    "detectedAt": "2026-06-12T10:39:42.058Z"
   },
   {
-    "rank": 386,
+    "rank": 398,
+    "query": "doj anti-weaponization fund lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+anti-weaponization+fund+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "doj anti-weaponization fund lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-06-12T10:39:42.058Z"
+  },
+  {
+    "rank": 403,
     "query": "sisters rodeo bull lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -76,6 +74,6 @@
     "source": "serpapi-google-trends",
     "text": "sisters rodeo bull lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-12T05:03:01.146Z"
+    "detectedAt": "2026-06-12T10:39:42.058Z"
   }
 ]

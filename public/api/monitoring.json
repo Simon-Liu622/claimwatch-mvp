@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-12T15:40:09.192Z",
-  "count": 3,
+  "updatedAt": "2026-06-12T20:26:46.646Z",
+  "count": 6,
   "items": [
     {
       "id": "metal-contamination-frozen-snack-recall",
@@ -24,13 +24,105 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 50000,
-      "trendScore": 34,
+      "trendScore": 36,
       "matchedQueries": [
         "metal contamination frozen snack recall",
-        "fda farm rich pizza recall"
+        "fda farm rich pizza recall",
+        "product recall",
+        "fda rich products recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T15:39:19.744Z"
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
+    },
+    {
+      "id": "fda-salmonella-alfredo-sauce-recall",
+      "slug": "fda-salmonella-alfredo-sauce-recall",
+      "title": "Fda Salmonella Alfredo Sauce Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda salmonella alfredo sauce recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+salmonella+alfredo+sauce+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 33,
+      "matchedQueries": [
+        "fda salmonella alfredo sauce recall",
+        "coffee connexion sauce recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
+    },
+    {
+      "id": "blake-lively",
+      "slug": "blake-lively",
+      "title": "Blake Lively: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "blake lively",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "blake lively",
+        "blake lively, justin baldoni settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
+    },
+    {
+      "id": "ford-vehicle-recall-engine-issue",
+      "slug": "ford-vehicle-recall-engine-issue",
+      "title": "Ford Vehicle Recall Engine Issue: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford vehicle recall engine issue",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+engine+issue&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "ford vehicle recall engine issue",
+        "ford focus"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
     },
     {
       "id": "ken-paxton-actblue-lawsuit-ruling",
@@ -59,7 +151,7 @@
         "ken paxton actblue lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T15:39:19.744Z"
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
     },
     {
       "id": "sisters-rodeo-bull-lawsuit",
@@ -88,7 +180,7 @@
         "sisters rodeo bull lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T15:39:19.744Z"
+      "lastUpdated": "2026-06-12T20:25:53.438Z"
     }
   ]
 }

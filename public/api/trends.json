@@ -1,68 +1,51 @@
 {
-  "updatedAt": "2026-06-13T14:25:33.089Z",
-  "count": 4,
+  "updatedAt": "2026-06-13T19:54:09.497Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 72,
-      "query": "trump lawyers irs lawsuit settlement",
+      "rank": 56,
+      "query": "tyra banks netflix lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lawyers+irs+lawsuit+settlement&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
+      "text": "tyra banks netflix lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-06-13T19:54:05.486Z"
+    },
+    {
+      "rank": 68,
+      "query": "royal caribbean passenger scooter lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "royal caribbean passenger scooter lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-06-13T19:54:05.486Z"
+    },
+    {
+      "rank": 132,
+      "query": "trump lawyers irs lawsuit settlement",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lawyers+irs+lawsuit+settlement&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
       "text": "trump lawyers irs lawsuit settlement",
-      "trendScore": 31,
-      "detectedAt": "2026-06-13T14:25:29.308Z"
-    },
-    {
-      "rank": 305,
-      "query": "fda salmonella alfredo sauce recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+salmonella+alfredo+sauce+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "fda salmonella alfredo sauce recall",
       "trendScore": 16,
-      "detectedAt": "2026-06-13T14:25:29.308Z"
-    },
-    {
-      "rank": 278,
-      "query": "blake lively",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "blake lively, justin baldoni settlement"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "blake lively blake lively, justin baldoni settlement",
-      "trendScore": 10,
-      "detectedAt": "2026-06-13T14:25:29.308Z"
-    },
-    {
-      "rank": 430,
-      "query": "fda rich products recall",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rich+products+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "fda rich products recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-13T14:25:29.308Z"
+      "detectedAt": "2026-06-13T19:54:05.486Z"
     }
   ]
 }

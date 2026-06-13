@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-13T14:25:33.089Z",
+  "updatedAt": "2026-06-13T19:54:09.497Z",
   "item": {
-    "id": "fda-rich-products-recall",
-    "slug": "fda-rich-products-recall",
-    "title": "Fda Rich Products Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "tyra-banks-netflix-lawsuit",
+    "slug": "tyra-banks-netflix-lawsuit",
+    "title": "Tyra Banks Netflix Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda rich products recall",
-    "category": "Recall monitoring",
+    "product": "tyra banks netflix lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rich+products+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
-      "fda rich products recall"
+      "tyra banks netflix lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-13T14:25:29.308Z",
-    "url": "https://simon622.shop/item/fda-rich-products-recall/"
+    "lastUpdated": "2026-06-13T19:54:05.486Z",
+    "url": "https://simon622.shop/item/tyra-banks-netflix-lawsuit/"
   }
 }

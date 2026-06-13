@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-06-12T20:26:46.646Z",
-  "count": 6,
+  "updatedAt": "2026-06-13T04:51:14.368Z",
+  "count": 4,
   "items": [
-    {
-      "id": "metal-contamination-frozen-snack-recall",
-      "slug": "metal-contamination-frozen-snack-recall",
-      "title": "Metal Contamination Frozen Snack Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "metal contamination frozen snack recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=metal+contamination+frozen+snack+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 36,
-      "matchedQueries": [
-        "metal contamination frozen snack recall",
-        "fda farm rich pizza recall",
-        "product recall",
-        "fda rich products recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
-    },
     {
       "id": "fda-salmonella-alfredo-sauce-recall",
       "slug": "fda-salmonella-alfredo-sauce-recall",
@@ -55,14 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+salmonella+alfredo+sauce+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 33,
+      "searchVolume": 2000,
+      "trendScore": 16,
       "matchedQueries": [
         "fda salmonella alfredo sauce recall",
         "coffee connexion sauce recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
+      "lastUpdated": "2026-06-13T04:51:10.591Z"
     },
     {
       "id": "blake-lively",
@@ -85,14 +53,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 25,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
         "blake lively",
         "blake lively, justin baldoni settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
+      "lastUpdated": "2026-06-13T04:51:10.591Z"
     },
     {
       "id": "ford-vehicle-recall-engine-issue",
@@ -116,24 +84,24 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 10,
+      "trendScore": 8,
       "matchedQueries": [
         "ford vehicle recall engine issue",
         "ford focus"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
+      "lastUpdated": "2026-06-13T04:51:10.591Z"
     },
     {
-      "id": "ken-paxton-actblue-lawsuit-ruling",
-      "slug": "ken-paxton-actblue-lawsuit-ruling",
-      "title": "Ken Paxton Actblue Lawsuit Ruling: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "fda-rich-products-recall",
+      "slug": "fda-rich-products-recall",
+      "title": "Fda Rich Products Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ken paxton actblue lawsuit ruling",
-      "category": "Consumer monitoring",
+      "product": "fda rich products recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -142,45 +110,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ken+paxton+actblue+lawsuit+ruling&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ken paxton actblue lawsuit ruling"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
-    },
-    {
-      "id": "sisters-rodeo-bull-lawsuit",
-      "slug": "sisters-rodeo-bull-lawsuit",
-      "title": "Sisters Rodeo Bull Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "sisters rodeo bull lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sisters+rodeo+bull+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rich+products+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "sisters rodeo bull lawsuit"
+        "fda rich products recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-12T20:25:53.438Z"
+      "lastUpdated": "2026-06-13T04:51:10.591Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-12T20:26:46.646Z",
+  "updatedAt": "2026-06-13T04:51:14.368Z",
   "item": {
-    "id": "metal-contamination-frozen-snack-recall",
-    "slug": "metal-contamination-frozen-snack-recall",
-    "title": "Metal Contamination Frozen Snack Recall: Consumer Alert Monitoring",
+    "id": "fda-rich-products-recall",
+    "slug": "fda-rich-products-recall",
+    "title": "Fda Rich Products Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "metal contamination frozen snack recall",
+    "product": "fda rich products recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=metal+contamination+frozen+snack+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rich+products+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 36,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
-      "metal contamination frozen snack recall",
-      "fda farm rich pizza recall",
-      "product recall",
       "fda rich products recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-12T20:25:53.438Z",
-    "url": "https://simon622.shop/item/metal-contamination-frozen-snack-recall/"
+    "lastUpdated": "2026-06-13T04:51:10.591Z",
+    "url": "https://simon622.shop/item/fda-rich-products-recall/"
   }
 }

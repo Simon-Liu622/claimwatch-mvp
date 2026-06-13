@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:26:46.646Z",
+  "updatedAt": "2026-06-13T04:51:14.368Z",
   "item": {
     "id": "blake-lively",
     "slug": "blake-lively",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 25,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
       "blake lively",
       "blake lively, justin baldoni settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-12T20:25:53.438Z",
+    "lastUpdated": "2026-06-13T04:51:10.591Z",
     "url": "https://simon622.shop/item/blake-lively/"
   }
 }

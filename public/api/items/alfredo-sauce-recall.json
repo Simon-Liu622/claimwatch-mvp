@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-14T05:06:12.062Z",
+  "updatedAt": "2026-06-14T09:55:51.860Z",
   "item": {
-    "id": "fda-class-i-alfredo-recall",
-    "slug": "fda-class-i-alfredo-recall",
-    "title": "Fda Class I Alfredo Recall: Consumer Alert Monitoring",
+    "id": "alfredo-sauce-recall",
+    "slug": "alfredo-sauce-recall",
+    "title": "Alfredo Sauce Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda class i alfredo recall",
+    "product": "alfredo sauce recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+alfredo+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 25,
     "matchedQueries": [
+      "alfredo sauce recall",
       "fda class i alfredo recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-14T05:06:08.579Z",
-    "url": "https://simon622.shop/item/fda-class-i-alfredo-recall/"
+    "lastUpdated": "2026-06-14T09:55:48.697Z",
+    "url": "https://simon622.shop/item/alfredo-sauce-recall/"
   }
 }

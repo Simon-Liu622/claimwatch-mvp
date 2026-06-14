@@ -1,9 +1,26 @@
 {
-  "updatedAt": "2026-06-14T05:06:12.062Z",
+  "updatedAt": "2026-06-14T09:55:51.860Z",
   "count": 5,
   "trends": [
     {
-      "rank": 291,
+      "rank": 40,
+      "query": "alfredo sauce recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "fda class i alfredo recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "alfredo sauce recall fda class i alfredo recall",
+      "trendScore": 25,
+      "detectedAt": "2026-06-14T09:55:48.697Z"
+    },
+    {
+      "rank": 225,
       "query": "trump lawyers irs lawsuit settlement",
       "searchVolume": 5000,
       "startedAt": "",
@@ -15,10 +32,10 @@
       "source": "serpapi-google-trends",
       "text": "trump lawyers irs lawsuit settlement",
       "trendScore": 16,
-      "detectedAt": "2026-06-14T05:06:08.579Z"
+      "detectedAt": "2026-06-14T09:55:48.697Z"
     },
     {
-      "rank": 172,
+      "rank": 118,
       "query": "tyra banks netflix lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -32,10 +49,10 @@
       "source": "serpapi-google-trends",
       "text": "tyra banks netflix lawsuit tyra banks",
       "trendScore": 10,
-      "detectedAt": "2026-06-14T05:06:08.579Z"
+      "detectedAt": "2026-06-14T09:55:48.697Z"
     },
     {
-      "rank": 235,
+      "rank": 177,
       "query": "royal caribbean passenger scooter lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -47,25 +64,10 @@
       "source": "serpapi-google-trends",
       "text": "royal caribbean passenger scooter lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-14T05:06:08.579Z"
+      "detectedAt": "2026-06-14T09:55:48.697Z"
     },
     {
-      "rank": 360,
-      "query": "fda class i alfredo recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+alfredo+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "fda class i alfredo recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-14T05:06:08.579Z"
-    },
-    {
-      "rank": 429,
+      "rank": 428,
       "query": "blizzard project ascension lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -77,7 +79,7 @@
       "source": "serpapi-google-trends",
       "text": "blizzard project ascension lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-14T05:06:08.579Z"
+      "detectedAt": "2026-06-14T09:55:48.697Z"
     }
   ]
 }

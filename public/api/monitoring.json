@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-14T05:06:12.062Z",
+  "updatedAt": "2026-06-14T09:55:51.860Z",
   "count": 5,
   "items": [
+    {
+      "id": "alfredo-sauce-recall",
+      "slug": "alfredo-sauce-recall",
+      "title": "Alfredo Sauce Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "alfredo sauce recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "alfredo sauce recall",
+        "fda class i alfredo recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-14T09:55:48.697Z"
+    },
     {
       "id": "trump-lawyers-irs-lawsuit-settlement",
       "slug": "trump-lawyers-irs-lawsuit-settlement",
@@ -29,7 +59,7 @@
         "trump lawyers irs lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T05:06:08.579Z"
+      "lastUpdated": "2026-06-14T09:55:48.697Z"
     },
     {
       "id": "tyra-banks-netflix-lawsuit",
@@ -59,7 +89,7 @@
         "tyra banks"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T05:06:08.579Z"
+      "lastUpdated": "2026-06-14T09:55:48.697Z"
     },
     {
       "id": "royal-caribbean-passenger-scooter-lawsuit",
@@ -88,36 +118,7 @@
         "royal caribbean passenger scooter lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T05:06:08.579Z"
-    },
-    {
-      "id": "fda-class-i-alfredo-recall",
-      "slug": "fda-class-i-alfredo-recall",
-      "title": "Fda Class I Alfredo Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda class i alfredo recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+alfredo+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "fda class i alfredo recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-14T05:06:08.579Z"
+      "lastUpdated": "2026-06-14T09:55:48.697Z"
     },
     {
       "id": "blizzard-project-ascension-lawsuit",
@@ -146,7 +147,7 @@
         "blizzard project ascension lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T05:06:08.579Z"
+      "lastUpdated": "2026-06-14T09:55:48.697Z"
     }
   ]
 }

@@ -1,38 +1,39 @@
 [
   {
-    "rank": 40,
+    "rank": 19,
     "query": "alfredo sauce recall",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "fda bef foods recall",
       "fda class i alfredo recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
-    "text": "alfredo sauce recall fda class i alfredo recall",
-    "trendScore": 25,
-    "detectedAt": "2026-06-14T09:55:48.697Z"
+    "text": "alfredo sauce recall fda bef foods recall fda class i alfredo recall",
+    "trendScore": 27,
+    "detectedAt": "2026-06-14T14:27:55.780Z"
   },
   {
-    "rank": 225,
-    "query": "trump lawyers irs lawsuit settlement",
+    "rank": 77,
+    "query": "royal caribbean passenger scooter lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lawyers+irs+lawsuit+settlement&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "trump lawyers irs lawsuit settlement",
-    "trendScore": 16,
-    "detectedAt": "2026-06-14T09:55:48.697Z"
+    "text": "royal caribbean passenger scooter lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-06-14T14:27:55.780Z"
   },
   {
-    "rank": 118,
+    "rank": 154,
     "query": "tyra banks netflix lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -46,25 +47,10 @@
     "source": "serpapi-google-trends",
     "text": "tyra banks netflix lawsuit tyra banks",
     "trendScore": 10,
-    "detectedAt": "2026-06-14T09:55:48.697Z"
+    "detectedAt": "2026-06-14T14:27:55.780Z"
   },
   {
-    "rank": 177,
-    "query": "royal caribbean passenger scooter lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "royal caribbean passenger scooter lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-06-14T09:55:48.697Z"
-  },
-  {
-    "rank": 428,
+    "rank": 430,
     "query": "blizzard project ascension lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -76,6 +62,6 @@
     "source": "serpapi-google-trends",
     "text": "blizzard project ascension lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-14T09:55:48.697Z"
+    "detectedAt": "2026-06-14T14:27:55.780Z"
   }
 ]

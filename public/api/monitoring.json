@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-14T09:55:51.860Z",
-  "count": 5,
+  "updatedAt": "2026-06-14T14:27:58.244Z",
+  "count": 4,
   "items": [
     {
       "id": "alfredo-sauce-recall",
@@ -23,24 +23,25 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 27,
       "matchedQueries": [
         "alfredo sauce recall",
-        "fda class i alfredo recall"
+        "fda class i alfredo recall",
+        "fda bef foods recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T09:55:48.697Z"
+      "lastUpdated": "2026-06-14T14:27:55.780Z"
     },
     {
-      "id": "trump-lawyers-irs-lawsuit-settlement",
-      "slug": "trump-lawyers-irs-lawsuit-settlement",
-      "title": "Trump Lawyers Irs Lawsuit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "royal-caribbean-passenger-scooter-lawsuit",
+      "slug": "royal-caribbean-passenger-scooter-lawsuit",
+      "title": "Royal Caribbean Passenger Scooter Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump lawyers irs lawsuit settlement",
+      "product": "royal caribbean passenger scooter lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,16 +51,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lawyers+irs+lawsuit+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 16,
+      "trendScore": 23,
       "matchedQueries": [
-        "trump lawyers irs lawsuit settlement"
+        "royal caribbean passenger scooter lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T09:55:48.697Z"
+      "lastUpdated": "2026-06-14T14:27:55.780Z"
     },
     {
       "id": "tyra-banks-netflix-lawsuit",
@@ -89,36 +90,7 @@
         "tyra banks"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T09:55:48.697Z"
-    },
-    {
-      "id": "royal-caribbean-passenger-scooter-lawsuit",
-      "slug": "royal-caribbean-passenger-scooter-lawsuit",
-      "title": "Royal Caribbean Passenger Scooter Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "royal caribbean passenger scooter lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "royal caribbean passenger scooter lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-14T09:55:48.697Z"
+      "lastUpdated": "2026-06-14T14:27:55.780Z"
     },
     {
       "id": "blizzard-project-ascension-lawsuit",
@@ -147,7 +119,7 @@
         "blizzard project ascension lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T09:55:48.697Z"
+      "lastUpdated": "2026-06-14T14:27:55.780Z"
     }
   ]
 }

@@ -1,39 +1,9 @@
 {
-  "updatedAt": "2026-06-13T19:54:09.497Z",
-  "count": 3,
+  "updatedAt": "2026-06-14T05:06:12.062Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 56,
-      "query": "tyra banks netflix lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "tyra banks netflix lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-13T19:54:05.486Z"
-    },
-    {
-      "rank": 68,
-      "query": "royal caribbean passenger scooter lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "royal caribbean passenger scooter lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-13T19:54:05.486Z"
-    },
-    {
-      "rank": 132,
+      "rank": 291,
       "query": "trump lawyers irs lawsuit settlement",
       "searchVolume": 5000,
       "startedAt": "",
@@ -45,7 +15,69 @@
       "source": "serpapi-google-trends",
       "text": "trump lawyers irs lawsuit settlement",
       "trendScore": 16,
-      "detectedAt": "2026-06-13T19:54:05.486Z"
+      "detectedAt": "2026-06-14T05:06:08.579Z"
+    },
+    {
+      "rank": 172,
+      "query": "tyra banks netflix lawsuit",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "tyra banks"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "tyra banks netflix lawsuit tyra banks",
+      "trendScore": 10,
+      "detectedAt": "2026-06-14T05:06:08.579Z"
+    },
+    {
+      "rank": 235,
+      "query": "royal caribbean passenger scooter lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "royal caribbean passenger scooter lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-14T05:06:08.579Z"
+    },
+    {
+      "rank": 360,
+      "query": "fda class i alfredo recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+alfredo+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "fda class i alfredo recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-14T05:06:08.579Z"
+    },
+    {
+      "rank": 429,
+      "query": "blizzard project ascension lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blizzard+project+ascension+lawsuit&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "blizzard project ascension lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-14T05:06:08.579Z"
     }
   ]
 }

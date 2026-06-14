@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:54:09.497Z",
+  "updatedAt": "2026-06-14T05:06:12.062Z",
   "item": {
     "id": "tyra-banks-netflix-lawsuit",
     "slug": "tyra-banks-netflix-lawsuit",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 10,
     "matchedQueries": [
-      "tyra banks netflix lawsuit"
+      "tyra banks netflix lawsuit",
+      "tyra banks"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-13T19:54:05.486Z",
+    "lastUpdated": "2026-06-14T05:06:08.579Z",
     "url": "https://simon622.shop/item/tyra-banks-netflix-lawsuit/"
   }
 }

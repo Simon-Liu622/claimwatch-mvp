@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-14T14:27:58.244Z",
-  "count": 4,
+  "updatedAt": "2026-06-14T19:57:33.509Z",
+  "count": 3,
   "items": [
     {
       "id": "alfredo-sauce-recall",
@@ -23,26 +23,27 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 27,
+      "searchVolume": 20000,
+      "trendScore": 28,
       "matchedQueries": [
         "alfredo sauce recall",
         "fda class i alfredo recall",
-        "fda bef foods recall"
+        "fda bef foods recall",
+        "fda class i sauce recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T14:27:55.780Z"
+      "lastUpdated": "2026-06-14T19:57:30.795Z"
     },
     {
-      "id": "royal-caribbean-passenger-scooter-lawsuit",
-      "slug": "royal-caribbean-passenger-scooter-lawsuit",
-      "title": "Royal Caribbean Passenger Scooter Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "fda-bef-foods-recall",
+      "slug": "fda-bef-foods-recall",
+      "title": "Fda Bef Foods Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "royal caribbean passenger scooter lawsuit",
-      "category": "Consumer monitoring",
+      "product": "fda bef foods recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -51,57 +52,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "royal caribbean passenger scooter lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-14T14:27:55.780Z"
-    },
-    {
-      "id": "tyra-banks-netflix-lawsuit",
-      "slug": "tyra-banks-netflix-lawsuit",
-      "title": "Tyra Banks Netflix Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "tyra banks netflix lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 10,
+      "trendScore": 23,
       "matchedQueries": [
-        "tyra banks netflix lawsuit",
-        "tyra banks"
+        "fda bef foods recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T14:27:55.780Z"
+      "lastUpdated": "2026-06-14T19:57:30.795Z"
     },
     {
-      "id": "blizzard-project-ascension-lawsuit",
-      "slug": "blizzard-project-ascension-lawsuit",
-      "title": "Blizzard Project Ascension Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "formula-recall",
+      "slug": "formula-recall",
+      "title": "Formula Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "blizzard project ascension lawsuit",
-      "category": "Consumer monitoring",
+      "product": "formula recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -110,16 +81,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blizzard+project+ascension+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=formula+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "blizzard project ascension lawsuit"
+        "formula recall",
+        "infant formula recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T14:27:55.780Z"
+      "lastUpdated": "2026-06-14T19:57:30.795Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:27:58.244Z",
+  "updatedAt": "2026-06-14T19:57:33.509Z",
   "item": {
     "id": "alfredo-sauce-recall",
     "slug": "alfredo-sauce-recall",
@@ -21,15 +21,16 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 27,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "alfredo sauce recall",
       "fda class i alfredo recall",
-      "fda bef foods recall"
+      "fda bef foods recall",
+      "fda class i sauce recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-14T14:27:55.780Z",
+    "lastUpdated": "2026-06-14T19:57:30.795Z",
     "url": "https://simon622.shop/item/alfredo-sauce-recall/"
   }
 }

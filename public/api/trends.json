@@ -1,71 +1,56 @@
 {
-  "updatedAt": "2026-06-14T14:27:58.244Z",
-  "count": 4,
+  "updatedAt": "2026-06-14T19:57:33.509Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 19,
+      "rank": 23,
       "query": "alfredo sauce recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "fda bef foods recall",
+        "fda class i sauce recall",
         "fda class i alfredo recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
-      "increasePercentage": 900,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
-      "text": "alfredo sauce recall fda bef foods recall fda class i alfredo recall",
-      "trendScore": 27,
-      "detectedAt": "2026-06-14T14:27:55.780Z"
+      "text": "alfredo sauce recall fda class i sauce recall fda class i alfredo recall",
+      "trendScore": 28,
+      "detectedAt": "2026-06-14T19:57:30.795Z"
     },
     {
-      "rank": 77,
-      "query": "royal caribbean passenger scooter lawsuit",
-      "searchVolume": 5000,
+      "rank": 30,
+      "query": "fda bef foods recall",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=royal+caribbean+passenger+scooter+lawsuit&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "royal caribbean passenger scooter lawsuit",
+      "text": "fda bef foods recall",
       "trendScore": 23,
-      "detectedAt": "2026-06-14T14:27:55.780Z"
+      "detectedAt": "2026-06-14T19:57:30.795Z"
     },
     {
-      "rank": 154,
-      "query": "tyra banks netflix lawsuit",
-      "searchVolume": 10000,
+      "rank": 215,
+      "query": "formula recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "tyra banks"
+        "infant formula recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyra+banks+netflix+lawsuit&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=formula+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "tyra banks netflix lawsuit tyra banks",
+      "text": "formula recall infant formula recall",
       "trendScore": 10,
-      "detectedAt": "2026-06-14T14:27:55.780Z"
-    },
-    {
-      "rank": 430,
-      "query": "blizzard project ascension lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blizzard+project+ascension+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "blizzard project ascension lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-06-14T14:27:55.780Z"
+      "detectedAt": "2026-06-14T19:57:30.795Z"
     }
   ]
 }

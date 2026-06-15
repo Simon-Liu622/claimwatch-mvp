@@ -1,28 +1,11 @@
 [
   {
-    "rank": 27,
-    "query": "fda bef foods recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "aldi macaroni and cheese recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "fda bef foods recall aldi macaroni and cheese recall",
-    "trendScore": 26,
-    "detectedAt": "2026-06-15T05:27:43.732Z"
-  },
-  {
-    "rank": 124,
+    "rank": 69,
     "query": "nara organics formula",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
       "nara organics",
       "formula recall",
@@ -32,24 +15,39 @@
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "nara organics formula nara organics formula recall infant formula recall",
-    "trendScore": 14,
-    "detectedAt": "2026-06-15T05:27:43.732Z"
+    "trendScore": 29,
+    "detectedAt": "2026-06-15T12:42:51.644Z"
   },
   {
-    "rank": 75,
-    "query": "alfredo sauce recall",
-    "searchVolume": 20000,
+    "rank": 5,
+    "query": "fda bef foods recall",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "aldi macaroni and cheese recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
+    "increasePercentage": 900,
+    "source": "serpapi-google-trends",
+    "text": "fda bef foods recall aldi macaroni and cheese recall",
+    "trendScore": 26,
+    "detectedAt": "2026-06-15T12:42:51.644Z"
+  },
+  {
+    "rank": 373,
+    "query": "fda class i sauce recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "fda class i sauce recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
-    "increasePercentage": 500,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+sauce+recall&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "alfredo sauce recall fda class i sauce recall",
-    "trendScore": 11,
-    "detectedAt": "2026-06-15T05:27:43.732Z"
+    "text": "fda class i sauce recall",
+    "trendScore": 8,
+    "detectedAt": "2026-06-15T12:42:51.644Z"
   }
 ]

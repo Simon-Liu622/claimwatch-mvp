@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-14T19:57:33.509Z",
+  "updatedAt": "2026-06-15T05:27:47.342Z",
   "item": {
-    "id": "formula-recall",
-    "slug": "formula-recall",
-    "title": "Formula Recall: Consumer Alert Monitoring",
+    "id": "nara-organics-formula",
+    "slug": "nara-organics-formula",
+    "title": "Nara Organics Formula: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "formula recall",
+    "product": "nara organics formula",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=formula+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nara+organics+formula&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 10,
+    "searchVolume": 10000,
+    "trendScore": 14,
     "matchedQueries": [
+      "nara organics formula",
+      "nara organics",
       "formula recall",
       "infant formula recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-14T19:57:30.795Z",
-    "url": "https://simon622.shop/item/formula-recall/"
+    "lastUpdated": "2026-06-15T05:27:43.732Z",
+    "url": "https://simon622.shop/item/nara-organics-formula/"
   }
 }

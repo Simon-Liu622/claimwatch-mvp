@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-06-14T19:57:33.509Z",
+  "updatedAt": "2026-06-15T05:27:47.342Z",
   "count": 3,
   "items": [
-    {
-      "id": "alfredo-sauce-recall",
-      "slug": "alfredo-sauce-recall",
-      "title": "Alfredo Sauce Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "alfredo sauce recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "alfredo sauce recall",
-        "fda class i alfredo recall",
-        "fda bef foods recall",
-        "fda class i sauce recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-14T19:57:30.795Z"
-    },
     {
       "id": "fda-bef-foods-recall",
       "slug": "fda-bef-foods-recall",
@@ -64,14 +32,14 @@
       "lastUpdated": "2026-06-14T19:57:30.795Z"
     },
     {
-      "id": "formula-recall",
-      "slug": "formula-recall",
-      "title": "Formula Recall: Consumer Alert Monitoring",
+      "id": "nara-organics-formula",
+      "slug": "nara-organics-formula",
+      "title": "Nara Organics Formula: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "formula recall",
+      "product": "nara organics formula",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -81,17 +49,51 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=formula+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nara+organics+formula&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 10000,
+      "trendScore": 14,
       "matchedQueries": [
+        "nara organics formula",
+        "nara organics",
         "formula recall",
         "infant formula recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T19:57:30.795Z"
+      "lastUpdated": "2026-06-15T05:27:43.732Z"
+    },
+    {
+      "id": "alfredo-sauce-recall",
+      "slug": "alfredo-sauce-recall",
+      "title": "Alfredo Sauce Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "alfredo sauce recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alfredo+sauce+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 11,
+      "matchedQueries": [
+        "alfredo sauce recall",
+        "fda class i alfredo recall",
+        "fda bef foods recall",
+        "fda class i sauce recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-15T05:27:43.732Z"
     }
   ]
 }

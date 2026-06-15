@@ -1,57 +1,70 @@
 {
-  "updatedAt": "2026-06-15T12:42:54.141Z",
-  "count": 3,
+  "updatedAt": "2026-06-15T21:22:56.710Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 69,
-      "query": "nara organics formula",
-      "searchVolume": 10000,
+      "rank": 7,
+      "query": "carter page lawsuit james comey",
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "nara organics",
-        "formula recall",
-        "infant formula recall"
+        "carter page appeal rejected"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nara+organics+formula&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carter+page+lawsuit+james+comey&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "nara organics formula nara organics formula recall infant formula recall",
-      "trendScore": 29,
-      "detectedAt": "2026-06-15T12:42:51.644Z"
+      "text": "carter page lawsuit james comey carter page appeal rejected",
+      "trendScore": 26,
+      "detectedAt": "2026-06-15T21:22:51.927Z"
     },
     {
-      "rank": 5,
-      "query": "fda bef foods recall",
-      "searchVolume": 50000,
+      "rank": 25,
+      "query": "product recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
         "aldi macaroni and cheese recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
-      "increasePercentage": 900,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "fda bef foods recall aldi macaroni and cheese recall",
+      "text": "product recall aldi macaroni and cheese recall",
       "trendScore": 26,
-      "detectedAt": "2026-06-15T12:42:51.644Z"
+      "detectedAt": "2026-06-15T21:22:51.927Z"
     },
     {
-      "rank": 373,
-      "query": "fda class i sauce recall",
-      "searchVolume": 1000,
+      "rank": 130,
+      "query": "sun gmc lawsuit general motors",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sun+gmc+lawsuit+general+motors&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "sun gmc lawsuit general motors",
+      "trendScore": 23,
+      "detectedAt": "2026-06-15T21:22:51.927Z"
+    },
+    {
+      "rank": 281,
+      "query": "facebook privacy settlement bonus payment",
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+sauce+recall&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+privacy+settlement+bonus+payment&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "fda class i sauce recall",
+      "text": "facebook privacy settlement bonus payment",
       "trendScore": 8,
-      "detectedAt": "2026-06-15T12:42:51.644Z"
+      "detectedAt": "2026-06-15T21:22:51.927Z"
     }
   ]
 }

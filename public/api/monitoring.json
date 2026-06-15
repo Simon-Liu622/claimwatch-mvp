@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-15T12:42:54.141Z",
+  "updatedAt": "2026-06-15T21:22:56.710Z",
   "count": 3,
   "items": [
     {
-      "id": "nara-organics-formula",
-      "slug": "nara-organics-formula",
-      "title": "Nara Organics Formula: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "carter-page-lawsuit-james-comey",
+      "slug": "carter-page-lawsuit-james-comey",
+      "title": "Carter Page Lawsuit James Comey: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "nara organics formula",
-      "category": "Recall monitoring",
+      "product": "carter page lawsuit james comey",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,29 +20,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nara+organics+formula&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carter+page+lawsuit+james+comey&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 29,
+      "searchVolume": 50000,
+      "trendScore": 26,
       "matchedQueries": [
-        "nara organics formula",
-        "nara organics",
-        "formula recall",
-        "infant formula recall"
+        "carter page lawsuit james comey",
+        "carter page appeal rejected"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-15T12:42:51.644Z"
+      "lastUpdated": "2026-06-15T21:22:51.927Z"
     },
     {
-      "id": "fda-bef-foods-recall",
-      "slug": "fda-bef-foods-recall",
-      "title": "Fda Bef Foods Recall: Consumer Alert Monitoring",
+      "id": "product-recall",
+      "slug": "product-recall",
+      "title": "Product Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fda bef foods recall",
+      "product": "product recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -52,27 +50,28 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+bef+foods+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "fda bef foods recall"
+        "product recall",
+        "aldi macaroni and cheese recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-14T19:57:30.795Z"
+      "lastUpdated": "2026-06-15T21:22:51.927Z"
     },
     {
-      "id": "fda-class-i-sauce-recall",
-      "slug": "fda-class-i-sauce-recall",
-      "title": "Fda Class I Sauce Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "facebook-privacy-settlement-bonus-payment",
+      "slug": "facebook-privacy-settlement-bonus-payment",
+      "title": "Facebook Privacy Settlement Bonus Payment: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fda class i sauce recall",
-      "category": "Recall monitoring",
+      "product": "facebook privacy settlement bonus payment",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -81,16 +80,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+sauce+recall&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+privacy+settlement+bonus+payment&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "fda class i sauce recall"
+        "facebook privacy settlement bonus payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-15T12:42:51.644Z"
+      "lastUpdated": "2026-06-15T21:22:51.927Z"
     }
   ]
 }

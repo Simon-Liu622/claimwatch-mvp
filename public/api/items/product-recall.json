@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-15T12:42:54.141Z",
+  "updatedAt": "2026-06-15T21:22:56.710Z",
   "item": {
-    "id": "fda-class-i-sauce-recall",
-    "slug": "fda-class-i-sauce-recall",
-    "title": "Fda Class I Sauce Recall: Consumer Alert Monitoring",
+    "id": "product-recall",
+    "slug": "product-recall",
+    "title": "Product Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda class i sauce recall",
+    "product": "product recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+sauce+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "fda class i sauce recall"
+      "product recall",
+      "aldi macaroni and cheese recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-15T12:42:51.644Z",
-    "url": "https://simon622.shop/item/fda-class-i-sauce-recall/"
+    "lastUpdated": "2026-06-15T21:22:51.927Z",
+    "url": "https://simon622.shop/item/product-recall/"
   }
 }

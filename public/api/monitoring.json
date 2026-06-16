@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-06-16T17:20:31.955Z",
-  "count": 3,
+  "updatedAt": "2026-06-16T21:19:36.932Z",
+  "count": 4,
   "items": [
+    {
+      "id": "dawn-richard-lawsuit-ruling",
+      "slug": "dawn-richard-lawsuit-ruling",
+      "title": "Dawn Richard Lawsuit Ruling: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "dawn richard lawsuit ruling",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dawn+richard+lawsuit+ruling&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "dawn richard lawsuit ruling"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-16T21:19:34.124Z"
+    },
     {
       "id": "macaroni-and-cheese-allergen-recall",
       "slug": "macaroni-and-cheese-allergen-recall",
@@ -29,36 +58,7 @@
         "macaroni and cheese allergen recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T17:20:28.522Z"
-    },
-    {
-      "id": "facebook-privacy-settlement-bonus-payment",
-      "slug": "facebook-privacy-settlement-bonus-payment",
-      "title": "Facebook Privacy Settlement Bonus Payment: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "facebook privacy settlement bonus payment",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=facebook+privacy+settlement+bonus+payment&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "facebook privacy settlement bonus payment"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-16T17:20:28.522Z"
+      "lastUpdated": "2026-06-16T21:19:34.124Z"
     },
     {
       "id": "it-ends-with-us-lawsuit",
@@ -87,7 +87,36 @@
         "it ends with us lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T17:20:28.522Z"
+      "lastUpdated": "2026-06-16T21:19:34.124Z"
+    },
+    {
+      "id": "lawsuit-against-shilo-sanders-refiled",
+      "slug": "lawsuit-against-shilo-sanders-refiled",
+      "title": "Lawsuit Against Shilo Sanders Refiled: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "lawsuit against shilo sanders refiled",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+against+shilo+sanders+refiled&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "lawsuit against shilo sanders refiled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-16T21:19:34.124Z"
     }
   ]
 }

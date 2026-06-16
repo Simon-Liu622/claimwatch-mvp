@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-16T05:32:40.042Z",
-  "count": 4,
+  "updatedAt": "2026-06-16T11:33:49.038Z",
+  "count": 3,
   "items": [
     {
       "id": "carter-page-lawsuit-james-comey",
@@ -30,37 +30,7 @@
         "carter page appeal rejected"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T05:32:36.995Z"
-    },
-    {
-      "id": "product-recall",
-      "slug": "product-recall",
-      "title": "Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "product recall",
-        "aldi macaroni and cheese recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T11:33:46.290Z"
     },
     {
       "id": "facebook-privacy-settlement-bonus-payment",
@@ -89,7 +59,7 @@
         "facebook privacy settlement bonus payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T05:32:36.995Z"
+      "lastUpdated": "2026-06-16T11:33:46.290Z"
     },
     {
       "id": "it-ends-with-us-lawsuit",
@@ -118,7 +88,7 @@
         "it ends with us lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T05:32:36.995Z"
+      "lastUpdated": "2026-06-16T11:33:46.290Z"
     }
   ]
 }

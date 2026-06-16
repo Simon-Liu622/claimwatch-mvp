@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-15T21:22:56.710Z",
-  "count": 4,
+  "updatedAt": "2026-06-16T05:32:40.042Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 7,
+      "rank": 8,
       "query": "carter page lawsuit james comey",
-      "searchVolume": 50000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -16,43 +16,58 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "carter page lawsuit james comey carter page appeal rejected",
-      "trendScore": 26,
-      "detectedAt": "2026-06-15T21:22:51.927Z"
+      "trendScore": 28,
+      "detectedAt": "2026-06-16T05:32:36.995Z"
     },
     {
-      "rank": 25,
+      "rank": 73,
       "query": "product recall",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "aldi macaroni and cheese recall"
+        "macaroni and cheese allergen recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "product recall aldi macaroni and cheese recall",
-      "trendScore": 26,
-      "detectedAt": "2026-06-15T21:22:51.927Z"
+      "text": "product recall macaroni and cheese allergen recall",
+      "trendScore": 19,
+      "detectedAt": "2026-06-16T05:32:36.995Z"
     },
     {
-      "rank": 130,
+      "rank": 149,
       "query": "sun gmc lawsuit general motors",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sun+gmc+lawsuit+general+motors&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "sun gmc lawsuit general motors",
+      "trendScore": 8,
+      "detectedAt": "2026-06-16T05:32:36.995Z"
+    },
+    {
+      "rank": 309,
+      "query": "it ends with us lawsuit",
       "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sun+gmc+lawsuit+general+motors&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=it+ends+with+us+lawsuit&tz=420",
       "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "sun gmc lawsuit general motors",
-      "trendScore": 23,
-      "detectedAt": "2026-06-15T21:22:51.927Z"
+      "text": "it ends with us lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-06-16T05:32:36.995Z"
     },
     {
-      "rank": 281,
+      "rank": 360,
       "query": "facebook privacy settlement bonus payment",
       "searchVolume": 500,
       "startedAt": "",
@@ -64,7 +79,7 @@
       "source": "serpapi-google-trends",
       "text": "facebook privacy settlement bonus payment",
       "trendScore": 8,
-      "detectedAt": "2026-06-15T21:22:51.927Z"
+      "detectedAt": "2026-06-16T05:32:36.995Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T21:22:56.710Z",
+  "updatedAt": "2026-06-16T05:32:40.042Z",
   "items": [
     {
       "title": "Honda (American Honda Motor Co.): SEAT BELTS:FRONT Recall (2024 honda accord)",
@@ -15,7 +15,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -31,7 +31,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -47,7 +47,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "American Honda Motor Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death Due to Crash Hazard",
@@ -79,7 +79,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -95,7 +95,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -319,7 +319,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall",
@@ -351,7 +351,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/World-Bright-International-Limited-Recalls-Agio-Menlo-Woven-Patio-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Sold-at-Costco",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Southeast Toyota Distributors, LLC: EQUIPMENT:OTHER:LABELS Recall (2024 toyota tundra)",
@@ -514,6 +514,54 @@
       "lastUpdated": "2026-05-27T20:29:01.709Z"
     },
     {
+      "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
+      "slug": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
+      "url": "https://simon622.shop/item/becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain/",
+      "type": "recall",
+      "status": "active",
+      "company": "Becton Dickinson & Company",
+      "product": "BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai",
+      "summary": "This is a sub-recall of a product recall from Huons Co, Ltd., the manufacturer of Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to quality issues identified during an FDA manufacturing facility inspection, citing specific quality deficiencies related to acceptance testing. Product details: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcaine). Catalog Number: 405645.",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
+    },
+    {
+      "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Quincke Needle 26 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcain Recall",
+      "slug": "becton-dickinson-and-company-bd-spinal-tray-with-bd-quincke-needle-26-g-x-3-5-in-lidocaine",
+      "url": "https://simon622.shop/item/becton-dickinson-and-company-bd-spinal-tray-with-bd-quincke-needle-26-g-x-3-5-in-lidocaine/",
+      "type": "recall",
+      "status": "active",
+      "company": "Becton Dickinson & Company",
+      "product": "BD¿Spinal Tray with BD¿Quincke Needle 26 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcain",
+      "summary": "This is a sub-recall of a product recall from Huons Co, Ltd., the manufacturer of Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to quality issues identified during an FDA manufacturing facility inspection, citing specific quality deficiencies related to acceptance testing. Product details: BD¿Spinal Tray with BD¿Quincke Needle 26 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcaine). Catalog Number: 405632.",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
+    },
+    {
+      "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 25 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
+      "slug": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-25-g-x-3-5-in-lidocain",
+      "url": "https://simon622.shop/item/becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-25-g-x-3-5-in-lidocain/",
+      "type": "recall",
+      "status": "active",
+      "company": "Becton Dickinson & Company",
+      "product": "BD¿Spinal Tray with BD¿Whitacre Needle 25 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai",
+      "summary": "This is a sub-recall of a product recall from Huons Co, Ltd., the manufacturer of Bupivacaine Hydrochloride in Dextrose Injection, USP. The recall is due to quality issues identified during an FDA manufacturing facility inspection, citing specific quality deficiencies related to acceptance testing. Product details: BD¿Spinal Tray with BD¿Whitacre Needle 25 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcaine). Catalog Numbers: 405637, 405707.",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
+    },
+    {
       "title": "PandaEar Recalls Portable Hook-On Chairs Due to Risk of Serious Injury or Death from Fall Hazard; Violates Mandatory Standard for Portable Hook-On Chairs",
       "slug": "cpsc-26502",
       "url": "https://simon622.shop/item/cpsc-26502/",
@@ -527,7 +575,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/PandaEar-Recalls-Portable-Hook-On-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violates-Mandatory-Standard-for-Portable-Hook-On-Chairs",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
@@ -543,7 +591,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Giantex-and-Costway-Portable-Steam-Saunas-Due-to-Burn-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Giantex Recalls Lounge Chairs Due to Amputation Hazard",
@@ -559,7 +607,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Giantex-Recalls-Lounge-Chairs-Due-to-Amputation-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Children's Tower Stools Recalled Due to Risk of Serious Injury and Death from Entrapment and Fall Hazards; Imported by AMZCMJ DGD",
@@ -639,7 +687,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Consumer Sentinel Network",
@@ -655,7 +703,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/consumer-sentinel-network",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "FTC Refund Programs",
@@ -671,7 +719,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Sign up for consumer alerts",
@@ -687,7 +735,7 @@
       "officialSourceUrl": "https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Find refund cases",
@@ -703,7 +751,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Consumer Advice",
@@ -719,7 +767,7 @@
       "officialSourceUrl": "https://www.consumer.ftc.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Visit militaryconsumer.gov",
@@ -735,7 +783,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     },
     {
       "title": "Visit consumer.gov",
@@ -751,55 +799,7 @@
       "officialSourceUrl": "https://consumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
-    },
-    {
-      "title": "FTC Refunds to Consumers",
-      "slug": "ftc-refunds-to-consumers",
-      "url": "https://simon622.shop/item/ftc-refunds-to-consumers/",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "product": "FTC refund program",
-      "summary": "FTC refund or consumer payment program: FTC Refunds to Consumers.",
-      "sourceAgency": "FTC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://public.tableau.com/app/profile/federal.trade.commission/viz/Refunds_15797958402020/RefundsbyCase",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
-    },
-    {
-      "title": "Military Consumer",
-      "slug": "military-consumer",
-      "url": "https://simon622.shop/item/military-consumer/",
-      "type": "safety-alert",
-      "status": "monitoring",
-      "company": "",
-      "product": "FTC refund program",
-      "summary": "FTC refund or consumer payment program: Military Consumer.",
-      "sourceAgency": "FTC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://militaryconsumer.gov/",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
-    },
-    {
-      "title": "Consumer.gov",
-      "slug": "consumer-gov",
-      "url": "https://simon622.shop/item/consumer-gov/",
-      "type": "safety-alert",
-      "status": "monitoring",
-      "company": "",
-      "product": "FTC refund program",
-      "summary": "FTC refund or consumer payment program: Consumer.gov.",
-      "sourceAgency": "FTC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://consumer.gov/",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-06-15T21:22:51.927Z"
+      "lastUpdated": "2026-06-16T05:32:36.995Z"
     }
   ]
 }

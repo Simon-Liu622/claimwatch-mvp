@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-16T11:33:49.038Z",
+  "updatedAt": "2026-06-16T17:20:31.955Z",
   "count": 3,
   "items": [
     {
-      "id": "carter-page-lawsuit-james-comey",
-      "slug": "carter-page-lawsuit-james-comey",
-      "title": "Carter Page Lawsuit James Comey: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "macaroni-and-cheese-allergen-recall",
+      "slug": "macaroni-and-cheese-allergen-recall",
+      "title": "Macaroni And Cheese Allergen Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "carter page lawsuit james comey",
-      "category": "Consumer monitoring",
+      "product": "macaroni and cheese allergen recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,17 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carter+page+lawsuit+james+comey&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=macaroni+and+cheese+allergen+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 28,
+      "searchVolume": 5000,
+      "trendScore": 16,
       "matchedQueries": [
-        "carter page lawsuit james comey",
-        "carter page appeal rejected"
+        "macaroni and cheese allergen recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T11:33:46.290Z"
+      "lastUpdated": "2026-06-16T17:20:28.522Z"
     },
     {
       "id": "facebook-privacy-settlement-bonus-payment",
@@ -59,7 +58,7 @@
         "facebook privacy settlement bonus payment"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T11:33:46.290Z"
+      "lastUpdated": "2026-06-16T17:20:28.522Z"
     },
     {
       "id": "it-ends-with-us-lawsuit",
@@ -88,7 +87,7 @@
         "it ends with us lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-16T11:33:46.290Z"
+      "lastUpdated": "2026-06-16T17:20:28.522Z"
     }
   ]
 }

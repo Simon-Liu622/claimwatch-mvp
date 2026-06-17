@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T16:03:30.608Z",
+  "updatedAt": "2026-06-17T20:30:01.690Z",
   "item": {
     "id": "drug-recall",
     "slug": "drug-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 23,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
       "drug recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-17T16:03:27.408Z",
+    "lastUpdated": "2026-06-17T20:29:58.149Z",
     "url": "https://simon622.shop/item/drug-recall/"
   }
 }

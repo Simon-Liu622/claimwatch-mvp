@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:16:14.330Z",
+  "updatedAt": "2026-06-17T11:16:48.493Z",
   "item": {
     "id": "ford-vehicle-recall-nhtsa",
     "slug": "ford-vehicle-recall-nhtsa",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+nhtsa&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 28,
+    "searchVolume": 50000,
+    "trendScore": 26,
     "matchedQueries": [
       "ford vehicle recall nhtsa",
       "ford recalls",
       "ford recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-17T05:16:11.719Z",
+    "lastUpdated": "2026-06-17T11:16:45.281Z",
     "url": "https://simon622.shop/item/ford-vehicle-recall-nhtsa/"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T05:16:14.330Z",
-  "count": 3,
+  "updatedAt": "2026-06-17T11:16:48.493Z",
+  "count": 4,
   "items": [
     {
       "id": "ford-vehicle-recall-nhtsa",
@@ -23,15 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+nhtsa&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
+      "searchVolume": 50000,
+      "trendScore": 26,
       "matchedQueries": [
         "ford vehicle recall nhtsa",
         "ford recalls",
         "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T05:16:11.719Z"
+      "lastUpdated": "2026-06-17T11:16:45.281Z"
     },
     {
       "id": "dawn-richard-lawsuit-ruling",
@@ -60,7 +60,7 @@
         "dawn richard lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T05:16:11.719Z"
+      "lastUpdated": "2026-06-17T11:16:45.281Z"
     },
     {
       "id": "lawsuit-against-shilo-sanders-refiled",
@@ -89,7 +89,36 @@
         "lawsuit against shilo sanders refiled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T05:16:11.719Z"
+      "lastUpdated": "2026-06-17T11:16:45.281Z"
+    },
+    {
+      "id": "ford-recall",
+      "slug": "ford-recall",
+      "title": "Ford Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "ford recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-17T11:16:45.281Z"
     }
   ]
 }

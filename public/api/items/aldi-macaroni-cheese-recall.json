@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-17T11:16:48.493Z",
+  "updatedAt": "2026-06-17T16:03:30.608Z",
   "item": {
-    "id": "lawsuit-against-shilo-sanders-refiled",
-    "slug": "lawsuit-against-shilo-sanders-refiled",
-    "title": "Lawsuit Against Shilo Sanders Refiled: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "aldi-macaroni-cheese-recall",
+    "slug": "aldi-macaroni-cheese-recall",
+    "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "lawsuit against shilo sanders refiled",
-    "category": "Consumer monitoring",
+    "product": "aldi macaroni cheese recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+against+shilo+sanders+refiled&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
+    "searchVolume": 200,
     "trendScore": 8,
     "matchedQueries": [
-      "lawsuit against shilo sanders refiled"
+      "aldi macaroni cheese recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-17T11:16:45.281Z",
-    "url": "https://simon622.shop/item/lawsuit-against-shilo-sanders-refiled/"
+    "lastUpdated": "2026-06-17T16:03:27.408Z",
+    "url": "https://simon622.shop/item/aldi-macaroni-cheese-recall/"
   }
 }

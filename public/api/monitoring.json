@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T11:16:48.493Z",
-  "count": 4,
+  "updatedAt": "2026-06-17T16:03:30.608Z",
+  "count": 5,
   "items": [
     {
       "id": "ford-vehicle-recall-nhtsa",
@@ -31,7 +31,36 @@
         "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T11:16:45.281Z"
+      "lastUpdated": "2026-06-17T16:03:27.408Z"
+    },
+    {
+      "id": "drug-recall",
+      "slug": "drug-recall",
+      "title": "Drug Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "drug recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "drug recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-17T16:03:27.408Z"
     },
     {
       "id": "dawn-richard-lawsuit-ruling",
@@ -60,36 +89,7 @@
         "dawn richard lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T11:16:45.281Z"
-    },
-    {
-      "id": "lawsuit-against-shilo-sanders-refiled",
-      "slug": "lawsuit-against-shilo-sanders-refiled",
-      "title": "Lawsuit Against Shilo Sanders Refiled: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit against shilo sanders refiled",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+against+shilo+sanders+refiled&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "lawsuit against shilo sanders refiled"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-17T11:16:45.281Z"
+      "lastUpdated": "2026-06-17T16:03:27.408Z"
     },
     {
       "id": "ford-recall",
@@ -118,7 +118,36 @@
         "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T11:16:45.281Z"
+      "lastUpdated": "2026-06-17T16:03:27.408Z"
+    },
+    {
+      "id": "aldi-macaroni-cheese-recall",
+      "slug": "aldi-macaroni-cheese-recall",
+      "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "aldi macaroni cheese recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "aldi macaroni cheese recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-17T16:03:27.408Z"
     }
   ]
 }

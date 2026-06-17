@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-17T11:16:48.493Z",
-  "count": 4,
+  "updatedAt": "2026-06-17T16:03:30.608Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 10,
+      "rank": 11,
       "query": "ford vehicle recall nhtsa",
       "searchVolume": 50000,
       "startedAt": "",
@@ -17,10 +17,25 @@
       "source": "serpapi-google-trends",
       "text": "ford vehicle recall nhtsa ford recalls",
       "trendScore": 26,
-      "detectedAt": "2026-06-17T11:16:45.281Z"
+      "detectedAt": "2026-06-17T16:03:27.408Z"
     },
     {
-      "rank": 164,
+      "rank": 148,
+      "query": "drug recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "drug recall",
+      "trendScore": 23,
+      "detectedAt": "2026-06-17T16:03:27.408Z"
+    },
+    {
+      "rank": 202,
       "query": "dawn richard lawsuit ruling",
       "searchVolume": 5000,
       "startedAt": "",
@@ -32,25 +47,25 @@
       "source": "serpapi-google-trends",
       "text": "dawn richard lawsuit ruling",
       "trendScore": 8,
-      "detectedAt": "2026-06-17T11:16:45.281Z"
+      "detectedAt": "2026-06-17T16:03:27.408Z"
     },
     {
-      "rank": 393,
-      "query": "lawsuit against shilo sanders refiled",
-      "searchVolume": 1000,
+      "rank": 260,
+      "query": "aldi macaroni cheese recall",
+      "searchVolume": 200,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit+against+shilo+sanders+refiled&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "lawsuit against shilo sanders refiled",
+      "text": "aldi macaroni cheese recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-17T11:16:45.281Z"
+      "detectedAt": "2026-06-17T16:03:27.408Z"
     },
     {
-      "rank": 436,
+      "rank": 492,
       "query": "ford recall",
       "searchVolume": 200,
       "startedAt": "",
@@ -62,7 +77,7 @@
       "source": "serpapi-google-trends",
       "text": "ford recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-17T11:16:45.281Z"
+      "detectedAt": "2026-06-17T16:03:27.408Z"
     }
   ]
 }

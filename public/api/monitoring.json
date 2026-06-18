@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-06-17T20:30:01.690Z",
+  "updatedAt": "2026-06-18T05:02:07.740Z",
   "count": 3,
   "items": [
+    {
+      "id": "matlock-writer-lawsuit-cbs",
+      "slug": "matlock-writer-lawsuit-cbs",
+      "title": "Matlock Writer Lawsuit Cbs: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "matlock writer lawsuit cbs",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "matlock writer lawsuit cbs"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-18T05:02:03.131Z"
+    },
     {
       "id": "drug-recall",
       "slug": "drug-recall",
@@ -29,36 +58,7 @@
         "drug recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T20:29:58.149Z"
-    },
-    {
-      "id": "ford-recall",
-      "slug": "ford-recall",
-      "title": "Ford Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ford recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ford recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-17T20:29:58.149Z"
+      "lastUpdated": "2026-06-18T05:02:03.131Z"
     },
     {
       "id": "aldi-macaroni-cheese-recall",
@@ -81,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
+      "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
         "aldi macaroni cheese recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-17T20:29:58.149Z"
+      "lastUpdated": "2026-06-18T05:02:03.131Z"
     }
   ]
 }

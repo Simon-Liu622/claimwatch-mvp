@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-18T10:47:29.439Z",
+  "updatedAt": "2026-06-18T15:52:29.771Z",
   "item": {
-    "id": "aldi-macaroni-cheese-recall",
-    "slug": "aldi-macaroni-cheese-recall",
-    "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
+    "id": "rising-pharma-chlorthalidone-recall",
+    "slug": "rising-pharma-chlorthalidone-recall",
+    "title": "Rising Pharma Chlorthalidone Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "aldi macaroni cheese recall",
+    "product": "rising pharma chlorthalidone recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
     "trendScore": 23,
     "matchedQueries": [
-      "aldi macaroni cheese recall"
+      "rising pharma chlorthalidone recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-18T10:47:21.441Z",
-    "url": "https://simon622.shop/item/aldi-macaroni-cheese-recall/"
+    "lastUpdated": "2026-06-18T15:52:25.506Z",
+    "url": "https://simon622.shop/item/rising-pharma-chlorthalidone-recall/"
   }
 }

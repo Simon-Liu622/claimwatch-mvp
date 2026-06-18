@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-06-18T10:47:29.439Z",
+  "updatedAt": "2026-06-18T15:52:29.771Z",
   "count": 4,
   "items": [
-    {
-      "id": "aldi-macaroni-cheese-recall",
-      "slug": "aldi-macaroni-cheese-recall",
-      "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "aldi macaroni cheese recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "aldi macaroni cheese recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-18T10:47:21.441Z"
-    },
     {
       "id": "ahold-delhaize-doj-settlement",
       "slug": "ahold-delhaize-doj-settlement",
@@ -52,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ahold+delhaize+doj+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
+      "searchVolume": 2000,
       "trendScore": 23,
       "matchedQueries": [
         "ahold delhaize doj settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T10:47:21.441Z"
+      "lastUpdated": "2026-06-18T15:52:25.506Z"
+    },
+    {
+      "id": "rising-pharma-chlorthalidone-recall",
+      "slug": "rising-pharma-chlorthalidone-recall",
+      "title": "Rising Pharma Chlorthalidone Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "rising pharma chlorthalidone recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "rising pharma chlorthalidone recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-18T15:52:25.506Z"
     },
     {
       "id": "matlock-writer-lawsuit-cbs",
@@ -89,17 +89,17 @@
         "john lowe matlock lawsuit cbs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T10:47:21.441Z"
+      "lastUpdated": "2026-06-18T15:52:25.506Z"
     },
     {
-      "id": "drug-recall",
-      "slug": "drug-recall",
-      "title": "Drug Recall: Consumer Alert Monitoring",
+      "id": "ford-f-150-column-shifter-recall",
+      "slug": "ford-f-150-column-shifter-recall",
+      "title": "Ford F-150 Column Shifter Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "drug recall",
+      "product": "ford f-150 column shifter recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -109,16 +109,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "drug recall"
+        "ford f-150 column shifter recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T10:47:21.441Z"
+      "lastUpdated": "2026-06-18T15:52:25.506Z"
     }
   ]
 }

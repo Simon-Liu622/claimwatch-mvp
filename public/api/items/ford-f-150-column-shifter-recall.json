@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-18T10:47:29.439Z",
+  "updatedAt": "2026-06-18T15:52:29.771Z",
   "item": {
-    "id": "drug-recall",
-    "slug": "drug-recall",
-    "title": "Drug Recall: Consumer Alert Monitoring",
+    "id": "ford-f-150-column-shifter-recall",
+    "slug": "ford-f-150-column-shifter-recall",
+    "title": "Ford F-150 Column Shifter Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "drug recall",
+    "product": "ford f-150 column shifter recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "trendScore": 8,
     "matchedQueries": [
-      "drug recall"
+      "ford f-150 column shifter recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-18T10:47:21.441Z",
-    "url": "https://simon622.shop/item/drug-recall/"
+    "lastUpdated": "2026-06-18T15:52:25.506Z",
+    "url": "https://simon622.shop/item/ford-f-150-column-shifter-recall/"
   }
 }

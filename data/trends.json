@@ -1,23 +1,23 @@
 [
   {
-    "rank": 39,
-    "query": "aldi macaroni cheese recall",
+    "rank": 51,
+    "query": "rising pharma chlorthalidone recall",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "aldi macaroni cheese recall",
+    "text": "rising pharma chlorthalidone recall",
     "trendScore": 23,
-    "detectedAt": "2026-06-18T10:47:21.441Z"
+    "detectedAt": "2026-06-18T15:52:25.506Z"
   },
   {
-    "rank": 91,
+    "rank": 69,
     "query": "ahold delhaize doj settlement",
-    "searchVolume": 500,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -27,10 +27,10 @@
     "source": "serpapi-google-trends",
     "text": "ahold delhaize doj settlement",
     "trendScore": 23,
-    "detectedAt": "2026-06-18T10:47:21.441Z"
+    "detectedAt": "2026-06-18T15:52:25.506Z"
   },
   {
-    "rank": 155,
+    "rank": 207,
     "query": "matlock writer lawsuit cbs",
     "searchVolume": 5000,
     "startedAt": "",
@@ -45,21 +45,21 @@
     "source": "serpapi-google-trends",
     "text": "matlock writer lawsuit cbs matlock john lowe matlock lawsuit cbs",
     "trendScore": 12,
-    "detectedAt": "2026-06-18T10:47:21.441Z"
+    "detectedAt": "2026-06-18T15:52:25.506Z"
   },
   {
-    "rank": 360,
-    "query": "drug recall",
-    "searchVolume": 1000,
+    "rank": 201,
+    "query": "ford f-150 column shifter recall",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "drug recall",
+    "text": "ford f-150 column shifter recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-18T10:47:21.441Z"
+    "detectedAt": "2026-06-18T15:52:25.506Z"
   }
 ]

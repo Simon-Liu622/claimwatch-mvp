@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-06-18T05:02:07.740Z",
-  "count": 3,
+  "updatedAt": "2026-06-18T10:47:29.439Z",
+  "count": 4,
   "items": [
+    {
+      "id": "aldi-macaroni-cheese-recall",
+      "slug": "aldi-macaroni-cheese-recall",
+      "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "aldi macaroni cheese recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "aldi macaroni cheese recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-18T10:47:21.441Z"
+    },
+    {
+      "id": "ahold-delhaize-doj-settlement",
+      "slug": "ahold-delhaize-doj-settlement",
+      "title": "Ahold Delhaize Doj Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ahold delhaize doj settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ahold+delhaize+doj+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ahold delhaize doj settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-18T10:47:21.441Z"
+    },
     {
       "id": "matlock-writer-lawsuit-cbs",
       "slug": "matlock-writer-lawsuit-cbs",
@@ -23,13 +81,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 12,
       "matchedQueries": [
-        "matlock writer lawsuit cbs"
+        "matlock writer lawsuit cbs",
+        "matlock",
+        "john lowe matlock lawsuit cbs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T05:02:03.131Z"
+      "lastUpdated": "2026-06-18T10:47:21.441Z"
     },
     {
       "id": "drug-recall",
@@ -58,36 +118,7 @@
         "drug recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T05:02:03.131Z"
-    },
-    {
-      "id": "aldi-macaroni-cheese-recall",
-      "slug": "aldi-macaroni-cheese-recall",
-      "title": "Aldi Macaroni Cheese Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "aldi macaroni cheese recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "aldi macaroni cheese recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-18T05:02:03.131Z"
+      "lastUpdated": "2026-06-18T10:47:21.441Z"
     }
   ]
 }

@@ -1,39 +1,57 @@
 {
-  "updatedAt": "2026-06-18T05:02:07.740Z",
-  "count": 3,
+  "updatedAt": "2026-06-18T10:47:29.439Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 77,
-      "query": "matlock writer lawsuit cbs",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "matlock writer lawsuit cbs",
-      "trendScore": 23,
-      "detectedAt": "2026-06-18T05:02:03.131Z"
-    },
-    {
-      "rank": 149,
+      "rank": 39,
       "query": "aldi macaroni cheese recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+macaroni+cheese+recall&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "aldi macaroni cheese recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-18T05:02:03.131Z"
+      "trendScore": 23,
+      "detectedAt": "2026-06-18T10:47:21.441Z"
     },
     {
-      "rank": 368,
+      "rank": 91,
+      "query": "ahold delhaize doj settlement",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ahold+delhaize+doj+settlement&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "ahold delhaize doj settlement",
+      "trendScore": 23,
+      "detectedAt": "2026-06-18T10:47:21.441Z"
+    },
+    {
+      "rank": 155,
+      "query": "matlock writer lawsuit cbs",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "matlock",
+        "john lowe matlock lawsuit cbs"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "matlock writer lawsuit cbs matlock john lowe matlock lawsuit cbs",
+      "trendScore": 12,
+      "detectedAt": "2026-06-18T10:47:21.441Z"
+    },
+    {
+      "rank": 360,
       "query": "drug recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -45,7 +63,7 @@
       "source": "serpapi-google-trends",
       "text": "drug recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-18T05:02:03.131Z"
+      "detectedAt": "2026-06-18T10:47:21.441Z"
     }
   ]
 }

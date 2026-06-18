@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T05:02:07.740Z",
+  "updatedAt": "2026-06-18T10:47:29.439Z",
   "item": {
     "id": "matlock-writer-lawsuit-cbs",
     "slug": "matlock-writer-lawsuit-cbs",
@@ -21,13 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 5000,
+    "trendScore": 12,
     "matchedQueries": [
-      "matlock writer lawsuit cbs"
+      "matlock writer lawsuit cbs",
+      "matlock",
+      "john lowe matlock lawsuit cbs"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-18T05:02:03.131Z",
+    "lastUpdated": "2026-06-18T10:47:21.441Z",
     "url": "https://simon622.shop/item/matlock-writer-lawsuit-cbs/"
   }
 }

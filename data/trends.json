@@ -1,65 +1,47 @@
 [
   {
-    "rank": 46,
-    "query": "rising pharma chlorthalidone recall",
-    "searchVolume": 10000,
+    "rank": 98,
+    "query": "honda civic recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+civic+recall&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "rising pharma chlorthalidone recall",
+    "text": "honda civic recall",
     "trendScore": 23,
-    "detectedAt": "2026-06-18T20:38:35.216Z"
+    "detectedAt": "2026-06-19T05:24:04.582Z"
   },
   {
-    "rank": 57,
+    "rank": 195,
     "query": "ahold delhaize doj settlement",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ahold+delhaize+doj+settlement&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "ahold delhaize doj settlement",
-    "trendScore": 23,
-    "detectedAt": "2026-06-18T20:38:35.216Z"
+    "trendScore": 8,
+    "detectedAt": "2026-06-19T05:24:04.582Z"
   },
   {
-    "rank": 227,
-    "query": "matlock writer lawsuit cbs",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "john lowe matlock lawsuit cbs",
-      "matlock"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "matlock writer lawsuit cbs john lowe matlock lawsuit cbs matlock",
-    "trendScore": 12,
-    "detectedAt": "2026-06-18T20:38:35.216Z"
-  },
-  {
-    "rank": 220,
-    "query": "ford f-150 column shifter recall",
-    "searchVolume": 2000,
+    "rank": 368,
+    "query": "ford f-150 safety recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+safety+recall&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "ford f-150 column shifter recall",
+    "text": "ford f-150 safety recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-18T20:38:35.216Z"
+    "detectedAt": "2026-06-19T05:24:04.582Z"
   }
 ]

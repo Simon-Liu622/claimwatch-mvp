@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-18T20:38:38.251Z",
+  "updatedAt": "2026-06-19T05:24:07.111Z",
   "item": {
-    "id": "ford-f-150-column-shifter-recall",
-    "slug": "ford-f-150-column-shifter-recall",
-    "title": "Ford F-150 Column Shifter Recall: Consumer Alert Monitoring",
+    "id": "ford-f-150-safety-recall",
+    "slug": "ford-f-150-safety-recall",
+    "title": "Ford F-150 Safety Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford f-150 column shifter recall",
+    "product": "ford f-150 safety recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+safety+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 1000,
     "trendScore": 8,
     "matchedQueries": [
-      "ford f-150 column shifter recall"
+      "ford f-150 safety recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-18T20:38:35.216Z",
-    "url": "https://simon622.shop/item/ford-f-150-column-shifter-recall/"
+    "lastUpdated": "2026-06-19T05:24:04.582Z",
+    "url": "https://simon622.shop/item/ford-f-150-safety-recall/"
   }
 }

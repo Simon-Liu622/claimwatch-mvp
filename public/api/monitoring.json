@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T20:38:38.251Z",
-  "count": 4,
+  "updatedAt": "2026-06-19T05:24:07.111Z",
+  "count": 2,
   "items": [
     {
       "id": "ahold-delhaize-doj-settlement",
@@ -24,22 +24,22 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "ahold delhaize doj settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T20:38:35.216Z"
+      "lastUpdated": "2026-06-19T05:24:04.582Z"
     },
     {
-      "id": "rising-pharma-chlorthalidone-recall",
-      "slug": "rising-pharma-chlorthalidone-recall",
-      "title": "Rising Pharma Chlorthalidone Recall: Consumer Alert Monitoring",
+      "id": "ford-f-150-safety-recall",
+      "slug": "ford-f-150-safety-recall",
+      "title": "Ford F-150 Safety Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "rising pharma chlorthalidone recall",
+      "product": "ford f-150 safety recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,76 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+safety+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "rising pharma chlorthalidone recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-18T20:38:35.216Z"
-    },
-    {
-      "id": "matlock-writer-lawsuit-cbs",
-      "slug": "matlock-writer-lawsuit-cbs",
-      "title": "Matlock Writer Lawsuit Cbs: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "matlock writer lawsuit cbs",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+writer+lawsuit+cbs&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 12,
-      "matchedQueries": [
-        "matlock writer lawsuit cbs",
-        "matlock",
-        "john lowe matlock lawsuit cbs"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-18T20:38:35.216Z"
-    },
-    {
-      "id": "ford-f-150-column-shifter-recall",
-      "slug": "ford-f-150-column-shifter-recall",
-      "title": "Ford F-150 Column Shifter Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ford f-150 column shifter recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+column+shifter+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 1000,
       "trendScore": 8,
       "matchedQueries": [
-        "ford f-150 column shifter recall"
+        "ford f-150 safety recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-18T20:38:35.216Z"
+      "lastUpdated": "2026-06-19T05:24:04.582Z"
     }
   ]
 }

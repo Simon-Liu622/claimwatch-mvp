@@ -1,36 +1,21 @@
 [
   {
-    "rank": 98,
+    "rank": 72,
     "query": "honda civic recall",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+civic+recall&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "honda civic recall",
     "trendScore": 23,
-    "detectedAt": "2026-06-19T05:24:04.582Z"
+    "detectedAt": "2026-06-19T10:56:37.478Z"
   },
   {
-    "rank": 195,
-    "query": "ahold delhaize doj settlement",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ahold+delhaize+doj+settlement&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "ahold delhaize doj settlement",
-    "trendScore": 8,
-    "detectedAt": "2026-06-19T05:24:04.582Z"
-  },
-  {
-    "rank": 368,
+    "rank": 404,
     "query": "ford f-150 safety recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -42,6 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "ford f-150 safety recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-19T05:24:04.582Z"
+    "detectedAt": "2026-06-19T10:56:37.478Z"
   }
 ]

@@ -1,38 +1,21 @@
 {
-  "updatedAt": "2026-06-19T15:42:54.411Z",
-  "count": 2,
+  "updatedAt": "2026-06-19T20:03:14.273Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 23,
+      "rank": 13,
       "query": "honda civic recall",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "airbag"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+civic+recall&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "honda civic recall airbag",
-      "trendScore": 26,
-      "detectedAt": "2026-06-19T15:42:49.416Z"
-    },
-    {
-      "rank": 427,
-      "query": "ford f-150 safety recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+f-150+safety+recall&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+civic+recall&tz=420",
+      "increasePercentage": 900,
       "source": "serpapi-google-trends",
-      "text": "ford f-150 safety recall",
-      "trendScore": 8,
-      "detectedAt": "2026-06-19T15:42:49.416Z"
+      "text": "honda civic recall",
+      "trendScore": 24,
+      "detectedAt": "2026-06-19T20:03:11.794Z"
     }
   ]
 }

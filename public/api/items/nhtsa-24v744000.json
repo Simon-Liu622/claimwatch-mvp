@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T15:42:54.411Z",
+  "updatedAt": "2026-06-19T20:03:14.273Z",
   "item": {
     "id": "nhtsa-24v744000",
     "slug": "nhtsa-24v744000",
@@ -18,15 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V744000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "honda civic recall"
     ],
     "officialVerified": true,
     "officialRecordId": "24V744000",
     "recallInitiationDate": "03/10/2024",
-    "lastUpdated": "2026-06-19T10:56:37.478Z",
+    "lastUpdated": "2026-06-19T20:03:11.794Z",
     "url": "https://simon622.shop/item/nhtsa-24v744000/"
   }
 }

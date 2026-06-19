@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-19T10:56:40.920Z",
+  "updatedAt": "2026-06-19T15:42:54.411Z",
   "item": {
     "id": "nhtsa-24v859000",
     "slug": "nhtsa-24v859000",
-    "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda civic)",
+    "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
     "type": "recall",
     "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
-    "product": "2024 honda civic",
+    "product": "2024 honda accord",
     "category": "Vehicle recall",
     "summary": "Honda (American Honda Motor Co.) is recalling certain 2023-2024 Honda Accord, Accord Hybrid, Civic Sedan, Civic Hatchback, Pilot, and 2024 HR-V, Acura Integra and Acura Integra Type S vehicles. The driver's seat cushion frame may not have been tightened properly, which can result in an unsecured seat. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 207, \"Seating Systems.\"",
     "affectedPeople": "An unsecured driver's seat may not adequately restrain the driver during a crash, increasing the risk of injury.",
@@ -18,15 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 2000,
+    "searchVolume": 20000,
     "trendScore": 34,
     "matchedQueries": [
-      "honda civic recall"
+      "honda civic recall",
+      "airbag"
     ],
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-06-19T10:56:37.478Z",
+    "lastUpdated": "2026-06-19T15:42:49.416Z",
     "url": "https://simon622.shop/item/nhtsa-24v859000/"
   }
 }

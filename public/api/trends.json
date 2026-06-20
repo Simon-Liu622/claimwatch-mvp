@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-20T14:29:47.802Z",
+  "updatedAt": "2026-06-20T19:56:58.208Z",
   "count": 2,
   "trends": [
     {
-      "rank": 30,
+      "rank": 23,
       "query": "john f. kennedy center for the performing arts",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -16,11 +16,11 @@
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "john f. kennedy center for the performing arts kennedy center shutdown lawsuit",
-      "trendScore": 25,
-      "detectedAt": "2026-06-20T14:29:44.157Z"
+      "trendScore": 26,
+      "detectedAt": "2026-06-20T19:56:53.986Z"
     },
     {
-      "rank": 135,
+      "rank": 181,
       "query": "obsidian entertainment class action lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -32,7 +32,7 @@
       "source": "serpapi-google-trends",
       "text": "obsidian entertainment class action lawsuit",
       "trendScore": 16,
-      "detectedAt": "2026-06-20T14:29:44.157Z"
+      "detectedAt": "2026-06-20T19:56:53.986Z"
     }
   ]
 }

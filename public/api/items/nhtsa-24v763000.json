@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-19T20:03:14.273Z",
+  "updatedAt": "2026-06-20T04:40:31.802Z",
   "item": {
     "id": "nhtsa-24v763000",
     "slug": "nhtsa-24v763000",
     "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -20,13 +20,11 @@
     "sourceAgency": "NHTSA",
     "searchVolume": 20000,
     "trendScore": 34,
-    "matchedQueries": [
-      "honda civic recall"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-06-19T20:03:11.794Z",
+    "lastUpdated": "2026-06-20T04:40:29.952Z",
     "url": "https://simon622.shop/item/nhtsa-24v763000/"
   }
 }

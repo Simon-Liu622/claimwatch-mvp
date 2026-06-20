@@ -1,17 +1,19 @@
 [
   {
-    "rank": 70,
-    "query": "kennedy center shutdown lawsuit",
+    "rank": 51,
+    "query": "john f. kennedy center for the performing arts",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+shutdown+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "breakdown": [
+      "kennedy center shutdown lawsuit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+f.+kennedy+center+for+the+performing+arts&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "kennedy center shutdown lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-06-20T04:40:29.952Z"
+    "text": "john f. kennedy center for the performing arts kennedy center shutdown lawsuit",
+    "trendScore": 25,
+    "detectedAt": "2026-06-20T09:41:13.554Z"
   }
 ]

@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-06-22T12:25:32.388Z",
-  "count": 1,
+  "updatedAt": "2026-06-22T21:13:20.304Z",
+  "count": 4,
   "items": [
+    {
+      "id": "rising-pharma-chlorthalidone-recall",
+      "slug": "rising-pharma-chlorthalidone-recall",
+      "title": "Rising Pharma Chlorthalidone Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "rising pharma chlorthalidone recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 100000,
+      "trendScore": 32,
+      "matchedQueries": [
+        "rising pharma chlorthalidone recall",
+        "blood pressure medication recalled",
+        "drug recall",
+        "blood pressure medication recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-22T21:13:18.559Z"
+    },
+    {
+      "id": "ivcm-colorado-river-lawsuit",
+      "slug": "ivcm-colorado-river-lawsuit",
+      "title": "Ivcm Colorado River Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ivcm colorado river lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ivcm+colorado+river+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ivcm colorado river lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-22T21:13:18.559Z"
+    },
+    {
+      "id": "texas-krispy-kreme-settlement-eligibility",
+      "slug": "texas-krispy-kreme-settlement-eligibility",
+      "title": "Texas Krispy Kreme Settlement Eligibility: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "texas krispy kreme settlement eligibility",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+krispy+kreme+settlement+eligibility&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 16,
+      "matchedQueries": [
+        "texas krispy kreme settlement eligibility"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-22T21:13:18.559Z"
+    },
     {
       "id": "bread-recall",
       "slug": "bread-recall",
@@ -29,7 +119,7 @@
         "bread recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-22T12:25:25.336Z"
+      "lastUpdated": "2026-06-22T21:13:18.559Z"
     }
   ]
 }

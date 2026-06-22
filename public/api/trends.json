@@ -1,5 +1,21 @@
 {
-  "updatedAt": "2026-06-21T20:02:03.708Z",
-  "count": 0,
-  "trends": []
+  "updatedAt": "2026-06-22T05:30:14.716Z",
+  "count": 1,
+  "trends": [
+    {
+      "rank": 47,
+      "query": "bread recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bread+recall&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "bread recall",
+      "trendScore": 8,
+      "detectedAt": "2026-06-22T05:30:12.160Z"
+    }
+  ]
 }

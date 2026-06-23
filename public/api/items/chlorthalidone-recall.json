@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-23T15:24:18.342Z",
+  "updatedAt": "2026-06-23T20:21:53.906Z",
   "item": {
-    "id": "ivcm-colorado-river-lawsuit",
-    "slug": "ivcm-colorado-river-lawsuit",
-    "title": "Ivcm Colorado River Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "chlorthalidone-recall",
+    "slug": "chlorthalidone-recall",
+    "title": "Chlorthalidone Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ivcm colorado river lawsuit",
-    "category": "Consumer monitoring",
+    "product": "chlorthalidone recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ivcm+colorado+river+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "ivcm colorado river lawsuit"
+      "chlorthalidone recall",
+      "fda chlorthalidone medication recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-23T15:24:15.656Z",
-    "url": "https://simon622.shop/item/ivcm-colorado-river-lawsuit/"
+    "lastUpdated": "2026-06-23T20:21:50.820Z",
+    "url": "https://simon622.shop/item/chlorthalidone-recall/"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-06-23T04:20:15.763Z",
+  "item": {
+    "id": "micromed-s-p-a-sd-ltm-64-plus-eeg-amplifier-recorder-model-catalog-number-sd-ltm-64-plus-s",
+    "slug": "micromed-s-p-a-sd-ltm-64-plus-eeg-amplifier-recorder-model-catalog-number-sd-ltm-64-plus-s",
+    "title": "Micromed S.p.A.: SD LTM 64 PLUS, EEG Amplifier/recorder, Model/Catalog Number: SD LTM 64 PLUS, Software Version: firmware 2021.02, 2022.01 or 2022.02 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Micromed S.p.A.",
+    "brand": "Micromed S.p.A.",
+    "product": "SD LTM 64 PLUS, EEG Amplifier/recorder, Model/Catalog Number: SD LTM 64 PLUS, Software Version: firmware 2021.02, 2022.01 or 2022.02",
+    "category": "Recall",
+    "summary": "Natus has become aware of two complaints related to the SD LTM 64 PLUS where the EEG traces acquired from two or four different amplifiers used in a multiple amplifier configuration (128 or 256 channels) running firmware version 2022.02 were displayed with a shift of 1 second between the 64channels blocks. In rare circumstances, a fixed 1-second temporal delay may appear between two 64-channel modules with firmware 2021.02, 2022.01 or 2022.02 in a multi-module SEEG configuration, potentially leading to misinterpretation of results. Product details: SD LTM 64 PLUS, EEG Amplifier/recorder, Model/Catalog Number: SD LTM 64 PLUS, Software Version: firmware 2021.02, 2022.01 or 2022.02",
+    "affectedPeople": "Worldwide - US Nationwide distribution in the states of FL, PA.",
+    "remedy": "Affected quantity: 207 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2353-2026",
+    "recallInitiationDate": "20260504",
+    "lastUpdated": "2026-06-23T04:20:13.112Z",
+    "url": "https://simon622.shop/item/micromed-s-p-a-sd-ltm-64-plus-eeg-amplifier-recorder-model-catalog-number-sd-ltm-64-plus-s/"
+  }
+}

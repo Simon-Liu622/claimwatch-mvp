@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-22T21:13:20.304Z",
-  "count": 4,
+  "updatedAt": "2026-06-23T04:20:15.763Z",
+  "count": 5,
   "items": [
     {
-      "id": "rising-pharma-chlorthalidone-recall",
-      "slug": "rising-pharma-chlorthalidone-recall",
-      "title": "Rising Pharma Chlorthalidone Recall: Consumer Alert Monitoring",
+      "id": "drug-recall",
+      "slug": "drug-recall",
+      "title": "Drug Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "rising pharma chlorthalidone recall",
+      "product": "drug recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,29 +20,31 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rising+pharma+chlorthalidone+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 32,
+      "searchVolume": 200000,
+      "trendScore": 38,
       "matchedQueries": [
-        "rising pharma chlorthalidone recall",
-        "blood pressure medication recalled",
         "drug recall",
-        "blood pressure medication recall"
+        "blood pressure medication recalled",
+        "chlorthalidone",
+        "blood pressure medication recall",
+        "rising pharma chlorthalidone recall",
+        "fda chlorthalidone medication recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-22T21:13:18.559Z"
+      "lastUpdated": "2026-06-23T04:20:13.112Z"
     },
     {
-      "id": "ivcm-colorado-river-lawsuit",
-      "slug": "ivcm-colorado-river-lawsuit",
-      "title": "Ivcm Colorado River Lawsuit: Consumer Alert Monitoring",
+      "id": "kennedy-center-tarp-removed",
+      "slug": "kennedy-center-tarp-removed",
+      "title": "Kennedy Center Tarp Removed: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ivcm colorado river lawsuit",
+      "product": "kennedy center tarp removed",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -52,16 +54,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ivcm+colorado+river+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+tarp+removed&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 25,
       "matchedQueries": [
-        "ivcm colorado river lawsuit"
+        "kennedy center tarp removed",
+        "kennedy center tarp lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-22T21:13:18.559Z"
+      "lastUpdated": "2026-06-23T04:20:13.112Z"
     },
     {
       "id": "texas-krispy-kreme-settlement-eligibility",
@@ -90,18 +93,18 @@
         "texas krispy kreme settlement eligibility"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-22T21:13:18.559Z"
+      "lastUpdated": "2026-06-23T04:20:13.112Z"
     },
     {
-      "id": "bread-recall",
-      "slug": "bread-recall",
-      "title": "Bread Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "disney-youtube-tv-class-action",
+      "slug": "disney-youtube-tv-class-action",
+      "title": "Disney Youtube Tv Class Action: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bread recall",
-      "category": "Recall monitoring",
+      "product": "disney youtube tv class action",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -110,16 +113,46 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bread+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+youtube+tv+class+action&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 8,
+      "trendScore": 10,
       "matchedQueries": [
-        "bread recall"
+        "disney youtube tv class action",
+        "youtubetv"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-22T21:13:18.559Z"
+      "lastUpdated": "2026-06-23T04:20:13.112Z"
+    },
+    {
+      "id": "ivcm-colorado-river-lawsuit",
+      "slug": "ivcm-colorado-river-lawsuit",
+      "title": "Ivcm Colorado River Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ivcm colorado river lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ivcm+colorado+river+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "ivcm colorado river lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-23T04:20:13.112Z"
     }
   ]
 }

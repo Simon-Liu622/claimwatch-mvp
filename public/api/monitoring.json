@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T10:02:26.053Z",
-  "count": 6,
+  "updatedAt": "2026-06-23T15:24:18.342Z",
+  "count": 7,
   "items": [
     {
       "id": "drug-recall",
@@ -23,8 +23,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200000,
-      "trendScore": 38,
+      "searchVolume": 100000,
+      "trendScore": 30,
       "matchedQueries": [
         "drug recall",
         "blood pressure medication recalled",
@@ -34,7 +34,7 @@
         "fda chlorthalidone medication recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     },
     {
       "id": "kennedy-center-tarp-removed",
@@ -57,14 +57,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+tarp+removed&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 28,
       "matchedQueries": [
         "kennedy center tarp removed",
-        "kennedy center tarp lawsuit"
+        "kennedy center tarp lawsuit",
+        "new images show what's behind the tarp at the kennedy center"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     },
     {
       "id": "frozen-food-recall",
@@ -87,13 +88,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "frozen food recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
+    },
+    {
+      "id": "luke-bryan-jason-aldean-lawsuit",
+      "slug": "luke-bryan-jason-aldean-lawsuit",
+      "title": "Luke Bryan Jason Aldean Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "luke bryan jason aldean lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luke+bryan+jason+aldean+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "luke bryan jason aldean lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     },
     {
       "id": "texas-krispy-kreme-settlement-eligibility",
@@ -122,7 +152,7 @@
         "texas krispy kreme settlement eligibility"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     },
     {
       "id": "disney-youtube-tv-class-action",
@@ -152,7 +182,7 @@
         "youtubetv"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     },
     {
       "id": "ivcm-colorado-river-lawsuit",
@@ -181,7 +211,7 @@
         "ivcm colorado river lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T10:02:22.606Z"
+      "lastUpdated": "2026-06-23T15:24:15.656Z"
     }
   ]
 }

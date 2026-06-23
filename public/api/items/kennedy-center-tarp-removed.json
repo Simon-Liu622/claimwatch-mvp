@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T10:02:26.053Z",
+  "updatedAt": "2026-06-23T15:24:18.342Z",
   "item": {
     "id": "kennedy-center-tarp-removed",
     "slug": "kennedy-center-tarp-removed",
@@ -21,14 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+tarp+removed&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "kennedy center tarp removed",
-      "kennedy center tarp lawsuit"
+      "kennedy center tarp lawsuit",
+      "new images show what's behind the tarp at the kennedy center"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-23T10:02:22.606Z",
+    "lastUpdated": "2026-06-23T15:24:15.656Z",
     "url": "https://simon622.shop/item/kennedy-center-tarp-removed/"
   }
 }

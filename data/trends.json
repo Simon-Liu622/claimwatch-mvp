@@ -1,74 +1,87 @@
 [
   {
-    "rank": 15,
+    "rank": 12,
     "query": "drug recall",
-    "searchVolume": 200000,
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "chlorthalidone",
-      "blood pressure medication recall",
-      "rising pharma chlorthalidone recall",
       "blood pressure medication recalled",
       "fda chlorthalidone medication recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "drug recall chlorthalidone blood pressure medication recall rising pharma chlorthalidone recall blood pressure medication recalled fda chlorthalidone medication recall",
-    "trendScore": 38,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "text": "drug recall blood pressure medication recalled fda chlorthalidone medication recall",
+    "trendScore": 30,
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   },
   {
-    "rank": 43,
+    "rank": 24,
     "query": "kennedy center tarp removed",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "new images show what's behind the tarp at the kennedy center",
       "kennedy center tarp lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+tarp+removed&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "kennedy center tarp removed kennedy center tarp lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
-  },
-  {
-    "rank": 26,
-    "query": "power plate meals usda recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=power+plate+meals+usda+recall&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "power plate meals usda recall",
-    "trendScore": 23,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "text": "kennedy center tarp removed new images show what's behind the tarp at the kennedy center kennedy center tarp lawsuit",
+    "trendScore": 28,
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   },
   {
-    "rank": 30,
+    "rank": 15,
     "query": "frozen food recall",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
-    "increasePercentage": 600,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "frozen food recall",
-    "trendScore": 23,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "trendScore": 24,
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   },
   {
-    "rank": 383,
+    "rank": 22,
+    "query": "power plate meals usda recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=power+plate+meals+usda+recall&tz=420",
+    "increasePercentage": 600,
+    "source": "serpapi-google-trends",
+    "text": "power plate meals usda recall",
+    "trendScore": 24,
+    "detectedAt": "2026-06-23T15:24:15.656Z"
+  },
+  {
+    "rank": 67,
+    "query": "luke bryan jason aldean lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luke+bryan+jason+aldean+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "luke bryan jason aldean lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-06-23T15:24:15.656Z"
+  },
+  {
+    "rank": 362,
     "query": "texas krispy kreme settlement eligibility",
     "searchVolume": 500,
     "startedAt": "",
@@ -80,10 +93,10 @@
     "source": "serpapi-google-trends",
     "text": "texas krispy kreme settlement eligibility",
     "trendScore": 16,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   },
   {
-    "rank": 147,
+    "rank": 143,
     "query": "disney youtube tv class action",
     "searchVolume": 5000,
     "startedAt": "",
@@ -93,14 +106,14 @@
       "youtubetv"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+youtube+tv+class+action&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "disney youtube tv class action youtubetv",
     "trendScore": 10,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   },
   {
-    "rank": 109,
+    "rank": 113,
     "query": "ivcm colorado river lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -112,6 +125,6 @@
     "source": "serpapi-google-trends",
     "text": "ivcm colorado river lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-23T10:02:22.606Z"
+    "detectedAt": "2026-06-23T15:24:15.656Z"
   }
 ]

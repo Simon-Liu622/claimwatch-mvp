@@ -1,47 +1,17 @@
 [
   {
-    "rank": 161,
-    "query": "luke bryan jason aldean lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=luke+bryan+jason+aldean+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "luke bryan jason aldean lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-06-24T09:50:28.510Z"
-  },
-  {
-    "rank": 191,
+    "rank": 62,
     "query": "chlorthalidone recall",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "chlorthalidone recall",
-    "trendScore": 8,
-    "detectedAt": "2026-06-24T09:50:28.510Z"
-  },
-  {
-    "rank": 192,
-    "query": "waffle house curb trip lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waffle+house+curb+trip+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "waffle house curb trip lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-06-24T09:50:28.510Z"
+    "text": "chlorthalidone recall",
+    "trendScore": 23,
+    "detectedAt": "2026-06-24T15:07:11.666Z"
   }
 ]

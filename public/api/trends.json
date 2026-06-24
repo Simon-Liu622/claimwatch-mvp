@@ -1,21 +1,23 @@
 {
-  "updatedAt": "2026-06-24T15:07:32.022Z",
+  "updatedAt": "2026-06-24T20:07:54.744Z",
   "count": 1,
   "trends": [
     {
-      "rank": 62,
-      "query": "chlorthalidone recall",
+      "rank": 18,
+      "query": "federal judge bars trump from implementing proof of citizenship requirement to vote",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
-      "increasePercentage": 100,
+      "breakdown": [
+        "trump administration election rule lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+judge+bars+trump+from+implementing+proof+of+citizenship+requirement+to+vote&tz=420",
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "chlorthalidone recall",
-      "trendScore": 23,
-      "detectedAt": "2026-06-24T15:07:11.666Z"
+      "text": "federal judge bars trump from implementing proof of citizenship requirement to vote trump administration election rule lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-06-24T20:07:41.558Z"
     }
   ]
 }

@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-06-24T04:35:18.625Z",
-  "count": 4,
+  "updatedAt": "2026-06-24T09:50:31.164Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 71,
-      "query": "frozen food recall",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
-      "increasePercentage": 700,
-      "source": "serpapi-google-trends",
-      "text": "frozen food recall",
-      "trendScore": 9,
-      "detectedAt": "2026-06-24T04:35:14.976Z"
-    },
-    {
-      "rank": 179,
+      "rank": 161,
       "query": "luke bryan jason aldean lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "luke bryan jason aldean lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-24T04:35:14.976Z"
+      "detectedAt": "2026-06-24T09:50:28.510Z"
     },
     {
-      "rank": 193,
+      "rank": 191,
       "query": "chlorthalidone recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -45,10 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "chlorthalidone recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-24T04:35:14.976Z"
+      "detectedAt": "2026-06-24T09:50:28.510Z"
     },
     {
-      "rank": 200,
+      "rank": 192,
       "query": "waffle house curb trip lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -60,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "waffle house curb trip lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-24T04:35:14.976Z"
+      "detectedAt": "2026-06-24T09:50:28.510Z"
     }
   ]
 }

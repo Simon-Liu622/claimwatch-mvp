@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-06-24T04:35:18.625Z",
-  "count": 4,
+  "updatedAt": "2026-06-24T09:50:31.164Z",
+  "count": 3,
   "items": [
-    {
-      "id": "frozen-food-recall",
-      "slug": "frozen-food-recall",
-      "title": "Frozen Food Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "frozen food recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 9,
-      "matchedQueries": [
-        "frozen food recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-24T04:35:14.976Z"
-    },
     {
       "id": "chlorthalidone-recall",
       "slug": "chlorthalidone-recall",
@@ -59,7 +30,7 @@
         "fda chlorthalidone medication recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-24T04:35:14.976Z"
+      "lastUpdated": "2026-06-24T09:50:28.510Z"
     },
     {
       "id": "luke-bryan-jason-aldean-lawsuit",
@@ -88,7 +59,7 @@
         "luke bryan jason aldean lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-24T04:35:14.976Z"
+      "lastUpdated": "2026-06-24T09:50:28.510Z"
     },
     {
       "id": "waffle-house-curb-trip-lawsuit",
@@ -117,7 +88,7 @@
         "waffle house curb trip lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-24T04:35:14.976Z"
+      "lastUpdated": "2026-06-24T09:50:28.510Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-23T20:21:53.906Z",
+  "updatedAt": "2026-06-24T04:35:18.625Z",
   "item": {
-    "id": "disney-youtube-tv-class-action",
-    "slug": "disney-youtube-tv-class-action",
-    "title": "Disney Youtube Tv Class Action: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "waffle-house-curb-trip-lawsuit",
+    "slug": "waffle-house-curb-trip-lawsuit",
+    "title": "Waffle House Curb Trip Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "disney youtube tv class action",
+    "product": "waffle house curb trip lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+youtube+tv+class+action&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waffle+house+curb+trip+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
-      "disney youtube tv class action",
-      "youtubetv"
+      "waffle house curb trip lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-23T20:21:50.820Z",
-    "url": "https://simon622.shop/item/disney-youtube-tv-class-action/"
+    "lastUpdated": "2026-06-24T04:35:14.976Z",
+    "url": "https://simon622.shop/item/waffle-house-curb-trip-lawsuit/"
   }
 }

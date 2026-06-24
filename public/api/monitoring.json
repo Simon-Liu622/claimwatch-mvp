@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-23T20:21:53.906Z",
-  "count": 5,
+  "updatedAt": "2026-06-24T04:35:18.625Z",
+  "count": 4,
   "items": [
     {
-      "id": "kennedy-center-tarp-removed",
-      "slug": "kennedy-center-tarp-removed",
-      "title": "Kennedy Center Tarp Removed: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "frozen-food-recall",
+      "slug": "frozen-food-recall",
+      "title": "Frozen Food Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "kennedy center tarp removed",
-      "category": "Consumer monitoring",
+      "product": "frozen food recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,48 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+tarp+removed&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
+      "searchVolume": 50000,
+      "trendScore": 9,
       "matchedQueries": [
-        "kennedy center tarp removed",
-        "kennedy center tarp lawsuit",
-        "new images show what's behind the tarp at the kennedy center"
+        "frozen food recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T20:21:50.820Z"
-    },
-    {
-      "id": "disney-youtube-tv-class-action",
-      "slug": "disney-youtube-tv-class-action",
-      "title": "Disney Youtube Tv Class Action: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "disney youtube tv class action",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+youtube+tv+class+action&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "disney youtube tv class action",
-        "youtubetv"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-23T20:21:50.820Z"
+      "lastUpdated": "2026-06-24T04:35:14.976Z"
     },
     {
       "id": "chlorthalidone-recall",
@@ -85,42 +53,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 10,
+      "trendScore": 8,
       "matchedQueries": [
         "chlorthalidone recall",
         "fda chlorthalidone medication recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T20:21:50.820Z"
-    },
-    {
-      "id": "frozen-food-recall",
-      "slug": "frozen-food-recall",
-      "title": "Frozen Food Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "frozen food recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frozen+food+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 9,
-      "matchedQueries": [
-        "frozen food recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-23T20:21:50.820Z"
+      "lastUpdated": "2026-06-24T04:35:14.976Z"
     },
     {
       "id": "luke-bryan-jason-aldean-lawsuit",
@@ -149,7 +88,36 @@
         "luke bryan jason aldean lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-23T20:21:50.820Z"
+      "lastUpdated": "2026-06-24T04:35:14.976Z"
+    },
+    {
+      "id": "waffle-house-curb-trip-lawsuit",
+      "slug": "waffle-house-curb-trip-lawsuit",
+      "title": "Waffle House Curb Trip Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "waffle house curb trip lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waffle+house+curb+trip+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "waffle house curb trip lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-24T04:35:14.976Z"
     }
   ]
 }

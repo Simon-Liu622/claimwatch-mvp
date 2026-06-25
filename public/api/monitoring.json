@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T09:44:05.583Z",
-  "count": 3,
+  "updatedAt": "2026-06-25T15:12:37.322Z",
+  "count": 4,
   "items": [
     {
       "id": "federal-judge-bars-trump-from-implementing-proof-of-citizenship-requirement-to-vote",
@@ -24,13 +24,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 26,
+      "trendScore": 11,
       "matchedQueries": [
         "federal judge bars trump from implementing proof of citizenship requirement to vote",
         "trump administration election rule lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T09:44:01.473Z"
+      "lastUpdated": "2026-06-25T15:12:23.403Z"
     },
     {
       "id": "whistleblower-lawsuit-osf-saint-anthony",
@@ -53,13 +53,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whistleblower+lawsuit+osf+saint+anthony&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 23,
+      "searchVolume": 500,
+      "trendScore": 8,
       "matchedQueries": [
         "whistleblower lawsuit osf saint anthony"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T09:44:01.473Z"
+      "lastUpdated": "2026-06-25T15:12:23.403Z"
     },
     {
       "id": "workday-lawsuit",
@@ -82,13 +82,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=workday+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 23,
+      "searchVolume": 1000,
+      "trendScore": 8,
       "matchedQueries": [
         "workday lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T09:44:01.473Z"
+      "lastUpdated": "2026-06-25T15:12:23.403Z"
+    },
+    {
+      "id": "cheese-recall",
+      "slug": "cheese-recall",
+      "title": "Cheese Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "cheese recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "cheese recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-25T15:12:23.403Z"
     }
   ]
 }

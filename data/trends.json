@@ -1,49 +1,64 @@
 [
   {
-    "rank": 14,
+    "rank": 65,
     "query": "federal judge bars trump from implementing proof of citizenship requirement to vote",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
       "trump administration election rule lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+judge+bars+trump+from+implementing+proof+of+citizenship+requirement+to+vote&tz=420",
-    "increasePercentage": 700,
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
     "text": "federal judge bars trump from implementing proof of citizenship requirement to vote trump administration election rule lawsuit",
-    "trendScore": 26,
-    "detectedAt": "2026-06-25T09:44:01.473Z"
+    "trendScore": 11,
+    "detectedAt": "2026-06-25T15:12:23.403Z"
   },
   {
-    "rank": 72,
-    "query": "whistleblower lawsuit osf saint anthony",
-    "searchVolume": 200,
+    "rank": 119,
+    "query": "workday lawsuit",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=workday+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "workday lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-06-25T15:12:23.403Z"
+  },
+  {
+    "rank": 181,
+    "query": "cheese recall",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "cheese recall",
+    "trendScore": 8,
+    "detectedAt": "2026-06-25T15:12:23.403Z"
+  },
+  {
+    "rank": 201,
+    "query": "whistleblower lawsuit osf saint anthony",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whistleblower+lawsuit+osf+saint+anthony&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "whistleblower lawsuit osf saint anthony",
-    "trendScore": 23,
-    "detectedAt": "2026-06-25T09:44:01.473Z"
-  },
-  {
-    "rank": 82,
-    "query": "workday lawsuit",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=workday+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "workday lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-06-25T09:44:01.473Z"
+    "trendScore": 8,
+    "detectedAt": "2026-06-25T15:12:23.403Z"
   }
 ]

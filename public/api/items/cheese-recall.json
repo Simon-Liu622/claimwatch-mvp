@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-06-25T15:12:37.322Z",
+  "item": {
+    "id": "cheese-recall",
+    "slug": "cheese-recall",
+    "title": "Cheese Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "cheese recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "cheese recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-06-25T15:12:23.403Z",
+    "url": "https://simon622.shop/item/cheese-recall/"
+  }
+}

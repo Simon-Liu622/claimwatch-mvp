@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-06-25T15:12:37.322Z",
-  "count": 4,
+  "updatedAt": "2026-06-25T20:22:10.818Z",
+  "count": 3,
   "items": [
-    {
-      "id": "federal-judge-bars-trump-from-implementing-proof-of-citizenship-requirement-to-vote",
-      "slug": "federal-judge-bars-trump-from-implementing-proof-of-citizenship-requirement-to-vote",
-      "title": "Federal Judge Bars Trump From Implementing Proof Of Citizenship Requirement To Vote: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "federal judge bars trump from implementing proof of citizenship requirement to vote",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+judge+bars+trump+from+implementing+proof+of+citizenship+requirement+to+vote&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 11,
-      "matchedQueries": [
-        "federal judge bars trump from implementing proof of citizenship requirement to vote",
-        "trump administration election rule lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-25T15:12:23.403Z"
-    },
     {
       "id": "whistleblower-lawsuit-osf-saint-anthony",
       "slug": "whistleblower-lawsuit-osf-saint-anthony",
@@ -59,7 +29,7 @@
         "whistleblower lawsuit osf saint anthony"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T15:12:23.403Z"
+      "lastUpdated": "2026-06-25T20:22:05.348Z"
     },
     {
       "id": "workday-lawsuit",
@@ -88,7 +58,7 @@
         "workday lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T15:12:23.403Z"
+      "lastUpdated": "2026-06-25T20:22:05.348Z"
     },
     {
       "id": "cheese-recall",
@@ -117,7 +87,7 @@
         "cheese recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-25T15:12:23.403Z"
+      "lastUpdated": "2026-06-25T20:22:05.348Z"
     }
   ]
 }

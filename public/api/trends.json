@@ -1,26 +1,9 @@
 {
-  "updatedAt": "2026-06-26T09:51:36.339Z",
-  "count": 4,
+  "updatedAt": "2026-06-26T14:47:14.227Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 50,
-      "query": "doj epstein redacted document lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "todd blanche doj epstein injunction"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "doj epstein redacted document lawsuit todd blanche doj epstein injunction",
-      "trendScore": 25,
-      "detectedAt": "2026-06-26T09:51:33.242Z"
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "query": "reckless ben lego lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -32,37 +15,69 @@
       "source": "serpapi-google-trends",
       "text": "reckless ben lego lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-06-26T09:51:33.242Z"
+      "detectedAt": "2026-06-26T14:47:10.483Z"
     },
     {
-      "rank": 73,
+      "rank": 31,
       "query": "chlorthalidone recall",
-      "searchVolume": 200,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "chlorthalidone recall",
       "trendScore": 23,
-      "detectedAt": "2026-06-26T09:51:33.242Z"
+      "detectedAt": "2026-06-26T14:47:10.483Z"
     },
     {
-      "rank": 280,
-      "query": "cheese recall",
-      "searchVolume": 500,
+      "rank": 64,
+      "query": "red lobster thai union lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "red lobster thai union lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-06-26T14:47:10.483Z"
+    },
+    {
+      "rank": 94,
+      "query": "doj epstein redacted document lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "todd blanche doj epstein injunction"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "doj epstein redacted document lawsuit todd blanche doj epstein injunction",
+      "trendScore": 10,
+      "detectedAt": "2026-06-26T14:47:10.483Z"
+    },
+    {
+      "rank": 285,
+      "query": "dallas automobile accident lawsuit",
+      "searchVolume": 100,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+automobile+accident+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "cheese recall",
+      "text": "dallas automobile accident lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-26T09:51:33.242Z"
+      "detectedAt": "2026-06-26T14:47:10.483Z"
     }
   ]
 }

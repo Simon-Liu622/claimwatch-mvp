@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-26T09:51:36.339Z",
+  "updatedAt": "2026-06-26T14:47:14.227Z",
   "item": {
-    "id": "cheese-recall",
-    "slug": "cheese-recall",
-    "title": "Cheese Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "red-lobster-thai-union-lawsuit",
+    "slug": "red-lobster-thai-union-lawsuit",
+    "title": "Red Lobster Thai Union Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "cheese recall",
-    "category": "Recall monitoring",
+    "product": "red lobster thai union lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 23,
     "matchedQueries": [
-      "cheese recall"
+      "red lobster thai union lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-26T09:51:33.242Z",
-    "url": "https://simon622.shop/item/cheese-recall/"
+    "lastUpdated": "2026-06-26T14:47:10.483Z",
+    "url": "https://simon622.shop/item/red-lobster-thai-union-lawsuit/"
   }
 }

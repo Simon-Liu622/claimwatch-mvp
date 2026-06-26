@@ -1,8 +1,25 @@
 [
   {
-    "rank": 37,
+    "rank": 50,
+    "query": "doj epstein redacted document lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "todd blanche doj epstein injunction"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "doj epstein redacted document lawsuit todd blanche doj epstein injunction",
+    "trendScore": 25,
+    "detectedAt": "2026-06-26T09:51:33.242Z"
+  },
+  {
+    "rank": 17,
     "query": "reckless ben lego lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -12,25 +29,25 @@
     "source": "serpapi-google-trends",
     "text": "reckless ben lego lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-06-26T04:39:09.964Z"
+    "detectedAt": "2026-06-26T09:51:33.242Z"
   },
   {
-    "rank": 238,
-    "query": "workday lawsuit",
-    "searchVolume": 1000,
+    "rank": 73,
+    "query": "chlorthalidone recall",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=workday+lawsuit&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "workday lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-06-26T04:39:09.964Z"
+    "text": "chlorthalidone recall",
+    "trendScore": 23,
+    "detectedAt": "2026-06-26T09:51:33.242Z"
   },
   {
-    "rank": 273,
+    "rank": 280,
     "query": "cheese recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -42,21 +59,6 @@
     "source": "serpapi-google-trends",
     "text": "cheese recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-26T04:39:09.964Z"
-  },
-  {
-    "rank": 276,
-    "query": "whistleblower lawsuit osf saint anthony",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whistleblower+lawsuit+osf+saint+anthony&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "whistleblower lawsuit osf saint anthony",
-    "trendScore": 8,
-    "detectedAt": "2026-06-26T04:39:09.964Z"
+    "detectedAt": "2026-06-26T09:51:33.242Z"
   }
 ]

@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-26T04:39:12.010Z",
+  "updatedAt": "2026-06-26T09:51:36.339Z",
   "count": 4,
   "items": [
+    {
+      "id": "doj-epstein-redacted-document-lawsuit",
+      "slug": "doj-epstein-redacted-document-lawsuit",
+      "title": "Doj Epstein Redacted Document Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "doj epstein redacted document lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "doj epstein redacted document lawsuit",
+        "todd blanche doj epstein injunction"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-26T09:51:33.242Z"
+    },
     {
       "id": "reckless-ben-lego-lawsuit",
       "slug": "reckless-ben-lego-lawsuit",
@@ -23,24 +53,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reckless+ben+lego+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "reckless ben lego lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T04:39:09.964Z"
+      "lastUpdated": "2026-06-26T09:51:33.242Z"
     },
     {
-      "id": "whistleblower-lawsuit-osf-saint-anthony",
-      "slug": "whistleblower-lawsuit-osf-saint-anthony",
-      "title": "Whistleblower Lawsuit Osf Saint Anthony: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "chlorthalidone-recall",
+      "slug": "chlorthalidone-recall",
+      "title": "Chlorthalidone Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "whistleblower lawsuit osf saint anthony",
-      "category": "Consumer monitoring",
+      "product": "chlorthalidone recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -49,45 +79,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whistleblower+lawsuit+osf+saint+anthony&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
+      "searchVolume": 200,
+      "trendScore": 23,
       "matchedQueries": [
-        "whistleblower lawsuit osf saint anthony"
+        "chlorthalidone recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T04:39:09.964Z"
-    },
-    {
-      "id": "workday-lawsuit",
-      "slug": "workday-lawsuit",
-      "title": "Workday Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "workday lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=workday+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "workday lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-26T04:39:09.964Z"
+      "lastUpdated": "2026-06-26T09:51:33.242Z"
     },
     {
       "id": "cheese-recall",
@@ -116,7 +117,7 @@
         "cheese recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T04:39:09.964Z"
+      "lastUpdated": "2026-06-26T09:51:33.242Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-26T04:39:12.010Z",
+  "updatedAt": "2026-06-26T09:51:36.339Z",
   "item": {
-    "id": "whistleblower-lawsuit-osf-saint-anthony",
-    "slug": "whistleblower-lawsuit-osf-saint-anthony",
-    "title": "Whistleblower Lawsuit Osf Saint Anthony: Consumer Alert Monitoring",
+    "id": "doj-epstein-redacted-document-lawsuit",
+    "slug": "doj-epstein-redacted-document-lawsuit",
+    "title": "Doj Epstein Redacted Document Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "whistleblower lawsuit osf saint anthony",
+    "product": "doj epstein redacted document lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whistleblower+lawsuit+osf+saint+anthony&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 25,
     "matchedQueries": [
-      "whistleblower lawsuit osf saint anthony"
+      "doj epstein redacted document lawsuit",
+      "todd blanche doj epstein injunction"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-06-26T04:39:09.964Z",
-    "url": "https://simon622.shop/item/whistleblower-lawsuit-osf-saint-anthony/"
+    "lastUpdated": "2026-06-26T09:51:33.242Z",
+    "url": "https://simon622.shop/item/doj-epstein-redacted-document-lawsuit/"
   }
 }

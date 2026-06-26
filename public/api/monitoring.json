@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-26T14:47:14.227Z",
-  "count": 5,
+  "updatedAt": "2026-06-26T20:08:49.124Z",
+  "count": 6,
   "items": [
     {
       "id": "reckless-ben-lego-lawsuit",
@@ -23,24 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reckless+ben+lego+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "reckless ben lego lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T14:47:10.483Z"
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
     },
     {
-      "id": "chlorthalidone-recall",
-      "slug": "chlorthalidone-recall",
-      "title": "Chlorthalidone Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "class-action",
+      "slug": "class-action",
+      "title": "Class Action: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "chlorthalidone recall",
-      "category": "Recall monitoring",
+      "product": "class action",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -49,16 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 1000,
       "trendScore": 23,
       "matchedQueries": [
-        "chlorthalidone recall"
+        "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T14:47:10.483Z"
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
     },
     {
       "id": "red-lobster-thai-union-lawsuit",
@@ -81,13 +81,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "red lobster thai union lawsuit"
+        "red lobster thai union lawsuit",
+        "red"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T14:47:10.483Z"
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
     },
     {
       "id": "doj-epstein-redacted-document-lawsuit",
@@ -117,7 +118,36 @@
         "todd blanche doj epstein injunction"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T14:47:10.483Z"
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
+    },
+    {
+      "id": "chlorthalidone-recall",
+      "slug": "chlorthalidone-recall",
+      "title": "Chlorthalidone Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "chlorthalidone recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "chlorthalidone recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
     },
     {
       "id": "dallas-automobile-accident-lawsuit",
@@ -146,7 +176,7 @@
         "dallas automobile accident lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T14:47:10.483Z"
+      "lastUpdated": "2026-06-26T20:08:45.352Z"
     }
   ]
 }

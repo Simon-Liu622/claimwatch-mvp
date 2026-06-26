@@ -1,6 +1,21 @@
 [
   {
-    "rank": 143,
+    "rank": 37,
+    "query": "reckless ben lego lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reckless+ben+lego+lawsuit&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "reckless ben lego lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-06-26T04:39:09.964Z"
+  },
+  {
+    "rank": 238,
     "query": "workday lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -12,10 +27,10 @@
     "source": "serpapi-google-trends",
     "text": "workday lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-25T20:22:05.348Z"
+    "detectedAt": "2026-06-26T04:39:09.964Z"
   },
   {
-    "rank": 208,
+    "rank": 273,
     "query": "cheese recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -27,10 +42,10 @@
     "source": "serpapi-google-trends",
     "text": "cheese recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-25T20:22:05.348Z"
+    "detectedAt": "2026-06-26T04:39:09.964Z"
   },
   {
-    "rank": 217,
+    "rank": 276,
     "query": "whistleblower lawsuit osf saint anthony",
     "searchVolume": 500,
     "startedAt": "",
@@ -42,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "whistleblower lawsuit osf saint anthony",
     "trendScore": 8,
-    "detectedAt": "2026-06-25T20:22:05.348Z"
+    "detectedAt": "2026-06-26T04:39:09.964Z"
   }
 ]

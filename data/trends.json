@@ -1,70 +1,6 @@
 [
   {
-    "rank": 23,
-    "query": "reckless ben lego lawsuit",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reckless+ben+lego+lawsuit&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "reckless ben lego lawsuit",
-    "trendScore": 24,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
-  },
-  {
-    "rank": 52,
-    "query": "class action",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-    "increasePercentage": 700,
-    "source": "serpapi-google-trends",
-    "text": "class action",
-    "trendScore": 23,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
-  },
-  {
-    "rank": 130,
-    "query": "doj epstein redacted document lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "todd blanche doj epstein injunction"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "doj epstein redacted document lawsuit todd blanche doj epstein injunction",
-    "trendScore": 10,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
-  },
-  {
-    "rank": 157,
-    "query": "red lobster thai union lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "red"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "red lobster thai union lawsuit red",
-    "trendScore": 10,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
-  },
-  {
-    "rank": 75,
+    "rank": 118,
     "query": "chlorthalidone recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -76,10 +12,40 @@
     "source": "serpapi-google-trends",
     "text": "chlorthalidone recall",
     "trendScore": 8,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
+    "detectedAt": "2026-06-27T04:15:41.104Z"
   },
   {
-    "rank": 325,
+    "rank": 208,
+    "query": "class action",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "class action",
+    "trendScore": 8,
+    "detectedAt": "2026-06-27T04:15:41.104Z"
+  },
+  {
+    "rank": 254,
+    "query": "red lobster thai union lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "red lobster thai union lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-06-27T04:15:41.104Z"
+  },
+  {
+    "rank": 311,
     "query": "dallas automobile accident lawsuit",
     "searchVolume": 100,
     "startedAt": "",
@@ -91,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "dallas automobile accident lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-06-26T20:08:45.352Z"
+    "detectedAt": "2026-06-27T04:15:41.104Z"
   }
 ]

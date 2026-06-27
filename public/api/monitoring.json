@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-06-26T20:08:49.124Z",
-  "count": 6,
+  "updatedAt": "2026-06-27T04:15:43.289Z",
+  "count": 4,
   "items": [
-    {
-      "id": "reckless-ben-lego-lawsuit",
-      "slug": "reckless-ben-lego-lawsuit",
-      "title": "Reckless Ben Lego Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "reckless ben lego lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reckless+ben+lego+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "reckless ben lego lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
-    },
     {
       "id": "class-action",
       "slug": "class-action",
@@ -52,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
+      "lastUpdated": "2026-06-27T04:15:41.104Z"
     },
     {
       "id": "red-lobster-thai-union-lawsuit",
@@ -81,44 +52,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 8,
       "matchedQueries": [
         "red lobster thai union lawsuit",
         "red"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
-    },
-    {
-      "id": "doj-epstein-redacted-document-lawsuit",
-      "slug": "doj-epstein-redacted-document-lawsuit",
-      "title": "Doj Epstein Redacted Document Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doj epstein redacted document lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+epstein+redacted+document+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "doj epstein redacted document lawsuit",
-        "todd blanche doj epstein injunction"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
+      "lastUpdated": "2026-06-27T04:15:41.104Z"
     },
     {
       "id": "chlorthalidone-recall",
@@ -147,7 +88,7 @@
         "chlorthalidone recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
+      "lastUpdated": "2026-06-27T04:15:41.104Z"
     },
     {
       "id": "dallas-automobile-accident-lawsuit",
@@ -176,7 +117,7 @@
         "dallas automobile accident lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-26T20:08:45.352Z"
+      "lastUpdated": "2026-06-27T04:15:41.104Z"
     }
   ]
 }

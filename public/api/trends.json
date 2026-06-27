@@ -1,21 +1,38 @@
 {
-  "updatedAt": "2026-06-27T14:06:12.434Z",
-  "count": 1,
+  "updatedAt": "2026-06-27T19:44:19.015Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 223,
-      "query": "class action",
-      "searchVolume": 2000,
+      "rank": 28,
+      "query": "private selection chicken undeclared allergen",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "chicken kroger"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=private+selection+chicken+undeclared+allergen&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "private selection chicken undeclared allergen chicken kroger",
+      "trendScore": 25,
+      "detectedAt": "2026-06-27T19:44:07.883Z"
+    },
+    {
+      "rank": 173,
+      "query": "amazon ftc settlement eligibility",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+eligibility&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "class action",
-      "trendScore": 8,
-      "detectedAt": "2026-06-27T14:06:03.085Z"
+      "text": "amazon ftc settlement eligibility",
+      "trendScore": 16,
+      "detectedAt": "2026-06-27T19:44:07.883Z"
     }
   ]
 }

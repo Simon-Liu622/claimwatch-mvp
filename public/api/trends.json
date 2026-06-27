@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-06-27T04:15:43.289Z",
+  "updatedAt": "2026-06-27T08:49:26.357Z",
   "count": 4,
   "trends": [
     {
-      "rank": 118,
+      "rank": 99,
       "query": "chlorthalidone recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "chlorthalidone recall",
       "trendScore": 8,
-      "detectedAt": "2026-06-27T04:15:41.104Z"
+      "detectedAt": "2026-06-27T08:49:24.112Z"
     },
     {
-      "rank": 208,
+      "rank": 197,
       "query": "class action",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,10 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "class action",
       "trendScore": 8,
-      "detectedAt": "2026-06-27T04:15:41.104Z"
+      "detectedAt": "2026-06-27T08:49:24.112Z"
     },
     {
-      "rank": 254,
+      "rank": 253,
       "query": "red lobster thai union lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -45,10 +45,10 @@
       "source": "serpapi-google-trends",
       "text": "red lobster thai union lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-27T04:15:41.104Z"
+      "detectedAt": "2026-06-27T08:49:24.112Z"
     },
     {
-      "rank": 311,
+      "rank": 320,
       "query": "dallas automobile accident lawsuit",
       "searchVolume": 100,
       "startedAt": "",
@@ -60,7 +60,7 @@
       "source": "serpapi-google-trends",
       "text": "dallas automobile accident lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-27T04:15:41.104Z"
+      "detectedAt": "2026-06-27T08:49:24.112Z"
     }
   ]
 }

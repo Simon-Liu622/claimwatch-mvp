@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T08:49:26.357Z",
-  "count": 4,
+  "updatedAt": "2026-06-27T14:06:12.434Z",
+  "count": 1,
   "items": [
     {
       "id": "class-action",
@@ -29,95 +29,7 @@
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-27T08:49:24.112Z"
-    },
-    {
-      "id": "red-lobster-thai-union-lawsuit",
-      "slug": "red-lobster-thai-union-lawsuit",
-      "title": "Red Lobster Thai Union Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "red lobster thai union lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=red+lobster+thai+union+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "red lobster thai union lawsuit",
-        "red"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-27T08:49:24.112Z"
-    },
-    {
-      "id": "chlorthalidone-recall",
-      "slug": "chlorthalidone-recall",
-      "title": "Chlorthalidone Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "chlorthalidone recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chlorthalidone+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "chlorthalidone recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-27T08:49:24.112Z"
-    },
-    {
-      "id": "dallas-automobile-accident-lawsuit",
-      "slug": "dallas-automobile-accident-lawsuit",
-      "title": "Dallas Automobile Accident Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "dallas automobile accident lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+automobile+accident+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100,
-      "trendScore": 8,
-      "matchedQueries": [
-        "dallas automobile accident lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-06-27T08:49:24.112Z"
+      "lastUpdated": "2026-06-27T14:06:03.085Z"
     }
   ]
 }

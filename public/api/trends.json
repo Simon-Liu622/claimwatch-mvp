@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-27T19:44:19.015Z",
+  "updatedAt": "2026-06-28T04:49:55.202Z",
   "count": 2,
   "trends": [
     {
-      "rank": 28,
+      "rank": 12,
       "query": "private selection chicken undeclared allergen",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -13,14 +13,14 @@
         "chicken kroger"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=private+selection+chicken+undeclared+allergen&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "private selection chicken undeclared allergen chicken kroger",
-      "trendScore": 25,
-      "detectedAt": "2026-06-27T19:44:07.883Z"
+      "trendScore": 26,
+      "detectedAt": "2026-06-28T04:49:50.434Z"
     },
     {
-      "rank": 173,
+      "rank": 234,
       "query": "amazon ftc settlement eligibility",
       "searchVolume": 1000,
       "startedAt": "",
@@ -32,7 +32,7 @@
       "source": "serpapi-google-trends",
       "text": "amazon ftc settlement eligibility",
       "trendScore": 16,
-      "detectedAt": "2026-06-27T19:44:07.883Z"
+      "detectedAt": "2026-06-28T04:49:50.434Z"
     }
   ]
 }

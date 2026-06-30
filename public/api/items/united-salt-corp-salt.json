@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-06-30T04:33:32.008Z",
+  "item": {
+    "id": "united-salt-corp-salt",
+    "slug": "united-salt-corp-salt",
+    "title": "United Salt Corp: Salt Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "United Salt Corp",
+    "brand": "United Salt Corp",
+    "product": "Salt",
+    "category": "Recall",
+    "summary": "Plain salt was labeled as iodized and iodized salt was labeled as plain. Product details: Salt",
+    "affectedPeople": "Texas",
+    "remedy": "Affected quantity: 10,160 Cans",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "H-0952-2026",
+    "recallInitiationDate": "20260514",
+    "lastUpdated": "2026-06-30T04:33:16.926Z",
+    "url": "https://simon622.shop/item/united-salt-corp-salt/"
+  }
+}

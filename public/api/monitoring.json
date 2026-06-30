@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T14:42:45.248Z",
-  "count": 2,
+  "updatedAt": "2026-06-30T20:19:00.167Z",
+  "count": 4,
   "items": [
     {
       "id": "ford-transmission-park-issue",
@@ -23,14 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 27,
       "matchedQueries": [
         "ford transmission park issue",
-        "ford transmission recall nhtsa"
+        "ford transmission recall nhtsa",
+        "ford recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-30T14:42:41.645Z"
+      "lastUpdated": "2026-06-30T20:18:47.011Z"
     },
     {
       "id": "hudson-river-gateway-project-lawsuit",
@@ -54,12 +55,71 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 25,
       "matchedQueries": [
-        "hudson river gateway project lawsuit"
+        "hudson river gateway project lawsuit",
+        "hudson tunnel project"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-30T14:42:41.645Z"
+      "lastUpdated": "2026-06-30T20:18:47.011Z"
+    },
+    {
+      "id": "gop-senate-campaign-finance-lawsuit",
+      "slug": "gop-senate-campaign-finance-lawsuit",
+      "title": "Gop Senate Campaign Finance Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "gop senate campaign finance lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "gop senate campaign finance lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-30T20:18:47.011Z"
+    },
+    {
+      "id": "blake-lively-justin-baldoni-lawsuit",
+      "slug": "blake-lively-justin-baldoni-lawsuit",
+      "title": "Blake Lively Justin Baldoni Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "blake lively justin baldoni lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "blake lively justin baldoni lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-30T20:18:47.011Z"
     }
   ]
 }

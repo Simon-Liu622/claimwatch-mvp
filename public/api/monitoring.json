@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T04:33:32.008Z",
+  "updatedAt": "2026-06-30T10:00:20.866Z",
   "count": 1,
   "items": [
     {
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hudson+river+gateway+project+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "hudson river gateway project lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-30T04:33:16.926Z"
+      "lastUpdated": "2026-06-30T10:00:16.208Z"
     }
   ]
 }

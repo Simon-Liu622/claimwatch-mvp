@@ -1,21 +1,38 @@
 {
-  "updatedAt": "2026-06-30T10:00:20.866Z",
-  "count": 1,
+  "updatedAt": "2026-06-30T14:42:45.248Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 27,
-      "query": "hudson river gateway project lawsuit",
+      "rank": 19,
+      "query": "ford transmission park issue",
       "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "ford transmission recall nhtsa"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "ford transmission park issue ford transmission recall nhtsa",
+      "trendScore": 25,
+      "detectedAt": "2026-06-30T14:42:41.645Z"
+    },
+    {
+      "rank": 13,
+      "query": "hudson river gateway project lawsuit",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hudson+river+gateway+project+lawsuit&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
       "text": "hudson river gateway project lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-06-30T10:00:16.208Z"
+      "detectedAt": "2026-06-30T14:42:41.645Z"
     }
   ]
 }

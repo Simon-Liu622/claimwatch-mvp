@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-06-30T10:00:20.866Z",
-  "count": 1,
+  "updatedAt": "2026-06-30T14:42:45.248Z",
+  "count": 2,
   "items": [
+    {
+      "id": "ford-transmission-park-issue",
+      "slug": "ford-transmission-park-issue",
+      "title": "Ford Transmission Park Issue: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford transmission park issue",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "ford transmission park issue",
+        "ford transmission recall nhtsa"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-06-30T14:42:41.645Z"
+    },
     {
       "id": "hudson-river-gateway-project-lawsuit",
       "slug": "hudson-river-gateway-project-lawsuit",
@@ -23,13 +53,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hudson+river+gateway+project+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "hudson river gateway project lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-06-30T10:00:16.208Z"
+      "lastUpdated": "2026-06-30T14:42:41.645Z"
     }
   ]
 }

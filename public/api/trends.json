@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-01T10:13:16.437Z",
-  "count": 4,
+  "updatedAt": "2026-07-01T15:11:34.494Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 156,
+      "rank": 185,
       "query": "class action",
       "searchVolume": 5000,
       "startedAt": "",
@@ -19,57 +19,43 @@
       "source": "serpapi-google-trends",
       "text": "class action disney class action lawsuit disney settlement youtubetv",
       "trendScore": 30,
-      "detectedAt": "2026-07-01T10:13:14.220Z"
+      "detectedAt": "2026-07-01T15:11:32.365Z"
     },
     {
-      "rank": 120,
-      "query": "ford transmission park issue",
-      "searchVolume": 10000,
+      "rank": 283,
+      "query": "waxing",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "ford transmission recall nhtsa",
         "ford",
         "ford vehicle recall park issue",
         "ford recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
-      "increasePercentage": 900,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waxing&tz=420",
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "ford transmission park issue ford transmission recall nhtsa ford ford vehicle recall park issue ford recall",
-      "trendScore": 16,
-      "detectedAt": "2026-07-01T10:13:14.220Z"
+      "text": "waxing ford ford vehicle recall park issue ford recall",
+      "trendScore": 14,
+      "detectedAt": "2026-07-01T15:11:32.365Z"
     },
     {
-      "rank": 74,
+      "rank": 106,
       "query": "gop senate campaign finance lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
+      "breakdown": [
+        "fundraiser"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "gop senate campaign finance lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-01T10:13:14.220Z"
-    },
-    {
-      "rank": 342,
-      "query": "blake lively justin baldoni lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "blake lively justin baldoni lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-01T10:13:14.220Z"
+      "text": "gop senate campaign finance lawsuit fundraiser",
+      "trendScore": 10,
+      "detectedAt": "2026-07-01T15:11:32.365Z"
     }
   ]
 }

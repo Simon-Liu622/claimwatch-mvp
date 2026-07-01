@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-01T10:13:16.437Z",
+  "updatedAt": "2026-07-01T15:11:34.494Z",
   "item": {
-    "id": "ford-transmission-park-issue",
-    "slug": "ford-transmission-park-issue",
-    "title": "Ford Transmission Park Issue: Consumer Alert Monitoring",
+    "id": "waxing",
+    "slug": "waxing",
+    "title": "Waxing: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford transmission park issue",
+    "product": "waxing",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,20 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waxing&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 16,
+    "searchVolume": 2000,
+    "trendScore": 14,
     "matchedQueries": [
-      "ford transmission park issue",
-      "ford transmission recall nhtsa",
-      "ford recall",
+      "waxing",
       "ford",
-      "ford vehicle recall park issue"
+      "ford vehicle recall park issue",
+      "ford recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-01T10:13:14.220Z",
-    "url": "https://simon622.shop/item/ford-transmission-park-issue/"
+    "lastUpdated": "2026-07-01T15:11:32.365Z",
+    "url": "https://simon622.shop/item/waxing/"
   }
 }

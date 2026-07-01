@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:53:25.498Z",
+  "updatedAt": "2026-07-01T10:13:16.437Z",
   "item": {
     "id": "ford-transmission-park-issue",
     "slug": "ford-transmission-park-issue",
@@ -22,15 +22,16 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 14,
+    "trendScore": 16,
     "matchedQueries": [
       "ford transmission park issue",
       "ford transmission recall nhtsa",
       "ford recall",
-      "ford"
+      "ford",
+      "ford vehicle recall park issue"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-01T04:53:22.004Z",
+    "lastUpdated": "2026-07-01T10:13:14.220Z",
     "url": "https://simon622.shop/item/ford-transmission-park-issue/"
   }
 }

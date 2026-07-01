@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-01T04:53:25.498Z",
+  "updatedAt": "2026-07-01T10:13:16.437Z",
   "item": {
-    "id": "ryan-reynolds",
-    "slug": "ryan-reynolds",
-    "title": "Ryan Reynolds: Consumer Alert Monitoring",
+    "id": "blake-lively-justin-baldoni-lawsuit",
+    "slug": "blake-lively-justin-baldoni-lawsuit",
+    "title": "Blake Lively Justin Baldoni Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ryan reynolds",
+    "product": "blake lively justin baldoni lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+reynolds&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 10,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
-      "ryan reynolds",
       "blake lively justin baldoni lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-01T04:53:22.004Z",
-    "url": "https://simon622.shop/item/ryan-reynolds/"
+    "lastUpdated": "2026-07-01T10:13:14.220Z",
+    "url": "https://simon622.shop/item/blake-lively-justin-baldoni-lawsuit/"
   }
 }

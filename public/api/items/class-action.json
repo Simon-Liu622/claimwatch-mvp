@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:53:25.498Z",
+  "updatedAt": "2026-07-01T10:13:16.437Z",
   "item": {
     "id": "class-action",
     "slug": "class-action",
@@ -21,13 +21,16 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 30,
     "matchedQueries": [
-      "class action"
+      "class action",
+      "disney class action lawsuit",
+      "disney settlement",
+      "youtubetv"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-01T04:53:22.004Z",
+    "lastUpdated": "2026-07-01T10:13:14.220Z",
     "url": "https://simon622.shop/item/class-action/"
   }
 }

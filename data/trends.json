@@ -1,8 +1,8 @@
 [
   {
-    "rank": 147,
-    "query": "disney $50m legal settlement",
-    "searchVolume": 10000,
+    "rank": 156,
+    "query": "class action",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -11,15 +11,15 @@
       "disney settlement",
       "youtubetv"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+%2450m+legal+settlement&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "disney $50m legal settlement disney class action lawsuit disney settlement youtubetv",
+    "text": "class action disney class action lawsuit disney settlement youtubetv",
     "trendScore": 30,
-    "detectedAt": "2026-07-01T04:53:22.004Z"
+    "detectedAt": "2026-07-01T10:13:14.220Z"
   },
   {
-    "rank": 149,
+    "rank": 120,
     "query": "ford transmission park issue",
     "searchVolume": 10000,
     "startedAt": "",
@@ -28,60 +28,44 @@
     "breakdown": [
       "ford transmission recall nhtsa",
       "ford",
+      "ford vehicle recall park issue",
       "ford recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
     "increasePercentage": 900,
     "source": "serpapi-google-trends",
-    "text": "ford transmission park issue ford transmission recall nhtsa ford ford recall",
-    "trendScore": 14,
-    "detectedAt": "2026-07-01T04:53:22.004Z"
+    "text": "ford transmission park issue ford transmission recall nhtsa ford ford vehicle recall park issue ford recall",
+    "trendScore": 16,
+    "detectedAt": "2026-07-01T10:13:14.220Z"
   },
   {
-    "rank": 238,
-    "query": "ryan reynolds",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "blake lively justin baldoni lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+reynolds&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "ryan reynolds blake lively justin baldoni lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-07-01T04:53:22.004Z"
-  },
-  {
-    "rank": 111,
+    "rank": 74,
     "query": "gop senate campaign finance lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "gop senate campaign finance lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-01T04:53:22.004Z"
+    "detectedAt": "2026-07-01T10:13:14.220Z"
   },
   {
-    "rank": 165,
-    "query": "class action",
-    "searchVolume": 2000,
+    "rank": 342,
+    "query": "blake lively justin baldoni lawsuit",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-    "increasePercentage": 300,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "class action",
+    "text": "blake lively justin baldoni lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-01T04:53:22.004Z"
+    "detectedAt": "2026-07-01T10:13:14.220Z"
   }
 ]

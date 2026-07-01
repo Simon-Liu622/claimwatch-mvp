@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-01T04:53:25.498Z",
-  "count": 5,
+  "updatedAt": "2026-07-01T10:13:16.437Z",
+  "count": 4,
   "items": [
     {
-      "id": "disney-50m-legal-settlement",
-      "slug": "disney-50m-legal-settlement",
-      "title": "Disney $50m Legal Settlement: Consumer Alert Monitoring",
+      "id": "class-action",
+      "slug": "class-action",
+      "title": "Class Action: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "disney $50m legal settlement",
+      "product": "class action",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+%2450m+legal+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
+      "searchVolume": 5000,
       "trendScore": 30,
       "matchedQueries": [
-        "disney $50m legal settlement",
+        "class action",
         "disney class action lawsuit",
         "disney settlement",
         "youtubetv"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-01T04:53:22.004Z"
+      "lastUpdated": "2026-07-01T10:13:14.220Z"
     },
     {
       "id": "ford-transmission-park-issue",
@@ -56,45 +56,16 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 14,
+      "trendScore": 16,
       "matchedQueries": [
         "ford transmission park issue",
         "ford transmission recall nhtsa",
         "ford recall",
-        "ford"
+        "ford",
+        "ford vehicle recall park issue"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-01T04:53:22.004Z"
-    },
-    {
-      "id": "ryan-reynolds",
-      "slug": "ryan-reynolds",
-      "title": "Ryan Reynolds: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ryan reynolds",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+reynolds&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "ryan reynolds",
-        "blake lively justin baldoni lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-01T04:53:22.004Z"
+      "lastUpdated": "2026-07-01T10:13:14.220Z"
     },
     {
       "id": "gop-senate-campaign-finance-lawsuit",
@@ -117,23 +88,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 8,
       "matchedQueries": [
         "gop senate campaign finance lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-01T04:53:22.004Z"
+      "lastUpdated": "2026-07-01T10:13:14.220Z"
     },
     {
-      "id": "class-action",
-      "slug": "class-action",
-      "title": "Class Action: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "blake-lively-justin-baldoni-lawsuit",
+      "slug": "blake-lively-justin-baldoni-lawsuit",
+      "title": "Blake Lively Justin Baldoni Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "class action",
+      "product": "blake lively justin baldoni lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -143,16 +114,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "class action"
+        "blake lively justin baldoni lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-01T04:53:22.004Z"
+      "lastUpdated": "2026-07-01T10:13:14.220Z"
     }
   ]
 }

@@ -1,71 +1,91 @@
 {
-  "updatedAt": "2026-06-30T20:19:00.167Z",
-  "count": 4,
+  "updatedAt": "2026-07-01T04:53:25.498Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 16,
+      "rank": 147,
+      "query": "disney $50m legal settlement",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "disney class action lawsuit",
+        "disney settlement",
+        "youtubetv"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=disney+%2450m+legal+settlement&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "disney $50m legal settlement disney class action lawsuit disney settlement youtubetv",
+      "trendScore": 30,
+      "detectedAt": "2026-07-01T04:53:22.004Z"
+    },
+    {
+      "rank": 149,
       "query": "ford transmission park issue",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "ford transmission recall nhtsa",
+        "ford",
         "ford recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+transmission+park+issue&tz=420",
       "increasePercentage": 900,
       "source": "serpapi-google-trends",
-      "text": "ford transmission park issue ford transmission recall nhtsa ford recall",
-      "trendScore": 27,
-      "detectedAt": "2026-06-30T20:18:47.011Z"
+      "text": "ford transmission park issue ford transmission recall nhtsa ford ford recall",
+      "trendScore": 14,
+      "detectedAt": "2026-07-01T04:53:22.004Z"
     },
     {
-      "rank": 13,
-      "query": "hudson river gateway project lawsuit",
-      "searchVolume": 10000,
+      "rank": 238,
+      "query": "ryan reynolds",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "hudson tunnel project"
+        "blake lively justin baldoni lawsuit"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hudson+river+gateway+project+lawsuit&tz=420",
-      "increasePercentage": 800,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+reynolds&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "hudson river gateway project lawsuit hudson tunnel project",
-      "trendScore": 25,
-      "detectedAt": "2026-06-30T20:18:47.011Z"
+      "text": "ryan reynolds blake lively justin baldoni lawsuit",
+      "trendScore": 10,
+      "detectedAt": "2026-07-01T04:53:22.004Z"
     },
     {
-      "rank": 51,
+      "rank": 111,
       "query": "gop senate campaign finance lawsuit",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
-      "increasePercentage": 500,
-      "source": "serpapi-google-trends",
-      "text": "gop senate campaign finance lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-06-30T20:18:47.011Z"
-    },
-    {
-      "rank": 224,
-      "query": "blake lively justin baldoni lawsuit",
-      "searchVolume": 500,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blake+lively+justin+baldoni+lawsuit&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "blake lively justin baldoni lawsuit",
+      "text": "gop senate campaign finance lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-06-30T20:18:47.011Z"
+      "detectedAt": "2026-07-01T04:53:22.004Z"
+    },
+    {
+      "rank": 165,
+      "query": "class action",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "class action",
+      "trendScore": 8,
+      "detectedAt": "2026-07-01T04:53:22.004Z"
     }
   ]
 }

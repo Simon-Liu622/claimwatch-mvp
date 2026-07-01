@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-01T15:11:34.494Z",
+  "updatedAt": "2026-07-01T20:14:34.992Z",
   "item": {
-    "id": "class-action",
-    "slug": "class-action",
-    "title": "Class Action: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "john-o-brennan",
+    "slug": "john-o-brennan",
+    "title": "John O. Brennan: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "class action",
+    "product": "john o. brennan",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+o.+brennan&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 30,
+    "searchVolume": 1000,
+    "trendScore": 10,
     "matchedQueries": [
-      "class action",
-      "disney class action lawsuit",
-      "disney settlement",
-      "youtubetv"
+      "john o. brennan",
+      "john brennan trump administration lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-01T15:11:32.365Z",
-    "url": "https://simon622.shop/item/class-action/"
+    "lastUpdated": "2026-07-01T20:14:32.439Z",
+    "url": "https://simon622.shop/item/john-o-brennan/"
   }
 }

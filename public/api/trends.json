@@ -1,61 +1,43 @@
 {
-  "updatedAt": "2026-07-01T15:11:34.494Z",
-  "count": 3,
+  "updatedAt": "2026-07-01T20:14:34.992Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 185,
-      "query": "class action",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "disney class action lawsuit",
-        "disney settlement",
-        "youtubetv"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "class action disney class action lawsuit disney settlement youtubetv",
-      "trendScore": 30,
-      "detectedAt": "2026-07-01T15:11:32.365Z"
-    },
-    {
-      "rank": 283,
-      "query": "waxing",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "ford",
-        "ford vehicle recall park issue",
-        "ford recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waxing&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "waxing ford ford vehicle recall park issue ford recall",
-      "trendScore": 14,
-      "detectedAt": "2026-07-01T15:11:32.365Z"
-    },
-    {
-      "rank": 106,
-      "query": "gop senate campaign finance lawsuit",
+      "rank": 132,
+      "query": "youtube tv",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "fundraiser"
+        "class action",
+        "youtubetv",
+        "disney class action lawsuit",
+        "disney settlement"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gop+senate+campaign+finance+lawsuit&tz=420",
-      "increasePercentage": 500,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "gop senate campaign finance lawsuit fundraiser",
+      "text": "youtube tv class action youtubetv disney class action lawsuit disney settlement",
+      "trendScore": 32,
+      "detectedAt": "2026-07-01T20:14:32.439Z"
+    },
+    {
+      "rank": 107,
+      "query": "john o. brennan",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "john brennan trump administration lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+o.+brennan&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "john o. brennan john brennan trump administration lawsuit",
       "trendScore": 10,
-      "detectedAt": "2026-07-01T15:11:32.365Z"
+      "detectedAt": "2026-07-01T20:14:32.439Z"
     }
   ]
 }

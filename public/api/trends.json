@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-02T14:28:47.193Z",
+  "updatedAt": "2026-07-02T19:51:10.906Z",
   "count": 4,
   "trends": [
     {
-      "rank": 4,
+      "rank": 5,
       "query": "fda potato chip salmonella warning",
       "searchVolume": 100000,
       "startedAt": "",
@@ -21,12 +21,12 @@
       "source": "serpapi-google-trends",
       "text": "fda potato chip salmonella warning potato chips recalled class i chip recall 2026 salmonella recalled potato chips potato chips",
       "trendScore": 44,
-      "detectedAt": "2026-07-02T14:28:34.270Z"
+      "detectedAt": "2026-07-02T19:50:57.828Z"
     },
     {
-      "rank": 29,
+      "rank": 25,
       "query": "cheese recall listeria multistate",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -36,10 +36,10 @@
       "source": "serpapi-google-trends",
       "text": "cheese recall listeria multistate",
       "trendScore": 31,
-      "detectedAt": "2026-07-02T14:28:34.270Z"
+      "detectedAt": "2026-07-02T19:50:57.828Z"
     },
     {
-      "rank": 24,
+      "rank": 30,
       "query": "lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -47,14 +47,14 @@
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-07-02T14:28:34.270Z"
+      "detectedAt": "2026-07-02T19:50:57.828Z"
     },
     {
-      "rank": 63,
+      "rank": 70,
       "query": "john brennan trump administration lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
@@ -62,15 +62,14 @@
       "active": false,
       "breakdown": [
         "john brennan trump records lawsuit",
-        "john brennan lawsuit",
-        "john o. brennan"
+        "john brennan lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+brennan+trump+administration+lawsuit&tz=420",
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "john brennan trump administration lawsuit john brennan trump records lawsuit john brennan lawsuit john o. brennan",
-      "trendScore": 15,
-      "detectedAt": "2026-07-02T14:28:34.270Z"
+      "text": "john brennan trump administration lawsuit john brennan trump records lawsuit john brennan lawsuit",
+      "trendScore": 13,
+      "detectedAt": "2026-07-02T19:50:57.828Z"
     }
   ]
 }

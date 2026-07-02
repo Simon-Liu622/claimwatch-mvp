@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T14:28:47.193Z",
+  "updatedAt": "2026-07-02T19:51:10.906Z",
   "count": 3,
   "items": [
     {
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall+listeria+multistate&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 31,
       "matchedQueries": [
         "cheese recall listeria multistate"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-02T14:28:34.270Z"
+      "lastUpdated": "2026-07-02T19:50:57.828Z"
     },
     {
       "id": "lawsuit",
@@ -58,7 +58,7 @@
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-02T14:28:34.270Z"
+      "lastUpdated": "2026-07-02T19:50:57.828Z"
     },
     {
       "id": "john-brennan-trump-administration-lawsuit",
@@ -82,7 +82,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 15,
+      "trendScore": 13,
       "matchedQueries": [
         "john brennan trump administration lawsuit",
         "john brennan trump records lawsuit",
@@ -90,7 +90,7 @@
         "john o. brennan"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-02T14:28:34.270Z"
+      "lastUpdated": "2026-07-02T19:50:57.828Z"
     }
   ]
 }

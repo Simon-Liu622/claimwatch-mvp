@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:14:34.992Z",
+  "updatedAt": "2026-07-02T04:20:47.275Z",
   "item": {
     "id": "cpsc-26567",
     "slug": "cpsc-26567",
@@ -18,13 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Michley-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 50000,
+    "trendScore": 40,
+    "matchedQueries": [
+      "fda potato chip salmonella warning",
+      "fda recall utz snack products",
+      "salmonella",
+      "recalled potato chips",
+      "potato chips"
+    ],
     "officialVerified": true,
     "officialRecordId": "26567",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-01T20:14:32.439Z",
+    "lastUpdated": "2026-07-02T04:20:44.259Z",
     "url": "https://simon622.shop/item/cpsc-26567/"
   }
 }

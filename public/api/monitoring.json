@@ -1,49 +1,16 @@
 {
-  "updatedAt": "2026-07-01T20:14:34.992Z",
-  "count": 2,
+  "updatedAt": "2026-07-02T04:20:47.275Z",
+  "count": 1,
   "items": [
     {
-      "id": "youtube-tv",
-      "slug": "youtube-tv",
-      "title": "Youtube Tv: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "youtube tv",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 32,
-      "matchedQueries": [
-        "youtube tv",
-        "class action",
-        "youtubetv",
-        "disney class action lawsuit",
-        "disney settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-01T20:14:32.439Z"
-    },
-    {
-      "id": "john-o-brennan",
-      "slug": "john-o-brennan",
-      "title": "John O. Brennan: Consumer Alert Monitoring",
+      "id": "john-brennan-trump-administration-lawsuit",
+      "slug": "john-brennan-trump-administration-lawsuit",
+      "title": "John Brennan Trump Administration Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "john o. brennan",
+      "product": "john brennan trump administration lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -53,17 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+o.+brennan&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+brennan+trump+administration+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
+      "searchVolume": 20000,
+      "trendScore": 30,
       "matchedQueries": [
-        "john o. brennan",
-        "john brennan trump administration lawsuit"
+        "john brennan trump administration lawsuit",
+        "john brennan trump records lawsuit",
+        "john brennan lawsuit",
+        "john o. brennan"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-01T20:14:32.439Z"
+      "lastUpdated": "2026-07-02T04:20:44.259Z"
     }
   ]
 }

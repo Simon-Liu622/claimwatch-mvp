@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-07-03T09:34:19.684Z",
-  "count": 5,
+  "updatedAt": "2026-07-03T14:31:31.325Z",
+  "count": 4,
   "items": [
-    {
-      "id": "cheese-recall-listeria-multistate",
-      "slug": "cheese-recall-listeria-multistate",
-      "title": "Cheese Recall Listeria Multistate: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "cheese recall listeria multistate",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall+listeria+multistate&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 31,
-      "matchedQueries": [
-        "cheese recall listeria multistate"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-02T19:50:57.828Z"
-    },
     {
       "id": "donald-trump-park-signage-lawsuit",
       "slug": "donald-trump-park-signage-lawsuit",
@@ -52,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "donald trump park signage lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T09:34:16.670Z"
+      "lastUpdated": "2026-07-03T14:31:28.979Z"
     },
     {
-      "id": "class-i-chip-recall-2026",
-      "slug": "class-i-chip-recall-2026",
-      "title": "Class I Chip Recall 2026: Consumer Alert Monitoring",
+      "id": "la-ceiba-foods-listeria-recall",
+      "slug": "la-ceiba-foods-listeria-recall",
+      "title": "La Ceiba Foods Listeria Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "class i chip recall 2026",
+      "product": "la ceiba foods listeria recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -78,46 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+chip+recall+2026&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la+ceiba+foods+listeria+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 16,
       "matchedQueries": [
-        "class i chip recall 2026",
-        "potato chip recall"
+        "la ceiba foods listeria recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T09:34:16.670Z"
-    },
-    {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-03T09:34:16.670Z"
+      "lastUpdated": "2026-07-03T14:31:28.979Z"
     },
     {
       "id": "mike-rowe-discovery-lawsuit",
@@ -140,13 +81,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+rowe+discovery+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
         "mike rowe discovery lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T09:34:16.670Z"
+      "lastUpdated": "2026-07-03T14:31:28.979Z"
+    },
+    {
+      "id": "potato-chip-recall",
+      "slug": "potato-chip-recall",
+      "title": "Potato Chip Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "potato chip recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=potato+chip+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "potato chip recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-03T14:31:28.979Z"
     }
   ]
 }

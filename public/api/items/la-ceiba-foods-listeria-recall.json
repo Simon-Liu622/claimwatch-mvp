@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-03T09:34:19.684Z",
+  "updatedAt": "2026-07-03T14:31:31.325Z",
   "item": {
-    "id": "class-i-chip-recall-2026",
-    "slug": "class-i-chip-recall-2026",
-    "title": "Class I Chip Recall 2026: Consumer Alert Monitoring",
+    "id": "la-ceiba-foods-listeria-recall",
+    "slug": "la-ceiba-foods-listeria-recall",
+    "title": "La Ceiba Foods Listeria Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "class i chip recall 2026",
+    "product": "la ceiba foods listeria recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+chip+recall+2026&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la+ceiba+foods+listeria+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
+    "searchVolume": 1000,
+    "trendScore": 16,
     "matchedQueries": [
-      "class i chip recall 2026",
-      "potato chip recall"
+      "la ceiba foods listeria recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-03T09:34:16.670Z",
-    "url": "https://simon622.shop/item/class-i-chip-recall-2026/"
+    "lastUpdated": "2026-07-03T14:31:28.979Z",
+    "url": "https://simon622.shop/item/la-ceiba-foods-listeria-recall/"
   }
 }

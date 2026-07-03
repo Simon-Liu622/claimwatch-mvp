@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-03T09:34:19.684Z",
+  "updatedAt": "2026-07-03T14:31:31.325Z",
   "item": {
-    "id": "lawsuit",
-    "slug": "lawsuit",
-    "title": "Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "potato-chip-recall",
+    "slug": "potato-chip-recall",
+    "title": "Potato Chip Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "lawsuit",
-    "category": "Consumer monitoring",
+    "product": "potato chip recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=potato+chip+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 2000,
     "trendScore": 8,
     "matchedQueries": [
-      "lawsuit"
+      "potato chip recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-03T09:34:16.670Z",
-    "url": "https://simon622.shop/item/lawsuit/"
+    "lastUpdated": "2026-07-03T14:31:28.979Z",
+    "url": "https://simon622.shop/item/potato-chip-recall/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-03T04:07:53.743Z",
+  "updatedAt": "2026-07-03T09:34:19.684Z",
   "item": {
-    "id": "potato-chips-recalled",
-    "slug": "potato-chips-recalled",
-    "title": "Potato Chips Recalled: Consumer Alert Monitoring",
+    "id": "class-i-chip-recall-2026",
+    "slug": "class-i-chip-recall-2026",
+    "title": "Class I Chip Recall 2026: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "potato chips recalled",
+    "product": "class i chip recall 2026",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=potato+chips+recalled&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+chip+recall+2026&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 13,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
-      "potato chips recalled",
       "class i chip recall 2026",
       "potato chip recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-03T04:07:40.250Z",
-    "url": "https://simon622.shop/item/potato-chips-recalled/"
+    "lastUpdated": "2026-07-03T09:34:16.670Z",
+    "url": "https://simon622.shop/item/class-i-chip-recall-2026/"
   }
 }

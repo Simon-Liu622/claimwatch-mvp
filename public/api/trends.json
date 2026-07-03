@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-07-03T04:07:53.743Z",
-  "count": 4,
+  "updatedAt": "2026-07-03T09:34:19.684Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 118,
+      "rank": 30,
+      "query": "donald trump park signage lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "donald trump park signage lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-03T09:34:16.670Z"
+    },
+    {
+      "rank": 99,
       "query": "cheese recall listeria multistate",
       "searchVolume": 5000,
       "startedAt": "",
@@ -17,28 +32,27 @@
       "source": "serpapi-google-trends",
       "text": "cheese recall listeria multistate la ceiba foods listeria recall",
       "trendScore": 18,
-      "detectedAt": "2026-07-03T04:07:40.250Z"
+      "detectedAt": "2026-07-03T09:34:16.670Z"
     },
     {
-      "rank": 83,
-      "query": "potato chips recalled",
-      "searchVolume": 20000,
+      "rank": 150,
+      "query": "class i chip recall 2026",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "class i chip recall 2026",
         "potato chip recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=potato+chips+recalled&tz=420",
-      "increasePercentage": 1000,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+chip+recall+2026&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "potato chips recalled class i chip recall 2026 potato chip recall",
-      "trendScore": 13,
-      "detectedAt": "2026-07-03T04:07:40.250Z"
+      "text": "class i chip recall 2026 potato chip recall",
+      "trendScore": 10,
+      "detectedAt": "2026-07-03T09:34:16.670Z"
     },
     {
-      "rank": 117,
+      "rank": 94,
       "query": "lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -50,10 +64,10 @@
       "source": "serpapi-google-trends",
       "text": "lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-03T04:07:40.250Z"
+      "detectedAt": "2026-07-03T09:34:16.670Z"
     },
     {
-      "rank": 122,
+      "rank": 125,
       "query": "mike rowe discovery lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -65,7 +79,7 @@
       "source": "serpapi-google-trends",
       "text": "mike rowe discovery lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-03T04:07:40.250Z"
+      "detectedAt": "2026-07-03T09:34:16.670Z"
     }
   ]
 }

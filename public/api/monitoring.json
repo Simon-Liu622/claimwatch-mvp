@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T04:07:53.743Z",
-  "count": 4,
+  "updatedAt": "2026-07-03T09:34:19.684Z",
+  "count": 5,
   "items": [
     {
       "id": "cheese-recall-listeria-multistate",
@@ -32,14 +32,43 @@
       "lastUpdated": "2026-07-02T19:50:57.828Z"
     },
     {
-      "id": "potato-chips-recalled",
-      "slug": "potato-chips-recalled",
-      "title": "Potato Chips Recalled: Consumer Alert Monitoring",
+      "id": "donald-trump-park-signage-lawsuit",
+      "slug": "donald-trump-park-signage-lawsuit",
+      "title": "Donald Trump Park Signage Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "donald trump park signage lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "donald trump park signage lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-03T09:34:16.670Z"
+    },
+    {
+      "id": "class-i-chip-recall-2026",
+      "slug": "class-i-chip-recall-2026",
+      "title": "Class I Chip Recall 2026: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "potato chips recalled",
+      "product": "class i chip recall 2026",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,18 +78,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=potato+chips+recalled&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+chip+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
-        "potato chips recalled",
         "class i chip recall 2026",
         "potato chip recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T04:07:40.250Z"
+      "lastUpdated": "2026-07-03T09:34:16.670Z"
     },
     {
       "id": "lawsuit",
@@ -89,7 +117,7 @@
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T04:07:40.250Z"
+      "lastUpdated": "2026-07-03T09:34:16.670Z"
     },
     {
       "id": "mike-rowe-discovery-lawsuit",
@@ -118,7 +146,7 @@
         "mike rowe discovery lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T04:07:40.250Z"
+      "lastUpdated": "2026-07-03T09:34:16.670Z"
     }
   ]
 }

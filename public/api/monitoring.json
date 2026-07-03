@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T14:31:31.325Z",
-  "count": 4,
+  "updatedAt": "2026-07-03T19:49:06.972Z",
+  "count": 6,
   "items": [
     {
       "id": "donald-trump-park-signage-lawsuit",
@@ -23,13 +23,71 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "donald trump park signage lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T14:31:28.979Z"
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
+    },
+    {
+      "id": "pitt-jolie-miraval-lawsuit",
+      "slug": "pitt-jolie-miraval-lawsuit",
+      "title": "Pitt Jolie Miraval Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "pitt jolie miraval lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pitt+jolie+miraval+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "pitt jolie miraval lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
+    },
+    {
+      "id": "judge-kenney-philadelphia-ice-lawsuit",
+      "slug": "judge-kenney-philadelphia-ice-lawsuit",
+      "title": "Judge Kenney Philadelphia Ice Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "judge kenney philadelphia ice lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+kenney+philadelphia+ice+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "judge kenney philadelphia ice lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
     },
     {
       "id": "la-ceiba-foods-listeria-recall",
@@ -58,7 +116,7 @@
         "la ceiba foods listeria recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T14:31:28.979Z"
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
     },
     {
       "id": "mike-rowe-discovery-lawsuit",
@@ -87,7 +145,7 @@
         "mike rowe discovery lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T14:31:28.979Z"
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
     },
     {
       "id": "potato-chip-recall",
@@ -116,7 +174,7 @@
         "potato chip recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-03T14:31:28.979Z"
+      "lastUpdated": "2026-07-03T19:49:01.753Z"
     }
   ]
 }

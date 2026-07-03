@@ -1,24 +1,54 @@
 {
-  "updatedAt": "2026-07-03T14:31:31.325Z",
-  "count": 4,
+  "updatedAt": "2026-07-03T19:49:06.972Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 30,
+      "rank": 35,
       "query": "donald trump park signage lawsuit",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "donald trump park signage lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-07-03T14:31:28.979Z"
+      "detectedAt": "2026-07-03T19:49:01.753Z"
     },
     {
-      "rank": 270,
+      "rank": 45,
+      "query": "pitt jolie miraval lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pitt+jolie+miraval+lawsuit&tz=420",
+      "increasePercentage": 700,
+      "source": "serpapi-google-trends",
+      "text": "pitt jolie miraval lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-03T19:49:01.753Z"
+    },
+    {
+      "rank": 67,
+      "query": "judge kenney philadelphia ice lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+kenney+philadelphia+ice+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "judge kenney philadelphia ice lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-03T19:49:01.753Z"
+    },
+    {
+      "rank": 292,
       "query": "la ceiba foods listeria recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -30,10 +60,10 @@
       "source": "serpapi-google-trends",
       "text": "la ceiba foods listeria recall",
       "trendScore": 16,
-      "detectedAt": "2026-07-03T14:31:28.979Z"
+      "detectedAt": "2026-07-03T19:49:01.753Z"
     },
     {
-      "rank": 127,
+      "rank": 149,
       "query": "mike rowe discovery lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -45,10 +75,10 @@
       "source": "serpapi-google-trends",
       "text": "mike rowe discovery lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-03T14:31:28.979Z"
+      "detectedAt": "2026-07-03T19:49:01.753Z"
     },
     {
-      "rank": 208,
+      "rank": 236,
       "query": "potato chip recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -60,7 +90,7 @@
       "source": "serpapi-google-trends",
       "text": "potato chip recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-03T14:31:28.979Z"
+      "detectedAt": "2026-07-03T19:49:01.753Z"
     }
   ]
 }

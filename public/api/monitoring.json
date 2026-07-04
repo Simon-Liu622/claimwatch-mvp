@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-04T04:00:57.427Z",
-  "count": 3,
+  "updatedAt": "2026-07-04T08:50:03.838Z",
+  "count": 2,
   "items": [
     {
       "id": "pitt-jolie-miraval-lawsuit",
@@ -29,36 +29,7 @@
         "pitt jolie miraval lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-04T04:00:54.756Z"
-    },
-    {
-      "id": "donald-trump-park-signage-lawsuit",
-      "slug": "donald-trump-park-signage-lawsuit",
-      "title": "Donald Trump Park Signage Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "donald trump park signage lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+park+signage+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "donald trump park signage lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-04T04:00:54.756Z"
+      "lastUpdated": "2026-07-04T08:49:56.169Z"
     },
     {
       "id": "judge-kenney-philadelphia-ice-lawsuit",
@@ -87,7 +58,7 @@
         "judge kenney philadelphia ice lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-04T04:00:54.756Z"
+      "lastUpdated": "2026-07-04T08:49:56.169Z"
     }
   ]
 }

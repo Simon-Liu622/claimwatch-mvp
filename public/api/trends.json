@@ -1,39 +1,9 @@
 {
-  "updatedAt": "2026-07-04T13:57:20.274Z",
-  "count": 3,
+  "updatedAt": "2026-07-04T19:36:23.847Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 15,
-      "query": "pitt jolie miraval lawsuit",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pitt+jolie+miraval+lawsuit&tz=420",
-      "increasePercentage": 800,
-      "source": "serpapi-google-trends",
-      "text": "pitt jolie miraval lawsuit",
-      "trendScore": 24,
-      "detectedAt": "2026-07-04T13:57:18.584Z"
-    },
-    {
-      "rank": 148,
-      "query": "judge kenney philadelphia ice lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+kenney+philadelphia+ice+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "judge kenney philadelphia ice lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-04T13:57:18.584Z"
-    },
-    {
-      "rank": 273,
+      "rank": 289,
       "query": "winco fireworks recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -45,7 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "winco fireworks recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-04T13:57:18.584Z"
+      "detectedAt": "2026-07-04T19:36:22.043Z"
     }
   ]
 }

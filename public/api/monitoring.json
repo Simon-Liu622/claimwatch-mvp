@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T04:38:20.842Z",
+  "updatedAt": "2026-07-06T11:02:13.148Z",
   "count": 2,
   "items": [
     {
@@ -29,7 +29,7 @@
         "pluralibacter gergoviae shampoo recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-06T04:38:15.933Z"
+      "lastUpdated": "2026-07-06T11:02:05.601Z"
     },
     {
       "id": "tax-refund",
@@ -52,13 +52,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tax+refund&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 9,
+      "searchVolume": 50000,
+      "trendScore": 24,
       "matchedQueries": [
         "tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-06T04:38:15.933Z"
+      "lastUpdated": "2026-07-06T11:02:05.601Z"
     }
   ]
 }

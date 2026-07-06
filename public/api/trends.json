@@ -1,9 +1,26 @@
 {
-  "updatedAt": "2026-07-06T15:54:09.165Z",
-  "count": 1,
+  "updatedAt": "2026-07-06T20:13:43.768Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 8,
+      "rank": 25,
+      "query": "david streever ice lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "david streever ice email lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit&tz=420",
+      "increasePercentage": 900,
+      "source": "serpapi-google-trends",
+      "text": "david streever ice lawsuit david streever ice email lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-07-06T20:13:41.631Z"
+    },
+    {
+      "rank": 11,
       "query": "pluralibacter gergoviae shampoo recall",
       "searchVolume": 50000,
       "startedAt": "",
@@ -15,7 +32,7 @@
       "source": "serpapi-google-trends",
       "text": "pluralibacter gergoviae shampoo recall",
       "trendScore": 24,
-      "detectedAt": "2026-07-06T15:54:05.372Z"
+      "detectedAt": "2026-07-06T20:13:41.631Z"
     }
   ]
 }

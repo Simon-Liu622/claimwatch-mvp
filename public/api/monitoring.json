@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-06T15:54:09.165Z",
-  "count": 1,
+  "updatedAt": "2026-07-06T20:13:43.768Z",
+  "count": 2,
   "items": [
+    {
+      "id": "david-streever-ice-lawsuit",
+      "slug": "david-streever-ice-lawsuit",
+      "title": "David Streever Ice Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "david streever ice lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "david streever ice lawsuit",
+        "david streever ice email lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-06T20:13:41.631Z"
+    },
     {
       "id": "pluralibacter-gergoviae-shampoo-recall",
       "slug": "pluralibacter-gergoviae-shampoo-recall",
@@ -29,7 +59,7 @@
         "pluralibacter gergoviae shampoo recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-06T15:54:05.372Z"
+      "lastUpdated": "2026-07-06T20:13:41.631Z"
     }
   ]
 }

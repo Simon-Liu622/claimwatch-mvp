@@ -1,43 +1,44 @@
 {
-  "updatedAt": "2026-07-07T04:16:12.122Z",
+  "updatedAt": "2026-07-07T10:00:23.905Z",
   "count": 3,
   "trends": [
     {
-      "rank": 6,
+      "rank": 9,
       "query": "pluralibacter gergoviae shampoo contamination",
-      "searchVolume": 50000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "oribe serene scalp bacteria recall"
+        "oribe serene scalp bacteria recall",
+        "product recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall",
-      "trendScore": 34,
-      "detectedAt": "2026-07-07T04:16:04.520Z"
+      "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall product recall",
+      "trendScore": 38,
+      "detectedAt": "2026-07-07T10:00:18.615Z"
     },
     {
-      "rank": 29,
-      "query": "david streever ice lawsuit",
+      "rank": 24,
+      "query": "david streever ice email lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "david streever ice email lawsuit"
+        "david streever ice lawsuit"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit&tz=420",
-      "increasePercentage": 600,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+email+lawsuit&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "david streever ice lawsuit david streever ice email lawsuit",
+      "text": "david streever ice email lawsuit david streever ice lawsuit",
       "trendScore": 26,
-      "detectedAt": "2026-07-07T04:16:04.520Z"
+      "detectedAt": "2026-07-07T10:00:18.615Z"
     },
     {
-      "rank": 171,
+      "rank": 186,
       "query": "cpsc rowenta vacuum recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -49,7 +50,7 @@
       "source": "serpapi-google-trends",
       "text": "cpsc rowenta vacuum recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-07T04:16:04.520Z"
+      "detectedAt": "2026-07-07T10:00:18.615Z"
     }
   ]
 }

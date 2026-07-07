@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T10:00:23.905Z",
-  "count": 3,
+  "updatedAt": "2026-07-07T15:14:03.058Z",
+  "count": 6,
   "trends": [
     {
       "rank": 9,
@@ -18,12 +18,27 @@
       "source": "serpapi-google-trends",
       "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall product recall",
       "trendScore": 38,
-      "detectedAt": "2026-07-07T10:00:18.615Z"
+      "detectedAt": "2026-07-07T15:13:59.896Z"
     },
     {
-      "rank": 24,
+      "rank": 56,
+      "query": "doj trump tax lawsuit settlement",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+trump+tax+lawsuit+settlement&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "doj trump tax lawsuit settlement",
+      "trendScore": 31,
+      "detectedAt": "2026-07-07T15:13:59.896Z"
+    },
+    {
+      "rank": 10,
       "query": "david streever ice email lawsuit",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -31,14 +46,46 @@
         "david streever ice lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+email+lawsuit&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
       "text": "david streever ice email lawsuit david streever ice lawsuit",
       "trendScore": 26,
-      "detectedAt": "2026-07-07T10:00:18.615Z"
+      "detectedAt": "2026-07-07T15:13:59.896Z"
     },
     {
-      "rank": 186,
+      "rank": 39,
+      "query": "prince harry news",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "prince harry daily mail lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+news&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "prince harry news prince harry daily mail lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-07-07T15:13:59.896Z"
+    },
+    {
+      "rank": 172,
+      "query": "publix organic blueberry recall",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "publix organic blueberry recall",
+      "trendScore": 8,
+      "detectedAt": "2026-07-07T15:13:59.896Z"
+    },
+    {
+      "rank": 209,
       "query": "cpsc rowenta vacuum recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -50,7 +97,7 @@
       "source": "serpapi-google-trends",
       "text": "cpsc rowenta vacuum recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-07T10:00:18.615Z"
+      "detectedAt": "2026-07-07T15:13:59.896Z"
     }
   ]
 }

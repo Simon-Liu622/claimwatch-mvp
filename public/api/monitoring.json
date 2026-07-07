@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T10:00:23.905Z",
-  "count": 2,
+  "updatedAt": "2026-07-07T15:14:03.058Z",
+  "count": 5,
   "items": [
     {
       "id": "pluralibacter-gergoviae-shampoo-contamination",
@@ -33,6 +33,35 @@
       "lastUpdated": "2026-07-07T04:16:04.520Z"
     },
     {
+      "id": "doj-trump-tax-lawsuit-settlement",
+      "slug": "doj-trump-tax-lawsuit-settlement",
+      "title": "Doj Trump Tax Lawsuit Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "doj trump tax lawsuit settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+trump+tax+lawsuit+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 31,
+      "matchedQueries": [
+        "doj trump tax lawsuit settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-07T15:13:59.896Z"
+    },
+    {
       "id": "david-streever-ice-email-lawsuit",
       "slug": "david-streever-ice-email-lawsuit",
       "title": "David Streever Ice Email Lawsuit: Consumer Alert Monitoring",
@@ -53,14 +82,73 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+email+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 26,
       "matchedQueries": [
         "david streever ice email lawsuit",
         "david streever ice lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T10:00:18.615Z"
+      "lastUpdated": "2026-07-07T15:13:59.896Z"
+    },
+    {
+      "id": "prince-harry-news",
+      "slug": "prince-harry-news",
+      "title": "Prince Harry News: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "prince harry news",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+news&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "prince harry news",
+        "prince harry daily mail lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-07T15:13:59.896Z"
+    },
+    {
+      "id": "publix-organic-blueberry-recall",
+      "slug": "publix-organic-blueberry-recall",
+      "title": "Publix Organic Blueberry Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "publix organic blueberry recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "publix organic blueberry recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-07T15:13:59.896Z"
     }
   ]
 }

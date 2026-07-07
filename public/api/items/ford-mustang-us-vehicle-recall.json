@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-07T15:14:03.058Z",
+  "updatedAt": "2026-07-07T20:13:25.025Z",
   "item": {
-    "id": "publix-organic-blueberry-recall",
-    "slug": "publix-organic-blueberry-recall",
-    "title": "Publix Organic Blueberry Recall: Consumer Alert Monitoring",
+    "id": "ford-mustang-us-vehicle-recall",
+    "slug": "ford-mustang-us-vehicle-recall",
+    "title": "Ford Mustang Us Vehicle Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "publix organic blueberry recall",
+    "product": "ford mustang us vehicle recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 10000,
+    "trendScore": 23,
     "matchedQueries": [
-      "publix organic blueberry recall"
+      "ford mustang us vehicle recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-07T15:13:59.896Z",
-    "url": "https://simon622.shop/item/publix-organic-blueberry-recall/"
+    "lastUpdated": "2026-07-07T20:13:11.623Z",
+    "url": "https://simon622.shop/item/ford-mustang-us-vehicle-recall/"
   }
 }

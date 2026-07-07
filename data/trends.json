@@ -1,61 +1,58 @@
 [
   {
-    "rank": 9,
-    "query": "pluralibacter gergoviae shampoo contamination",
-    "searchVolume": 100000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "oribe serene scalp bacteria recall",
-      "product recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall product recall",
-    "trendScore": 38,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
-  },
-  {
-    "rank": 56,
+    "rank": 37,
     "query": "doj trump tax lawsuit settlement",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+trump+tax+lawsuit+settlement&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "doj trump tax lawsuit settlement",
     "trendScore": 31,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
+    "detectedAt": "2026-07-07T20:13:11.623Z"
   },
   {
-    "rank": 10,
-    "query": "david streever ice email lawsuit",
-    "searchVolume": 50000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "david streever ice lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+email+lawsuit&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "david streever ice email lawsuit david streever ice lawsuit",
-    "trendScore": 26,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
-  },
-  {
-    "rank": 39,
-    "query": "prince harry news",
+    "rank": 25,
+    "query": "ford mustang us vehicle recall",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "ford mustang us vehicle recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-07T20:13:11.623Z"
+  },
+  {
+    "rank": 43,
+    "query": "pluralibacter gergoviae shampoo contamination",
+    "searchVolume": 100000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "oribe serene scalp bacteria recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall",
+    "trendScore": 21,
+    "detectedAt": "2026-07-07T20:13:11.623Z"
+  },
+  {
+    "rank": 99,
+    "query": "prince harry news",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [
       "prince harry daily mail lawsuit"
     ],
@@ -63,26 +60,28 @@
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "prince harry news prince harry daily mail lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
+    "trendScore": 10,
+    "detectedAt": "2026-07-07T20:13:11.623Z"
   },
   {
-    "rank": 172,
-    "query": "publix organic blueberry recall",
-    "searchVolume": 500,
+    "rank": 114,
+    "query": "product recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
-    "increasePercentage": 100,
+    "breakdown": [
+      "publix organic blueberry recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "publix organic blueberry recall",
-    "trendScore": 8,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
+    "text": "product recall publix organic blueberry recall",
+    "trendScore": 10,
+    "detectedAt": "2026-07-07T20:13:11.623Z"
   },
   {
-    "rank": 209,
+    "rank": 226,
     "query": "cpsc rowenta vacuum recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -94,6 +93,6 @@
     "source": "serpapi-google-trends",
     "text": "cpsc rowenta vacuum recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-07T15:13:59.896Z"
+    "detectedAt": "2026-07-07T20:13:11.623Z"
   }
 ]

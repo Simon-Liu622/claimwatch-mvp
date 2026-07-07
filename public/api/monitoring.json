@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-07-07T15:14:03.058Z",
-  "count": 5,
+  "updatedAt": "2026-07-07T20:13:25.025Z",
+  "count": 4,
   "items": [
-    {
-      "id": "pluralibacter-gergoviae-shampoo-contamination",
-      "slug": "pluralibacter-gergoviae-shampoo-contamination",
-      "title": "Pluralibacter Gergoviae Shampoo Contamination: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "pluralibacter gergoviae shampoo contamination",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 34,
-      "matchedQueries": [
-        "pluralibacter gergoviae shampoo contamination",
-        "oribe serene scalp bacteria recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-07T04:16:04.520Z"
-    },
     {
       "id": "doj-trump-tax-lawsuit-settlement",
       "slug": "doj-trump-tax-lawsuit-settlement",
@@ -53,24 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+trump+tax+lawsuit+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 31,
       "matchedQueries": [
         "doj trump tax lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T15:13:59.896Z"
+      "lastUpdated": "2026-07-07T20:13:11.623Z"
     },
     {
-      "id": "david-streever-ice-email-lawsuit",
-      "slug": "david-streever-ice-email-lawsuit",
-      "title": "David Streever Ice Email Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "ford-mustang-us-vehicle-recall",
+      "slug": "ford-mustang-us-vehicle-recall",
+      "title": "Ford Mustang Us Vehicle Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "david streever ice email lawsuit",
-      "category": "Consumer monitoring",
+      "product": "ford mustang us vehicle recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -79,17 +49,46 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+email+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 26,
+      "searchVolume": 10000,
+      "trendScore": 23,
       "matchedQueries": [
-        "david streever ice email lawsuit",
-        "david streever ice lawsuit"
+        "ford mustang us vehicle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T15:13:59.896Z"
+      "lastUpdated": "2026-07-07T20:13:11.623Z"
+    },
+    {
+      "id": "pluralibacter-gergoviae-shampoo-contamination",
+      "slug": "pluralibacter-gergoviae-shampoo-contamination",
+      "title": "Pluralibacter Gergoviae Shampoo Contamination: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "pluralibacter gergoviae shampoo contamination",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 100000,
+      "trendScore": 21,
+      "matchedQueries": [
+        "pluralibacter gergoviae shampoo contamination",
+        "oribe serene scalp bacteria recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-07T20:13:11.623Z"
     },
     {
       "id": "prince-harry-news",
@@ -113,42 +112,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 25,
+      "trendScore": 10,
       "matchedQueries": [
         "prince harry news",
         "prince harry daily mail lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T15:13:59.896Z"
-    },
-    {
-      "id": "publix-organic-blueberry-recall",
-      "slug": "publix-organic-blueberry-recall",
-      "title": "Publix Organic Blueberry Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "publix organic blueberry recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "publix organic blueberry recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-07T15:13:59.896Z"
+      "lastUpdated": "2026-07-07T20:13:11.623Z"
     }
   ]
 }

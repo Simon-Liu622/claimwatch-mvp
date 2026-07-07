@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-06T20:13:43.768Z",
+  "updatedAt": "2026-07-07T04:16:12.122Z",
   "item": {
-    "id": "pluralibacter-gergoviae-shampoo-recall",
-    "slug": "pluralibacter-gergoviae-shampoo-recall",
-    "title": "Pluralibacter Gergoviae Shampoo Recall: Consumer Alert Monitoring",
+    "id": "pluralibacter-gergoviae-shampoo-contamination",
+    "slug": "pluralibacter-gergoviae-shampoo-contamination",
+    "title": "Pluralibacter Gergoviae Shampoo Contamination: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "pluralibacter gergoviae shampoo recall",
+    "product": "pluralibacter gergoviae shampoo contamination",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 50000,
-    "trendScore": 24,
+    "trendScore": 34,
     "matchedQueries": [
-      "pluralibacter gergoviae shampoo recall"
+      "pluralibacter gergoviae shampoo contamination",
+      "oribe serene scalp bacteria recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-06T20:13:41.631Z",
-    "url": "https://simon622.shop/item/pluralibacter-gergoviae-shampoo-recall/"
+    "lastUpdated": "2026-07-07T04:16:04.520Z",
+    "url": "https://simon622.shop/item/pluralibacter-gergoviae-shampoo-contamination/"
   }
 }

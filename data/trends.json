@@ -1,8 +1,25 @@
 [
   {
-    "rank": 25,
+    "rank": 6,
+    "query": "pluralibacter gergoviae shampoo contamination",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "oribe serene scalp bacteria recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "pluralibacter gergoviae shampoo contamination oribe serene scalp bacteria recall",
+    "trendScore": 34,
+    "detectedAt": "2026-07-07T04:16:04.520Z"
+  },
+  {
+    "rank": 29,
     "query": "david streever ice lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -10,25 +27,25 @@
       "david streever ice email lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit&tz=420",
-    "increasePercentage": 900,
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
     "text": "david streever ice lawsuit david streever ice email lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-07-06T20:13:41.631Z"
+    "trendScore": 26,
+    "detectedAt": "2026-07-07T04:16:04.520Z"
   },
   {
-    "rank": 11,
-    "query": "pluralibacter gergoviae shampoo recall",
-    "searchVolume": 50000,
+    "rank": 171,
+    "query": "cpsc rowenta vacuum recall",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+recall&tz=420",
-    "increasePercentage": 1000,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cpsc+rowenta+vacuum+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "pluralibacter gergoviae shampoo recall",
-    "trendScore": 24,
-    "detectedAt": "2026-07-06T20:13:41.631Z"
+    "text": "cpsc rowenta vacuum recall",
+    "trendScore": 8,
+    "detectedAt": "2026-07-07T04:16:04.520Z"
   }
 ]

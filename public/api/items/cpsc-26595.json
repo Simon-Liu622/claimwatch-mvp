@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T20:13:43.768Z",
+  "updatedAt": "2026-07-07T04:16:12.122Z",
   "item": {
     "id": "cpsc-26595",
     "slug": "cpsc-26595",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Rowenta-Recalls-Cordless-Vacuum-Cleaners-Due-to-Risk-of-Serious-Injury-from-fire-and-Burn-Hazards",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 2000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "cpsc rowenta vacuum recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "26595",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-06T20:13:41.631Z",
+    "lastUpdated": "2026-07-07T04:16:04.520Z",
     "url": "https://simon622.shop/item/cpsc-26595/"
   }
 }

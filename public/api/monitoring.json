@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-07-07T20:13:25.025Z",
-  "count": 4,
+  "updatedAt": "2026-07-08T03:43:34.832Z",
+  "count": 7,
   "items": [
+    {
+      "id": "irs-covid-tax-refund-deadline",
+      "slug": "irs-covid-tax-refund-deadline",
+      "title": "Irs Covid Tax Refund Deadline: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "irs covid tax refund deadline",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 33,
+      "matchedQueries": [
+        "irs covid tax refund deadline",
+        "where's my refund"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
+    },
+    {
+      "id": "the-washington-post-lawsuit-ruling",
+      "slug": "the-washington-post-lawsuit-ruling",
+      "title": "The Washington Post Lawsuit Ruling: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "the washington post lawsuit ruling",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "the washington post lawsuit ruling"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
+    },
+    {
+      "id": "homeland-security-citizenship-data-lawsuit",
+      "slug": "homeland-security-citizenship-data-lawsuit",
+      "title": "Homeland Security Citizenship Data Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "homeland security citizenship data lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "homeland security citizenship data lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
+    },
     {
       "id": "doj-trump-tax-lawsuit-settlement",
       "slug": "doj-trump-tax-lawsuit-settlement",
@@ -24,12 +112,12 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 31,
+      "trendScore": 16,
       "matchedQueries": [
         "doj trump tax lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T20:13:11.623Z"
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
     },
     {
       "id": "ford-mustang-us-vehicle-recall",
@@ -53,52 +141,22 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "ford mustang us vehicle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T20:13:11.623Z"
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
     },
     {
-      "id": "pluralibacter-gergoviae-shampoo-contamination",
-      "slug": "pluralibacter-gergoviae-shampoo-contamination",
-      "title": "Pluralibacter Gergoviae Shampoo Contamination: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "pluralibacter gergoviae shampoo contamination",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pluralibacter+gergoviae+shampoo+contamination&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 21,
-      "matchedQueries": [
-        "pluralibacter gergoviae shampoo contamination",
-        "oribe serene scalp bacteria recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-07T20:13:11.623Z"
-    },
-    {
-      "id": "prince-harry-news",
-      "slug": "prince-harry-news",
-      "title": "Prince Harry News: Consumer Alert Monitoring",
+      "id": "prince-harry-daily-mail-lawsuit",
+      "slug": "prince-harry-daily-mail-lawsuit",
+      "title": "Prince Harry Daily Mail Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "prince harry news",
+      "product": "prince harry daily mail lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -108,17 +166,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+news&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+daily+mail+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 8,
       "matchedQueries": [
-        "prince harry news",
         "prince harry daily mail lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-07T20:13:11.623Z"
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
+    },
+    {
+      "id": "publix-organic-blueberry-recall",
+      "slug": "publix-organic-blueberry-recall",
+      "title": "Publix Organic Blueberry Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "publix organic blueberry recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "publix organic blueberry recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-08T03:43:31.928Z"
     }
   ]
 }

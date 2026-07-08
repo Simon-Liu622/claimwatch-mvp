@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-07T20:13:25.025Z",
+  "updatedAt": "2026-07-08T03:43:34.832Z",
   "item": {
-    "id": "prince-harry-news",
-    "slug": "prince-harry-news",
-    "title": "Prince Harry News: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "irs-covid-tax-refund-deadline",
+    "slug": "irs-covid-tax-refund-deadline",
+    "title": "Irs Covid Tax Refund Deadline: Consumer Alert Monitoring",
+    "type": "refund",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "prince harry news",
+    "product": "irs covid tax refund deadline",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+news&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 10,
+    "searchVolume": 5000,
+    "trendScore": 33,
     "matchedQueries": [
-      "prince harry news",
-      "prince harry daily mail lawsuit"
+      "irs covid tax refund deadline",
+      "where's my refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-07T20:13:11.623Z",
-    "url": "https://simon622.shop/item/prince-harry-news/"
+    "lastUpdated": "2026-07-08T03:43:31.928Z",
+    "url": "https://simon622.shop/item/irs-covid-tax-refund-deadline/"
   }
 }

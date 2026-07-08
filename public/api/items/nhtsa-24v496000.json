@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-24v496000",
+    "slug": "nhtsa-24v496000",
+    "title": "Ford Motor Company: SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The brake fluid level sensor may not be properly configured after a Body Control Module (BCM) service update, resulting in a constantly illuminated brake fluid level warning light that can conceal a low brake fluid condition.",
+    "affectedPeople": "An undetected low brake fluid condition can lead to a loss of braking function, increasing the risk of a crash.",
+    "remedy": "Dealers will update the body control module (BCM) software, free of charge. Owner notification letters were mailed July 12, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S43.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V496000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V496000",
+    "recallInitiationDate": "28/06/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-24v496000/"
+  }
+}

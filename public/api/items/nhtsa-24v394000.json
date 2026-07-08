@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-24v394000",
+    "slug": "nhtsa-24v394000",
+    "title": "Ford Motor Company: POWER TRAIN:CLUTCH ASSEMBLY:LINKAGE:HYDRAULIC HOSE/FITTINGS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The clutch pressure line may be improperly secured and contact hot exhaust components, which can result in melting of the clutch pressure line and cause a brake fluid leak.",
+    "affectedPeople": "A melted clutch pressure line can result in a loss of drive power, increases the risk of a crash. A brake fluid leak increases the risk of fire in the presence of an ignition source.",
+    "remedy": "Dealers will inspect the clutch pressure line and repair it as necessary, free of charge. Owner notification letters were mailed June 14, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S36.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V394000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V394000",
+    "recallInitiationDate": "03/06/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-24v394000/"
+  }
+}

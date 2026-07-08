@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "updatedAt": "2026-07-08T19:54:51.313Z",
   "count": 4,
   "items": [
     {
@@ -24,23 +24,23 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 33,
+      "trendScore": 31,
       "matchedQueries": [
         "irs covid tax refund deadline",
         "where's my refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T14:40:09.405Z"
+      "lastUpdated": "2026-07-08T19:54:48.520Z"
     },
     {
-      "id": "the-washington-post-lawsuit-ruling",
-      "slug": "the-washington-post-lawsuit-ruling",
-      "title": "The Washington Post Lawsuit Ruling: Consumer Alert Monitoring",
+      "id": "trump-media-suit-dismissed",
+      "slug": "trump-media-suit-dismissed",
+      "title": "Trump Media Suit Dismissed: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "the washington post lawsuit ruling",
+      "product": "trump media suit dismissed",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,17 +50,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+media+suit+dismissed&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 26,
+      "trendScore": 28,
       "matchedQueries": [
+        "trump media suit dismissed",
         "the washington post lawsuit ruling",
         "judge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T14:40:09.405Z"
+      "lastUpdated": "2026-07-08T19:54:48.520Z"
     },
     {
       "id": "homeland-security-citizenship-data-lawsuit",
@@ -83,24 +84,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "homeland security citizenship data lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T14:40:09.405Z"
+      "lastUpdated": "2026-07-08T19:54:48.520Z"
     },
     {
-      "id": "ford-mustang-us-vehicle-recall",
-      "slug": "ford-mustang-us-vehicle-recall",
-      "title": "Ford Mustang Us Vehicle Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "trump-lincoln-memorial-renovation-lawsuit",
+      "slug": "trump-lincoln-memorial-renovation-lawsuit",
+      "title": "Trump Lincoln Memorial Renovation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ford mustang us vehicle recall",
-      "category": "Recall monitoring",
+      "product": "trump lincoln memorial renovation lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -109,18 +110,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lincoln+memorial+renovation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "ford mustang us vehicle recall",
-        "ford mustang",
-        "ford mustang recall"
+        "trump lincoln memorial renovation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T14:40:09.405Z"
+      "lastUpdated": "2026-07-08T19:54:48.520Z"
     }
   ]
 }

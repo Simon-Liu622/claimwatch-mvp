@@ -1,69 +1,97 @@
 [
   {
-    "rank": 23,
+    "rank": 15,
     "query": "irs covid tax refund deadline",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "where's my refund"
-    ],
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "irs covid tax refund deadline where's my refund",
-    "trendScore": 33,
-    "detectedAt": "2026-07-08T14:40:09.405Z"
+    "text": "irs covid tax refund deadline",
+    "trendScore": 31,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
   },
   {
-    "rank": 18,
-    "query": "the washington post lawsuit ruling",
+    "rank": 14,
+    "query": "trump media suit dismissed",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "the washington post lawsuit ruling",
       "judge"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+media+suit+dismissed&tz=420",
+    "increasePercentage": 700,
     "source": "serpapi-google-trends",
-    "text": "the washington post lawsuit ruling judge",
-    "trendScore": 26,
-    "detectedAt": "2026-07-08T14:40:09.405Z"
+    "text": "trump media suit dismissed the washington post lawsuit ruling judge",
+    "trendScore": 28,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
   },
   {
-    "rank": 7,
+    "rank": 5,
     "query": "homeland security citizenship data lawsuit",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
-    "increasePercentage": 800,
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
     "text": "homeland security citizenship data lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-08T14:40:09.405Z"
+    "trendScore": 24,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
   },
   {
-    "rank": 91,
-    "query": "ford mustang us vehicle recall",
-    "searchVolume": 20000,
+    "rank": 21,
+    "query": "trump lincoln memorial renovation lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lincoln+memorial+renovation+lawsuit&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "trump lincoln memorial renovation lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "rank": 30,
+    "query": "honda 325k vehicle recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+325k+vehicle+recall&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "honda 325k vehicle recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "rank": 204,
+    "query": "ford mustang",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "ford mustang",
       "ford mustang recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "ford mustang us vehicle recall ford mustang ford mustang recall",
-    "trendScore": 13,
-    "detectedAt": "2026-07-08T14:40:09.405Z"
+    "text": "ford mustang ford mustang recall",
+    "trendScore": 10,
+    "detectedAt": "2026-07-08T19:54:48.520Z"
   }
 ]

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "updatedAt": "2026-07-08T19:54:51.313Z",
   "item": {
     "id": "nhtsa-25v315000",
     "slug": "nhtsa-25v315000",
-    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
+    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford mustang)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Ford Motor Company",
     "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
+    "product": "2024 ford mustang",
     "category": "Vehicle recall",
     "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicles. A software error may cause the rearview camera image to delay, freeze, or not display when the vehicle is in reverse.",
     "affectedPeople": "A frozen or missing rearview camera image can reduce the driver's view behind the vehicle, increasing the risk of a crash.",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 5000,
+    "searchVolume": 1000,
     "trendScore": 29,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
     "url": "https://simon622.shop/item/nhtsa-25v315000/"
   }
 }

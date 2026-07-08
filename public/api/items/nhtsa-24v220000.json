@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-24v220000",
+    "slug": "nhtsa-24v220000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles equipped with 2.3L engines. The low-pressure fuel supply line may be damaged or cut, which can result in a fuel leak.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire. In addition, a loss of fuel may result in an engine stall, increasing the risk of a crash.",
+    "remedy": "Dealers will replace the low-pressure fuel supply line, free of charge. Owner notification letters were mailed April 4, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S19.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V220000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V220000",
+    "recallInitiationDate": "22/03/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-24v220000/"
+  }
+}

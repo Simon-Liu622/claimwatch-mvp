@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-24v634000",
+    "slug": "nhtsa-24v634000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:FUEL INJECTION SYSTEM:INJECTORS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023 Lincoln Corsair, 2023-2024 Escape, 2024 Mustang, and 2025 Explorer vehicles. The fuel injectors may have been assembled without O-ring support discs, which can result in a fuel leak.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source increases the risk of a fire.",
+    "remedy": "Dealers will install new fuel injector O-rings and O-ring support discs, free of charge. Owner notification letters were mailed on October 7, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S54.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V634000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V634000",
+    "recallInitiationDate": "23/08/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-24v634000/"
+  }
+}

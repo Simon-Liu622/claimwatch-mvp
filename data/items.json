@@ -179,14 +179,14 @@
     "officialVerified": true,
     "officialRecordId": "26567",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-23v782000",
     "slug": "nhtsa-23v782000",
     "title": "Honda (American Honda Motor Co.): SEAT BELTS:FRONT Recall (2024 honda accord)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -199,20 +199,22 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 20000,
+    "searchVolume": 5000,
     "trendScore": 34,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "honda 325k vehicle recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v763000",
     "slug": "nhtsa-24v763000",
     "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -225,20 +227,22 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 20000,
+    "searchVolume": 5000,
     "trendScore": 34,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "honda 325k vehicle recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v859000",
     "slug": "nhtsa-24v859000",
     "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -251,13 +255,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 20000,
+    "searchVolume": 5000,
     "trendScore": 34,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "honda 325k vehicle recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -385,13 +391,13 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 33,
+    "trendScore": 31,
     "matchedQueries": [
       "irs covid tax refund deadline",
       "where's my refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v164000",
@@ -417,17 +423,17 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v315000",
     "slug": "nhtsa-25v315000",
-    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
+    "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford mustang)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Ford Motor Company",
     "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
+    "product": "2024 ford mustang",
     "category": "Vehicle recall",
     "summary": "Ford Motor Company (Ford) is recalling certain 2021-2024 Bronco, F-150, 2021-2024 Edge, 2022-2025 Escape, F-250, F-350, F-450, F-550, F-600, 2022-2024 Expedition, 2022-2025 Transit, 2021-2023 Mach-E, 2024 Ranger, Mustang, 2021-2023 Lincoln Nautilus, 2022-2024 Navigator, and 2023-2024 Corsair vehicles. A software error may cause the rearview camera image to delay, freeze, or not display when the vehicle is in reverse.",
     "affectedPeople": "A frozen or missing rearview camera image can reduce the driver's view behind the vehicle, increasing the risk of a crash.",
@@ -437,13 +443,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 5000,
+    "searchVolume": 1000,
     "trendScore": 29,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -758,6 +767,37 @@
     "lastUpdated": "2026-06-04T15:43:35.694Z"
   },
   {
+    "id": "trump-media-suit-dismissed",
+    "slug": "trump-media-suit-dismissed",
+    "title": "Trump Media Suit Dismissed: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "trump media suit dismissed",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+media+suit+dismissed&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 20000,
+    "trendScore": 28,
+    "matchedQueries": [
+      "trump media suit dismissed",
+      "the washington post lawsuit ruling",
+      "judge"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -790,36 +830,6 @@
     "lastUpdated": "2026-05-07T08:40:29.023Z"
   },
   {
-    "id": "the-washington-post-lawsuit-ruling",
-    "slug": "the-washington-post-lawsuit-ruling",
-    "title": "The Washington Post Lawsuit Ruling: Consumer Alert Monitoring",
-    "type": "lawsuit",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "the washington post lawsuit ruling",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 26,
-    "matchedQueries": [
-      "the washington post lawsuit ruling",
-      "judge"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
-  },
-  {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
     "title": "Toyota Motor Engineering & Manufacturing: SEATS Recall (2024 toyota camry)",
@@ -843,7 +853,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
@@ -870,6 +880,35 @@
     "officialRecordId": "H-0669-2026",
     "recallInitiationDate": "20260325",
     "lastUpdated": "2026-05-19T10:07:42.718Z"
+  },
+  {
+    "id": "homeland-security-citizenship-data-lawsuit",
+    "slug": "homeland-security-citizenship-data-lawsuit",
+    "title": "Homeland Security Citizenship Data Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "homeland security citizenship data lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 20000,
+    "trendScore": 24,
+    "matchedQueries": [
+      "homeland security citizenship data lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26501",
@@ -954,14 +993,14 @@
     "lastUpdated": "2026-06-19T20:03:11.794Z"
   },
   {
-    "id": "homeland-security-citizenship-data-lawsuit",
-    "slug": "homeland-security-citizenship-data-lawsuit",
-    "title": "Homeland Security Citizenship Data Lawsuit: Consumer Alert Monitoring",
+    "id": "trump-lincoln-memorial-renovation-lawsuit",
+    "slug": "trump-lincoln-memorial-renovation-lawsuit",
+    "title": "Trump Lincoln Memorial Renovation Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "homeland security citizenship data lawsuit",
+    "product": "trump lincoln memorial renovation lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -971,16 +1010,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lincoln+memorial+renovation+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
+    "searchVolume": 5000,
     "trendScore": 23,
     "matchedQueries": [
-      "homeland security citizenship data lawsuit"
+      "trump lincoln memorial renovation lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26485",
@@ -1289,37 +1328,6 @@
     "lastUpdated": "2026-05-27T20:29:01.709Z"
   },
   {
-    "id": "ford-mustang-us-vehicle-recall",
-    "slug": "ford-mustang-us-vehicle-recall",
-    "title": "Ford Mustang Us Vehicle Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "ford mustang us vehicle recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 13,
-    "matchedQueries": [
-      "ford mustang us vehicle recall",
-      "ford mustang",
-      "ford mustang recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
-  },
-  {
     "id": "the-coffee-connexion-co-inc-alfredo-sauce-3-lb-7-oz-packaged-in-a-sealed-poly-bag-and-pack",
     "slug": "the-coffee-connexion-co-inc-alfredo-sauce-3-lb-7-oz-packaged-in-a-sealed-poly-bag-and-pack",
     "title": "The Coffee Connexion Co., Inc: Alfredo Sauce, 3 lb. 7 oz., packaged in a sealed poly bag and packed 12 bags per case, Recall",
@@ -1369,7 +1377,7 @@
     "officialVerified": true,
     "officialRecordId": "26506",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26512",
@@ -1395,7 +1403,297 @@
     "officialVerified": true,
     "officialRecordId": "26512",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-23v800000",
+    "slug": "nhtsa-23v800000",
+    "title": "Ford Motor Company: SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The brake pedal assembly may have been manufactured incorrectly, which can result in a loose brake pedal.",
+    "affectedPeople": "A loose brake pedal can result in a loss of braking function, increasing the risk of a crash.",
+    "remedy": "Owners are advised not to drive their vehicle until the repair has been performed. Dealers will replace the brake pedal and bracket assembly, free of charge. Owner notification letters were mailed December 21, 2023. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 23S61.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V800000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "23V800000",
+    "recallInitiationDate": "28/11/2023",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v220000",
+    "slug": "nhtsa-24v220000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:DELIVERY:HOSES, LINES/PIPING, AND FITTINGS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles equipped with 2.3L engines. The low-pressure fuel supply line may be damaged or cut, which can result in a fuel leak.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire. In addition, a loss of fuel may result in an engine stall, increasing the risk of a crash.",
+    "remedy": "Dealers will replace the low-pressure fuel supply line, free of charge. Owner notification letters were mailed April 4, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S19.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V220000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V220000",
+    "recallInitiationDate": "22/03/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v394000",
+    "slug": "nhtsa-24v394000",
+    "title": "Ford Motor Company: POWER TRAIN:CLUTCH ASSEMBLY:LINKAGE:HYDRAULIC HOSE/FITTINGS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The clutch pressure line may be improperly secured and contact hot exhaust components, which can result in melting of the clutch pressure line and cause a brake fluid leak.",
+    "affectedPeople": "A melted clutch pressure line can result in a loss of drive power, increases the risk of a crash. A brake fluid leak increases the risk of fire in the presence of an ignition source.",
+    "remedy": "Dealers will inspect the clutch pressure line and repair it as necessary, free of charge. Owner notification letters were mailed June 14, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S36.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V394000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V394000",
+    "recallInitiationDate": "03/06/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v496000",
+    "slug": "nhtsa-24v496000",
+    "title": "Ford Motor Company: SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING:SWITCH/SENSOR/FLOAT Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The brake fluid level sensor may not be properly configured after a Body Control Module (BCM) service update, resulting in a constantly illuminated brake fluid level warning light that can conceal a low brake fluid condition.",
+    "affectedPeople": "An undetected low brake fluid condition can lead to a loss of braking function, increasing the risk of a crash.",
+    "remedy": "Dealers will update the body control module (BCM) software, free of charge. Owner notification letters were mailed July 12, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S43.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V496000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V496000",
+    "recallInitiationDate": "28/06/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v593000",
+    "slug": "nhtsa-24v593000",
+    "title": "Ford Motor Company: SUSPENSION:REAR Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The rear suspension knuckles may have a casting defect that causes them to fail, which can result in a loss of vehicle handling and steering control.",
+    "affectedPeople": "A loss of vehicle handling and steering control increases the risk of a crash.",
+    "remedy": "Dealers will inspect and replace the rear suspension knuckle as necessary, free of charge. Owner notification letters were mailed August 26, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S49.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V593000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V593000",
+    "recallInitiationDate": "09/08/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v634000",
+    "slug": "nhtsa-24v634000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:FUEL INJECTION SYSTEM:INJECTORS Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023 Lincoln Corsair, 2023-2024 Escape, 2024 Mustang, and 2025 Explorer vehicles. The fuel injectors may have been assembled without O-ring support discs, which can result in a fuel leak.",
+    "affectedPeople": "A fuel leak in the presence of an ignition source increases the risk of a fire.",
+    "remedy": "Dealers will install new fuel injector O-rings and O-ring support discs, free of charge. Owner notification letters were mailed on October 7, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S54.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V634000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V634000",
+    "recallInitiationDate": "23/08/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-24v802000",
+    "slug": "nhtsa-24v802000",
+    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The Instrument Panel Cluster (IPC) may not illuminate at startup or while driving. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 101, \"Control and Displays\" and 102, \"Transmission shift lever sequence, starter interlock, and transmission braking effect.\"",
+    "affectedPeople": "An instrument panel display that does not show critical information, such as warning lights or vehicle speed, increases the risk of a crash.",
+    "remedy": "Dealers will update the instrument panel cluster software, free of charge. Owner notification letters were mailed on February 25, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C35.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V802000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V802000",
+    "recallInitiationDate": "25/10/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-25v516000",
+    "slug": "nhtsa-25v516000",
+    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling one 2024 Mustang vehicle that was repaired incorrectly under recall 24V802. The Instrument Panel Cluster (IPC) may not illuminate at startup or while driving. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 101, \"Control and Displays\" and 102, \"Transmission shift lever sequence, starter interlock, and transmission braking effect.\"",
+    "affectedPeople": "An instrument panel display that does not show critical information, such as warning lights or vehicle speed, increases the risk of a crash.",
+    "remedy": "A dealer will update the instrument panel cluster software, free of charge. Owner notification letters were mailed on September 12, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25C35.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V516000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V516000",
+    "recallInitiationDate": "08/08/2025",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-25v546000",
+    "slug": "nhtsa-25v546000",
+    "title": "Ford Motor Company: EXTERIOR LIGHTING Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 Mustang, and Mustang GTD vehicles. Water may enter the body control module and cause a loss of communication with the exterior lighting, including the license plate light, side marker, and tail lights. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"",
+    "affectedPeople": "License plate, side marker, and tail lights that fail to illuminate as intended can reduce visibility to other drivers, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect and seal the body seams as necessary. Dealers will also inspect the body control module for corrosion and replace it, if necessary. Repairs will be performed free of charge. Owner notification letters were mailed October 10, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25C43.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V546000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V546000",
+    "recallInitiationDate": "22/08/2025",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "nhtsa-26v418000",
+    "slug": "nhtsa-26v418000",
+    "title": "Ford Motor Company: VISIBILITY:WINDSHIELD WIPER/WASHER:MOTOR Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2026 Mustang and 2025-2026 Mustang GTD vehicles. During certain cold temperature conditions, the windshield wipers may function only at their high-speed setting and the washing system may fail to function properly.",
+    "affectedPeople": "Windshield wipers or a washing system that fails to function as intended can reduce visibility, increasing the risk of a crash.",
+    "remedy": "Dealers will inspect and replace the wiper motor as necessary, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed July 8, 2026. Additional letters will be sent once the remedy is available, anticipated in late March 2027. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C32. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 2, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V418000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26V418000",
+    "recallInitiationDate": "30/06/2026",
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26502",
@@ -1551,7 +1849,7 @@
     "officialVerified": true,
     "officialRecordId": "26603",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26602",
@@ -1577,7 +1875,7 @@
     "officialVerified": true,
     "officialRecordId": "26602",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26595",
@@ -1603,7 +1901,7 @@
     "officialVerified": true,
     "officialRecordId": "26595",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -1627,7 +1925,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -1651,7 +1949,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -1675,7 +1973,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -1699,7 +1997,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "find-refund-cases",
@@ -1723,7 +2021,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "consumer-advice",
@@ -1747,7 +2045,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -1771,7 +2069,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -1795,7 +2093,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -1819,7 +2117,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "military-consumer",
@@ -1843,7 +2141,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "consumer-gov",
@@ -1867,7 +2165,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -1893,7 +2191,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -1919,7 +2217,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -1945,7 +2243,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -1971,7 +2269,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -1997,7 +2295,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2023,7 +2321,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2049,7 +2347,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2075,7 +2373,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -2101,7 +2399,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -2127,7 +2425,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -2153,7 +2451,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -2179,7 +2477,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-pineapple-lassi-16-oz",
@@ -2205,7 +2503,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1085-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "prime-food-processing-llc-dried-herring-fish-7-oz",
@@ -2231,7 +2529,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1080-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "utz-quality-foods-llc-1-5oz-2oz-dirty-brand-salt-and-vinegar-potato-chips-plastic-bag",
@@ -2257,7 +2555,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1114-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "boichik-bagels-inc-boichik-bagles-pumpernickel-mix-bagels-6-pre-sliced-bagels-net-wt-26-5-",
@@ -2283,7 +2581,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1133-2026",
     "recallInitiationDate": "20260522",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "utz-quality-foods-llc-2-0-oz-dirty-sour-cream-and-onion-potato-chips-plastic-bag",
@@ -2309,7 +2607,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1117-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "utz-quality-foods-llc-1-5oz-zapp-s-bayou-blackened-ranch-kettle-chips-plastic-bag",
@@ -2335,7 +2633,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1112-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "champion-foods-llc-motor-city-pizza-co-5-cheese-bread-single-retail-pack-22-43-oz-1-lb-6-4",
@@ -2361,7 +2659,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1095-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-saffron-cardamon-lassi-16-oz",
@@ -2387,7 +2685,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1094-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "spring-and-mulberry-inc-spring-and-mulberry-mango-chili-date-sweetened-chocolate-net-wt-2-",
@@ -2413,7 +2711,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1100-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "george-j-howe-company-inc-6-11oz-no-salt-sunflower-seeds",
@@ -2439,7 +2737,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1119-2026",
     "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "spring-and-mulberry-inc-spring-and-mulberry-mulberry-fennel-date-sweetened-chocolate-net-w",
@@ -2465,7 +2763,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1101-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-plain-chaash-lassi-16-oz-64-oz",
@@ -2491,7 +2789,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1089-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-rose-lassi-16-oz",
@@ -2517,7 +2815,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1082-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "george-j-howe-company-inc-25-sunflower-seeds-c-s",
@@ -2543,7 +2841,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1123-2026",
     "recallInitiationDate": "20260429",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "produce-innovations-roast-beef-and-cheddar-closed-face-sandwich-packed-in-clear-plastic-wr",
@@ -2569,7 +2867,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1111-2026",
     "recallInitiationDate": "20260527",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-sweet-lassi-16-oz",
@@ -2595,7 +2893,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1083-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "utz-quality-foods-llc-2-0-oz-dirty-maui-onion-chip-plastic-bag",
@@ -2621,7 +2919,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1115-2026",
     "recallInitiationDate": "20260428",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-mango-pina-strawberry-lassi-16-oz",
@@ -2647,7 +2945,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1087-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-mango-pina-orange-lassi-16-oz-64-oz",
@@ -2673,7 +2971,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1088-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-masala-chaash-lassi-16-oz-64-oz",
@@ -2699,7 +2997,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1090-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "spring-and-mulberry-inc-spring-and-mulberry-sea-salt-date-sweetened-chocolate-net-wt-2-1-o",
@@ -2725,7 +3023,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1104-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "spring-and-mulberry-inc-spring-and-mulberry-lavender-rose-date-sweetened-chocolate-net-wt-",
@@ -2751,7 +3049,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1099-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-mango-lassi-16-oz-64-oz",
@@ -2777,7 +3075,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1081-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "spring-and-mulberry-inc-spring-and-mulberry-mixed-berry-date-sweetened-chocolate-net-wt-2-",
@@ -2803,7 +3101,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1097-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-strawberry-lassi-16-oz",
@@ -2829,7 +3127,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1086-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "annora-pharma-private-limited-lacosamide-tablets-usp-c-v-100mg-rx-only-60-count-bottle-by-",
@@ -2855,7 +3153,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0626-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "amgen-inc-corlanor-ivabradine-tablets-7-5mg-60-count-bottles-rx-only-amgen-inc-thousand-oa",
@@ -2881,7 +3179,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0615-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "amgen-inc-corlanor-ivabradine-tablets-5-mg-packaged-in-a-14-tablets-bottles",
@@ -2907,7 +3205,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0612-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "carefusion-213-llc-bd-chloraprep-clear-2-w-v-chlorhexidine-gluconate-chg-and-70-v-v-isopro",
@@ -2933,7 +3231,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0622-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ajanta-pharma-usa-inc-fenofibrate-capsules-usp-200-mg-rx-only-100-capsules",
@@ -2959,7 +3257,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0611-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "amgen-inc-sensipar-cinacalcet-tablets-60mg-30-count-bottles-rx-only",
@@ -2985,7 +3283,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0614-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "elevate-oral-care-povi-one-10-povidone-iodine-oral-antiseptic-packaged-by-elevate-oral-car",
@@ -3011,7 +3309,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0627-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "direct-rx-duloxetine-d-r-a-30-mg",
@@ -3037,7 +3335,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0617-2026",
     "recallInitiationDate": "20260622",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "carefusion-213-llc-bd-chloraprep-frepp-clear-2-w-v-chlorhexidine-gluconate-chg-and-70-v-v-",
@@ -3063,7 +3361,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0623-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "central-admixture-pharmacy-services-inc-total-parental-nutrition-pediatric-pn-patient-spec",
@@ -3089,7 +3387,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0618-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "the-harvard-drug-group-llc-carton-label-major-methylergonovine-maleate-tablets-usp-0-2-mg-",
@@ -3115,7 +3413,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0609-2026",
     "recallInitiationDate": "20260616",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "preye-llc-preye-vitamin-see-antioxidant-preservative-free-eye-drops",
@@ -3141,7 +3439,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0621-2026",
     "recallInitiationDate": "20260518",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ani-pharmaceuticals-inc-hydroxyzine-hydrochloride-oral-solution-usp-10-mg-5-ml-473-ml-1-pi",
@@ -3167,7 +3465,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0619-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "sun-pharmaceutical-industries-inc-perampanel-ciii-tablets-6mg-rx-only-30-tablets-mfd-by-ta",
@@ -3193,7 +3491,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0628-2026",
     "recallInitiationDate": "20260617",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "surgify-medical-oy-surgify-halo-5-4-mm-medium-model-catalog-number-54-085-shd-h1-burrs-tre",
@@ -3219,7 +3517,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2568-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "dexcom-inc-brand-name-dexcom-g7-continuous-glucose-monitoring-system-product-name-dexcom-g",
@@ -3245,7 +3543,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2574-2026",
     "recallInitiationDate": "20260527",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "surgify-medical-oy-surgify-halo-4-0-mm-extendable-model-catalog-number-40-000-see-h1-drill",
@@ -3271,7 +3569,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2558-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "zimmer-inc-off-axis-comprehensive-shoulder-system-medium-augment-off-axis-reamer-guide-mod",
@@ -3297,7 +3595,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2528-2026",
     "recallInitiationDate": "20260520",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "ventec-life-systems-inc-vocsn-pro-package-ref-prt-00853-000-vocsn-pro-unit-ref-prt-00490-0",
@@ -3323,7 +3621,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2525-2026",
     "recallInitiationDate": "20260508",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "medline-industries-lp-convenience-kits-containing-select-skus-of-10ml-polycarbonate-colore",
@@ -3349,7 +3647,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2590-2026",
     "recallInitiationDate": "20260227",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "abiomed-inc-abiomed-impella-cp-set-with-smartassist-10th-generation-containing-affected-14",
@@ -3375,7 +3673,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2601-2026",
     "recallInitiationDate": "20260522",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "surgify-medical-oy-surgify-halo-4-0-mm-short-model-catalog-number-40-125-nvg-h1-drills-bur",
@@ -3401,7 +3699,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2562-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "philips-north-america-llc-philips-avalon-fetal-monitor-fm20-part-number-m2702a-part-m2703a",
@@ -3427,7 +3725,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2522-2026",
     "recallInitiationDate": "20260526",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "surgify-medical-oy-surgify-halo-4-0-mm-short-model-catalog-number-40-070-nvg-u1-drills-bur",
@@ -3453,7 +3751,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2561-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "surgify-medical-oy-surgify-halo-5-4-mm-long-model-catalog-number-54-140-shd-h1-drills-burr",
@@ -3479,7 +3777,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2572-2026",
     "recallInitiationDate": "20260430",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "medtronic-perfusion-systems-octopus-evolution-as-tissue-stabilizer-model-ts2500",
@@ -3505,7 +3803,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2576-2026",
     "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "zimmer-inc-off-axis-alliance-glenoid-right-4-peg-augment-reamer-guide-model-catalog-number",
@@ -3531,31 +3829,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2531-2026",
     "recallInitiationDate": "20260520",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
-  },
-  {
-    "id": "ftc-sends-more-than-2-7-million-to-consumers-harmed-by-handy-technologies",
-    "slug": "ftc-sends-more-than-2-7-million-to-consumers-harmed-by-handy-technologies",
-    "title": "FTC Sends More Than $2.7 Million to Consumers Harmed by Handy Technologies",
-    "type": "safety-alert",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: FTC Sends More Than $2.7 Million to Consumers Harmed by Handy Technologies.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
-    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26509",
@@ -3581,7 +3855,7 @@
     "officialVerified": true,
     "officialRecordId": "26509",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26513",
@@ -3607,7 +3881,7 @@
     "officialVerified": true,
     "officialRecordId": "26513",
     "recallInitiationDate": "2026-05-28T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26528",
@@ -3633,7 +3907,7 @@
     "officialVerified": true,
     "officialRecordId": "26528",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26527",
@@ -3659,7 +3933,7 @@
     "officialVerified": true,
     "officialRecordId": "26527",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26525",
@@ -3685,7 +3959,7 @@
     "officialVerified": true,
     "officialRecordId": "26525",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26529",
@@ -3711,7 +3985,7 @@
     "officialVerified": true,
     "officialRecordId": "26529",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26531",
@@ -3737,7 +4011,7 @@
     "officialVerified": true,
     "officialRecordId": "26531",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26526",
@@ -3763,7 +4037,7 @@
     "officialVerified": true,
     "officialRecordId": "26526",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26530",
@@ -3789,7 +4063,7 @@
     "officialVerified": true,
     "officialRecordId": "26530",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26532",
@@ -3815,7 +4089,7 @@
     "officialVerified": true,
     "officialRecordId": "26532",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26524",
@@ -3841,7 +4115,7 @@
     "officialVerified": true,
     "officialRecordId": "26524",
     "recallInitiationDate": "2026-06-04T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26552",
@@ -3867,7 +4141,7 @@
     "officialVerified": true,
     "officialRecordId": "26552",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26554",
@@ -3893,7 +4167,7 @@
     "officialVerified": true,
     "officialRecordId": "26554",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26553",
@@ -3919,7 +4193,7 @@
     "officialVerified": true,
     "officialRecordId": "26553",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26557",
@@ -3945,7 +4219,7 @@
     "officialVerified": true,
     "officialRecordId": "26557",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26543",
@@ -3971,7 +4245,7 @@
     "officialVerified": true,
     "officialRecordId": "26543",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26555",
@@ -3997,7 +4271,7 @@
     "officialVerified": true,
     "officialRecordId": "26555",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26537",
@@ -4023,7 +4297,7 @@
     "officialVerified": true,
     "officialRecordId": "26537",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26536",
@@ -4049,7 +4323,7 @@
     "officialVerified": true,
     "officialRecordId": "26536",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26550",
@@ -4075,7 +4349,7 @@
     "officialVerified": true,
     "officialRecordId": "26550",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26538",
@@ -4101,7 +4375,7 @@
     "officialVerified": true,
     "officialRecordId": "26538",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26539",
@@ -4127,7 +4401,7 @@
     "officialVerified": true,
     "officialRecordId": "26539",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26551",
@@ -4153,7 +4427,7 @@
     "officialVerified": true,
     "officialRecordId": "26551",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26540",
@@ -4179,7 +4453,7 @@
     "officialVerified": true,
     "officialRecordId": "26540",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26541",
@@ -4205,7 +4479,7 @@
     "officialVerified": true,
     "officialRecordId": "26541",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26542",
@@ -4231,7 +4505,7 @@
     "officialVerified": true,
     "officialRecordId": "26542",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26556",
@@ -4257,7 +4531,7 @@
     "officialVerified": true,
     "officialRecordId": "26556",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26565",
@@ -4283,7 +4557,7 @@
     "officialVerified": true,
     "officialRecordId": "26565",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26561",
@@ -4309,7 +4583,7 @@
     "officialVerified": true,
     "officialRecordId": "26561",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26566",
@@ -4335,7 +4609,7 @@
     "officialVerified": true,
     "officialRecordId": "26566",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26562",
@@ -4361,7 +4635,7 @@
     "officialVerified": true,
     "officialRecordId": "26562",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26568",
@@ -4387,7 +4661,7 @@
     "officialVerified": true,
     "officialRecordId": "26568",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26569",
@@ -4413,7 +4687,7 @@
     "officialVerified": true,
     "officialRecordId": "26569",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26563",
@@ -4439,7 +4713,7 @@
     "officialVerified": true,
     "officialRecordId": "26563",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26564",
@@ -4465,7 +4739,7 @@
     "officialVerified": true,
     "officialRecordId": "26564",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26582",
@@ -4491,7 +4765,7 @@
     "officialVerified": true,
     "officialRecordId": "26582",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26581",
@@ -4517,7 +4791,7 @@
     "officialVerified": true,
     "officialRecordId": "26581",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26580",
@@ -4543,7 +4817,7 @@
     "officialVerified": true,
     "officialRecordId": "26580",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26507",
@@ -4569,7 +4843,7 @@
     "officialVerified": true,
     "officialRecordId": "26507",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26579",
@@ -4595,7 +4869,7 @@
     "officialVerified": true,
     "officialRecordId": "26579",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26578",
@@ -4621,7 +4895,7 @@
     "officialVerified": true,
     "officialRecordId": "26578",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26576",
@@ -4647,7 +4921,7 @@
     "officialVerified": true,
     "officialRecordId": "26576",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26577",
@@ -4673,7 +4947,7 @@
     "officialVerified": true,
     "officialRecordId": "26577",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26575",
@@ -4699,7 +4973,7 @@
     "officialVerified": true,
     "officialRecordId": "26575",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26574",
@@ -4725,7 +4999,7 @@
     "officialVerified": true,
     "officialRecordId": "26574",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26596",
@@ -4751,7 +5025,7 @@
     "officialVerified": true,
     "officialRecordId": "26596",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26601",
@@ -4777,7 +5051,7 @@
     "officialVerified": true,
     "officialRecordId": "26601",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26599",
@@ -4803,7 +5077,7 @@
     "officialVerified": true,
     "officialRecordId": "26599",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26593",
@@ -4829,7 +5103,7 @@
     "officialVerified": true,
     "officialRecordId": "26593",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26600",
@@ -4855,7 +5129,7 @@
     "officialVerified": true,
     "officialRecordId": "26600",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26594",
@@ -4881,7 +5155,7 @@
     "officialVerified": true,
     "officialRecordId": "26594",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26598",
@@ -4907,7 +5181,7 @@
     "officialVerified": true,
     "officialRecordId": "26598",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26592",
@@ -4933,7 +5207,7 @@
     "officialVerified": true,
     "officialRecordId": "26592",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "cpsc-26591",
@@ -4959,7 +5233,7 @@
     "officialVerified": true,
     "officialRecordId": "26591",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-07-08T14:40:09.405Z"
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -4978,6 +5252,54 @@
     "deadline": null,
     "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
     "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "ftc-states-secure-settlement-with-deere-and-amp-company-advancing-farmers-right-to-repair",
+    "slug": "ftc-states-secure-settlement-with-deere-and-amp-company-advancing-farmers-right-to-repair",
+    "title": "FTC, States Secure Settlement with Deere &amp; Company, Advancing Farmers’ Right to Repair",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC, States Secure Settlement with Deere &amp; Company, Advancing Farmers’ Right to Repair.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-07-08T19:54:48.520Z"
+  },
+  {
+    "id": "ftc-sends-more-than-2-7-million-to-consumers-harmed-by-handy-technologies",
+    "slug": "ftc-sends-more-than-2-7-million-to-consumers-harmed-by-handy-technologies",
+    "title": "FTC Sends More Than $2.7 Million to Consumers Harmed by Handy Technologies",
+    "type": "safety-alert",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC Sends More Than $2.7 Million to Consumers Harmed by Handy Technologies.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies",
     "sourceAgency": "FTC",
     "searchVolume": "",
     "trendScore": 0,

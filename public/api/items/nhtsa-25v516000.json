@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-25v516000",
+    "slug": "nhtsa-25v516000",
+    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling one 2024 Mustang vehicle that was repaired incorrectly under recall 24V802. The Instrument Panel Cluster (IPC) may not illuminate at startup or while driving. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers 101, \"Control and Displays\" and 102, \"Transmission shift lever sequence, starter interlock, and transmission braking effect.\"",
+    "affectedPeople": "An instrument panel display that does not show critical information, such as warning lights or vehicle speed, increases the risk of a crash.",
+    "remedy": "A dealer will update the instrument panel cluster software, free of charge. Owner notification letters were mailed on September 12, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25C35.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V516000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "25V516000",
+    "recallInitiationDate": "08/08/2025",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-25v516000/"
+  }
+}

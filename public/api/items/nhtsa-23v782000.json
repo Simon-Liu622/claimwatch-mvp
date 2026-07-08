@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "updatedAt": "2026-07-08T19:54:51.313Z",
   "item": {
     "id": "nhtsa-23v782000",
     "slug": "nhtsa-23v782000",
     "title": "Honda (American Honda Motor Co.): SEAT BELTS:FRONT Recall (2024 honda accord)",
     "type": "recall",
-    "status": "monitoring",
+    "status": "active",
     "company": "Honda (American Honda Motor Co.)",
     "brand": "Honda (American Honda Motor Co.)",
     "product": "2024 honda accord",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 20000,
+    "searchVolume": 5000,
     "trendScore": 34,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "honda 325k vehicle recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-07-08T14:40:09.405Z",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
     "url": "https://simon622.shop/item/nhtsa-23v782000/"
   }
 }

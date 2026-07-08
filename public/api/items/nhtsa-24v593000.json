@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-08T19:54:51.313Z",
+  "item": {
+    "id": "nhtsa-24v593000",
+    "slug": "nhtsa-24v593000",
+    "title": "Ford Motor Company: SUSPENSION:REAR Recall (2024 ford mustang)",
+    "type": "recall",
+    "status": "active",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford mustang",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 Mustang vehicles. The rear suspension knuckles may have a casting defect that causes them to fail, which can result in a loss of vehicle handling and steering control.",
+    "affectedPeople": "A loss of vehicle handling and steering control increases the risk of a crash.",
+    "remedy": "Dealers will inspect and replace the rear suspension knuckle as necessary, free of charge. Owner notification letters were mailed August 26, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S49.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V593000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "ford mustang",
+      "ford mustang recall"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "24V593000",
+    "recallInitiationDate": "09/08/2024",
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/nhtsa-24v593000/"
+  }
+}

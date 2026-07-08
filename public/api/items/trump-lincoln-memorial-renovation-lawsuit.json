@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "updatedAt": "2026-07-08T19:54:51.313Z",
   "item": {
-    "id": "the-washington-post-lawsuit-ruling",
-    "slug": "the-washington-post-lawsuit-ruling",
-    "title": "The Washington Post Lawsuit Ruling: Consumer Alert Monitoring",
+    "id": "trump-lincoln-memorial-renovation-lawsuit",
+    "slug": "trump-lincoln-memorial-renovation-lawsuit",
+    "title": "Trump Lincoln Memorial Renovation Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "the washington post lawsuit ruling",
+    "product": "trump lincoln memorial renovation lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lincoln+memorial+renovation+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 26,
+    "searchVolume": 5000,
+    "trendScore": 23,
     "matchedQueries": [
-      "the washington post lawsuit ruling",
-      "judge"
+      "trump lincoln memorial renovation lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z",
-    "url": "https://simon622.shop/item/the-washington-post-lawsuit-ruling/"
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/trump-lincoln-memorial-renovation-lawsuit/"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "updatedAt": "2026-07-08T19:54:51.313Z",
   "item": {
-    "id": "ford-mustang-us-vehicle-recall",
-    "slug": "ford-mustang-us-vehicle-recall",
-    "title": "Ford Mustang Us Vehicle Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "trump-media-suit-dismissed",
+    "slug": "trump-media-suit-dismissed",
+    "title": "Trump Media Suit Dismissed: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ford mustang us vehicle recall",
-    "category": "Recall monitoring",
+    "product": "trump media suit dismissed",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,18 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+media+suit+dismissed&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 20000,
-    "trendScore": 13,
+    "trendScore": 28,
     "matchedQueries": [
-      "ford mustang us vehicle recall",
-      "ford mustang",
-      "ford mustang recall"
+      "trump media suit dismissed",
+      "the washington post lawsuit ruling",
+      "judge"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-08T14:40:09.405Z",
-    "url": "https://simon622.shop/item/ford-mustang-us-vehicle-recall/"
+    "lastUpdated": "2026-07-08T19:54:48.520Z",
+    "url": "https://simon622.shop/item/trump-media-suit-dismissed/"
   }
 }

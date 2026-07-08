@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T03:43:34.832Z",
+  "updatedAt": "2026-07-08T08:43:32.065Z",
   "item": {
     "id": "ford-mustang-us-vehicle-recall",
     "slug": "ford-mustang-us-vehicle-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 8,
+    "searchVolume": 20000,
+    "trendScore": 9,
     "matchedQueries": [
       "ford mustang us vehicle recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-08T03:43:31.928Z",
+    "lastUpdated": "2026-07-08T08:43:28.933Z",
     "url": "https://simon622.shop/item/ford-mustang-us-vehicle-recall/"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T03:43:34.832Z",
+  "updatedAt": "2026-07-08T08:43:32.065Z",
   "count": 7,
   "items": [
     {
@@ -23,14 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 33,
       "matchedQueries": [
         "irs covid tax refund deadline",
         "where's my refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "the-washington-post-lawsuit-ruling",
@@ -59,7 +59,7 @@
         "the washington post lawsuit ruling"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "homeland-security-citizenship-data-lawsuit",
@@ -82,13 +82,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "homeland security citizenship data lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "doj-trump-tax-lawsuit-settlement",
@@ -117,7 +117,7 @@
         "doj trump tax lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "ford-mustang-us-vehicle-recall",
@@ -140,13 +140,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
+      "searchVolume": 20000,
+      "trendScore": 9,
       "matchedQueries": [
         "ford mustang us vehicle recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "prince-harry-daily-mail-lawsuit",
@@ -175,7 +175,7 @@
         "prince harry daily mail lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     },
     {
       "id": "publix-organic-blueberry-recall",
@@ -204,7 +204,7 @@
         "publix organic blueberry recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T03:43:31.928Z"
+      "lastUpdated": "2026-07-08T08:43:28.933Z"
     }
   ]
 }

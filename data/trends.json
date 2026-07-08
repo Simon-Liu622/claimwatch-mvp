@@ -1,8 +1,8 @@
 [
   {
-    "rank": 37,
+    "rank": 22,
     "query": "irs covid tax refund deadline",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -10,14 +10,14 @@
       "where's my refund"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "irs covid tax refund deadline where's my refund",
     "trendScore": 33,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 17,
+    "rank": 6,
     "query": "product recall",
     "searchVolume": 50000,
     "startedAt": "",
@@ -29,10 +29,10 @@
     "source": "serpapi-google-trends",
     "text": "product recall",
     "trendScore": 24,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 27,
+    "rank": 23,
     "query": "the washington post lawsuit ruling",
     "searchVolume": 10000,
     "startedAt": "",
@@ -44,25 +44,25 @@
     "source": "serpapi-google-trends",
     "text": "the washington post lawsuit ruling",
     "trendScore": 23,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 50,
+    "rank": 25,
     "query": "homeland security citizenship data lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "homeland security citizenship data lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 103,
+    "rank": 84,
     "query": "doj trump tax lawsuit settlement",
     "searchVolume": 5000,
     "startedAt": "",
@@ -74,25 +74,25 @@
     "source": "serpapi-google-trends",
     "text": "doj trump tax lawsuit settlement",
     "trendScore": 16,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 82,
+    "rank": 58,
     "query": "ford mustang us vehicle recall",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang+us+vehicle+recall&tz=420",
-    "increasePercentage": 600,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "ford mustang us vehicle recall",
-    "trendScore": 8,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "trendScore": 9,
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 221,
+    "rank": 210,
     "query": "prince harry daily mail lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -104,10 +104,10 @@
     "source": "serpapi-google-trends",
     "text": "prince harry daily mail lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   },
   {
-    "rank": 284,
+    "rank": 296,
     "query": "publix organic blueberry recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -119,6 +119,6 @@
     "source": "serpapi-google-trends",
     "text": "publix organic blueberry recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-08T03:43:31.928Z"
+    "detectedAt": "2026-07-08T08:43:28.933Z"
   }
 ]

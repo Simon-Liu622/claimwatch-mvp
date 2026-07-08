@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T08:43:32.065Z",
-  "count": 7,
+  "updatedAt": "2026-07-08T14:40:20.029Z",
+  "count": 4,
   "items": [
     {
       "id": "irs-covid-tax-refund-deadline",
@@ -30,7 +30,7 @@
         "where's my refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
+      "lastUpdated": "2026-07-08T14:40:09.405Z"
     },
     {
       "id": "the-washington-post-lawsuit-ruling",
@@ -53,13 +53,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+washington+post+lawsuit+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "the washington post lawsuit ruling"
+        "the washington post lawsuit ruling",
+        "judge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
+      "lastUpdated": "2026-07-08T14:40:09.405Z"
     },
     {
       "id": "homeland-security-citizenship-data-lawsuit",
@@ -82,42 +83,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "homeland security citizenship data lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
-    },
-    {
-      "id": "doj-trump-tax-lawsuit-settlement",
-      "slug": "doj-trump-tax-lawsuit-settlement",
-      "title": "Doj Trump Tax Lawsuit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doj trump tax lawsuit settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+trump+tax+lawsuit+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "doj trump tax lawsuit settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
+      "lastUpdated": "2026-07-08T14:40:09.405Z"
     },
     {
       "id": "ford-mustang-us-vehicle-recall",
@@ -141,70 +113,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 9,
+      "trendScore": 13,
       "matchedQueries": [
-        "ford mustang us vehicle recall"
+        "ford mustang us vehicle recall",
+        "ford mustang",
+        "ford mustang recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
-    },
-    {
-      "id": "prince-harry-daily-mail-lawsuit",
-      "slug": "prince-harry-daily-mail-lawsuit",
-      "title": "Prince Harry Daily Mail Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "prince harry daily mail lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+daily+mail+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "prince harry daily mail lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
-    },
-    {
-      "id": "publix-organic-blueberry-recall",
-      "slug": "publix-organic-blueberry-recall",
-      "title": "Publix Organic Blueberry Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "publix organic blueberry recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+organic+blueberry+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "publix organic blueberry recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-08T08:43:28.933Z"
+      "lastUpdated": "2026-07-08T14:40:09.405Z"
     }
   ]
 }

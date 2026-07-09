@@ -1,8 +1,8 @@
 [
   {
-    "rank": 198,
+    "rank": 241,
     "query": "united airlines window seat lawsuit",
-    "searchVolume": 1000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -14,27 +14,10 @@
     "source": "serpapi-google-trends",
     "text": "united airlines window seat lawsuit united airlines",
     "trendScore": 10,
-    "detectedAt": "2026-07-09T10:04:13.520Z"
+    "detectedAt": "2026-07-09T15:32:59.043Z"
   },
   {
-    "rank": 303,
-    "query": "ford mustang",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "ford mustang recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+mustang&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "ford mustang ford mustang recall",
-    "trendScore": 10,
-    "detectedAt": "2026-07-09T10:04:13.520Z"
-  },
-  {
-    "rank": 112,
+    "rank": 136,
     "query": "honda 325k vehicle recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -46,21 +29,6 @@
     "source": "serpapi-google-trends",
     "text": "honda 325k vehicle recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-09T10:04:13.520Z"
-  },
-  {
-    "rank": 120,
-    "query": "trump lincoln memorial renovation lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+lincoln+memorial+renovation+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "trump lincoln memorial renovation lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-07-09T10:04:13.520Z"
+    "detectedAt": "2026-07-09T15:32:59.043Z"
   }
 ]

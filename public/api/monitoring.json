@@ -1,46 +1,16 @@
 {
-  "updatedAt": "2026-07-08T19:54:51.313Z",
-  "count": 4,
+  "updatedAt": "2026-07-09T04:13:03.164Z",
+  "count": 2,
   "items": [
     {
-      "id": "irs-covid-tax-refund-deadline",
-      "slug": "irs-covid-tax-refund-deadline",
-      "title": "Irs Covid Tax Refund Deadline: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "irs covid tax refund deadline",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+covid+tax+refund+deadline&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 31,
-      "matchedQueries": [
-        "irs covid tax refund deadline",
-        "where's my refund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-08T19:54:48.520Z"
-    },
-    {
-      "id": "trump-media-suit-dismissed",
-      "slug": "trump-media-suit-dismissed",
-      "title": "Trump Media Suit Dismissed: Consumer Alert Monitoring",
+      "id": "united-airlines-window-seat-lawsuit",
+      "slug": "united-airlines-window-seat-lawsuit",
+      "title": "United Airlines Window Seat Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump media suit dismissed",
+      "product": "united airlines window seat lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,47 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+media+suit+dismissed&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+airlines+window+seat+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
+      "searchVolume": 1000,
+      "trendScore": 10,
       "matchedQueries": [
-        "trump media suit dismissed",
-        "the washington post lawsuit ruling",
-        "judge"
+        "united airlines window seat lawsuit",
+        "united airlines"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T19:54:48.520Z"
-    },
-    {
-      "id": "homeland-security-citizenship-data-lawsuit",
-      "slug": "homeland-security-citizenship-data-lawsuit",
-      "title": "Homeland Security Citizenship Data Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "homeland security citizenship data lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland+security+citizenship+data+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "homeland security citizenship data lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-08T19:54:48.520Z"
+      "lastUpdated": "2026-07-09T04:12:51.981Z"
     },
     {
       "id": "trump-lincoln-memorial-renovation-lawsuit",
@@ -114,12 +54,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "trump lincoln memorial renovation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-08T19:54:48.520Z"
+      "lastUpdated": "2026-07-09T04:12:51.981Z"
     }
   ]
 }

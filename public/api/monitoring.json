@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-07-09T15:34:05.390Z",
-  "count": 1,
+  "updatedAt": "2026-07-09T20:03:41.629Z",
+  "count": 4,
   "items": [
+    {
+      "id": "bts-swim-hybe-copyright-lawsuit",
+      "slug": "bts-swim-hybe-copyright-lawsuit",
+      "title": "Bts Swim Hybe Copyright Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "bts swim hybe copyright lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "bts swim hybe copyright lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-09T20:03:24.233Z"
+    },
     {
       "id": "united-airlines-window-seat-lawsuit",
       "slug": "united-airlines-window-seat-lawsuit",
@@ -30,7 +59,66 @@
         "united airlines"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-09T15:32:59.043Z"
+      "lastUpdated": "2026-07-09T20:03:24.233Z"
+    },
+    {
+      "id": "eye-drops-recalled",
+      "slug": "eye-drops-recalled",
+      "title": "Eye Drops Recalled: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "eye drops recalled",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "eye drops recalled",
+        "prednisolone acetate ophthalmic suspension recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-09T20:03:24.233Z"
+    },
+    {
+      "id": "oribe-serene-scalp-bacteria-recall",
+      "slug": "oribe-serene-scalp-bacteria-recall",
+      "title": "Oribe Serene Scalp Bacteria Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "oribe serene scalp bacteria recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+serene+scalp+bacteria+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "oribe serene scalp bacteria recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-09T20:03:24.233Z"
     }
   ]
 }

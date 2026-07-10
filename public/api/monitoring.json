@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T04:13:35.050Z",
-  "count": 6,
+  "updatedAt": "2026-07-10T09:52:24.638Z",
+  "count": 7,
   "items": [
     {
       "id": "irs-july-10-refund-deadline",
@@ -30,7 +30,7 @@
         "irs tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     },
     {
       "id": "bts-swim-hybe-copyright-lawsuit",
@@ -59,7 +59,36 @@
         "bts swim hybe copyright lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
+    },
+    {
+      "id": "lowe-s-kobalt-yard-tool-recall",
+      "slug": "lowe-s-kobalt-yard-tool-recall",
+      "title": "Lowe'S Kobalt Yard Tool Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "lowe's kobalt yard tool recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "lowe's kobalt yard tool recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     },
     {
       "id": "eye-drops-recalled",
@@ -92,7 +121,7 @@
         "eyedrop recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     },
     {
       "id": "prince-harry-associated-newspapers-lawsuit",
@@ -122,7 +151,7 @@
         "daily mail"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     },
     {
       "id": "oribe-serene-scalp-bacteria-recall",
@@ -151,7 +180,7 @@
         "oribe serene scalp bacteria recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     },
     {
       "id": "iphone-siri-delayed-launch-lawsuit",
@@ -180,7 +209,7 @@
         "iphone siri delayed launch lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T04:13:32.200Z"
+      "lastUpdated": "2026-07-10T09:52:21.117Z"
     }
   ]
 }

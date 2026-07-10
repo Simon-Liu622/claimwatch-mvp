@@ -1,6 +1,6 @@
 [
   {
-    "rank": 35,
+    "rank": 29,
     "query": "irs july 10 refund deadline",
     "searchVolume": 10000,
     "startedAt": "",
@@ -10,14 +10,44 @@
       "irs tax refund"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+july+10+refund+deadline&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "irs july 10 refund deadline irs tax refund",
     "trendScore": 33,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   },
   {
-    "rank": 63,
+    "rank": 28,
+    "query": "lowe's kobalt yard tool recall",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "lowe's kobalt yard tool recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-10T09:52:21.117Z"
+  },
+  {
+    "rank": 51,
+    "query": "target water beads lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+water+beads+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "target water beads lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-07-10T09:52:21.117Z"
+  },
+  {
+    "rank": 59,
     "query": "bts swim hybe copyright lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
@@ -29,10 +59,10 @@
     "source": "serpapi-google-trends",
     "text": "bts swim hybe copyright lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   },
   {
-    "rank": 102,
+    "rank": 90,
     "query": "eye drops recalled",
     "searchVolume": 10000,
     "startedAt": "",
@@ -49,10 +79,10 @@
     "source": "serpapi-google-trends",
     "text": "eye drops recalled prednisolone acetate ophthalmic suspension recall eye drop recall july 2026 eye drop recall eyedrop recall",
     "trendScore": 16,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   },
   {
-    "rank": 244,
+    "rank": 268,
     "query": "prince harry associated newspapers lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -66,10 +96,10 @@
     "source": "serpapi-google-trends",
     "text": "prince harry associated newspapers lawsuit daily mail",
     "trendScore": 10,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   },
   {
-    "rank": 172,
+    "rank": 157,
     "query": "iphone siri delayed launch lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -81,10 +111,10 @@
     "source": "serpapi-google-trends",
     "text": "iphone siri delayed launch lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   },
   {
-    "rank": 248,
+    "rank": 221,
     "query": "oribe serene scalp bacteria recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -96,6 +126,6 @@
     "source": "serpapi-google-trends",
     "text": "oribe serene scalp bacteria recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-10T04:13:32.200Z"
+    "detectedAt": "2026-07-10T09:52:21.117Z"
   }
 ]

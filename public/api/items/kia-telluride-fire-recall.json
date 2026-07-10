@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T14:50:49.895Z",
+  "updatedAt": "2026-07-10T19:50:57.380Z",
   "item": {
     "id": "kia-telluride-fire-recall",
     "slug": "kia-telluride-fire-recall",
@@ -21,14 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 25,
+    "searchVolume": 5000,
+    "trendScore": 27,
     "matchedQueries": [
       "kia telluride fire recall",
-      "kia telluride fire risk recall"
+      "kia telluride fire risk recall",
+      "460k kia telluride vehicles recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-10T14:50:36.403Z",
+    "lastUpdated": "2026-07-10T19:50:49.332Z",
     "url": "https://simon622.shop/item/kia-telluride-fire-recall/"
   }
 }

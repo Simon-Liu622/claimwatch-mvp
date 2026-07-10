@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T14:50:49.895Z",
-  "count": 7,
+  "updatedAt": "2026-07-10T19:50:57.380Z",
+  "count": 6,
   "items": [
     {
       "id": "irs-july-10-refund-deadline",
@@ -23,15 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+july+10+refund+deadline&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 35,
+      "searchVolume": 20000,
+      "trendScore": 36,
       "matchedQueries": [
         "irs july 10 refund deadline",
         "irs tax refund",
         "covid tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     },
     {
       "id": "kia-telluride-fire-recall",
@@ -54,14 +54,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 27,
       "matchedQueries": [
         "kia telluride fire recall",
-        "kia telluride fire risk recall"
+        "kia telluride fire risk recall",
+        "460k kia telluride vehicles recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     },
     {
       "id": "lowe-s-kobalt-yard-tool-recall",
@@ -84,23 +85,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "lowe's kobalt yard tool recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     },
     {
-      "id": "prednisolone-acetate-ophthalmic-suspension-recall",
-      "slug": "prednisolone-acetate-ophthalmic-suspension-recall",
-      "title": "Prednisolone Acetate Ophthalmic Suspension Recall: Consumer Alert Monitoring",
+      "id": "eye-drop-recall-july-2026",
+      "slug": "eye-drop-recall-july-2026",
+      "title": "Eye Drop Recall July 2026: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "prednisolone acetate ophthalmic suspension recall",
+      "product": "eye drop recall july 2026",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -110,19 +111,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prednisolone+acetate+ophthalmic+suspension+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drop+recall+july+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 14,
+      "searchVolume": 1000,
+      "trendScore": 12,
       "matchedQueries": [
-        "prednisolone acetate ophthalmic suspension recall",
         "eye drop recall july 2026",
         "eye drop recall",
         "eyedrop recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     },
     {
       "id": "prince-harry-associated-newspapers-lawsuit",
@@ -152,7 +152,7 @@
         "daily mail"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     },
     {
       "id": "bts-swim-hybe-copyright-lawsuit",
@@ -181,36 +181,7 @@
         "bts swim hybe copyright lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
-    },
-    {
-      "id": "iphone-siri-delayed-launch-lawsuit",
-      "slug": "iphone-siri-delayed-launch-lawsuit",
-      "title": "Iphone Siri Delayed Launch Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "iphone siri delayed launch lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+siri+delayed+launch+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "iphone siri delayed launch lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-10T14:50:36.403Z"
+      "lastUpdated": "2026-07-10T19:50:49.332Z"
     }
   ]
 }

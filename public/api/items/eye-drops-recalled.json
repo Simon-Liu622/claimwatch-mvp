@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T20:03:41.629Z",
+  "updatedAt": "2026-07-10T04:13:35.050Z",
   "item": {
     "id": "eye-drops-recalled",
     "slug": "eye-drops-recalled",
@@ -22,13 +22,16 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 10,
+    "trendScore": 16,
     "matchedQueries": [
       "eye drops recalled",
-      "prednisolone acetate ophthalmic suspension recall"
+      "prednisolone acetate ophthalmic suspension recall",
+      "eye drop recall july 2026",
+      "eye drop recall",
+      "eyedrop recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-09T20:03:24.233Z",
+    "lastUpdated": "2026-07-10T04:13:32.200Z",
     "url": "https://simon622.shop/item/eye-drops-recalled/"
   }
 }

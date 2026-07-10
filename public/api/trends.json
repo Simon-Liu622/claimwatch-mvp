@@ -1,58 +1,93 @@
 {
-  "updatedAt": "2026-07-09T20:03:41.629Z",
-  "count": 4,
+  "updatedAt": "2026-07-10T04:13:35.050Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 113,
+      "rank": 35,
+      "query": "irs july 10 refund deadline",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "irs tax refund"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+july+10+refund+deadline&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "irs july 10 refund deadline irs tax refund",
+      "trendScore": 33,
+      "detectedAt": "2026-07-10T04:13:32.200Z"
+    },
+    {
+      "rank": 63,
       "query": "bts swim hybe copyright lawsuit",
-      "searchVolume": 200,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
-      "increasePercentage": 50,
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "bts swim hybe copyright lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-07-09T20:03:24.233Z"
+      "detectedAt": "2026-07-10T04:13:32.200Z"
     },
     {
-      "rank": 77,
+      "rank": 102,
       "query": "eye drops recalled",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "prednisolone acetate ophthalmic suspension recall"
+        "prednisolone acetate ophthalmic suspension recall",
+        "eye drop recall july 2026",
+        "eye drop recall",
+        "eyedrop recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
-      "increasePercentage": 1000,
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "eye drops recalled prednisolone acetate ophthalmic suspension recall",
-      "trendScore": 10,
-      "detectedAt": "2026-07-09T20:03:24.233Z"
+      "text": "eye drops recalled prednisolone acetate ophthalmic suspension recall eye drop recall july 2026 eye drop recall eyedrop recall",
+      "trendScore": 16,
+      "detectedAt": "2026-07-10T04:13:32.200Z"
     },
     {
-      "rank": 282,
-      "query": "united airlines window seat lawsuit",
-      "searchVolume": 5000,
+      "rank": 244,
+      "query": "prince harry associated newspapers lawsuit",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "united airlines"
+        "daily mail"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+airlines+window+seat+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+associated+newspapers+lawsuit&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "united airlines window seat lawsuit united airlines",
+      "text": "prince harry associated newspapers lawsuit daily mail",
       "trendScore": 10,
-      "detectedAt": "2026-07-09T20:03:24.233Z"
+      "detectedAt": "2026-07-10T04:13:32.200Z"
     },
     {
-      "rank": 157,
+      "rank": 172,
+      "query": "iphone siri delayed launch lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+siri+delayed+launch+lawsuit&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "iphone siri delayed launch lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-07-10T04:13:32.200Z"
+    },
+    {
+      "rank": 248,
       "query": "oribe serene scalp bacteria recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -64,7 +99,7 @@
       "source": "serpapi-google-trends",
       "text": "oribe serene scalp bacteria recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-09T20:03:24.233Z"
+      "detectedAt": "2026-07-10T04:13:32.200Z"
     }
   ]
 }

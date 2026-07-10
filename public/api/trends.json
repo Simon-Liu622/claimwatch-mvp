@@ -1,26 +1,44 @@
 {
-  "updatedAt": "2026-07-10T09:52:24.638Z",
+  "updatedAt": "2026-07-10T14:50:49.895Z",
   "count": 8,
   "trends": [
     {
-      "rank": 29,
+      "rank": 53,
       "query": "irs july 10 refund deadline",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
+        "covid tax refund",
         "irs tax refund"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+july+10+refund+deadline&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "irs july 10 refund deadline irs tax refund",
-      "trendScore": 33,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "text": "irs july 10 refund deadline covid tax refund irs tax refund",
+      "trendScore": 35,
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     },
     {
-      "rank": 28,
+      "rank": 111,
+      "query": "kia telluride fire recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "kia telluride fire risk recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "kia telluride fire recall kia telluride fire risk recall",
+      "trendScore": 25,
+      "detectedAt": "2026-07-10T14:50:36.403Z"
+    },
+    {
+      "rank": 15,
       "query": "lowe's kobalt yard tool recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -28,66 +46,50 @@
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "lowe's kobalt yard tool recall",
       "trendScore": 23,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     },
     {
-      "rank": 51,
+      "rank": 56,
       "query": "target water beads lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+water+beads+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "target water beads lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
-    },
-    {
-      "rank": 59,
-      "query": "bts swim hybe copyright lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+water+beads+lawsuit&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "bts swim hybe copyright lawsuit",
+      "text": "target water beads lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     },
     {
-      "rank": 90,
-      "query": "eye drops recalled",
-      "searchVolume": 10000,
+      "rank": 288,
+      "query": "prednisolone acetate ophthalmic suspension recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "prednisolone acetate ophthalmic suspension recall",
         "eye drop recall july 2026",
         "eye drop recall",
         "eyedrop recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
-      "increasePercentage": 600,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prednisolone+acetate+ophthalmic+suspension+recall&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "eye drops recalled prednisolone acetate ophthalmic suspension recall eye drop recall july 2026 eye drop recall eyedrop recall",
-      "trendScore": 16,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "text": "prednisolone acetate ophthalmic suspension recall eye drop recall july 2026 eye drop recall eyedrop recall",
+      "trendScore": 14,
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     },
     {
-      "rank": 268,
+      "rank": 322,
       "query": "prince harry associated newspapers lawsuit",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
@@ -99,10 +101,25 @@
       "source": "serpapi-google-trends",
       "text": "prince harry associated newspapers lawsuit daily mail",
       "trendScore": 10,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     },
     {
-      "rank": 157,
+      "rank": 144,
+      "query": "bts swim hybe copyright lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "bts swim hybe copyright lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-07-10T14:50:36.403Z"
+    },
+    {
+      "rank": 209,
       "query": "iphone siri delayed launch lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -114,22 +131,7 @@
       "source": "serpapi-google-trends",
       "text": "iphone siri delayed launch lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
-    },
-    {
-      "rank": 221,
-      "query": "oribe serene scalp bacteria recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+serene+scalp+bacteria+recall&tz=420",
-      "increasePercentage": 500,
-      "source": "serpapi-google-trends",
-      "text": "oribe serene scalp bacteria recall",
-      "trendScore": 8,
-      "detectedAt": "2026-07-10T09:52:21.117Z"
+      "detectedAt": "2026-07-10T14:50:36.403Z"
     }
   ]
 }

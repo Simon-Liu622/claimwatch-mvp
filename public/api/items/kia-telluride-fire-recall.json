@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-10T09:52:24.638Z",
+  "updatedAt": "2026-07-10T14:50:49.895Z",
   "item": {
-    "id": "oribe-serene-scalp-bacteria-recall",
-    "slug": "oribe-serene-scalp-bacteria-recall",
-    "title": "Oribe Serene Scalp Bacteria Recall: Consumer Alert Monitoring",
+    "id": "kia-telluride-fire-recall",
+    "slug": "kia-telluride-fire-recall",
+    "title": "Kia Telluride Fire Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "oribe serene scalp bacteria recall",
+    "product": "kia telluride fire recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+serene+scalp+bacteria+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 25,
     "matchedQueries": [
-      "oribe serene scalp bacteria recall"
+      "kia telluride fire recall",
+      "kia telluride fire risk recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-10T09:52:21.117Z",
-    "url": "https://simon622.shop/item/oribe-serene-scalp-bacteria-recall/"
+    "lastUpdated": "2026-07-10T14:50:36.403Z",
+    "url": "https://simon622.shop/item/kia-telluride-fire-recall/"
   }
 }

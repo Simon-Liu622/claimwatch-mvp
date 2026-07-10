@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T09:52:24.638Z",
+  "updatedAt": "2026-07-10T14:50:49.895Z",
   "count": 7,
   "items": [
     {
@@ -24,24 +24,25 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 33,
+      "trendScore": 35,
       "matchedQueries": [
         "irs july 10 refund deadline",
-        "irs tax refund"
+        "irs tax refund",
+        "covid tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
-      "id": "bts-swim-hybe-copyright-lawsuit",
-      "slug": "bts-swim-hybe-copyright-lawsuit",
-      "title": "Bts Swim Hybe Copyright Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "kia-telluride-fire-recall",
+      "slug": "kia-telluride-fire-recall",
+      "title": "Kia Telluride Fire Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bts swim hybe copyright lawsuit",
-      "category": "Consumer monitoring",
+      "product": "kia telluride fire recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -50,16 +51,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 1000,
+      "trendScore": 25,
       "matchedQueries": [
-        "bts swim hybe copyright lawsuit"
+        "kia telluride fire recall",
+        "kia telluride fire risk recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
       "id": "lowe-s-kobalt-yard-tool-recall",
@@ -88,17 +90,17 @@
         "lowe's kobalt yard tool recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
-      "id": "eye-drops-recalled",
-      "slug": "eye-drops-recalled",
-      "title": "Eye Drops Recalled: Consumer Alert Monitoring",
+      "id": "prednisolone-acetate-ophthalmic-suspension-recall",
+      "slug": "prednisolone-acetate-ophthalmic-suspension-recall",
+      "title": "Prednisolone Acetate Ophthalmic Suspension Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "eye drops recalled",
+      "product": "prednisolone acetate ophthalmic suspension recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -108,20 +110,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prednisolone+acetate+ophthalmic+suspension+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 16,
+      "searchVolume": 2000,
+      "trendScore": 14,
       "matchedQueries": [
-        "eye drops recalled",
         "prednisolone acetate ophthalmic suspension recall",
         "eye drop recall july 2026",
         "eye drop recall",
         "eyedrop recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
       "id": "prince-harry-associated-newspapers-lawsuit",
@@ -144,25 +145,25 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+associated+newspapers+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 10,
       "matchedQueries": [
         "prince harry associated newspapers lawsuit",
         "daily mail"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
-      "id": "oribe-serene-scalp-bacteria-recall",
-      "slug": "oribe-serene-scalp-bacteria-recall",
-      "title": "Oribe Serene Scalp Bacteria Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "bts-swim-hybe-copyright-lawsuit",
+      "slug": "bts-swim-hybe-copyright-lawsuit",
+      "title": "Bts Swim Hybe Copyright Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "oribe serene scalp bacteria recall",
-      "category": "Recall monitoring",
+      "product": "bts swim hybe copyright lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -171,16 +172,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+serene+scalp+bacteria+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
-        "oribe serene scalp bacteria recall"
+        "bts swim hybe copyright lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     },
     {
       "id": "iphone-siri-delayed-launch-lawsuit",
@@ -209,7 +210,7 @@
         "iphone siri delayed launch lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-10T09:52:21.117Z"
+      "lastUpdated": "2026-07-10T14:50:36.403Z"
     }
   ]
 }

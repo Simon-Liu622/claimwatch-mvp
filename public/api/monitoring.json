@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-07-11T13:53:40.861Z",
+  "updatedAt": "2026-07-11T19:31:09.894Z",
   "count": 3,
   "items": [
+    {
+      "id": "oribe-shampoo-fda-recall",
+      "slug": "oribe-shampoo-fda-recall",
+      "title": "Oribe Shampoo Fda Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "oribe shampoo fda recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "oribe shampoo fda recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-11T19:31:05.242Z"
+    },
+    {
+      "id": "united-airlines-windowless-seat-lawsuit",
+      "slug": "united-airlines-windowless-seat-lawsuit",
+      "title": "United Airlines Windowless Seat Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "united airlines windowless seat lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+airlines+windowless+seat+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "united airlines windowless seat lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-11T19:31:05.242Z"
+    },
     {
       "id": "class-action",
       "slug": "class-action",
@@ -24,71 +82,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "class action",
         "orgain protein powder"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-11T13:53:37.739Z"
-    },
-    {
-      "id": "california-oregon-dei-grant-lawsuit",
-      "slug": "california-oregon-dei-grant-lawsuit",
-      "title": "California Oregon Dei Grant Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "california oregon dei grant lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+oregon+dei+grant+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "california oregon dei grant lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-11T13:53:37.739Z"
-    },
-    {
-      "id": "oribe-shampoo-fda-recall",
-      "slug": "oribe-shampoo-fda-recall",
-      "title": "Oribe Shampoo Fda Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "oribe shampoo fda recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 23,
-      "matchedQueries": [
-        "oribe shampoo fda recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-11T13:53:37.739Z"
+      "lastUpdated": "2026-07-11T19:31:05.242Z"
     }
   ]
 }

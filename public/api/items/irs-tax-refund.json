@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-10T19:50:57.380Z",
+  "updatedAt": "2026-07-11T03:41:55.670Z",
   "item": {
-    "id": "eye-drop-recall-july-2026",
-    "slug": "eye-drop-recall-july-2026",
-    "title": "Eye Drop Recall July 2026: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "irs-tax-refund",
+    "slug": "irs-tax-refund",
+    "title": "Irs Tax Refund: Consumer Alert Monitoring",
+    "type": "refund",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "eye drop recall july 2026",
-    "category": "Recall monitoring",
+    "product": "irs tax refund",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drop+recall+july+2026&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+tax+refund&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 1000,
-    "trendScore": 12,
+    "trendScore": 10,
     "matchedQueries": [
-      "eye drop recall july 2026",
-      "eye drop recall",
-      "eyedrop recall"
+      "irs tax refund",
+      "covid tax refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-10T19:50:49.332Z",
-    "url": "https://simon622.shop/item/eye-drop-recall-july-2026/"
+    "lastUpdated": "2026-07-11T03:41:53.416Z",
+    "url": "https://simon622.shop/item/irs-tax-refund/"
   }
 }

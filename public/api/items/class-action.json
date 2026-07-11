@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-10T19:50:57.380Z",
+  "updatedAt": "2026-07-11T03:41:55.670Z",
   "item": {
-    "id": "lowe-s-kobalt-yard-tool-recall",
-    "slug": "lowe-s-kobalt-yard-tool-recall",
-    "title": "Lowe'S Kobalt Yard Tool Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "class-action",
+    "slug": "class-action",
+    "title": "Class Action: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "lowe's kobalt yard tool recall",
-    "category": "Recall monitoring",
+    "product": "class action",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 10000,
+    "trendScore": 25,
     "matchedQueries": [
-      "lowe's kobalt yard tool recall"
+      "class action",
+      "orgain protein powder"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-10T19:50:49.332Z",
-    "url": "https://simon622.shop/item/lowe-s-kobalt-yard-tool-recall/"
+    "lastUpdated": "2026-07-11T03:41:53.416Z",
+    "url": "https://simon622.shop/item/class-action/"
   }
 }

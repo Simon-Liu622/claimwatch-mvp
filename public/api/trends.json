@@ -1,137 +1,87 @@
 {
-  "updatedAt": "2026-07-10T19:50:57.380Z",
-  "count": 8,
+  "updatedAt": "2026-07-11T03:41:55.670Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 8,
-      "query": "irs july 10 refund deadline",
-      "searchVolume": 20000,
+      "rank": 63,
+      "query": "class action",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "irs tax refund",
-        "covid tax refund"
+        "orgain protein powder"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+july+10+refund+deadline&tz=420",
-      "increasePercentage": 600,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "irs july 10 refund deadline irs tax refund covid tax refund",
-      "trendScore": 36,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
+      "text": "class action orgain protein powder",
+      "trendScore": 25,
+      "detectedAt": "2026-07-11T03:41:53.416Z"
     },
     {
-      "rank": 35,
-      "query": "kia telluride fire recall",
-      "searchVolume": 5000,
+      "rank": 53,
+      "query": "california oregon dei grant lawsuit",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+oregon+dei+grant+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "california oregon dei grant lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-11T03:41:53.416Z"
+    },
+    {
+      "rank": 162,
+      "query": "kia telluride fire recall",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
       "breakdown": [
-        "460k kia telluride vehicles recalled",
-        "kia telluride fire risk recall"
+        "460k kia telluride vehicles recalled"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "kia telluride fire recall 460k kia telluride vehicles recalled kia telluride fire risk recall",
-      "trendScore": 27,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
+      "text": "kia telluride fire recall 460k kia telluride vehicles recalled",
+      "trendScore": 10,
+      "detectedAt": "2026-07-11T03:41:53.416Z"
     },
     {
-      "rank": 11,
-      "query": "lowe's kobalt yard tool recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lowe%27s+kobalt+yard+tool+recall&tz=420",
-      "increasePercentage": 500,
-      "source": "serpapi-google-trends",
-      "text": "lowe's kobalt yard tool recall",
-      "trendScore": 24,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
-    },
-    {
-      "rank": 39,
-      "query": "cuisinart gas grill recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cuisinart+gas+grill+recall&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "cuisinart gas grill recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
-    },
-    {
-      "rank": 344,
-      "query": "eye drop recall july 2026",
+      "rank": 376,
+      "query": "irs tax refund",
       "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "eye drop recall",
-        "eyedrop recall"
+        "covid tax refund"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drop+recall+july+2026&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+tax+refund&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "eye drop recall july 2026 eye drop recall eyedrop recall",
-      "trendScore": 12,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
-    },
-    {
-      "rank": 343,
-      "query": "prince harry associated newspapers lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "daily mail"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prince+harry+associated+newspapers+lawsuit&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "prince harry associated newspapers lawsuit daily mail",
+      "text": "irs tax refund covid tax refund",
       "trendScore": 10,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
+      "detectedAt": "2026-07-11T03:41:53.416Z"
     },
     {
-      "rank": 126,
-      "query": "target water beads lawsuit",
-      "searchVolume": 5000,
+      "rank": 125,
+      "query": "cuisinart gas grill recall",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=target+water+beads+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cuisinart+gas+grill+recall&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "target water beads lawsuit",
+      "text": "cuisinart gas grill recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
-    },
-    {
-      "rank": 162,
-      "query": "bts swim hybe copyright lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bts+swim+hybe+copyright+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "bts swim hybe copyright lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-10T19:50:49.332Z"
+      "detectedAt": "2026-07-11T03:41:53.416Z"
     }
   ]
 }

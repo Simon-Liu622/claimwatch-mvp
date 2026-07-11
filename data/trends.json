@@ -1,11 +1,11 @@
 [
   {
-    "rank": 63,
+    "rank": 94,
     "query": "class action",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
       "orgain protein powder"
     ],
@@ -13,26 +13,11 @@
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "class action orgain protein powder",
-    "trendScore": 25,
-    "detectedAt": "2026-07-11T03:41:53.416Z"
+    "trendScore": 10,
+    "detectedAt": "2026-07-11T08:14:20.569Z"
   },
   {
-    "rank": 53,
-    "query": "california oregon dei grant lawsuit",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+oregon+dei+grant+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "california oregon dei grant lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-11T03:41:53.416Z"
-  },
-  {
-    "rank": 162,
+    "rank": 130,
     "query": "kia telluride fire recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -46,27 +31,25 @@
     "source": "serpapi-google-trends",
     "text": "kia telluride fire recall 460k kia telluride vehicles recalled",
     "trendScore": 10,
-    "detectedAt": "2026-07-11T03:41:53.416Z"
+    "detectedAt": "2026-07-11T08:14:20.569Z"
   },
   {
-    "rank": 376,
-    "query": "irs tax refund",
-    "searchVolume": 1000,
+    "rank": 98,
+    "query": "california oregon dei grant lawsuit",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "covid tax refund"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=irs+tax+refund&tz=420",
-    "increasePercentage": 100,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+oregon+dei+grant+lawsuit&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "irs tax refund covid tax refund",
-    "trendScore": 10,
-    "detectedAt": "2026-07-11T03:41:53.416Z"
+    "text": "california oregon dei grant lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-07-11T08:14:20.569Z"
   },
   {
-    "rank": 125,
+    "rank": 104,
     "query": "cuisinart gas grill recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -78,6 +61,21 @@
     "source": "serpapi-google-trends",
     "text": "cuisinart gas grill recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-11T03:41:53.416Z"
+    "detectedAt": "2026-07-11T08:14:20.569Z"
+  },
+  {
+    "rank": 426,
+    "query": "covid tax refund",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=covid+tax+refund&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "covid tax refund",
+    "trendScore": 8,
+    "detectedAt": "2026-07-11T08:14:20.569Z"
   }
 ]

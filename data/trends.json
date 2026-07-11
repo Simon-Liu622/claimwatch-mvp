@@ -1,81 +1,62 @@
 [
   {
-    "rank": 94,
+    "rank": 21,
+    "query": "cuisinart gas grill recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cuisinart+gas+grill+recall&tz=420",
+    "increasePercentage": 800,
+    "source": "serpapi-google-trends",
+    "text": "cuisinart gas grill recall",
+    "trendScore": 24,
+    "detectedAt": "2026-07-11T13:53:37.739Z"
+  },
+  {
+    "rank": 57,
     "query": "class action",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "orgain protein powder"
-    ],
+    "active": true,
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "class action orgain protein powder",
-    "trendScore": 10,
-    "detectedAt": "2026-07-11T08:14:20.569Z"
+    "text": "class action",
+    "trendScore": 23,
+    "detectedAt": "2026-07-11T13:53:37.739Z"
   },
   {
-    "rank": 130,
-    "query": "kia telluride fire recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "460k kia telluride vehicles recalled"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kia+telluride+fire+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "kia telluride fire recall 460k kia telluride vehicles recalled",
-    "trendScore": 10,
-    "detectedAt": "2026-07-11T08:14:20.569Z"
-  },
-  {
-    "rank": 98,
+    "rank": 65,
     "query": "california oregon dei grant lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+oregon+dei+grant+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "california oregon dei grant lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-07-11T08:14:20.569Z"
+    "trendScore": 23,
+    "detectedAt": "2026-07-11T13:53:37.739Z"
   },
   {
-    "rank": 104,
-    "query": "cuisinart gas grill recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cuisinart+gas+grill+recall&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "cuisinart gas grill recall",
-    "trendScore": 8,
-    "detectedAt": "2026-07-11T08:14:20.569Z"
-  },
-  {
-    "rank": 426,
-    "query": "covid tax refund",
+    "rank": 161,
+    "query": "oribe shampoo fda recall",
     "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=covid+tax+refund&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "covid tax refund",
-    "trendScore": 8,
-    "detectedAt": "2026-07-11T08:14:20.569Z"
+    "text": "oribe shampoo fda recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-11T13:53:37.739Z"
   }
 ]

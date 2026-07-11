@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-11T08:14:29.829Z",
+  "updatedAt": "2026-07-11T13:53:40.861Z",
   "item": {
-    "id": "covid-tax-refund",
-    "slug": "covid-tax-refund",
-    "title": "Covid Tax Refund: Consumer Alert Monitoring",
-    "type": "refund",
+    "id": "oribe-shampoo-fda-recall",
+    "slug": "oribe-shampoo-fda-recall",
+    "title": "Oribe Shampoo Fda Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "covid tax refund",
-    "category": "Consumer monitoring",
+    "product": "oribe shampoo fda recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=covid+tax+refund&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 200,
-    "trendScore": 8,
+    "trendScore": 23,
     "matchedQueries": [
-      "covid tax refund"
+      "oribe shampoo fda recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-11T08:14:20.569Z",
-    "url": "https://simon622.shop/item/covid-tax-refund/"
+    "lastUpdated": "2026-07-11T13:53:37.739Z",
+    "url": "https://simon622.shop/item/oribe-shampoo-fda-recall/"
   }
 }

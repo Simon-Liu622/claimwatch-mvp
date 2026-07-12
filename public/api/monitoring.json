@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:31:09.894Z",
+  "updatedAt": "2026-07-12T03:56:51.158Z",
   "count": 3,
   "items": [
     {
@@ -23,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "oribe shampoo fda recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-11T19:31:05.242Z"
+      "lastUpdated": "2026-07-12T03:56:46.264Z"
+    },
+    {
+      "id": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
+      "slug": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
+      "title": "Microsoft Lost A Lawsuit To A Gamer Over Account Access: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "microsoft lost a lawsuit to a gamer over account access",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=microsoft+lost+a+lawsuit+to+a+gamer+over+account+access&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "microsoft lost a lawsuit to a gamer over account access"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-12T03:56:46.264Z"
     },
     {
       "id": "united-airlines-windowless-seat-lawsuit",
@@ -52,43 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+airlines+windowless+seat+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "united airlines windowless seat lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-11T19:31:05.242Z"
-    },
-    {
-      "id": "class-action",
-      "slug": "class-action",
-      "title": "Class Action: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "class action",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "class action",
-        "orgain protein powder"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-11T19:31:05.242Z"
+      "lastUpdated": "2026-07-12T03:56:46.264Z"
     }
   ]
 }

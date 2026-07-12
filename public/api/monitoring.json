@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-07-12T08:31:53.517Z",
-  "count": 3,
+  "updatedAt": "2026-07-12T13:56:38.395Z",
+  "count": 4,
   "items": [
-    {
-      "id": "oribe-shampoo-fda-recall",
-      "slug": "oribe-shampoo-fda-recall",
-      "title": "Oribe Shampoo Fda Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "oribe shampoo fda recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "oribe shampoo fda recall",
-        "shampoo recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-12T08:31:50.728Z"
-    },
     {
       "id": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
       "slug": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
@@ -59,7 +29,7 @@
         "microsoft lost a lawsuit to a gamer over account access"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-12T08:31:50.728Z"
+      "lastUpdated": "2026-07-12T13:56:35.934Z"
     },
     {
       "id": "united-airlines-windowless-seat-lawsuit",
@@ -83,12 +53,70 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "united airlines windowless seat lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-12T08:31:50.728Z"
+      "lastUpdated": "2026-07-12T13:56:35.934Z"
+    },
+    {
+      "id": "fda-class-ii-eye-drop-recall",
+      "slug": "fda-class-ii-eye-drop-recall",
+      "title": "Fda Class Ii Eye Drop Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda class ii eye drop recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+ii+eye+drop+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fda class ii eye drop recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-12T13:56:35.934Z"
+    },
+    {
+      "id": "shampoo-recall",
+      "slug": "shampoo-recall",
+      "title": "Shampoo Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "shampoo recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shampoo+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "shampoo recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-12T13:56:35.934Z"
     }
   ]
 }

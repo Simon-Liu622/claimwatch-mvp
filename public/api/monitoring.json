@@ -1,65 +1,7 @@
 {
-  "updatedAt": "2026-07-12T13:56:38.395Z",
-  "count": 4,
+  "updatedAt": "2026-07-12T19:30:33.503Z",
+  "count": 2,
   "items": [
-    {
-      "id": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
-      "slug": "microsoft-lost-a-lawsuit-to-a-gamer-over-account-access",
-      "title": "Microsoft Lost A Lawsuit To A Gamer Over Account Access: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "microsoft lost a lawsuit to a gamer over account access",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=microsoft+lost+a+lawsuit+to+a+gamer+over+account+access&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "microsoft lost a lawsuit to a gamer over account access"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-12T13:56:35.934Z"
-    },
-    {
-      "id": "united-airlines-windowless-seat-lawsuit",
-      "slug": "united-airlines-windowless-seat-lawsuit",
-      "title": "United Airlines Windowless Seat Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "united airlines windowless seat lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=united+airlines+windowless+seat+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "united airlines windowless seat lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-12T13:56:35.934Z"
-    },
     {
       "id": "fda-class-ii-eye-drop-recall",
       "slug": "fda-class-ii-eye-drop-recall",
@@ -81,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+ii+eye+drop+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "fda class ii eye drop recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-12T13:56:35.934Z"
+      "lastUpdated": "2026-07-12T19:30:19.287Z"
     },
     {
       "id": "shampoo-recall",
@@ -116,7 +58,7 @@
         "shampoo recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-12T13:56:35.934Z"
+      "lastUpdated": "2026-07-12T19:30:19.287Z"
     }
   ]
 }

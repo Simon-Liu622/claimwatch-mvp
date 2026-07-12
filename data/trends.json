@@ -1,21 +1,23 @@
 [
   {
-    "rank": 21,
+    "rank": 8,
     "query": "oribe shampoo fda recall",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [],
+    "breakdown": [
+      "shampoo recall"
+    ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+fda+recall&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 700,
     "source": "serpapi-google-trends",
-    "text": "oribe shampoo fda recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-12T03:56:46.264Z"
+    "text": "oribe shampoo fda recall shampoo recall",
+    "trendScore": 26,
+    "detectedAt": "2026-07-12T08:31:50.728Z"
   },
   {
-    "rank": 139,
+    "rank": 44,
     "query": "microsoft lost a lawsuit to a gamer over account access",
     "searchVolume": 5000,
     "startedAt": "",
@@ -27,10 +29,10 @@
     "source": "serpapi-google-trends",
     "text": "microsoft lost a lawsuit to a gamer over account access",
     "trendScore": 23,
-    "detectedAt": "2026-07-12T03:56:46.264Z"
+    "detectedAt": "2026-07-12T08:31:50.728Z"
   },
   {
-    "rank": 275,
+    "rank": 237,
     "query": "united airlines windowless seat lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -42,6 +44,6 @@
     "source": "serpapi-google-trends",
     "text": "united airlines windowless seat lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-12T03:56:46.264Z"
+    "detectedAt": "2026-07-12T08:31:50.728Z"
   }
 ]

@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-07-13T09:47:03.072Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 123,
-      "query": "fda class ii eye drop recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+ii+eye+drop+recall&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "fda class ii eye drop recall",
-      "trendScore": 8,
-      "detectedAt": "2026-07-13T09:46:58.536Z"
-    }
-  ]
+  "updatedAt": "2026-07-13T15:10:37.349Z",
+  "count": 0,
+  "trends": []
 }

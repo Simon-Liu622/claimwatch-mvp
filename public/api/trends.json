@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-12T19:30:33.503Z",
+  "updatedAt": "2026-07-13T03:59:12.453Z",
   "count": 2,
   "trends": [
     {
-      "rank": 47,
+      "rank": 120,
       "query": "fda class ii eye drop recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+ii+eye+drop+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "fda class ii eye drop recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-12T19:30:19.287Z"
+      "trendScore": 8,
+      "detectedAt": "2026-07-13T03:59:04.207Z"
     },
     {
-      "rank": 374,
+      "rank": 274,
       "query": "shampoo recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -30,7 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "shampoo recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-12T19:30:19.287Z"
+      "detectedAt": "2026-07-13T03:59:04.207Z"
     }
   ]
 }

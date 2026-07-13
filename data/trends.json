@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "rank": 22,
+    "query": "trump irs lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "trump anti weaponization fund",
+      "donald trump irs lawsuit",
+      "trump irs",
+      "trump irs settlement",
+      "judge williams trump settlement ruling",
+      "judge kathleen williams",
+      "lawyer"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "trump irs lawsuit trump anti weaponization fund donald trump irs lawsuit trump irs trump irs settlement judge williams trump settlement ruling judge kathleen williams lawyer",
+    "trendScore": 41,
+    "detectedAt": "2026-07-13T19:48:16.019Z"
+  }
+]

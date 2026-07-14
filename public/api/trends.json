@@ -1,50 +1,64 @@
 {
-  "updatedAt": "2026-07-14T08:27:13.937Z",
-  "count": 5,
+  "updatedAt": "2026-07-14T14:13:16.915Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 13,
+      "rank": 12,
       "query": "judge voids trump irs agreement",
       "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "donald trump irs lawsuit",
         "judge williams trump settlement ruling",
+        "donald trump irs lawsuit",
         "trump irs",
-        "trump anti weaponization fund",
         "judge kathleen williams",
+        "trump anti weaponization fund",
         "trump irs lawsuit",
         "trump irs settlement",
-        "todd blanche",
         "donald trump doj irs case",
-        "lawyer"
+        "b"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+voids+trump+irs+agreement&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "judge voids trump irs agreement donald trump irs lawsuit judge williams trump settlement ruling trump irs trump anti weaponization fund judge kathleen williams trump irs lawsuit trump irs settlement todd blanche donald trump doj irs case lawyer",
+      "text": "judge voids trump irs agreement judge williams trump settlement ruling donald trump irs lawsuit trump irs judge kathleen williams trump anti weaponization fund trump irs lawsuit trump irs settlement donald trump doj irs case b",
       "trendScore": 42,
-      "detectedAt": "2026-07-14T08:27:09.109Z"
+      "detectedAt": "2026-07-14T14:12:59.483Z"
     },
     {
-      "rank": 77,
+      "rank": 24,
       "query": "dallas jenkins investor lawsuit response",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "dallas jenkins investor lawsuit response",
-      "trendScore": 8,
-      "detectedAt": "2026-07-14T08:27:09.109Z"
+      "trendScore": 23,
+      "detectedAt": "2026-07-14T14:12:59.483Z"
     },
     {
-      "rank": 125,
+      "rank": 46,
+      "query": "subaru recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "subaru recall",
+      "trendScore": 23,
+      "detectedAt": "2026-07-14T14:12:59.483Z"
+    },
+    {
+      "rank": 169,
       "query": "oribe shampoo recall fda",
       "searchVolume": 2000,
       "startedAt": "",
@@ -56,25 +70,10 @@
       "source": "serpapi-google-trends",
       "text": "oribe shampoo recall fda",
       "trendScore": 8,
-      "detectedAt": "2026-07-14T08:27:09.109Z"
+      "detectedAt": "2026-07-14T14:12:59.483Z"
     },
     {
-      "rank": 169,
-      "query": "hyundai ev battery defect recall",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+ev+battery+defect+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "hyundai ev battery defect recall",
-      "trendScore": 8,
-      "detectedAt": "2026-07-14T08:27:09.109Z"
-    },
-    {
-      "rank": 174,
+      "rank": 241,
       "query": "cash app state attorneys settlement",
       "searchVolume": 1000,
       "startedAt": "",
@@ -86,7 +85,22 @@
       "source": "serpapi-google-trends",
       "text": "cash app state attorneys settlement",
       "trendScore": 8,
-      "detectedAt": "2026-07-14T08:27:09.109Z"
+      "detectedAt": "2026-07-14T14:12:59.483Z"
+    },
+    {
+      "rank": 243,
+      "query": "hyundai ev battery defect recall",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+ev+battery+defect+recall&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "hyundai ev battery defect recall",
+      "trendScore": 8,
+      "detectedAt": "2026-07-14T14:12:59.483Z"
     }
   ]
 }

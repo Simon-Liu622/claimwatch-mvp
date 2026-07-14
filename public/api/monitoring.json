@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T08:27:13.937Z",
-  "count": 5,
+  "updatedAt": "2026-07-14T14:13:16.915Z",
+  "count": 6,
   "items": [
     {
       "id": "judge-voids-trump-irs-agreement",
@@ -34,10 +34,11 @@
         "todd blanche",
         "trump anti weaponization fund",
         "trump irs lawsuit",
-        "trump irs settlement"
+        "trump irs settlement",
+        "donald trump doj irs case"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T08:27:09.109Z"
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
     },
     {
       "id": "dallas-jenkins-investor-lawsuit-response",
@@ -61,12 +62,41 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "dallas jenkins investor lawsuit response"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T08:27:09.109Z"
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
+    },
+    {
+      "id": "subaru-recall",
+      "slug": "subaru-recall",
+      "title": "Subaru Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "subaru recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "subaru recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
     },
     {
       "id": "hyundai-ev-battery-defect-recall",
@@ -95,7 +125,7 @@
         "hyundai ev battery defect recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T08:27:09.109Z"
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
     },
     {
       "id": "cash-app-state-attorneys-settlement",
@@ -124,7 +154,7 @@
         "cash app state attorneys settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T08:27:09.109Z"
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
     },
     {
       "id": "oribe-shampoo-recall-fda",
@@ -153,7 +183,7 @@
         "oribe shampoo recall fda"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T08:27:09.109Z"
+      "lastUpdated": "2026-07-14T14:12:59.483Z"
     }
   ]
 }

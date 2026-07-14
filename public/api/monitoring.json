@@ -1,16 +1,47 @@
 {
-  "updatedAt": "2026-07-14T14:13:16.915Z",
+  "updatedAt": "2026-07-14T19:41:53.954Z",
   "count": 6,
   "items": [
     {
-      "id": "judge-voids-trump-irs-agreement",
-      "slug": "judge-voids-trump-irs-agreement",
-      "title": "Judge Voids Trump Irs Agreement: Consumer Alert Monitoring",
+      "id": "subaru-recall",
+      "slug": "subaru-recall",
+      "title": "Subaru Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "subaru recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "subaru recall",
+        "subaru ascent forester crosstrek recall",
+        "subaru recalls"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
+    },
+    {
+      "id": "xfinity-2023-cyber-breach-settlement",
+      "slug": "xfinity-2023-cyber-breach-settlement",
+      "title": "Xfinity 2023 Cyber Breach Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "judge voids trump irs agreement",
+      "product": "xfinity 2023 cyber breach settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,25 +51,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+voids+trump+irs+agreement&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 42,
+      "searchVolume": 1000,
+      "trendScore": 23,
       "matchedQueries": [
-        "judge voids trump irs agreement",
-        "judge williams trump settlement ruling",
-        "judge kathleen williams",
-        "donald trump irs lawsuit",
-        "trump irs",
-        "todd blanche",
-        "trump anti weaponization fund",
-        "trump irs lawsuit",
-        "trump irs settlement",
-        "donald trump doj irs case"
+        "xfinity 2023 cyber breach settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
     },
     {
       "id": "dallas-jenkins-investor-lawsuit-response",
@@ -61,42 +83,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 8,
       "matchedQueries": [
         "dallas jenkins investor lawsuit response"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
-    },
-    {
-      "id": "subaru-recall",
-      "slug": "subaru-recall",
-      "title": "Subaru Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "subaru recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "subaru recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
     },
     {
       "id": "hyundai-ev-battery-defect-recall",
@@ -125,7 +118,7 @@
         "hyundai ev battery defect recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
     },
     {
       "id": "cash-app-state-attorneys-settlement",
@@ -154,7 +147,7 @@
         "cash app state attorneys settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
     },
     {
       "id": "oribe-shampoo-recall-fda",
@@ -183,7 +176,7 @@
         "oribe shampoo recall fda"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T14:12:59.483Z"
+      "lastUpdated": "2026-07-14T19:41:50.764Z"
     }
   ]
 }

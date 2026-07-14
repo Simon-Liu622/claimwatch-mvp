@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T14:13:16.915Z",
+  "updatedAt": "2026-07-14T19:41:53.954Z",
   "item": {
     "id": "subaru-recall",
     "slug": "subaru-recall",
@@ -21,13 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 27,
     "matchedQueries": [
-      "subaru recall"
+      "subaru recall",
+      "subaru ascent forester crosstrek recall",
+      "subaru recalls"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-14T14:12:59.483Z",
+    "lastUpdated": "2026-07-14T19:41:50.764Z",
     "url": "https://simon622.shop/item/subaru-recall/"
   }
 }

@@ -1,64 +1,57 @@
 {
-  "updatedAt": "2026-07-14T14:13:16.915Z",
+  "updatedAt": "2026-07-14T19:41:53.954Z",
   "count": 6,
   "trends": [
     {
-      "rank": 12,
-      "query": "judge voids trump irs agreement",
-      "searchVolume": 50000,
+      "rank": 11,
+      "query": "subaru recall",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "judge williams trump settlement ruling",
-        "donald trump irs lawsuit",
-        "trump irs",
-        "judge kathleen williams",
-        "trump anti weaponization fund",
-        "trump irs lawsuit",
-        "trump irs settlement",
-        "donald trump doj irs case",
-        "b"
+        "subaru ascent forester crosstrek recall",
+        "subaru recalls"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+voids+trump+irs+agreement&tz=420",
-      "increasePercentage": 300,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
-      "text": "judge voids trump irs agreement judge williams trump settlement ruling donald trump irs lawsuit trump irs judge kathleen williams trump anti weaponization fund trump irs lawsuit trump irs settlement donald trump doj irs case b",
-      "trendScore": 42,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
+      "text": "subaru recall subaru ascent forester crosstrek recall subaru recalls",
+      "trendScore": 27,
+      "detectedAt": "2026-07-14T19:41:50.764Z"
     },
     {
-      "rank": 24,
-      "query": "dallas jenkins investor lawsuit response",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "dallas jenkins investor lawsuit response",
-      "trendScore": 23,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
-    },
-    {
-      "rank": 46,
-      "query": "subaru recall",
+      "rank": 72,
+      "query": "xfinity 2023 cyber breach settlement",
       "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
-      "increasePercentage": 500,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "subaru recall",
+      "text": "xfinity 2023 cyber breach settlement",
       "trendScore": 23,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
+      "detectedAt": "2026-07-14T19:41:50.764Z"
     },
     {
-      "rank": 169,
+      "rank": 94,
+      "query": "dallas jenkins investor lawsuit response",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "dallas jenkins investor lawsuit response",
+      "trendScore": 8,
+      "detectedAt": "2026-07-14T19:41:50.764Z"
+    },
+    {
+      "rank": 197,
       "query": "oribe shampoo recall fda",
       "searchVolume": 2000,
       "startedAt": "",
@@ -70,10 +63,10 @@
       "source": "serpapi-google-trends",
       "text": "oribe shampoo recall fda",
       "trendScore": 8,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
+      "detectedAt": "2026-07-14T19:41:50.764Z"
     },
     {
-      "rank": 241,
+      "rank": 290,
       "query": "cash app state attorneys settlement",
       "searchVolume": 1000,
       "startedAt": "",
@@ -85,10 +78,10 @@
       "source": "serpapi-google-trends",
       "text": "cash app state attorneys settlement",
       "trendScore": 8,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
+      "detectedAt": "2026-07-14T19:41:50.764Z"
     },
     {
-      "rank": 243,
+      "rank": 302,
       "query": "hyundai ev battery defect recall",
       "searchVolume": 500,
       "startedAt": "",
@@ -100,7 +93,7 @@
       "source": "serpapi-google-trends",
       "text": "hyundai ev battery defect recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-14T14:12:59.483Z"
+      "detectedAt": "2026-07-14T19:41:50.764Z"
     }
   ]
 }

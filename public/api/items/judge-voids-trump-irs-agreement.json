@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-13T19:48:30.796Z",
+  "updatedAt": "2026-07-14T03:32:46.937Z",
   "item": {
-    "id": "trump-irs-lawsuit",
-    "slug": "trump-irs-lawsuit",
-    "title": "Trump Irs Lawsuit: Consumer Alert Monitoring",
+    "id": "judge-voids-trump-irs-agreement",
+    "slug": "judge-voids-trump-irs-agreement",
+    "title": "Judge Voids Trump Irs Agreement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "trump irs lawsuit",
+    "product": "judge voids trump irs agreement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,23 +18,24 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+voids+trump+irs+agreement&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 41,
+    "searchVolume": 50000,
+    "trendScore": 42,
     "matchedQueries": [
-      "trump irs lawsuit",
-      "trump anti weaponization fund",
-      "donald trump irs lawsuit",
-      "trump irs",
-      "trump irs settlement",
+      "judge voids trump irs agreement",
       "judge williams trump settlement ruling",
       "judge kathleen williams",
-      "lawyer"
+      "donald trump irs lawsuit",
+      "trump irs",
+      "todd blanche",
+      "trump anti weaponization fund",
+      "trump irs lawsuit",
+      "trump irs settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-13T19:48:16.019Z",
-    "url": "https://simon622.shop/item/trump-irs-lawsuit/"
+    "lastUpdated": "2026-07-14T03:32:43.491Z",
+    "url": "https://simon622.shop/item/judge-voids-trump-irs-agreement/"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T03:32:46.937Z",
-  "count": 4,
+  "updatedAt": "2026-07-14T08:27:13.937Z",
+  "count": 5,
   "items": [
     {
       "id": "judge-voids-trump-irs-agreement",
@@ -37,7 +37,7 @@
         "trump irs settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T03:32:43.491Z"
+      "lastUpdated": "2026-07-14T08:27:09.109Z"
     },
     {
       "id": "dallas-jenkins-investor-lawsuit-response",
@@ -60,13 +60,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "dallas jenkins investor lawsuit response"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T03:32:43.491Z"
+      "lastUpdated": "2026-07-14T08:27:09.109Z"
     },
     {
       "id": "hyundai-ev-battery-defect-recall",
@@ -90,12 +90,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "hyundai ev battery defect recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T03:32:43.491Z"
+      "lastUpdated": "2026-07-14T08:27:09.109Z"
     },
     {
       "id": "cash-app-state-attorneys-settlement",
@@ -124,7 +124,36 @@
         "cash app state attorneys settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T03:32:43.491Z"
+      "lastUpdated": "2026-07-14T08:27:09.109Z"
+    },
+    {
+      "id": "oribe-shampoo-recall-fda",
+      "slug": "oribe-shampoo-recall-fda",
+      "title": "Oribe Shampoo Recall Fda: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "oribe shampoo recall fda",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+recall+fda&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "oribe shampoo recall fda"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-14T08:27:09.109Z"
     }
   ]
 }

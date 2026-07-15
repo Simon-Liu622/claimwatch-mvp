@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T08:34:49.354Z",
+  "updatedAt": "2026-07-15T14:08:34.141Z",
   "item": {
     "id": "subaru-ascent-forester-crosstrek-recall",
     "slug": "subaru-ascent-forester-crosstrek-recall",
@@ -21,8 +21,8 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+ascent+forester+crosstrek+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 15,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
       "subaru ascent forester crosstrek recall",
       "subaru recall",
@@ -30,7 +30,7 @@
       "subaru recalls"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-15T08:34:45.073Z",
+    "lastUpdated": "2026-07-15T14:08:31.590Z",
     "url": "https://simon622.shop/item/subaru-ascent-forester-crosstrek-recall/"
   }
 }

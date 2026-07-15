@@ -1,28 +1,71 @@
 {
-  "updatedAt": "2026-07-15T08:34:49.354Z",
-  "count": 3,
+  "updatedAt": "2026-07-15T14:08:34.141Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 66,
+      "rank": 22,
       "query": "subaru ascent forester crosstrek recall",
-      "searchVolume": 50000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "subaru recall",
-        "subaru",
         "subaru recalls"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+ascent+forester+crosstrek+recall&tz=420",
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "subaru ascent forester crosstrek recall subaru recall subaru subaru recalls",
-      "trendScore": 15,
-      "detectedAt": "2026-07-15T08:34:45.073Z"
+      "text": "subaru ascent forester crosstrek recall subaru recalls",
+      "trendScore": 26,
+      "detectedAt": "2026-07-15T14:08:31.590Z"
     },
     {
-      "rank": 180,
+      "rank": 10,
+      "query": "product recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "product recall",
+      "trendScore": 24,
+      "detectedAt": "2026-07-15T14:08:31.590Z"
+    },
+    {
+      "rank": 29,
+      "query": "bmw starter relay recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+starter+relay+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "bmw starter relay recall",
+      "trendScore": 23,
+      "detectedAt": "2026-07-15T14:08:31.590Z"
+    },
+    {
+      "rank": 220,
+      "query": "xfinity 2023 cyber breach settlement",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "xfinity 2023 cyber breach settlement",
+      "trendScore": 8,
+      "detectedAt": "2026-07-15T14:08:31.590Z"
+    },
+    {
+      "rank": 232,
       "query": "mahmoud khalil columbia student lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -34,22 +77,7 @@
       "source": "serpapi-google-trends",
       "text": "mahmoud khalil columbia student lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-15T08:34:45.073Z"
-    },
-    {
-      "rank": 181,
-      "query": "xfinity 2023 cyber breach settlement",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "xfinity 2023 cyber breach settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-07-15T08:34:45.073Z"
+      "detectedAt": "2026-07-15T14:08:31.590Z"
     }
   ]
 }

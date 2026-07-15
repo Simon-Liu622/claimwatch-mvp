@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-07-15T14:08:34.141Z",
-  "count": 4,
+  "updatedAt": "2026-07-15T19:36:05.678Z",
+  "count": 2,
   "items": [
-    {
-      "id": "subaru-ascent-forester-crosstrek-recall",
-      "slug": "subaru-ascent-forester-crosstrek-recall",
-      "title": "Subaru Ascent Forester Crosstrek Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "subaru ascent forester crosstrek recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+ascent+forester+crosstrek+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "subaru ascent forester crosstrek recall",
-        "subaru recall",
-        "subaru",
-        "subaru recalls"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-15T14:08:31.590Z"
-    },
     {
       "id": "bmw-starter-relay-recall",
       "slug": "bmw-starter-relay-recall",
@@ -55,42 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+starter+relay+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "bmw starter relay recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T14:08:31.590Z"
-    },
-    {
-      "id": "xfinity-2023-cyber-breach-settlement",
-      "slug": "xfinity-2023-cyber-breach-settlement",
-      "title": "Xfinity 2023 Cyber Breach Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "xfinity 2023 cyber breach settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "xfinity 2023 cyber breach settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-15T14:08:31.590Z"
+      "lastUpdated": "2026-07-15T19:36:02.915Z"
     },
     {
       "id": "mahmoud-khalil-columbia-student-lawsuit",
@@ -119,7 +58,7 @@
         "mahmoud khalil columbia student lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T14:08:31.590Z"
+      "lastUpdated": "2026-07-15T19:36:02.915Z"
     }
   ]
 }

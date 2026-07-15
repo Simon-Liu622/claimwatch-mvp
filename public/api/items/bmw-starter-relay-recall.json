@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T14:08:34.141Z",
+  "updatedAt": "2026-07-15T19:36:05.678Z",
   "item": {
     "id": "bmw-starter-relay-recall",
     "slug": "bmw-starter-relay-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+starter+relay+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
       "bmw starter relay recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-15T14:08:31.590Z",
+    "lastUpdated": "2026-07-15T19:36:02.915Z",
     "url": "https://simon622.shop/item/bmw-starter-relay-recall/"
   }
 }

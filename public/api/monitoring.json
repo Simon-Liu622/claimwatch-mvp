@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-15T03:33:25.955Z",
+  "updatedAt": "2026-07-15T08:34:49.354Z",
   "count": 3,
   "items": [
     {
-      "id": "subaru-recall",
-      "slug": "subaru-recall",
-      "title": "Subaru Recall: Consumer Alert Monitoring",
+      "id": "subaru-ascent-forester-crosstrek-recall",
+      "slug": "subaru-ascent-forester-crosstrek-recall",
+      "title": "Subaru Ascent Forester Crosstrek Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "subaru recall",
+      "product": "subaru ascent forester crosstrek recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+ascent+forester+crosstrek+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 50000,
       "trendScore": 15,
       "matchedQueries": [
-        "subaru recall",
         "subaru ascent forester crosstrek recall",
-        "subaru recalls",
-        "subaru"
+        "subaru recall",
+        "subaru",
+        "subaru recalls"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T03:33:22.397Z"
+      "lastUpdated": "2026-07-15T08:34:45.073Z"
     },
     {
       "id": "xfinity-2023-cyber-breach-settlement",
@@ -61,7 +61,7 @@
         "xfinity 2023 cyber breach settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T03:33:22.397Z"
+      "lastUpdated": "2026-07-15T08:34:45.073Z"
     },
     {
       "id": "mahmoud-khalil-columbia-student-lawsuit",
@@ -90,7 +90,7 @@
         "mahmoud khalil columbia student lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T03:33:22.397Z"
+      "lastUpdated": "2026-07-15T08:34:45.073Z"
     }
   ]
 }

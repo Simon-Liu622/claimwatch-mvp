@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-07-15T03:33:25.955Z",
+  "updatedAt": "2026-07-15T08:34:49.354Z",
   "count": 3,
   "trends": [
     {
-      "rank": 59,
-      "query": "subaru recall",
+      "rank": 66,
+      "query": "subaru ascent forester crosstrek recall",
       "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "subaru ascent forester crosstrek recall",
+        "subaru recall",
         "subaru",
         "subaru recalls"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+ascent+forester+crosstrek+recall&tz=420",
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "subaru recall subaru ascent forester crosstrek recall subaru subaru recalls",
+      "text": "subaru ascent forester crosstrek recall subaru recall subaru subaru recalls",
       "trendScore": 15,
-      "detectedAt": "2026-07-15T03:33:22.397Z"
+      "detectedAt": "2026-07-15T08:34:45.073Z"
     },
     {
-      "rank": 166,
+      "rank": 180,
       "query": "mahmoud khalil columbia student lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -34,10 +34,10 @@
       "source": "serpapi-google-trends",
       "text": "mahmoud khalil columbia student lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-15T03:33:22.397Z"
+      "detectedAt": "2026-07-15T08:34:45.073Z"
     },
     {
-      "rank": 170,
+      "rank": 181,
       "query": "xfinity 2023 cyber breach settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -49,7 +49,7 @@
       "source": "serpapi-google-trends",
       "text": "xfinity 2023 cyber breach settlement",
       "trendScore": 8,
-      "detectedAt": "2026-07-15T03:33:22.397Z"
+      "detectedAt": "2026-07-15T08:34:45.073Z"
     }
   ]
 }

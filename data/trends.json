@@ -1,95 +1,51 @@
 [
   {
-    "rank": 11,
+    "rank": 59,
     "query": "subaru recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "subaru ascent forester crosstrek recall",
-      "subaru recalls"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "subaru recall subaru ascent forester crosstrek recall subaru recalls",
-    "trendScore": 27,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
-  },
-  {
-    "rank": 72,
-    "query": "xfinity 2023 cyber breach settlement",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "xfinity 2023 cyber breach settlement",
-    "trendScore": 23,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
-  },
-  {
-    "rank": 94,
-    "query": "dallas jenkins investor lawsuit response",
-    "searchVolume": 10000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
-    "increasePercentage": 200,
+    "breakdown": [
+      "subaru ascent forester crosstrek recall",
+      "subaru",
+      "subaru recalls"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "dallas jenkins investor lawsuit response",
-    "trendScore": 8,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
+    "text": "subaru recall subaru ascent forester crosstrek recall subaru subaru recalls",
+    "trendScore": 15,
+    "detectedAt": "2026-07-15T03:33:22.397Z"
   },
   {
-    "rank": 197,
-    "query": "oribe shampoo recall fda",
+    "rank": 166,
+    "query": "mahmoud khalil columbia student lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+recall+fda&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mahmoud+khalil+columbia+student+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "oribe shampoo recall fda",
+    "text": "mahmoud khalil columbia student lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
+    "detectedAt": "2026-07-15T03:33:22.397Z"
   },
   {
-    "rank": 290,
-    "query": "cash app state attorneys settlement",
-    "searchVolume": 1000,
+    "rank": 170,
+    "query": "xfinity 2023 cyber breach settlement",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+state+attorneys+settlement&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "cash app state attorneys settlement",
+    "text": "xfinity 2023 cyber breach settlement",
     "trendScore": 8,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
-  },
-  {
-    "rank": 302,
-    "query": "hyundai ev battery defect recall",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+ev+battery+defect+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "hyundai ev battery defect recall",
-    "trendScore": 8,
-    "detectedAt": "2026-07-14T19:41:50.764Z"
+    "detectedAt": "2026-07-15T03:33:22.397Z"
   }
 ]

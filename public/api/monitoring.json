@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T19:41:53.954Z",
-  "count": 6,
+  "updatedAt": "2026-07-15T03:33:25.955Z",
+  "count": 3,
   "items": [
     {
       "id": "subaru-recall",
@@ -23,15 +23,16 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 27,
+      "searchVolume": 50000,
+      "trendScore": 15,
       "matchedQueries": [
         "subaru recall",
         "subaru ascent forester crosstrek recall",
-        "subaru recalls"
+        "subaru recalls",
+        "subaru"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
+      "lastUpdated": "2026-07-15T03:33:22.397Z"
     },
     {
       "id": "xfinity-2023-cyber-breach-settlement",
@@ -54,23 +55,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+2023+cyber+breach+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "xfinity 2023 cyber breach settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
+      "lastUpdated": "2026-07-15T03:33:22.397Z"
     },
     {
-      "id": "dallas-jenkins-investor-lawsuit-response",
-      "slug": "dallas-jenkins-investor-lawsuit-response",
-      "title": "Dallas Jenkins Investor Lawsuit Response: Consumer Alert Monitoring",
+      "id": "mahmoud-khalil-columbia-student-lawsuit",
+      "slug": "mahmoud-khalil-columbia-student-lawsuit",
+      "title": "Mahmoud Khalil Columbia Student Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "dallas jenkins investor lawsuit response",
+      "product": "mahmoud khalil columbia student lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -80,103 +81,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+jenkins+investor+lawsuit+response&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "dallas jenkins investor lawsuit response"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
-    },
-    {
-      "id": "hyundai-ev-battery-defect-recall",
-      "slug": "hyundai-ev-battery-defect-recall",
-      "title": "Hyundai Ev Battery Defect Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "hyundai ev battery defect recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+ev+battery+defect+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "hyundai ev battery defect recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
-    },
-    {
-      "id": "cash-app-state-attorneys-settlement",
-      "slug": "cash-app-state-attorneys-settlement",
-      "title": "Cash App State Attorneys Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "cash app state attorneys settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+state+attorneys+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "cash app state attorneys settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
-    },
-    {
-      "id": "oribe-shampoo-recall-fda",
-      "slug": "oribe-shampoo-recall-fda",
-      "title": "Oribe Shampoo Recall Fda: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "oribe shampoo recall fda",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oribe+shampoo+recall+fda&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mahmoud+khalil+columbia+student+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "oribe shampoo recall fda"
+        "mahmoud khalil columbia student lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-14T19:41:50.764Z"
+      "lastUpdated": "2026-07-15T03:33:22.397Z"
     }
   ]
 }

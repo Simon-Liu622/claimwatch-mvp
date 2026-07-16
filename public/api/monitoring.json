@@ -1,45 +1,16 @@
 {
-  "updatedAt": "2026-07-15T19:36:05.678Z",
-  "count": 2,
+  "updatedAt": "2026-07-16T03:36:14.908Z",
+  "count": 1,
   "items": [
     {
-      "id": "bmw-starter-relay-recall",
-      "slug": "bmw-starter-relay-recall",
-      "title": "Bmw Starter Relay Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "cash-app-multi-state-settlement",
+      "slug": "cash-app-multi-state-settlement",
+      "title": "Cash App Multi-State Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bmw starter relay recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+starter+relay+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "bmw starter relay recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-15T19:36:02.915Z"
-    },
-    {
-      "id": "mahmoud-khalil-columbia-student-lawsuit",
-      "slug": "mahmoud-khalil-columbia-student-lawsuit",
-      "title": "Mahmoud Khalil Columbia Student Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "mahmoud khalil columbia student lawsuit",
+      "product": "cash app multi-state settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,16 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mahmoud+khalil+columbia+student+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "mahmoud khalil columbia student lawsuit"
+        "cash app multi-state settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-15T19:36:02.915Z"
+      "lastUpdated": "2026-07-16T03:36:11.359Z"
     }
   ]
 }

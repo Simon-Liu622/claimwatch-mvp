@@ -1,21 +1,6 @@
 [
   {
-    "rank": 25,
-    "query": "bmw starter relay recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+starter+relay+recall&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "bmw starter relay recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-15T19:36:02.915Z"
-  },
-  {
-    "rank": 75,
+    "rank": 98,
     "query": "product recall",
     "searchVolume": 50000,
     "startedAt": "",
@@ -27,21 +12,21 @@
     "source": "serpapi-google-trends",
     "text": "product recall",
     "trendScore": 9,
-    "detectedAt": "2026-07-15T19:36:02.915Z"
+    "detectedAt": "2026-07-16T03:36:11.359Z"
   },
   {
-    "rank": 214,
-    "query": "mahmoud khalil columbia student lawsuit",
-    "searchVolume": 2000,
+    "rank": 265,
+    "query": "cash app multi-state settlement",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mahmoud+khalil+columbia+student+lawsuit&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "mahmoud khalil columbia student lawsuit",
+    "text": "cash app multi-state settlement",
     "trendScore": 8,
-    "detectedAt": "2026-07-15T19:36:02.915Z"
+    "detectedAt": "2026-07-16T03:36:11.359Z"
   }
 ]

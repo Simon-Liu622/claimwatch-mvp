@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-07-16T08:33:34.230Z",
+  "updatedAt": "2026-07-16T14:22:03.518Z",
   "count": 2,
   "trends": [
     {
-      "rank": 101,
-      "query": "product recall",
-      "searchVolume": 50000,
+      "rank": 110,
+      "query": "cash app multi-state settlement",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 300,
+      "active": true,
+      "breakdown": [
+        "block inc legal settlement"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 9,
-      "detectedAt": "2026-07-16T08:33:32.348Z"
+      "text": "cash app multi-state settlement block inc legal settlement",
+      "trendScore": 25,
+      "detectedAt": "2026-07-16T14:21:59.640Z"
     },
     {
-      "rank": 325,
-      "query": "cash app multi-state settlement",
-      "searchVolume": 500,
+      "rank": 27,
+      "query": "arbor mill hoa lawsuit bethany michel",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arbor+mill+hoa+lawsuit+bethany+michel&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "cash app multi-state settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-07-16T08:33:32.348Z"
+      "text": "arbor mill hoa lawsuit bethany michel",
+      "trendScore": 23,
+      "detectedAt": "2026-07-16T14:21:59.640Z"
     }
   ]
 }

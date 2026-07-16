@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T08:33:34.230Z",
-  "count": 1,
+  "updatedAt": "2026-07-16T14:22:03.518Z",
+  "count": 2,
   "items": [
     {
       "id": "cash-app-multi-state-settlement",
@@ -23,13 +23,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 25,
       "matchedQueries": [
-        "cash app multi-state settlement"
+        "cash app multi-state settlement",
+        "block inc legal settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-16T08:33:32.348Z"
+      "lastUpdated": "2026-07-16T14:21:59.640Z"
+    },
+    {
+      "id": "arbor-mill-hoa-lawsuit-bethany-michel",
+      "slug": "arbor-mill-hoa-lawsuit-bethany-michel",
+      "title": "Arbor Mill Hoa Lawsuit Bethany Michel: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "arbor mill hoa lawsuit bethany michel",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arbor+mill+hoa+lawsuit+bethany+michel&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "arbor mill hoa lawsuit bethany michel"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-16T14:21:59.640Z"
     }
   ]
 }

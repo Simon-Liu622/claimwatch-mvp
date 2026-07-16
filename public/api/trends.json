@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-16T14:22:03.518Z",
-  "count": 2,
+  "updatedAt": "2026-07-16T19:33:45.813Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 110,
+      "rank": 40,
       "query": "cash app multi-state settlement",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -13,26 +13,41 @@
         "block inc legal settlement"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "cash app multi-state settlement block inc legal settlement",
       "trendScore": 25,
-      "detectedAt": "2026-07-16T14:21:59.640Z"
+      "detectedAt": "2026-07-16T19:33:43.355Z"
     },
     {
-      "rank": 27,
-      "query": "arbor mill hoa lawsuit bethany michel",
+      "rank": 31,
+      "query": "general mills pillsbury roll recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+mills+pillsbury+roll+recall&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "general mills pillsbury roll recall",
+      "trendScore": 23,
+      "detectedAt": "2026-07-16T19:33:43.355Z"
+    },
+    {
+      "rank": 118,
+      "query": "arbor mill hoa lawsuit bethany michel",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arbor+mill+hoa+lawsuit+bethany+michel&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "arbor mill hoa lawsuit bethany michel",
-      "trendScore": 23,
-      "detectedAt": "2026-07-16T14:21:59.640Z"
+      "trendScore": 8,
+      "detectedAt": "2026-07-16T19:33:43.355Z"
     }
   ]
 }

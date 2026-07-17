@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-07-17T03:36:16.755Z",
+  "updatedAt": "2026-07-17T08:27:17.106Z",
   "count": 3,
   "trends": [
+    {
+      "rank": 29,
+      "query": "block inc legal settlement",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "block inc legal settlement",
+      "trendScore": 23,
+      "detectedAt": "2026-07-17T08:27:14.511Z"
+    },
     {
       "rank": 82,
       "query": "general mills pillsbury roll recall",
@@ -15,25 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "general mills pillsbury roll recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-17T03:36:13.491Z"
+      "detectedAt": "2026-07-17T08:27:14.511Z"
     },
     {
-      "rank": 94,
-      "query": "block inc legal settlement",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "block inc legal settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-07-17T03:36:13.491Z"
-    },
-    {
-      "rank": 165,
+      "rank": 142,
       "query": "arbor mill hoa lawsuit bethany michel",
       "searchVolume": 5000,
       "startedAt": "",
@@ -45,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "arbor mill hoa lawsuit bethany michel",
       "trendScore": 8,
-      "detectedAt": "2026-07-17T03:36:13.491Z"
+      "detectedAt": "2026-07-17T08:27:14.511Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-17T08:27:17.106Z",
+  "updatedAt": "2026-07-17T14:02:24.774Z",
   "item": {
-    "id": "block-inc-legal-settlement",
-    "slug": "block-inc-legal-settlement",
-    "title": "Block Inc Legal Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "sam-altman-openai-lawsuit-alabama",
+    "slug": "sam-altman-openai-lawsuit-alabama",
+    "title": "Sam Altman Openai Lawsuit Alabama: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "block inc legal settlement",
+    "product": "sam altman openai lawsuit alabama",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sam+altman+openai+lawsuit+alabama&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 8,
     "matchedQueries": [
-      "block inc legal settlement"
+      "sam altman openai lawsuit alabama"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-17T08:27:14.511Z",
-    "url": "https://simon622.shop/item/block-inc-legal-settlement/"
+    "lastUpdated": "2026-07-17T14:02:11.156Z",
+    "url": "https://simon622.shop/item/sam-altman-openai-lawsuit-alabama/"
   }
 }

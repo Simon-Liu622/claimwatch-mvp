@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-07-17T08:27:17.106Z",
-  "count": 3,
+  "updatedAt": "2026-07-17T14:02:24.774Z",
+  "count": 2,
   "items": [
-    {
-      "id": "block-inc-legal-settlement",
-      "slug": "block-inc-legal-settlement",
-      "title": "Block Inc Legal Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "block inc legal settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "block inc legal settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-17T08:27:14.511Z"
-    },
     {
       "id": "general-mills-pillsbury-roll-recall",
       "slug": "general-mills-pillsbury-roll-recall",
@@ -53,22 +24,22 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "general mills pillsbury roll recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-17T08:27:14.511Z"
+      "lastUpdated": "2026-07-17T14:02:11.156Z"
     },
     {
-      "id": "arbor-mill-hoa-lawsuit-bethany-michel",
-      "slug": "arbor-mill-hoa-lawsuit-bethany-michel",
-      "title": "Arbor Mill Hoa Lawsuit Bethany Michel: Consumer Alert Monitoring",
+      "id": "sam-altman-openai-lawsuit-alabama",
+      "slug": "sam-altman-openai-lawsuit-alabama",
+      "title": "Sam Altman Openai Lawsuit Alabama: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "arbor mill hoa lawsuit bethany michel",
+      "product": "sam altman openai lawsuit alabama",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -78,16 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arbor+mill+hoa+lawsuit+bethany+michel&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sam+altman+openai+lawsuit+alabama&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 8,
       "matchedQueries": [
-        "arbor mill hoa lawsuit bethany michel"
+        "sam altman openai lawsuit alabama"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-17T08:27:14.511Z"
+      "lastUpdated": "2026-07-17T14:02:11.156Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-17T14:02:24.774Z",
+  "updatedAt": "2026-07-17T19:32:18.392Z",
   "item": {
-    "id": "general-mills-pillsbury-roll-recall",
-    "slug": "general-mills-pillsbury-roll-recall",
-    "title": "General Mills Pillsbury Roll Recall: Consumer Alert Monitoring",
+    "id": "madewell-tj-maxx-sweater-recall",
+    "slug": "madewell-tj-maxx-sweater-recall",
+    "title": "Madewell Tj Maxx Sweater Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "general mills pillsbury roll recall",
+    "product": "madewell tj maxx sweater recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+mills+pillsbury+roll+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
+    "searchVolume": 2000,
     "trendScore": 23,
     "matchedQueries": [
-      "general mills pillsbury roll recall"
+      "madewell tj maxx sweater recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-17T14:02:11.156Z",
-    "url": "https://simon622.shop/item/general-mills-pillsbury-roll-recall/"
+    "lastUpdated": "2026-07-17T19:32:04.513Z",
+    "url": "https://simon622.shop/item/madewell-tj-maxx-sweater-recall/"
   }
 }

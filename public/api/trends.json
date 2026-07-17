@@ -1,41 +1,39 @@
 {
-  "updatedAt": "2026-07-16T19:33:45.813Z",
+  "updatedAt": "2026-07-17T03:36:16.755Z",
   "count": 3,
   "trends": [
     {
-      "rank": 40,
-      "query": "cash app multi-state settlement",
+      "rank": 82,
+      "query": "general mills pillsbury roll recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "block inc legal settlement"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
-      "increasePercentage": 300,
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+mills+pillsbury+roll+recall&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "cash app multi-state settlement block inc legal settlement",
-      "trendScore": 25,
-      "detectedAt": "2026-07-16T19:33:43.355Z"
+      "text": "general mills pillsbury roll recall",
+      "trendScore": 8,
+      "detectedAt": "2026-07-17T03:36:13.491Z"
     },
     {
-      "rank": 31,
-      "query": "general mills pillsbury roll recall",
+      "rank": 94,
+      "query": "block inc legal settlement",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+mills+pillsbury+roll+recall&tz=420",
-      "increasePercentage": 600,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "general mills pillsbury roll recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-16T19:33:43.355Z"
+      "text": "block inc legal settlement",
+      "trendScore": 8,
+      "detectedAt": "2026-07-17T03:36:13.491Z"
     },
     {
-      "rank": 118,
+      "rank": 165,
       "query": "arbor mill hoa lawsuit bethany michel",
       "searchVolume": 5000,
       "startedAt": "",
@@ -47,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "arbor mill hoa lawsuit bethany michel",
       "trendScore": 8,
-      "detectedAt": "2026-07-16T19:33:43.355Z"
+      "detectedAt": "2026-07-17T03:36:13.491Z"
     }
   ]
 }

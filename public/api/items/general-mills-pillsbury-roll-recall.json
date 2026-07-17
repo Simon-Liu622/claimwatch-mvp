@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T19:33:45.813Z",
+  "updatedAt": "2026-07-17T03:36:16.755Z",
   "item": {
     "id": "general-mills-pillsbury-roll-recall",
     "slug": "general-mills-pillsbury-roll-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+mills+pillsbury+roll+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 8,
     "matchedQueries": [
       "general mills pillsbury roll recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-16T19:33:43.355Z",
+    "lastUpdated": "2026-07-17T03:36:13.491Z",
     "url": "https://simon622.shop/item/general-mills-pillsbury-roll-recall/"
   }
 }

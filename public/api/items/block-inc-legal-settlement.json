@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-16T19:33:45.813Z",
+  "updatedAt": "2026-07-17T03:36:16.755Z",
   "item": {
-    "id": "cash-app-multi-state-settlement",
-    "slug": "cash-app-multi-state-settlement",
-    "title": "Cash App Multi-State Settlement: Consumer Alert Monitoring",
+    "id": "block-inc-legal-settlement",
+    "slug": "block-inc-legal-settlement",
+    "title": "Block Inc Legal Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "cash app multi-state settlement",
+    "product": "block inc legal settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+multi-state+settlement&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=block+inc+legal+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 5000,
+    "trendScore": 8,
     "matchedQueries": [
-      "cash app multi-state settlement",
       "block inc legal settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-16T19:33:43.355Z",
-    "url": "https://simon622.shop/item/cash-app-multi-state-settlement/"
+    "lastUpdated": "2026-07-17T03:36:13.491Z",
+    "url": "https://simon622.shop/item/block-inc-legal-settlement/"
   }
 }

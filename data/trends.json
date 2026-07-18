@@ -1,38 +1,25 @@
 [
   {
-    "rank": 66,
-    "query": "judge talwani trump grant lawsuit",
-    "searchVolume": 2000,
+    "rank": 76,
+    "query": "diarrhea",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "judge"
+      "bill marler cyclospora lawsuit",
+      "iceberg",
+      "taco bell lettuce parasite"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+talwani+trump+grant+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=diarrhea&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "judge talwani trump grant lawsuit judge",
-    "trendScore": 25,
-    "detectedAt": "2026-07-18T08:07:30.961Z"
+    "text": "diarrhea bill marler cyclospora lawsuit iceberg taco bell lettuce parasite",
+    "trendScore": 29,
+    "detectedAt": "2026-07-18T13:48:36.140Z"
   },
   {
-    "rank": 28,
-    "query": "us canada panasonic toaster recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+canada+panasonic+toaster+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "us canada panasonic toaster recall",
-    "trendScore": 24,
-    "detectedAt": "2026-07-18T08:07:30.961Z"
-  },
-  {
-    "rank": 29,
+    "rank": 10,
     "query": "madewell tj maxx sweater recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -40,29 +27,89 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
-    "increasePercentage": 700,
+    "increasePercentage": 800,
     "source": "serpapi-google-trends",
     "text": "madewell tj maxx sweater recall",
     "trendScore": 24,
-    "detectedAt": "2026-07-18T08:07:30.961Z"
+    "detectedAt": "2026-07-18T13:48:36.140Z"
   },
   {
-    "rank": 217,
-    "query": "subaru safety label recall",
-    "searchVolume": 2000,
+    "rank": 26,
+    "query": "us canada panasonic toaster recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+canada+panasonic+toaster+recall&tz=420",
+    "increasePercentage": 700,
+    "source": "serpapi-google-trends",
+    "text": "us canada panasonic toaster recall",
+    "trendScore": 24,
+    "detectedAt": "2026-07-18T13:48:36.140Z"
+  },
+  {
+    "rank": 8,
+    "query": "heavenly spices garlic powder recall",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heavenly+spices+garlic+powder+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "heavenly spices garlic powder recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-18T13:48:36.140Z"
+  },
+  {
+    "rank": 20,
+    "query": "judge talwani trump grant lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+talwani+trump+grant+lawsuit&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "judge talwani trump grant lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-07-18T13:48:36.140Z"
+  },
+  {
+    "rank": 88,
+    "query": "cape cod cliff house mortgage lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cape+cod+cliff+house+mortgage+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "cape cod cliff house mortgage lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-07-18T13:48:36.140Z"
+  },
+  {
+    "rank": 236,
+    "query": "aclu elizabeth jones lawsuit",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=subaru+safety+label+recall&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aclu+elizabeth+jones+lawsuit&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "subaru safety label recall",
+    "text": "aclu elizabeth jones lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-18T08:07:30.961Z"
+    "detectedAt": "2026-07-18T13:48:36.140Z"
   },
   {
-    "rank": 311,
+    "rank": 337,
     "query": "jaxon kohler ncaa lawsuit california",
     "searchVolume": 500,
     "startedAt": "",
@@ -74,6 +121,6 @@
     "source": "serpapi-google-trends",
     "text": "jaxon kohler ncaa lawsuit california",
     "trendScore": 8,
-    "detectedAt": "2026-07-18T08:07:30.961Z"
+    "detectedAt": "2026-07-18T13:48:36.140Z"
   }
 ]

@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-07-18T08:07:32.932Z",
-  "count": 4,
+  "updatedAt": "2026-07-18T13:48:38.561Z",
+  "count": 7,
   "items": [
+    {
+      "id": "diarrhea",
+      "slug": "diarrhea",
+      "title": "Diarrhea: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "diarrhea",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=diarrhea&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 29,
+      "matchedQueries": [
+        "diarrhea",
+        "bill marler cyclospora lawsuit",
+        "iceberg",
+        "taco bell lettuce parasite"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-18T13:48:36.140Z"
+    },
     {
       "id": "judge-talwani-trump-grant-lawsuit",
       "slug": "judge-talwani-trump-grant-lawsuit",
@@ -23,14 +55,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+talwani+trump+grant+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 23,
       "matchedQueries": [
         "judge talwani trump grant lawsuit",
         "judge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T08:07:30.961Z"
+      "lastUpdated": "2026-07-18T13:48:36.140Z"
+    },
+    {
+      "id": "cape-cod-cliff-house-mortgage-lawsuit",
+      "slug": "cape-cod-cliff-house-mortgage-lawsuit",
+      "title": "Cape Cod Cliff House Mortgage Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "cape cod cliff house mortgage lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cape+cod+cliff+house+mortgage+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "cape cod cliff house mortgage lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-18T13:48:36.140Z"
     },
     {
       "id": "madewell-tj-maxx-sweater-recall",
@@ -117,7 +178,36 @@
         "jaxon kohler ncaa lawsuit california"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T08:07:30.961Z"
+      "lastUpdated": "2026-07-18T13:48:36.140Z"
+    },
+    {
+      "id": "aclu-elizabeth-jones-lawsuit",
+      "slug": "aclu-elizabeth-jones-lawsuit",
+      "title": "Aclu Elizabeth Jones Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "aclu elizabeth jones lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aclu+elizabeth+jones+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "aclu elizabeth jones lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-18T13:48:36.140Z"
     }
   ]
 }

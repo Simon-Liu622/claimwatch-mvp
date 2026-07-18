@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:32:18.392Z",
+  "updatedAt": "2026-07-18T03:30:41.793Z",
   "item": {
     "id": "cpsc-26567",
     "slug": "cpsc-26567",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Michley-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
     "sourceAgency": "CPSC",
-    "searchVolume": 20000,
+    "searchVolume": 2000,
     "trendScore": 40,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "subaru safety label recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "26567",
     "recallInitiationDate": "2026-06-18T00:00:00",
-    "lastUpdated": "2026-07-17T08:27:14.511Z",
+    "lastUpdated": "2026-07-18T03:30:39.455Z",
     "url": "https://simon622.shop/item/cpsc-26567/"
   }
 }

@@ -1,51 +1,36 @@
 [
   {
-    "rank": 42,
-    "query": "madewell tj maxx sweater recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "madewell tj maxx sweater recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-17T19:32:04.513Z"
-  },
-  {
-    "rank": 43,
+    "rank": 27,
     "query": "us canada panasonic toaster recall",
-    "searchVolume": 2000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+canada+panasonic+toaster+recall&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "us canada panasonic toaster recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-17T19:32:04.513Z"
+    "trendScore": 24,
+    "detectedAt": "2026-07-18T03:30:39.455Z"
   },
   {
-    "rank": 92,
-    "query": "sam altman openai lawsuit alabama",
-    "searchVolume": 10000,
+    "rank": 32,
+    "query": "madewell tj maxx sweater recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sam+altman+openai+lawsuit+alabama&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
-    "text": "sam altman openai lawsuit alabama",
-    "trendScore": 8,
-    "detectedAt": "2026-07-17T19:32:04.513Z"
+    "text": "madewell tj maxx sweater recall",
+    "trendScore": 24,
+    "detectedAt": "2026-07-18T03:30:39.455Z"
   },
   {
-    "rank": 129,
+    "rank": 190,
     "query": "subaru safety label recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -57,6 +42,6 @@
     "source": "serpapi-google-trends",
     "text": "subaru safety label recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-17T19:32:04.513Z"
+    "detectedAt": "2026-07-18T03:30:39.455Z"
   }
 ]

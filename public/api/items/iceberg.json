@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-18T13:48:38.561Z",
+  "updatedAt": "2026-07-18T19:30:33.290Z",
   "item": {
-    "id": "madewell-tj-maxx-sweater-recall",
-    "slug": "madewell-tj-maxx-sweater-recall",
-    "title": "Madewell Tj Maxx Sweater Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "iceberg",
+    "slug": "iceberg",
+    "title": "Iceberg: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "madewell tj maxx sweater recall",
-    "category": "Recall monitoring",
+    "product": "iceberg",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 5000,
+    "trendScore": 12,
     "matchedQueries": [
-      "madewell tj maxx sweater recall"
+      "iceberg",
+      "bill marler cyclospora lawsuit",
+      "taco bell lettuce parasite"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-17T19:32:04.513Z",
-    "url": "https://simon622.shop/item/madewell-tj-maxx-sweater-recall/"
+    "lastUpdated": "2026-07-18T19:30:29.276Z",
+    "url": "https://simon622.shop/item/iceberg/"
   }
 }

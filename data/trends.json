@@ -1,57 +1,8 @@
 [
   {
-    "rank": 76,
-    "query": "diarrhea",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "bill marler cyclospora lawsuit",
-      "iceberg",
-      "taco bell lettuce parasite"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=diarrhea&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "diarrhea bill marler cyclospora lawsuit iceberg taco bell lettuce parasite",
-    "trendScore": 29,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
-  },
-  {
-    "rank": 10,
-    "query": "madewell tj maxx sweater recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=madewell+tj+maxx+sweater+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "madewell tj maxx sweater recall",
-    "trendScore": 24,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
-  },
-  {
-    "rank": 26,
-    "query": "us canada panasonic toaster recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+canada+panasonic+toaster+recall&tz=420",
-    "increasePercentage": 700,
-    "source": "serpapi-google-trends",
-    "text": "us canada panasonic toaster recall",
-    "trendScore": 24,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
-  },
-  {
-    "rank": 8,
+    "rank": 2,
     "query": "heavenly spices garlic powder recall",
-    "searchVolume": 10000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -60,13 +11,13 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "heavenly spices garlic powder recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
+    "trendScore": 24,
+    "detectedAt": "2026-07-18T19:30:29.276Z"
   },
   {
-    "rank": 20,
+    "rank": 4,
     "query": "judge talwani trump grant lawsuit",
-    "searchVolume": 10000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -75,26 +26,59 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "judge talwani trump grant lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
+    "trendScore": 24,
+    "detectedAt": "2026-07-18T19:30:29.276Z"
   },
   {
-    "rank": 88,
-    "query": "cape cod cliff house mortgage lawsuit",
-    "searchVolume": 1000,
+    "rank": 221,
+    "query": "iceberg",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
+    "breakdown": [
+      "bill marler cyclospora lawsuit",
+      "taco bell lettuce parasite"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "iceberg bill marler cyclospora lawsuit taco bell lettuce parasite",
+    "trendScore": 12,
+    "detectedAt": "2026-07-18T19:30:29.276Z"
+  },
+  {
+    "rank": 136,
+    "query": "cape cod cliff house mortgage lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cape+cod+cliff+house+mortgage+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "cape cod cliff house mortgage lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
+    "trendScore": 8,
+    "detectedAt": "2026-07-18T19:30:29.276Z"
   },
   {
-    "rank": 236,
+    "rank": 268,
+    "query": "la28 olympic ticket tax refund",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la28+olympic+ticket+tax+refund&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "la28 olympic ticket tax refund",
+    "trendScore": 8,
+    "detectedAt": "2026-07-18T19:30:29.276Z"
+  },
+  {
+    "rank": 318,
     "query": "aclu elizabeth jones lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -106,10 +90,10 @@
     "source": "serpapi-google-trends",
     "text": "aclu elizabeth jones lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
+    "detectedAt": "2026-07-18T19:30:29.276Z"
   },
   {
-    "rank": 337,
+    "rank": 346,
     "query": "jaxon kohler ncaa lawsuit california",
     "searchVolume": 500,
     "startedAt": "",
@@ -121,6 +105,6 @@
     "source": "serpapi-google-trends",
     "text": "jaxon kohler ncaa lawsuit california",
     "trendScore": 8,
-    "detectedAt": "2026-07-18T13:48:36.140Z"
+    "detectedAt": "2026-07-18T19:30:29.276Z"
   }
 ]

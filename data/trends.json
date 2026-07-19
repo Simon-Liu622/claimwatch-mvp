@@ -1,25 +1,6 @@
 [
   {
-    "rank": 52,
-    "query": "salad",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "taylor farms recall",
-      "iceberg lettuce recall",
-      "iceberg lettuce"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "salad taylor farms recall iceberg lettuce recall iceberg lettuce",
-    "trendScore": 30,
-    "detectedAt": "2026-07-19T13:52:43.444Z"
-  },
-  {
-    "rank": 26,
+    "rank": 12,
     "query": "switched at birth lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -29,10 +10,29 @@
       "kyle bylin jeremy morrison lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "switched at birth lawsuit kyle bylin jeremy morrison lawsuit",
     "trendScore": 26,
-    "detectedAt": "2026-07-19T13:52:43.444Z"
+    "detectedAt": "2026-07-19T19:31:23.596Z"
+  },
+  {
+    "rank": 113,
+    "query": "salad",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "taylor farms recall",
+      "iceberg lettuce recall",
+      "iceberg lettuce"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
+    "increasePercentage": 700,
+    "source": "serpapi-google-trends",
+    "text": "salad taylor farms recall iceberg lettuce recall iceberg lettuce",
+    "trendScore": 15,
+    "detectedAt": "2026-07-19T19:31:23.596Z"
   }
 ]

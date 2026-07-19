@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-07-19T13:52:46.992Z",
+  "updatedAt": "2026-07-19T19:31:28.915Z",
   "count": 2,
   "items": [
-    {
-      "id": "salad",
-      "slug": "salad",
-      "title": "Salad: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "salad",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 30,
-      "matchedQueries": [
-        "salad",
-        "taylor farms recall",
-        "iceberg lettuce recall",
-        "iceberg lettuce"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-19T13:52:43.444Z"
-    },
     {
       "id": "switched-at-birth-lawsuit",
       "slug": "switched-at-birth-lawsuit",
@@ -62,7 +30,39 @@
         "kyle bylin jeremy morrison lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-19T13:52:43.444Z"
+      "lastUpdated": "2026-07-19T19:31:23.596Z"
+    },
+    {
+      "id": "salad",
+      "slug": "salad",
+      "title": "Salad: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "salad",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 50000,
+      "trendScore": 15,
+      "matchedQueries": [
+        "salad",
+        "taylor farms recall",
+        "iceberg lettuce recall",
+        "iceberg lettuce"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-19T19:31:23.596Z"
     }
   ]
 }

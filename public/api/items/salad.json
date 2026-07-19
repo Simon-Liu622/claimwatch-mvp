@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:52:46.992Z",
+  "updatedAt": "2026-07-19T19:31:28.915Z",
   "item": {
     "id": "salad",
     "slug": "salad",
@@ -21,8 +21,8 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 30,
+    "searchVolume": 50000,
+    "trendScore": 15,
     "matchedQueries": [
       "salad",
       "taylor farms recall",
@@ -30,7 +30,7 @@
       "iceberg lettuce"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-19T13:52:43.444Z",
+    "lastUpdated": "2026-07-19T19:31:23.596Z",
     "url": "https://simon622.shop/item/salad/"
   }
 }

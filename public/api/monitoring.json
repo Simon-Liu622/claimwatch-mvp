@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-07-19T03:53:33.776Z",
-  "count": 6,
+  "updatedAt": "2026-07-19T08:32:21.460Z",
+  "count": 4,
   "items": [
-    {
-      "id": "judge-talwani-trump-grant-lawsuit",
-      "slug": "judge-talwani-trump-grant-lawsuit",
-      "title": "Judge Talwani Trump Grant Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "judge talwani trump grant lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+talwani+trump+grant+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "judge talwani trump grant lawsuit",
-        "judge"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
-    },
-    {
-      "id": "switched-at-birth-lawsuit",
-      "slug": "switched-at-birth-lawsuit",
-      "title": "Switched At Birth Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "switched at birth lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "switched at birth lawsuit",
-        "kyle bylin jeremy morrison lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
-    },
     {
       "id": "taylor-farms-recall",
       "slug": "taylor-farms-recall",
@@ -91,7 +31,37 @@
         "bill marler cyclospora lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
+      "lastUpdated": "2026-07-19T08:32:13.598Z"
+    },
+    {
+      "id": "switched-at-birth-lawsuit",
+      "slug": "switched-at-birth-lawsuit",
+      "title": "Switched At Birth Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "switched at birth lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "switched at birth lawsuit",
+        "kyle bylin jeremy morrison lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-19T08:32:13.598Z"
     },
     {
       "id": "cape-cod-cliff-house-mortgage-lawsuit",
@@ -120,7 +90,7 @@
         "cape cod cliff house mortgage lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
+      "lastUpdated": "2026-07-19T08:32:13.598Z"
     },
     {
       "id": "aclu-elizabeth-jones-lawsuit",
@@ -149,36 +119,7 @@
         "aclu elizabeth jones lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
-    },
-    {
-      "id": "la28-olympic-ticket-tax-refund",
-      "slug": "la28-olympic-ticket-tax-refund",
-      "title": "La28 Olympic Ticket Tax Refund: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "la28 olympic ticket tax refund",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la28+olympic+ticket+tax+refund&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "la28 olympic ticket tax refund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-19T03:53:30.514Z"
+      "lastUpdated": "2026-07-19T08:32:13.598Z"
     }
   ]
 }

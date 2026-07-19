@@ -1,26 +1,28 @@
 {
-  "updatedAt": "2026-07-18T19:30:33.290Z",
+  "updatedAt": "2026-07-19T03:53:33.776Z",
   "count": 7,
   "trends": [
     {
-      "rank": 2,
+      "rank": 7,
       "query": "heavenly spices garlic powder recall",
-      "searchVolume": 50000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "garlic powder recalled"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heavenly+spices+garlic+powder+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "heavenly spices garlic powder recall",
-      "trendScore": 24,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "text": "heavenly spices garlic powder recall garlic powder recalled",
+      "trendScore": 28,
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     },
     {
-      "rank": 4,
+      "rank": 1,
       "query": "judge talwani trump grant lawsuit",
-      "searchVolume": 50000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -29,29 +31,46 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "judge talwani trump grant lawsuit",
-      "trendScore": 24,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "trendScore": 26,
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     },
     {
-      "rank": 221,
-      "query": "iceberg",
+      "rank": 65,
+      "query": "switched at birth lawsuit",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "kyle bylin jeremy morrison lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "switched at birth lawsuit kyle bylin jeremy morrison lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-07-19T03:53:30.514Z"
+    },
+    {
+      "rank": 175,
+      "query": "taylor farms recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "bill marler cyclospora lawsuit",
-        "taco bell lettuce parasite"
+        "salad",
+        "bill marler cyclospora lawsuit"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "iceberg bill marler cyclospora lawsuit taco bell lettuce parasite",
-      "trendScore": 12,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "text": "taylor farms recall salad bill marler cyclospora lawsuit",
+      "trendScore": 20,
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     },
     {
-      "rank": 136,
+      "rank": 205,
       "query": "cape cod cliff house mortgage lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -63,10 +82,10 @@
       "source": "serpapi-google-trends",
       "text": "cape cod cliff house mortgage lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     },
     {
-      "rank": 268,
+      "rank": 349,
       "query": "la28 olympic ticket tax refund",
       "searchVolume": 1000,
       "startedAt": "",
@@ -78,10 +97,10 @@
       "source": "serpapi-google-trends",
       "text": "la28 olympic ticket tax refund",
       "trendScore": 8,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     },
     {
-      "rank": 318,
+      "rank": 388,
       "query": "aclu elizabeth jones lawsuit",
       "searchVolume": 200,
       "startedAt": "",
@@ -93,22 +112,7 @@
       "source": "serpapi-google-trends",
       "text": "aclu elizabeth jones lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
-    },
-    {
-      "rank": 346,
-      "query": "jaxon kohler ncaa lawsuit california",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jaxon+kohler+ncaa+lawsuit+california&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "jaxon kohler ncaa lawsuit california",
-      "trendScore": 8,
-      "detectedAt": "2026-07-18T19:30:29.276Z"
+      "detectedAt": "2026-07-19T03:53:30.514Z"
     }
   ]
 }

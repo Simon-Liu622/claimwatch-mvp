@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:30:33.290Z",
+  "updatedAt": "2026-07-19T03:53:33.776Z",
   "count": 6,
   "items": [
     {
@@ -23,24 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge+talwani+trump+grant+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
+      "searchVolume": 100000,
+      "trendScore": 26,
       "matchedQueries": [
         "judge talwani trump grant lawsuit",
         "judge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
     },
     {
-      "id": "iceberg",
-      "slug": "iceberg",
-      "title": "Iceberg: Consumer Alert Monitoring",
+      "id": "switched-at-birth-lawsuit",
+      "slug": "switched-at-birth-lawsuit",
+      "title": "Switched At Birth Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "iceberg",
+      "product": "switched at birth lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,18 +50,48 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "switched at birth lawsuit",
+        "kyle bylin jeremy morrison lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
+    },
+    {
+      "id": "taylor-farms-recall",
+      "slug": "taylor-farms-recall",
+      "title": "Taylor Farms Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "taylor farms recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 12,
+      "trendScore": 20,
       "matchedQueries": [
-        "iceberg",
-        "bill marler cyclospora lawsuit",
-        "taco bell lettuce parasite"
+        "taylor farms recall",
+        "salad",
+        "bill marler cyclospora lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
     },
     {
       "id": "cape-cod-cliff-house-mortgage-lawsuit",
@@ -90,36 +120,7 @@
         "cape cod cliff house mortgage lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
-    },
-    {
-      "id": "jaxon-kohler-ncaa-lawsuit-california",
-      "slug": "jaxon-kohler-ncaa-lawsuit-california",
-      "title": "Jaxon Kohler Ncaa Lawsuit California: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jaxon kohler ncaa lawsuit california",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jaxon+kohler+ncaa+lawsuit+california&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "jaxon kohler ncaa lawsuit california"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
     },
     {
       "id": "aclu-elizabeth-jones-lawsuit",
@@ -148,7 +149,7 @@
         "aclu elizabeth jones lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
     },
     {
       "id": "la28-olympic-ticket-tax-refund",
@@ -177,7 +178,7 @@
         "la28 olympic ticket tax refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-18T19:30:29.276Z"
+      "lastUpdated": "2026-07-19T03:53:30.514Z"
     }
   ]
 }

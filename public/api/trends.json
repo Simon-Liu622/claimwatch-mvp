@@ -1,88 +1,42 @@
 {
-  "updatedAt": "2026-07-19T08:32:21.460Z",
-  "count": 5,
+  "updatedAt": "2026-07-19T13:52:46.992Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 1,
-      "query": "heavenly spices garlic powder recall",
-      "searchVolume": 100000,
+      "rank": 52,
+      "query": "salad",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "garlic powder recalled"
+        "taylor farms recall",
+        "iceberg lettuce recall",
+        "iceberg lettuce"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heavenly+spices+garlic+powder+recall&tz=420",
-      "increasePercentage": 1000,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "heavenly spices garlic powder recall garlic powder recalled",
-      "trendScore": 28,
-      "detectedAt": "2026-07-19T08:32:13.598Z"
+      "text": "salad taylor farms recall iceberg lettuce recall iceberg lettuce",
+      "trendScore": 30,
+      "detectedAt": "2026-07-19T13:52:43.444Z"
     },
     {
-      "rank": 196,
-      "query": "taylor farms recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "salad",
-        "bill marler cyclospora lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "taylor farms recall salad bill marler cyclospora lawsuit",
-      "trendScore": 20,
-      "detectedAt": "2026-07-19T08:32:13.598Z"
-    },
-    {
-      "rank": 92,
+      "rank": 26,
       "query": "switched at birth lawsuit",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
         "kyle bylin jeremy morrison lawsuit"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "switched at birth lawsuit kyle bylin jeremy morrison lawsuit",
-      "trendScore": 10,
-      "detectedAt": "2026-07-19T08:32:13.598Z"
-    },
-    {
-      "rank": 185,
-      "query": "cape cod cliff house mortgage lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cape+cod+cliff+house+mortgage+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "cape cod cliff house mortgage lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-19T08:32:13.598Z"
-    },
-    {
-      "rank": 390,
-      "query": "aclu elizabeth jones lawsuit",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aclu+elizabeth+jones+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "aclu elizabeth jones lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-19T08:32:13.598Z"
+      "trendScore": 26,
+      "detectedAt": "2026-07-19T13:52:43.444Z"
     }
   ]
 }

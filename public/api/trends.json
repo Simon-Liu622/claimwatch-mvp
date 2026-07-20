@@ -1,24 +1,23 @@
 {
-  "updatedAt": "2026-07-20T04:03:44.237Z",
+  "updatedAt": "2026-07-20T09:33:09.940Z",
   "count": 1,
   "trends": [
     {
-      "rank": 321,
-      "query": "huffpost",
-      "searchVolume": 1000,
+      "rank": 444,
+      "query": "iceberg lettuce recall",
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "iceberg lettuce recall",
         "iceberg lettuce"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=huffpost&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg+lettuce+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "huffpost iceberg lettuce recall iceberg lettuce",
-      "trendScore": 12,
-      "detectedAt": "2026-07-20T04:03:33.497Z"
+      "text": "iceberg lettuce recall iceberg lettuce",
+      "trendScore": 10,
+      "detectedAt": "2026-07-20T09:33:07.033Z"
     }
   ]
 }

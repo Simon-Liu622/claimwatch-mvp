@@ -1,23 +1,25 @@
 {
-  "updatedAt": "2026-07-20T09:33:09.940Z",
+  "updatedAt": "2026-07-20T14:32:34.355Z",
   "count": 1,
   "trends": [
     {
-      "rank": 444,
-      "query": "iceberg lettuce recall",
-      "searchVolume": 500,
+      "rank": 50,
+      "query": "taylor farms lettuce cyclospora outbreak",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "iceberg lettuce"
+        "walmart taylor farms food recall",
+        "taylor farms false positive",
+        "fda taylor farms cyclospora false positive"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg+lettuce+recall&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "iceberg lettuce recall iceberg lettuce",
-      "trendScore": 10,
-      "detectedAt": "2026-07-20T09:33:07.033Z"
+      "text": "taylor farms lettuce cyclospora outbreak walmart taylor farms food recall taylor farms false positive fda taylor farms cyclospora false positive",
+      "trendScore": 29,
+      "detectedAt": "2026-07-20T14:32:29.493Z"
     }
   ]
 }

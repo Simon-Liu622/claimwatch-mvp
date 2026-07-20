@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-20T09:33:09.940Z",
+  "updatedAt": "2026-07-20T14:32:34.355Z",
   "count": 1,
   "items": [
     {
-      "id": "iceberg-lettuce-recall",
-      "slug": "iceberg-lettuce-recall",
-      "title": "Iceberg Lettuce Recall: Consumer Alert Monitoring",
+      "id": "taylor-farms-lettuce-cyclospora-outbreak",
+      "slug": "taylor-farms-lettuce-cyclospora-outbreak",
+      "title": "Taylor Farms Lettuce Cyclospora Outbreak: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "iceberg lettuce recall",
+      "product": "taylor farms lettuce cyclospora outbreak",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iceberg+lettuce+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 10,
+      "searchVolume": 5000,
+      "trendScore": 29,
       "matchedQueries": [
-        "iceberg lettuce recall",
-        "iceberg lettuce"
+        "taylor farms lettuce cyclospora outbreak",
+        "walmart taylor farms food recall",
+        "taylor farms false positive",
+        "fda taylor farms cyclospora false positive"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-20T09:33:07.033Z"
+      "lastUpdated": "2026-07-20T14:32:29.493Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-20T14:32:34.355Z",
+  "updatedAt": "2026-07-20T19:55:42.686Z",
   "item": {
-    "id": "taylor-farms-lettuce-cyclospora-outbreak",
-    "slug": "taylor-farms-lettuce-cyclospora-outbreak",
-    "title": "Taylor Farms Lettuce Cyclospora Outbreak: Consumer Alert Monitoring",
+    "id": "walmart-taylor-farms-food-recall",
+    "slug": "walmart-taylor-farms-food-recall",
+    "title": "Walmart Taylor Farms Food Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "taylor farms lettuce cyclospora outbreak",
+    "product": "walmart taylor farms food recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,21 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+taylor+farms+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 29,
+    "searchVolume": 20000,
+    "trendScore": 34,
     "matchedQueries": [
-      "taylor farms lettuce cyclospora outbreak",
       "walmart taylor farms food recall",
+      "fda lettuce parasite retraction",
+      "taylor farms lettuce cyclospora outbreak",
+      "salad",
       "taylor farms false positive",
       "fda taylor farms cyclospora false positive"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-20T14:32:29.493Z",
-    "url": "https://simon622.shop/item/taylor-farms-lettuce-cyclospora-outbreak/"
+    "lastUpdated": "2026-07-20T19:55:29.741Z",
+    "url": "https://simon622.shop/item/walmart-taylor-farms-food-recall/"
   }
 }

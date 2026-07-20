@@ -1,25 +1,44 @@
 {
-  "updatedAt": "2026-07-20T14:32:34.355Z",
-  "count": 1,
+  "updatedAt": "2026-07-20T19:55:42.686Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 50,
-      "query": "taylor farms lettuce cyclospora outbreak",
+      "rank": 25,
+      "query": "walmart taylor farms food recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "fda lettuce parasite retraction",
+        "taylor farms lettuce cyclospora outbreak",
+        "salad",
+        "taylor farms false positive",
+        "fda taylor farms cyclospora false positive"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+taylor+farms+food+recall&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "walmart taylor farms food recall fda lettuce parasite retraction taylor farms lettuce cyclospora outbreak salad taylor farms false positive fda taylor farms cyclospora false positive",
+      "trendScore": 34,
+      "detectedAt": "2026-07-20T19:55:29.741Z"
+    },
+    {
+      "rank": 36,
+      "query": "ford lincoln aviator recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "walmart taylor farms food recall",
-        "taylor farms false positive",
-        "fda taylor farms cyclospora false positive"
+        "ford"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
-      "increasePercentage": 500,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+lincoln+aviator+recall&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "taylor farms lettuce cyclospora outbreak walmart taylor farms food recall taylor farms false positive fda taylor farms cyclospora false positive",
-      "trendScore": 29,
-      "detectedAt": "2026-07-20T14:32:29.493Z"
+      "text": "ford lincoln aviator recall ford",
+      "trendScore": 25,
+      "detectedAt": "2026-07-20T19:55:29.741Z"
     }
   ]
 }

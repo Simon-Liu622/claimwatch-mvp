@@ -1,46 +1,16 @@
 {
-  "updatedAt": "2026-07-19T19:31:28.915Z",
-  "count": 2,
+  "updatedAt": "2026-07-20T04:03:44.237Z",
+  "count": 1,
   "items": [
     {
-      "id": "switched-at-birth-lawsuit",
-      "slug": "switched-at-birth-lawsuit",
-      "title": "Switched At Birth Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "switched at birth lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=switched+at+birth+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "switched at birth lawsuit",
-        "kyle bylin jeremy morrison lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-19T19:31:23.596Z"
-    },
-    {
-      "id": "salad",
-      "slug": "salad",
-      "title": "Salad: Consumer Alert Monitoring",
+      "id": "huffpost",
+      "slug": "huffpost",
+      "title": "Huffpost: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "salad",
+      "product": "huffpost",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,19 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=huffpost&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 15,
+      "searchVolume": 1000,
+      "trendScore": 12,
       "matchedQueries": [
-        "salad",
-        "taylor farms recall",
+        "huffpost",
         "iceberg lettuce recall",
         "iceberg lettuce"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-19T19:31:23.596Z"
+      "lastUpdated": "2026-07-20T04:03:33.497Z"
     }
   ]
 }

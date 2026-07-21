@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T08:43:43.806Z",
+  "updatedAt": "2026-07-21T14:20:49.238Z",
   "item": {
     "id": "garlic-powder-recall",
     "slug": "garlic-powder-recall",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "garlic powder recall"
+      "garlic powder recall",
+      "garlic powder recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-21T08:43:40.856Z",
+    "lastUpdated": "2026-07-21T14:20:46.133Z",
     "url": "https://simon622.shop/item/garlic-powder-recall/"
   }
 }

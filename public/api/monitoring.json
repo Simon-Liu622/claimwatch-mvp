@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-21T08:43:43.806Z",
+  "updatedAt": "2026-07-21T14:20:49.238Z",
   "count": 4,
   "items": [
+    {
+      "id": "garlic-powder-recall",
+      "slug": "garlic-powder-recall",
+      "title": "Garlic Powder Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "garlic powder recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 26,
+      "matchedQueries": [
+        "garlic powder recall",
+        "garlic powder recalled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-21T14:20:46.133Z"
+    },
     {
       "id": "ford-lincoln-aviator-recall",
       "slug": "ford-lincoln-aviator-recall",
@@ -30,69 +60,7 @@
         "ford"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-21T08:43:40.856Z"
-    },
-    {
-      "id": "garlic-powder-recall",
-      "slug": "garlic-powder-recall",
-      "title": "Garlic Powder Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "garlic powder recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "garlic powder recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-21T08:43:40.856Z"
-    },
-    {
-      "id": "walmart-taylor-farms-food-recall",
-      "slug": "walmart-taylor-farms-food-recall",
-      "title": "Walmart Taylor Farms Food Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart taylor farms food recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+taylor+farms+food+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 17,
-      "matchedQueries": [
-        "walmart taylor farms food recall",
-        "fda lettuce parasite retraction",
-        "taylor farms lettuce cyclospora outbreak",
-        "fda taylor farms cyclospora false positive",
-        "taylor farms false positive"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-21T08:43:40.856Z"
+      "lastUpdated": "2026-07-21T14:20:46.133Z"
     },
     {
       "id": "lawsuit",
@@ -121,7 +89,36 @@
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-21T08:43:40.856Z"
+      "lastUpdated": "2026-07-21T14:20:46.133Z"
+    },
+    {
+      "id": "financial-aid-antitrust-settlement",
+      "slug": "financial-aid-antitrust-settlement",
+      "title": "Financial Aid Antitrust Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "financial aid antitrust settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=financial+aid+antitrust+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "financial aid antitrust settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-21T14:20:46.133Z"
     }
   ]
 }

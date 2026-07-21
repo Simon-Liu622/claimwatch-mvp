@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-21T14:20:49.238Z",
-  "count": 4,
+  "updatedAt": "2026-07-21T19:50:29.515Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 6,
+      "rank": 9,
       "query": "garlic powder recall",
       "searchVolume": 20000,
       "startedAt": "",
@@ -17,25 +17,10 @@
       "source": "serpapi-google-trends",
       "text": "garlic powder recall garlic powder recalled",
       "trendScore": 26,
-      "detectedAt": "2026-07-21T14:20:46.133Z"
+      "detectedAt": "2026-07-21T19:50:26.695Z"
     },
     {
-      "rank": 33,
-      "query": "ford lincoln aviator recall",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+lincoln+aviator+recall&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "ford lincoln aviator recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-21T14:20:46.133Z"
-    },
-    {
-      "rank": 154,
+      "rank": 168,
       "query": "financial aid antitrust settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -47,10 +32,10 @@
       "source": "serpapi-google-trends",
       "text": "financial aid antitrust settlement",
       "trendScore": 8,
-      "detectedAt": "2026-07-21T14:20:46.133Z"
+      "detectedAt": "2026-07-21T19:50:26.695Z"
     },
     {
-      "rank": 209,
+      "rank": 233,
       "query": "lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -62,7 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-21T14:20:46.133Z"
+      "detectedAt": "2026-07-21T19:50:26.695Z"
     }
   ]
 }

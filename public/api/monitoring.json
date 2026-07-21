@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-20T19:55:42.686Z",
-  "count": 2,
+  "updatedAt": "2026-07-21T03:44:10.116Z",
+  "count": 3,
   "items": [
     {
-      "id": "walmart-taylor-farms-food-recall",
-      "slug": "walmart-taylor-farms-food-recall",
-      "title": "Walmart Taylor Farms Food Recall: Consumer Alert Monitoring",
+      "id": "taylor-farms-lettuce-cyclospora-outbreak",
+      "slug": "taylor-farms-lettuce-cyclospora-outbreak",
+      "title": "Taylor Farms Lettuce Cyclospora Outbreak: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "walmart taylor farms food recall",
+      "product": "taylor farms lettuce cyclospora outbreak",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,21 +20,22 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+taylor+farms+food+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 34,
       "matchedQueries": [
+        "taylor farms lettuce cyclospora outbreak",
         "walmart taylor farms food recall",
         "fda lettuce parasite retraction",
-        "taylor farms lettuce cyclospora outbreak",
+        "focus",
         "salad",
-        "taylor farms false positive",
-        "fda taylor farms cyclospora false positive"
+        "fda taylor farms cyclospora false positive",
+        "taylor farms false positive"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-20T19:55:29.741Z"
+      "lastUpdated": "2026-07-21T03:44:06.007Z"
     },
     {
       "id": "ford-lincoln-aviator-recall",
@@ -57,14 +58,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+lincoln+aviator+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 23,
       "matchedQueries": [
         "ford lincoln aviator recall",
         "ford"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-20T19:55:29.741Z"
+      "lastUpdated": "2026-07-21T03:44:06.007Z"
+    },
+    {
+      "id": "lawsuit",
+      "slug": "lawsuit",
+      "title": "Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-21T03:44:06.007Z"
     }
   ]
 }

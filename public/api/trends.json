@@ -1,31 +1,24 @@
 {
-  "updatedAt": "2026-07-21T03:44:10.116Z",
-  "count": 3,
+  "updatedAt": "2026-07-21T08:43:43.806Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 51,
-      "query": "taylor farms lettuce cyclospora outbreak",
-      "searchVolume": 50000,
+      "rank": 17,
+      "query": "garlic powder recall",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "walmart taylor farms food recall",
-        "fda lettuce parasite retraction",
-        "focus",
-        "salad",
-        "fda taylor farms cyclospora false positive",
-        "taylor farms false positive"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+lettuce+cyclospora+outbreak&tz=420",
-      "increasePercentage": 600,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "taylor farms lettuce cyclospora outbreak walmart taylor farms food recall fda lettuce parasite retraction focus salad fda taylor farms cyclospora false positive taylor farms false positive",
-      "trendScore": 34,
-      "detectedAt": "2026-07-21T03:44:06.007Z"
+      "text": "garlic powder recall",
+      "trendScore": 23,
+      "detectedAt": "2026-07-21T08:43:40.856Z"
     },
     {
-      "rank": 48,
+      "rank": 38,
       "query": "ford lincoln aviator recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -37,10 +30,30 @@
       "source": "serpapi-google-trends",
       "text": "ford lincoln aviator recall",
       "trendScore": 23,
-      "detectedAt": "2026-07-21T03:44:06.007Z"
+      "detectedAt": "2026-07-21T08:43:40.856Z"
     },
     {
-      "rank": 159,
+      "rank": 65,
+      "query": "walmart taylor farms food recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "fda lettuce parasite retraction",
+        "taylor farms lettuce cyclospora outbreak",
+        "fda taylor farms cyclospora false positive",
+        "taylor farms false positive"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+taylor+farms+food+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "walmart taylor farms food recall fda lettuce parasite retraction taylor farms lettuce cyclospora outbreak fda taylor farms cyclospora false positive taylor farms false positive",
+      "trendScore": 17,
+      "detectedAt": "2026-07-21T08:43:40.856Z"
+    },
+    {
+      "rank": 172,
       "query": "lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -52,7 +65,7 @@
       "source": "serpapi-google-trends",
       "text": "lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-21T03:44:06.007Z"
+      "detectedAt": "2026-07-21T08:43:40.856Z"
     }
   ]
 }

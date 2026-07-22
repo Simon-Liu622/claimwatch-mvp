@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-22T14:21:27.904Z",
+  "updatedAt": "2026-07-22T19:42:37.872Z",
   "item": {
-    "id": "consumer-lawsuit-over-nintendo-pricing",
-    "slug": "consumer-lawsuit-over-nintendo-pricing",
-    "title": "Consumer Lawsuit Over Nintendo Pricing: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "capital-one-lawsuit-payout-delay",
+    "slug": "capital-one-lawsuit-payout-delay",
+    "title": "Capital One Lawsuit Payout Delay: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "consumer lawsuit over nintendo pricing",
+    "product": "capital one lawsuit payout delay",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+lawsuit+over+nintendo+pricing&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+lawsuit+payout+delay&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 16,
     "matchedQueries": [
-      "consumer lawsuit over nintendo pricing"
+      "capital one lawsuit payout delay"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-22T14:21:15.063Z",
-    "url": "https://simon622.shop/item/consumer-lawsuit-over-nintendo-pricing/"
+    "lastUpdated": "2026-07-22T19:42:29.320Z",
+    "url": "https://simon622.shop/item/capital-one-lawsuit-payout-delay/"
   }
 }

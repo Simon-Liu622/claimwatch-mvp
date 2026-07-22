@@ -1,6 +1,23 @@
 [
   {
-    "rank": 23,
+    "rank": 39,
+    "query": "amazon prime subscription lawsuit payout",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "amazon prime settlement"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+subscription+lawsuit+payout&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "amazon prime subscription lawsuit payout amazon prime settlement",
+    "trendScore": 41,
+    "detectedAt": "2026-07-22T19:42:29.320Z"
+  },
+  {
+    "rank": 24,
     "query": "cetirizine recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -8,20 +25,20 @@
     "active": true,
     "breakdown": [
       "allergy medication recalled 2026",
-      "cetirizine hydrochloride",
-      "allergy medication recalled"
+      "allergy medication recalled",
+      "cetirizine hydrochloride"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
     "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "cetirizine recall allergy medication recalled 2026 cetirizine hydrochloride allergy medication recalled",
+    "text": "cetirizine recall allergy medication recalled 2026 allergy medication recalled cetirizine hydrochloride",
     "trendScore": 30,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
+    "detectedAt": "2026-07-22T19:42:29.320Z"
   },
   {
-    "rank": 4,
+    "rank": 2,
     "query": "trump bbc financial records lawsuit",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -31,27 +48,27 @@
     "source": "serpapi-google-trends",
     "text": "trump bbc financial records lawsuit",
     "trendScore": 24,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
+    "detectedAt": "2026-07-22T19:42:29.320Z"
   },
   {
-    "rank": 31,
+    "rank": 11,
     "query": "uc researchers grant lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "uc researchers grant lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
+    "detectedAt": "2026-07-22T19:42:29.320Z"
   },
   {
-    "rank": 55,
+    "rank": 41,
     "query": "cher mary bono royalties lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -61,10 +78,25 @@
     "source": "serpapi-google-trends",
     "text": "cher mary bono royalties lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
+    "detectedAt": "2026-07-22T19:42:29.320Z"
   },
   {
-    "rank": 97,
+    "rank": 192,
+    "query": "capital one lawsuit payout delay",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+lawsuit+payout+delay&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "capital one lawsuit payout delay",
+    "trendScore": 16,
+    "detectedAt": "2026-07-22T19:42:29.320Z"
+  },
+  {
+    "rank": 136,
     "query": "trump rogoff legal battle",
     "searchVolume": 5000,
     "startedAt": "",
@@ -78,21 +110,6 @@
     "source": "serpapi-google-trends",
     "text": "trump rogoff legal battle roger rogoff trump lawsuit",
     "trendScore": 10,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
-  },
-  {
-    "rank": 150,
-    "query": "consumer lawsuit over nintendo pricing",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+lawsuit+over+nintendo+pricing&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "consumer lawsuit over nintendo pricing",
-    "trendScore": 8,
-    "detectedAt": "2026-07-22T14:21:15.063Z"
+    "detectedAt": "2026-07-22T19:42:29.320Z"
   }
 ]

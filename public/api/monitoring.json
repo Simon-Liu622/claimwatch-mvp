@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-22T14:21:27.904Z",
-  "count": 6,
+  "updatedAt": "2026-07-22T19:42:37.872Z",
+  "count": 7,
   "items": [
+    {
+      "id": "amazon-prime-subscription-lawsuit-payout",
+      "slug": "amazon-prime-subscription-lawsuit-payout",
+      "title": "Amazon Prime Subscription Lawsuit Payout: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amazon prime subscription lawsuit payout",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+subscription+lawsuit+payout&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 41,
+      "matchedQueries": [
+        "amazon prime subscription lawsuit payout",
+        "amazon prime settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
+    },
     {
       "id": "cetirizine-recall",
       "slug": "cetirizine-recall",
@@ -32,7 +62,7 @@
         "cetirizine hydrochloride"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
     },
     {
       "id": "trump-bbc-financial-records-lawsuit",
@@ -55,13 +85,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bbc+financial+records+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 24,
       "matchedQueries": [
         "trump bbc financial records lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
     },
     {
       "id": "uc-researchers-grant-lawsuit",
@@ -84,13 +114,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "uc researchers grant lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
     },
     {
       "id": "cher-mary-bono-royalties-lawsuit",
@@ -113,13 +143,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "cher mary bono royalties lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
+    },
+    {
+      "id": "capital-one-lawsuit-payout-delay",
+      "slug": "capital-one-lawsuit-payout-delay",
+      "title": "Capital One Lawsuit Payout Delay: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "capital one lawsuit payout delay",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+lawsuit+payout+delay&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 16,
+      "matchedQueries": [
+        "capital one lawsuit payout delay"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
     },
     {
       "id": "trump-rogoff-legal-battle",
@@ -149,36 +208,7 @@
         "roger rogoff trump lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
-    },
-    {
-      "id": "consumer-lawsuit-over-nintendo-pricing",
-      "slug": "consumer-lawsuit-over-nintendo-pricing",
-      "title": "Consumer Lawsuit Over Nintendo Pricing: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "consumer lawsuit over nintendo pricing",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+lawsuit+over+nintendo+pricing&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "consumer lawsuit over nintendo pricing"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-22T14:21:15.063Z"
+      "lastUpdated": "2026-07-22T19:42:29.320Z"
     }
   ]
 }

@@ -1,23 +1,23 @@
 [
   {
-    "rank": 13,
-    "query": "garlic powder recall",
-    "searchVolume": 50000,
+    "rank": 27,
+    "query": "cetirizine recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "garlic powder recalled"
+      "allergy medication recalled"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
-    "increasePercentage": 800,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "garlic powder recall garlic powder recalled",
-    "trendScore": 26,
-    "detectedAt": "2026-07-22T03:45:16.088Z"
+    "text": "cetirizine recall allergy medication recalled",
+    "trendScore": 25,
+    "detectedAt": "2026-07-22T08:43:35.851Z"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "query": "trump bbc financial records lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -29,6 +29,6 @@
     "source": "serpapi-google-trends",
     "text": "trump bbc financial records lawsuit",
     "trendScore": 24,
-    "detectedAt": "2026-07-22T03:45:16.088Z"
+    "detectedAt": "2026-07-22T08:43:35.851Z"
   }
 ]

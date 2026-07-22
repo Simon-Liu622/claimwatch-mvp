@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T19:50:29.515Z",
-  "count": 3,
+  "updatedAt": "2026-07-22T03:45:19.568Z",
+  "count": 2,
   "items": [
     {
       "id": "garlic-powder-recall",
@@ -23,24 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=garlic+powder+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 26,
       "matchedQueries": [
         "garlic powder recall",
         "garlic powder recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-21T19:50:26.695Z"
+      "lastUpdated": "2026-07-22T03:45:16.088Z"
     },
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
+      "id": "trump-bbc-financial-records-lawsuit",
+      "slug": "trump-bbc-financial-records-lawsuit",
+      "title": "Trump Bbc Financial Records Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
+      "product": "trump bbc financial records lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,45 +50,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bbc+financial+records+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
-        "lawsuit"
+        "trump bbc financial records lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-21T19:50:26.695Z"
-    },
-    {
-      "id": "financial-aid-antitrust-settlement",
-      "slug": "financial-aid-antitrust-settlement",
-      "title": "Financial Aid Antitrust Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "financial aid antitrust settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=financial+aid+antitrust+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "financial aid antitrust settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-21T19:50:26.695Z"
+      "lastUpdated": "2026-07-22T03:45:16.088Z"
     }
   ]
 }

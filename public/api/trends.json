@@ -1,26 +1,28 @@
 {
-  "updatedAt": "2026-07-22T08:43:45.492Z",
-  "count": 2,
+  "updatedAt": "2026-07-22T14:21:27.904Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 27,
+      "rank": 23,
       "query": "cetirizine recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
+        "allergy medication recalled 2026",
+        "cetirizine hydrochloride",
         "allergy medication recalled"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "cetirizine recall allergy medication recalled",
-      "trendScore": 25,
-      "detectedAt": "2026-07-22T08:43:35.851Z"
+      "text": "cetirizine recall allergy medication recalled 2026 cetirizine hydrochloride allergy medication recalled",
+      "trendScore": 30,
+      "detectedAt": "2026-07-22T14:21:15.063Z"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "query": "trump bbc financial records lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
@@ -32,7 +34,69 @@
       "source": "serpapi-google-trends",
       "text": "trump bbc financial records lawsuit",
       "trendScore": 24,
-      "detectedAt": "2026-07-22T08:43:35.851Z"
+      "detectedAt": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "rank": 31,
+      "query": "uc researchers grant lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "uc researchers grant lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "rank": 55,
+      "query": "cher mary bono royalties lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "cher mary bono royalties lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "rank": 97,
+      "query": "trump rogoff legal battle",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "roger rogoff trump lawsuit"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+rogoff+legal+battle&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "trump rogoff legal battle roger rogoff trump lawsuit",
+      "trendScore": 10,
+      "detectedAt": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "rank": 150,
+      "query": "consumer lawsuit over nintendo pricing",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+lawsuit+over+nintendo+pricing&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "consumer lawsuit over nintendo pricing",
+      "trendScore": 8,
+      "detectedAt": "2026-07-22T14:21:15.063Z"
     }
   ]
 }

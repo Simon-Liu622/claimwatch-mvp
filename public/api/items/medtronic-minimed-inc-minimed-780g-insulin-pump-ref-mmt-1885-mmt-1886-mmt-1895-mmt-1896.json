@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-07-22T14:21:27.904Z",
+  "item": {
+    "id": "medtronic-minimed-inc-minimed-780g-insulin-pump-ref-mmt-1885-mmt-1886-mmt-1895-mmt-1896",
+    "slug": "medtronic-minimed-inc-minimed-780g-insulin-pump-ref-mmt-1885-mmt-1886-mmt-1895-mmt-1896",
+    "title": "Medtronic MiniMed, Inc.: MiniMed 780G Insulin Pump, REF: MMT-1885, MMT-1886, MMT-1895, MMT-1896 Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medtronic MiniMed, Inc.",
+    "brand": "Medtronic MiniMed, Inc.",
+    "product": "MiniMed 780G Insulin Pump, REF: MMT-1885, MMT-1886, MMT-1895, MMT-1896",
+    "category": "Recall",
+    "summary": "A software anomaly can occur when the pump is paired with the Instinct sensor. Under certain circumstances, the pump unexpectedly stops delivering insulin and displays two error messages back-to-back: Pump Error 53 followed immediately by Pump Error 23. Insulin delivery will stop which may lead to delayed therapy and an increased risk of hyperglycemia or diabetic ketoacidosis (DKA). Product details: MiniMed 780G Insulin Pump, REF: MMT-1885, MMT-1886, MMT-1895, MMT-1896",
+    "affectedPeople": "International distribution to the countries of Spain, Great Britain, Netherlands, Italy.",
+    "remedy": "Affected quantity: 778",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2698-2026",
+    "recallInitiationDate": "20260527",
+    "lastUpdated": "2026-07-22T14:21:15.063Z",
+    "url": "https://simon622.shop/item/medtronic-minimed-inc-minimed-780g-insulin-pump-ref-mmt-1885-mmt-1886-mmt-1895-mmt-1896/"
+  }
+}

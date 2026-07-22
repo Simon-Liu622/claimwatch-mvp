@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T08:43:45.492Z",
-  "count": 2,
+  "updatedAt": "2026-07-22T14:21:27.904Z",
+  "count": 6,
   "items": [
     {
       "id": "cetirizine-recall",
@@ -23,14 +23,16 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 30,
       "matchedQueries": [
         "cetirizine recall",
-        "allergy medication recalled"
+        "allergy medication recalled",
+        "allergy medication recalled 2026",
+        "cetirizine hydrochloride"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T08:43:35.851Z"
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
     },
     {
       "id": "trump-bbc-financial-records-lawsuit",
@@ -59,7 +61,124 @@
         "trump bbc financial records lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-22T08:43:35.851Z"
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "id": "uc-researchers-grant-lawsuit",
+      "slug": "uc-researchers-grant-lawsuit",
+      "title": "Uc Researchers Grant Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "uc researchers grant lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "uc researchers grant lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "id": "cher-mary-bono-royalties-lawsuit",
+      "slug": "cher-mary-bono-royalties-lawsuit",
+      "title": "Cher Mary Bono Royalties Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "cher mary bono royalties lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "cher mary bono royalties lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "id": "trump-rogoff-legal-battle",
+      "slug": "trump-rogoff-legal-battle",
+      "title": "Trump Rogoff Legal Battle: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trump rogoff legal battle",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+rogoff+legal+battle&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "trump rogoff legal battle",
+        "roger rogoff trump lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
+    },
+    {
+      "id": "consumer-lawsuit-over-nintendo-pricing",
+      "slug": "consumer-lawsuit-over-nintendo-pricing",
+      "title": "Consumer Lawsuit Over Nintendo Pricing: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "consumer lawsuit over nintendo pricing",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+lawsuit+over+nintendo+pricing&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "consumer lawsuit over nintendo pricing"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-22T14:21:15.063Z"
     }
   ]
 }

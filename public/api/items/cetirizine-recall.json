@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:43:45.492Z",
+  "updatedAt": "2026-07-22T14:21:27.904Z",
   "item": {
     "id": "cetirizine-recall",
     "slug": "cetirizine-recall",
@@ -21,14 +21,16 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 30,
     "matchedQueries": [
       "cetirizine recall",
-      "allergy medication recalled"
+      "allergy medication recalled",
+      "allergy medication recalled 2026",
+      "cetirizine hydrochloride"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-22T08:43:35.851Z",
+    "lastUpdated": "2026-07-22T14:21:15.063Z",
     "url": "https://simon622.shop/item/cetirizine-recall/"
   }
 }

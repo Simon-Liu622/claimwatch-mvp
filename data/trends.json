@@ -1,115 +1,86 @@
 [
   {
-    "rank": 39,
-    "query": "amazon prime subscription lawsuit payout",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "amazon prime settlement"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+subscription+lawsuit+payout&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "amazon prime subscription lawsuit payout amazon prime settlement",
-    "trendScore": 41,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
-  },
-  {
-    "rank": 24,
+    "rank": 15,
     "query": "cetirizine recall",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
       "allergy medication recalled 2026",
-      "allergy medication recalled",
+      "zyrtec recall 2026",
       "cetirizine hydrochloride"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
-    "increasePercentage": 600,
+    "increasePercentage": 800,
     "source": "serpapi-google-trends",
-    "text": "cetirizine recall allergy medication recalled 2026 allergy medication recalled cetirizine hydrochloride",
+    "text": "cetirizine recall allergy medication recalled 2026 zyrtec recall 2026 cetirizine hydrochloride",
     "trendScore": 30,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
+    "detectedAt": "2026-07-23T03:43:52.236Z"
   },
   {
-    "rank": 2,
-    "query": "trump bbc financial records lawsuit",
-    "searchVolume": 50000,
+    "rank": 34,
+    "query": "pt organics fruit pouch recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bbc+financial+records+lawsuit&tz=420",
-    "increasePercentage": 1000,
+    "breakdown": [
+      "pt organics limited snack recall",
+      "kroger"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
-    "text": "trump bbc financial records lawsuit",
-    "trendScore": 24,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
+    "text": "pt organics fruit pouch recall pt organics limited snack recall kroger",
+    "trendScore": 28,
+    "detectedAt": "2026-07-23T03:43:52.236Z"
   },
   {
-    "rank": 11,
-    "query": "uc researchers grant lawsuit",
+    "rank": 67,
+    "query": "amazon prime subscription lawsuit payout",
     "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "uc researchers grant lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
-  },
-  {
-    "rank": 41,
-    "query": "cher mary bono royalties lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "cher mary bono royalties lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
-  },
-  {
-    "rank": 192,
-    "query": "capital one lawsuit payout delay",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+lawsuit+payout+delay&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "capital one lawsuit payout delay",
-    "trendScore": 16,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
-  },
-  {
-    "rank": 136,
-    "query": "trump rogoff legal battle",
-    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "roger rogoff trump lawsuit"
+      "amazon prime settlement"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+rogoff+legal+battle&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+subscription+lawsuit+payout&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "amazon prime subscription lawsuit payout amazon prime settlement",
+    "trendScore": 26,
+    "detectedAt": "2026-07-23T03:43:52.236Z"
+  },
+  {
+    "rank": 61,
+    "query": "capital one settlement payment delay",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "trump rogoff legal battle roger rogoff trump lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-07-22T19:42:29.320Z"
+    "text": "capital one settlement payment delay",
+    "trendScore": 23,
+    "detectedAt": "2026-07-23T03:43:52.236Z"
+  },
+  {
+    "rank": 76,
+    "query": "cher mary bono royalties lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "cher mary bono royalties lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-07-23T03:43:52.236Z"
   }
 ]

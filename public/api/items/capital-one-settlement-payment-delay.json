@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-22T19:42:37.872Z",
+  "updatedAt": "2026-07-23T03:44:11.330Z",
   "item": {
-    "id": "uc-researchers-grant-lawsuit",
-    "slug": "uc-researchers-grant-lawsuit",
-    "title": "Uc Researchers Grant Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "capital-one-settlement-payment-delay",
+    "slug": "capital-one-settlement-payment-delay",
+    "title": "Capital One Settlement Payment Delay: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "uc researchers grant lawsuit",
+    "product": "capital one settlement payment delay",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uc+researchers+grant+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
+    "searchVolume": 2000,
     "trendScore": 23,
     "matchedQueries": [
-      "uc researchers grant lawsuit"
+      "capital one settlement payment delay"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-22T19:42:29.320Z",
-    "url": "https://simon622.shop/item/uc-researchers-grant-lawsuit/"
+    "lastUpdated": "2026-07-23T03:43:52.236Z",
+    "url": "https://simon622.shop/item/capital-one-settlement-payment-delay/"
   }
 }

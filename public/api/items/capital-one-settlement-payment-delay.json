@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T03:44:11.330Z",
+  "updatedAt": "2026-07-23T08:43:51.182Z",
   "item": {
     "id": "capital-one-settlement-payment-delay",
     "slug": "capital-one-settlement-payment-delay",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 5000,
+    "trendScore": 8,
     "matchedQueries": [
       "capital one settlement payment delay"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-23T03:43:52.236Z",
+    "lastUpdated": "2026-07-23T08:43:48.326Z",
     "url": "https://simon622.shop/item/capital-one-settlement-payment-delay/"
   }
 }

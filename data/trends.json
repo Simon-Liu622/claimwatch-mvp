@@ -1,25 +1,6 @@
 [
   {
-    "rank": 15,
-    "query": "cetirizine recall",
-    "searchVolume": 50000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "allergy medication recalled 2026",
-      "zyrtec recall 2026",
-      "cetirizine hydrochloride"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "cetirizine recall allergy medication recalled 2026 zyrtec recall 2026 cetirizine hydrochloride",
-    "trendScore": 30,
-    "detectedAt": "2026-07-23T03:43:52.236Z"
-  },
-  {
-    "rank": 34,
+    "rank": 11,
     "query": "pt organics fruit pouch recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -30,14 +11,14 @@
       "kroger"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
-    "increasePercentage": 900,
+    "increasePercentage": 700,
     "source": "serpapi-google-trends",
     "text": "pt organics fruit pouch recall pt organics limited snack recall kroger",
     "trendScore": 28,
-    "detectedAt": "2026-07-23T03:43:52.236Z"
+    "detectedAt": "2026-07-23T08:43:48.326Z"
   },
   {
-    "rank": 67,
+    "rank": 47,
     "query": "amazon prime subscription lawsuit payout",
     "searchVolume": 10000,
     "startedAt": "",
@@ -51,25 +32,43 @@
     "source": "serpapi-google-trends",
     "text": "amazon prime subscription lawsuit payout amazon prime settlement",
     "trendScore": 26,
-    "detectedAt": "2026-07-23T03:43:52.236Z"
+    "detectedAt": "2026-07-23T08:43:48.326Z"
   },
   {
-    "rank": 61,
-    "query": "capital one settlement payment delay",
+    "rank": 28,
+    "query": "nintendo palworld lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "capital one settlement payment delay",
+    "text": "nintendo palworld lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-07-23T03:43:52.236Z"
+    "detectedAt": "2026-07-23T08:43:48.326Z"
   },
   {
-    "rank": 76,
+    "rank": 81,
+    "query": "allergy medication recalled 2026",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "zyrtec recall 2026",
+      "cetirizine hydrochloride"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=allergy+medication+recalled+2026&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "allergy medication recalled 2026 zyrtec recall 2026 cetirizine hydrochloride",
+    "trendScore": 12,
+    "detectedAt": "2026-07-23T08:43:48.326Z"
+  },
+  {
+    "rank": 65,
     "query": "cher mary bono royalties lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -81,6 +80,21 @@
     "source": "serpapi-google-trends",
     "text": "cher mary bono royalties lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-23T03:43:52.236Z"
+    "detectedAt": "2026-07-23T08:43:48.326Z"
+  },
+  {
+    "rank": 93,
+    "query": "capital one settlement payment delay",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "capital one settlement payment delay",
+    "trendScore": 8,
+    "detectedAt": "2026-07-23T08:43:48.326Z"
   }
 ]

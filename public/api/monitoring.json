@@ -1,40 +1,7 @@
 {
-  "updatedAt": "2026-07-23T03:44:11.330Z",
-  "count": 5,
+  "updatedAt": "2026-07-23T08:43:51.182Z",
+  "count": 6,
   "items": [
-    {
-      "id": "cetirizine-recall",
-      "slug": "cetirizine-recall",
-      "title": "Cetirizine Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "cetirizine recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cetirizine+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 30,
-      "matchedQueries": [
-        "cetirizine recall",
-        "allergy medication recalled",
-        "allergy medication recalled 2026",
-        "cetirizine hydrochloride",
-        "zyrtec recall 2026"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T03:43:52.236Z"
-    },
     {
       "id": "pt-organics-fruit-pouch-recall",
       "slug": "pt-organics-fruit-pouch-recall",
@@ -64,7 +31,7 @@
         "kroger"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T03:43:52.236Z"
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
     },
     {
       "id": "amazon-prime-subscription-lawsuit-payout",
@@ -94,7 +61,67 @@
         "amazon prime settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T03:43:52.236Z"
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
+    },
+    {
+      "id": "nintendo-palworld-lawsuit",
+      "slug": "nintendo-palworld-lawsuit",
+      "title": "Nintendo Palworld Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "nintendo palworld lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "nintendo palworld lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
+    },
+    {
+      "id": "allergy-medication-recalled-2026",
+      "slug": "allergy-medication-recalled-2026",
+      "title": "Allergy Medication Recalled 2026: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "allergy medication recalled 2026",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=allergy+medication+recalled+2026&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 12,
+      "matchedQueries": [
+        "allergy medication recalled 2026",
+        "zyrtec recall 2026",
+        "cetirizine hydrochloride"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
     },
     {
       "id": "capital-one-settlement-payment-delay",
@@ -117,13 +144,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "capital one settlement payment delay"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T03:43:52.236Z"
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
     },
     {
       "id": "cher-mary-bono-royalties-lawsuit",
@@ -152,7 +179,7 @@
         "cher mary bono royalties lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T03:43:52.236Z"
+      "lastUpdated": "2026-07-23T08:43:48.326Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-23T08:43:51.182Z",
+  "updatedAt": "2026-07-23T14:30:43.701Z",
   "item": {
-    "id": "allergy-medication-recalled-2026",
-    "slug": "allergy-medication-recalled-2026",
-    "title": "Allergy Medication Recalled 2026: Consumer Alert Monitoring",
+    "id": "midwest-poultry-services-egg-recall",
+    "slug": "midwest-poultry-services-egg-recall",
+    "title": "Midwest Poultry Services Egg Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "allergy medication recalled 2026",
+    "product": "midwest poultry services egg recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=allergy+medication+recalled+2026&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+egg+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 12,
+    "trendScore": 25,
     "matchedQueries": [
-      "allergy medication recalled 2026",
-      "zyrtec recall 2026",
-      "cetirizine hydrochloride"
+      "midwest poultry services egg recall",
+      "egg recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-23T08:43:48.326Z",
-    "url": "https://simon622.shop/item/allergy-medication-recalled-2026/"
+    "lastUpdated": "2026-07-23T14:30:24.844Z",
+    "url": "https://simon622.shop/item/midwest-poultry-services-egg-recall/"
   }
 }

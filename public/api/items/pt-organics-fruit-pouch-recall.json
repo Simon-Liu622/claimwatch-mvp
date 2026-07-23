@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T08:43:51.182Z",
+  "updatedAt": "2026-07-23T14:30:43.701Z",
   "item": {
     "id": "pt-organics-fruit-pouch-recall",
     "slug": "pt-organics-fruit-pouch-recall",
@@ -21,15 +21,16 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 28,
+    "searchVolume": 100000,
+    "trendScore": 30,
     "matchedQueries": [
       "pt organics fruit pouch recall",
       "pt organics limited snack recall",
-      "kroger"
+      "kroger",
+      "fruit products recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-23T08:43:48.326Z",
+    "lastUpdated": "2026-07-23T14:30:24.844Z",
     "url": "https://simon622.shop/item/pt-organics-fruit-pouch-recall/"
   }
 }

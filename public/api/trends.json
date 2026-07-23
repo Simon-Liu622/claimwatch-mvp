@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-07-23T08:43:51.182Z",
+  "updatedAt": "2026-07-23T14:30:43.701Z",
   "count": 6,
   "trends": [
     {
-      "rank": 11,
+      "rank": 1,
       "query": "pt organics fruit pouch recall",
-      "searchVolume": 20000,
+      "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "pt organics limited snack recall",
-        "kroger"
+        "fruit products recall",
+        "pt organics limited snack recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
-      "increasePercentage": 700,
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "pt organics fruit pouch recall pt organics limited snack recall kroger",
-      "trendScore": 28,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
+      "text": "pt organics fruit pouch recall fruit products recall pt organics limited snack recall",
+      "trendScore": 30,
+      "detectedAt": "2026-07-23T14:30:24.844Z"
     },
     {
-      "rank": 47,
+      "rank": 70,
       "query": "amazon prime subscription lawsuit payout",
       "searchVolume": 10000,
       "startedAt": "",
@@ -35,12 +35,29 @@
       "source": "serpapi-google-trends",
       "text": "amazon prime subscription lawsuit payout amazon prime settlement",
       "trendScore": 26,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
+      "detectedAt": "2026-07-23T14:30:24.844Z"
     },
     {
-      "rank": 28,
+      "rank": 11,
+      "query": "midwest poultry services egg recall",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "egg recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+egg+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "midwest poultry services egg recall egg recall",
+      "trendScore": 25,
+      "detectedAt": "2026-07-23T14:30:24.844Z"
+    },
+    {
+      "rank": 22,
       "query": "nintendo palworld lawsuit",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -50,55 +67,37 @@
       "source": "serpapi-google-trends",
       "text": "nintendo palworld lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
+      "detectedAt": "2026-07-23T14:30:24.844Z"
     },
     {
-      "rank": 81,
-      "query": "allergy medication recalled 2026",
-      "searchVolume": 10000,
+      "rank": 36,
+      "query": "zyrtec recall 2026",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "zyrtec recall 2026",
-        "cetirizine hydrochloride"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=allergy+medication+recalled+2026&tz=420",
-      "increasePercentage": 500,
-      "source": "serpapi-google-trends",
-      "text": "allergy medication recalled 2026 zyrtec recall 2026 cetirizine hydrochloride",
-      "trendScore": 12,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
-    },
-    {
-      "rank": 65,
-      "query": "cher mary bono royalties lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cher+mary+bono+royalties+lawsuit&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
       "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "cher mary bono royalties lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
+      "text": "zyrtec recall 2026",
+      "trendScore": 23,
+      "detectedAt": "2026-07-23T14:30:24.844Z"
     },
     {
-      "rank": 93,
+      "rank": 37,
       "query": "capital one settlement payment delay",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "capital one settlement payment delay",
-      "trendScore": 8,
-      "detectedAt": "2026-07-23T08:43:48.326Z"
+      "trendScore": 23,
+      "detectedAt": "2026-07-23T14:30:24.844Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T14:30:43.701Z",
+  "updatedAt": "2026-07-23T19:45:25.538Z",
   "count": 6,
   "items": [
     {
@@ -23,8 +23,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 30,
+      "searchVolume": 200000,
+      "trendScore": 32,
       "matchedQueries": [
         "pt organics fruit pouch recall",
         "pt organics limited snack recall",
@@ -32,37 +32,7 @@
         "fruit products recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
-    },
-    {
-      "id": "amazon-prime-subscription-lawsuit-payout",
-      "slug": "amazon-prime-subscription-lawsuit-payout",
-      "title": "Amazon Prime Subscription Lawsuit Payout: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amazon prime subscription lawsuit payout",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+subscription+lawsuit+payout&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "amazon prime subscription lawsuit payout",
-        "amazon prime settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
+      "lastUpdated": "2026-07-23T19:45:23.837Z"
     },
     {
       "id": "midwest-poultry-services-egg-recall",
@@ -115,13 +85,71 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "nintendo palworld lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
+      "lastUpdated": "2026-07-23T19:45:23.837Z"
+    },
+    {
+      "id": "zyrtec-recall-2026",
+      "slug": "zyrtec-recall-2026",
+      "title": "Zyrtec Recall 2026: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "zyrtec recall 2026",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "zyrtec recall 2026"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-23T19:45:23.837Z"
+    },
+    {
+      "id": "amy-s-lentil-soup-recall",
+      "slug": "amy-s-lentil-soup-recall",
+      "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amy's lentil soup recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "amy's lentil soup recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-23T19:45:23.837Z"
     },
     {
       "id": "capital-one-settlement-payment-delay",
@@ -145,41 +173,12 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "capital one settlement payment delay"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
-    },
-    {
-      "id": "zyrtec-recall-2026",
-      "slug": "zyrtec-recall-2026",
-      "title": "Zyrtec Recall 2026: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "zyrtec recall 2026",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "zyrtec recall 2026"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
+      "lastUpdated": "2026-07-23T19:45:23.837Z"
     }
   ]
 }

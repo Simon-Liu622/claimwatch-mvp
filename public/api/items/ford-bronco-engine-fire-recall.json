@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-24T14:12:07.439Z",
+  "updatedAt": "2026-07-24T19:46:46.343Z",
   "item": {
-    "id": "amy-s-lentil-soup-recall",
-    "slug": "amy-s-lentil-soup-recall",
-    "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
+    "id": "ford-bronco-engine-fire-recall",
+    "slug": "ford-bronco-engine-fire-recall",
+    "title": "Ford Bronco Engine Fire Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "amy's lentil soup recall",
+    "product": "ford bronco engine fire recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+engine+fire+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 24,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
-      "amy's lentil soup recall"
+      "ford bronco engine fire recall",
+      "ford bronco recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-24T14:12:00.861Z",
-    "url": "https://simon622.shop/item/amy-s-lentil-soup-recall/"
+    "lastUpdated": "2026-07-24T19:45:58.587Z",
+    "url": "https://simon622.shop/item/ford-bronco-engine-fire-recall/"
   }
 }

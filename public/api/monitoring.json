@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-23T19:45:25.538Z",
-  "count": 6,
+  "updatedAt": "2026-07-24T03:43:03.643Z",
+  "count": 3,
   "items": [
     {
-      "id": "pt-organics-fruit-pouch-recall",
-      "slug": "pt-organics-fruit-pouch-recall",
-      "title": "Pt Organics Fruit Pouch Recall: Consumer Alert Monitoring",
+      "id": "amy-s-lentil-soup-recall",
+      "slug": "amy-s-lentil-soup-recall",
+      "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "pt organics fruit pouch recall",
+      "product": "amy's lentil soup recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,49 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200000,
-      "trendScore": 32,
+      "searchVolume": 50000,
+      "trendScore": 24,
       "matchedQueries": [
-        "pt organics fruit pouch recall",
-        "pt organics limited snack recall",
-        "kroger",
-        "fruit products recall"
+        "amy's lentil soup recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T19:45:23.837Z"
-    },
-    {
-      "id": "midwest-poultry-services-egg-recall",
-      "slug": "midwest-poultry-services-egg-recall",
-      "title": "Midwest Poultry Services Egg Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "midwest poultry services egg recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+egg+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "midwest poultry services egg recall",
-        "egg recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T14:30:24.844Z"
+      "lastUpdated": "2026-07-24T03:42:50.599Z"
     },
     {
       "id": "nintendo-palworld-lawsuit",
@@ -86,22 +53,22 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "nintendo palworld lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T19:45:23.837Z"
+      "lastUpdated": "2026-07-24T03:42:50.599Z"
     },
     {
-      "id": "zyrtec-recall-2026",
-      "slug": "zyrtec-recall-2026",
-      "title": "Zyrtec Recall 2026: Consumer Alert Monitoring",
+      "id": "fruit-products-recall",
+      "slug": "fruit-products-recall",
+      "title": "Fruit Products Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "zyrtec recall 2026",
+      "product": "fruit products recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -111,74 +78,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fruit+products+recall&tz=420",
       "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "zyrtec recall 2026"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T19:45:23.837Z"
-    },
-    {
-      "id": "amy-s-lentil-soup-recall",
-      "slug": "amy-s-lentil-soup-recall",
-      "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amy's lentil soup recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "amy's lentil soup recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-23T19:45:23.837Z"
-    },
-    {
-      "id": "capital-one-settlement-payment-delay",
-      "slug": "capital-one-settlement-payment-delay",
-      "title": "Capital One Settlement Payment Delay: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "capital one settlement payment delay",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
-      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
-        "capital one settlement payment delay"
+        "fruit products recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-23T19:45:23.837Z"
+      "lastUpdated": "2026-07-24T03:42:50.599Z"
     }
   ]
 }

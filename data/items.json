@@ -205,7 +205,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -231,7 +231,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -257,7 +257,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -364,38 +364,6 @@
     "lastUpdated": "2026-06-12T20:25:53.438Z"
   },
   {
-    "id": "pt-organics-fruit-pouch-recall",
-    "slug": "pt-organics-fruit-pouch-recall",
-    "title": "Pt Organics Fruit Pouch Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "pt organics fruit pouch recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 200000,
-    "trendScore": 32,
-    "matchedQueries": [
-      "pt organics fruit pouch recall",
-      "pt organics limited snack recall",
-      "kroger",
-      "fruit products recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
-  },
-  {
     "id": "nhtsa-25v164000",
     "slug": "nhtsa-25v164000",
     "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
@@ -419,7 +387,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -445,7 +413,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -815,37 +783,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
-  },
-  {
-    "id": "midwest-poultry-services-egg-recall",
-    "slug": "midwest-poultry-services-egg-recall",
-    "title": "Midwest Poultry Services Egg Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "midwest poultry services egg recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+egg+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
-    "matchedQueries": [
-      "midwest poultry services egg recall",
-      "egg recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-23T14:30:24.844Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
@@ -872,6 +810,35 @@
     "officialRecordId": "H-0669-2026",
     "recallInitiationDate": "20260325",
     "lastUpdated": "2026-05-19T10:07:42.718Z"
+  },
+  {
+    "id": "amy-s-lentil-soup-recall",
+    "slug": "amy-s-lentil-soup-recall",
+    "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "amy's lentil soup recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 50000,
+    "trendScore": 24,
+    "matchedQueries": [
+      "amy's lentil soup recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "cpsc-26601",
@@ -1083,93 +1050,6 @@
     "officialVerified": true,
     "officialRecordId": "26536",
     "recallInitiationDate": "2026-06-11T00:00:00",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
-  },
-  {
-    "id": "nintendo-palworld-lawsuit",
-    "slug": "nintendo-palworld-lawsuit",
-    "title": "Nintendo Palworld Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "nintendo palworld lawsuit",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
-    "matchedQueries": [
-      "nintendo palworld lawsuit"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
-  },
-  {
-    "id": "zyrtec-recall-2026",
-    "slug": "zyrtec-recall-2026",
-    "title": "Zyrtec Recall 2026: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "zyrtec recall 2026",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
-    "matchedQueries": [
-      "zyrtec recall 2026"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
-  },
-  {
-    "id": "amy-s-lentil-soup-recall",
-    "slug": "amy-s-lentil-soup-recall",
-    "title": "Amy'S Lentil Soup Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "amy's lentil soup recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+lentil+soup+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
-    "matchedQueries": [
-      "amy's lentil soup recall"
-    ],
-    "officialVerified": false,
     "lastUpdated": "2026-07-23T19:45:23.837Z"
   },
   {
@@ -1977,14 +1857,14 @@
     "lastUpdated": "2026-05-11T20:03:56.394Z"
   },
   {
-    "id": "capital-one-settlement-payment-delay",
-    "slug": "capital-one-settlement-payment-delay",
-    "title": "Capital One Settlement Payment Delay: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "nintendo-palworld-lawsuit",
+    "slug": "nintendo-palworld-lawsuit",
+    "title": "Nintendo Palworld Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "capital one settlement payment delay",
+    "product": "nintendo palworld lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -1994,16 +1874,45 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 10000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "nintendo palworld lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
+  },
+  {
+    "id": "fruit-products-recall",
+    "slug": "fruit-products-recall",
+    "title": "Fruit Products Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "fruit products recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fruit+products+recall&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
     "trendScore": 8,
     "matchedQueries": [
-      "capital one settlement payment delay"
+      "fruit products recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "cpsc-26603",
@@ -2105,7 +2014,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2129,7 +2038,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2153,7 +2062,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2177,7 +2086,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "find-refund-cases",
@@ -2201,7 +2110,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "consumer-advice",
@@ -2225,7 +2134,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2249,7 +2158,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2273,7 +2182,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2297,7 +2206,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "military-consumer",
@@ -2321,7 +2230,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "consumer-gov",
@@ -2345,7 +2254,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "joy-gourmet-foods-llc-joy-pineapple-lassi-16-oz",
@@ -2371,7 +2280,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1085-2026",
     "recallInitiationDate": "20260423",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "prime-food-processing-llc-dried-herring-fish-7-oz",
@@ -2397,7 +2306,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1080-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -2421,7 +2330,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -2447,7 +2356,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2473,7 +2382,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2499,7 +2408,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2525,7 +2434,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2551,7 +2460,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2577,7 +2486,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2603,7 +2512,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2629,7 +2538,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "mars-snacking-morningstar-farms-buffalo-chik-n-nuggets-100-plant-protein-vegan-nuggets-net",
@@ -2655,7 +2564,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1129-2026",
     "recallInitiationDate": "20260618",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "fry-pie-factory-llc-pepperoni-rolls-net-wt-5-oz-141g-individually-packaged-in-a-clear-plas",
@@ -2681,7 +2590,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1136-2026",
     "recallInitiationDate": "20260610",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "mogo-moringa-llc-mogo-pure-moringa-oleifera-capsules-herbal-supplement-180-quick-release-v",
@@ -2707,7 +2616,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1128-2026",
     "recallInitiationDate": "20260524",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "western-mixers-produce-and-nuts-inc-first-street-dark-chocolate-raisins-net-wt-9-oz-255g",
@@ -2733,7 +2642,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1125-2026",
     "recallInitiationDate": "20260615",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "provision-health-corp-dba-ph-labs-vista-max-dietary-supplement-90-capsules-serving-size-4-",
@@ -2759,7 +2668,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1135-2026",
     "recallInitiationDate": "20260618",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "provision-health-corp-dba-ph-labs-ocular-plus-with-lutein-zeaxanthin-and-omega-3-6-9-dieta",
@@ -2785,7 +2694,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1134-2026",
     "recallInitiationDate": "20260618",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "wells-enterprises-inc-plastic-1-gallon-clear-pail-blue-label-which-reads-in-part-as-blue-r",
@@ -2811,7 +2720,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1151-2026",
     "recallInitiationDate": "20260610",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "nara-organics-inc-a-nara-organics-brand-whole-milk-organic-infant-formula-milk-based-powde",
@@ -2837,7 +2746,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1137-2026",
     "recallInitiationDate": "20260613",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "mars-snacking-morningstar-farms-hot-and-spicy-sausage-patties-100-plant-protein-vegan-saus",
@@ -2863,7 +2772,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1130-2026",
     "recallInitiationDate": "20260618",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "adams-extract-and-spice-llc-smoked-sausage-spice-32-86",
@@ -2889,7 +2798,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1138-2026",
     "recallInitiationDate": "20260507",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "bear-stewart-co-bakr-brown-butter-chocolate-chunk-ready-to-bake-cookie-dough-8-oz-pouch-12",
@@ -2915,7 +2824,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1143-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "adams-extract-and-spice-llc-ec-hot-links-seasoning-45-05",
@@ -2941,7 +2850,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1140-2026",
     "recallInitiationDate": "20260507",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "wise-foods-inc-wise-onion-rings-3-75-oz-metalized-film-in-cardboard-cartons-14-bags-per-ca",
@@ -2967,7 +2876,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1146-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "trafa-pharmaceutical-inc-trafa-pharmaceuticals-inc-brand-organic-moringa-leaf-powder-net-w",
@@ -2993,7 +2902,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1144-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "specialty-bakers-llc-vanilla-dessert-shells-giant-6-dessert-shells-1-package-1-dessert-she",
@@ -3019,7 +2928,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1145-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "adams-extract-and-spice-llc-coopers-bbq-60-gal-bean-mix-box",
@@ -3045,7 +2954,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1141-2026",
     "recallInitiationDate": "20260507",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "fresh-and-ready-foods-llc-fresh-to-you-burger-chicken-fillet-sku-10150-net-wt-5oz-product-",
@@ -3071,7 +2980,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1149-2026",
     "recallInitiationDate": "20260625",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "wondermade-llc-alabama-banana-pudding-marshmallow-4-ounce-16-pieces-of-individual-marshmal",
@@ -3097,7 +3006,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1147-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "adams-extract-and-spice-llc-jb-chicken-sknls-35-73",
@@ -3123,7 +3032,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1139-2026",
     "recallInitiationDate": "20260507",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "lehi-valley-trading-company-inc-high-valley-orchard-chocolate-covered-raisins-net-wt-15oz-",
@@ -3149,7 +3058,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1150-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "fresh-and-ready-foods-llc-fresh-to-you-burger-chicken-fillet-deluxe-with-bacon-sku-10303-n",
@@ -3175,7 +3084,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1148-2026",
     "recallInitiationDate": "20260625",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "adams-extract-and-spice-llc-johnny-s-salad-and-pasta-elegance-5-5-oz",
@@ -3201,7 +3110,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1142-2026",
     "recallInitiationDate": "20260507",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "le-chef-bakery-le-chef-bakery-branded-mini-italian-pastry-assortment-2-5-lbs-cs-40-pieces-",
@@ -3227,7 +3136,7 @@
     "officialVerified": true,
     "officialRecordId": "N/A",
     "recallInitiationDate": "20260605",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "onesource-specialty-pharma-limited-methohexital-sodium-for-injection-usp-500-mg-multiple-d",
@@ -3253,7 +3162,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0662-2026",
     "recallInitiationDate": "20260607",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-gasco-isopropyl-alcohol-70-net-contents-1-us-gallon-3-78-l",
@@ -3279,7 +3188,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0666-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-gasco-isopropyl-alcohol-70-32-oz-946-ml-gasco-industrial-corp-po-box",
@@ -3305,7 +3214,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0667-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-drogueria-san-juan-puerto-rico-isopropyl-alcohol-70-32-oz-946-ml",
@@ -3331,7 +3240,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0670-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "shimoga-chemicals-clomiphene-citrate-usp-active-pharmaceutical-ingredient-cas-50-41-9-net-",
@@ -3357,7 +3266,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0691-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "reliance-life-sciences-private-limited-pemetrexed-for-injection-500mg-vial-1-50-ml-single-",
@@ -3383,7 +3292,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0672-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-gasco-isopropyl-alcohol-70-net-contents-16-oz-474-ml",
@@ -3409,7 +3318,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0665-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-drogueria-san-juan-puerto-rico-isopropyl-alcohol-70-1-gallon-3-78-li",
@@ -3435,7 +3344,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0668-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "reliance-life-sciences-private-limited-bortezomib-for-injection-3-5mg-vial-10-ml-per-singl",
@@ -3461,7 +3370,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0673-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "reliance-life-sciences-private-limited-pemetrexed-for-injection-100mg-vial-1-10-ml-single-",
@@ -3487,7 +3396,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0671-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "reliance-life-sciences-private-limited-azacitidine-for-injection-100mg-vial-1-10-ml-single",
@@ -3513,7 +3422,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0674-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "biomed-laboratories-llc-medline-remedy-specialized-silicone-cream-hydraguard-d-manufacture",
@@ -3539,7 +3448,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0663-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "gasco-industrial-corp-drogueria-san-juan-puerto-rico-isopropyl-alcohol-70-16-oz-474-ml",
@@ -3565,7 +3474,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0669-2026",
     "recallInitiationDate": "20260529",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "quva-pharma-inc-methohexital-sodium-100-mg-10-ml-10-mg-ml-total-volume-10-ml-rx-only-compo",
@@ -3591,7 +3500,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0664-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "blaine-labs-inc-terpenicol-antifungal-solution-undecylenic-10-undecenoic-acid-25-1-0-fl-oz",
@@ -3617,7 +3526,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0697-2026",
     "recallInitiationDate": "20260408",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "convatec-inc-aquacel-ag-surgical-sp-ref-413556-9cm-x-15cm-3-5-in-x-6-in-sterile-r",
@@ -3643,7 +3552,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2677-2026",
     "recallInitiationDate": "20260608",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "wallac-oy-gsp-neonatal-galt-kit-product-codes-3303-001u-3303-0010-in-vitro-diagnostic-used",
@@ -3669,7 +3578,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2713-2026",
     "recallInitiationDate": "20260518",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "klowen-braces-kl-owen-custom-orthodontic-solution-model-catalog-number-cias-800033",
@@ -3695,7 +3604,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2699-2026",
     "recallInitiationDate": "20260608",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "medtronic-minimed-inc-minimed-780g-insulin-pump-ref-mmt-1885-mmt-1886-mmt-1895-mmt-1896",
@@ -3721,7 +3630,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2698-2026",
     "recallInitiationDate": "20260527",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "olympus-corporation-of-the-americas-olympus-single-use-distal-cover-catalog-number-maj-231",
@@ -3747,7 +3656,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2676-2026",
     "recallInitiationDate": "20260605",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "cmr-surgical-limited-brand-name-versius-surgical-system-us-product-name-vesius-surgeon-con",
@@ -3773,7 +3682,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2717-2026",
     "recallInitiationDate": "20260609",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-1-anesthesia-kit-peds-90-lf-model-number-dy",
@@ -3799,7 +3708,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2695-2026",
     "recallInitiationDate": "20260528",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "siemens-healthcare-diagnostics-inc-atellica-ch-enzymatic-hemoglobin-a1c-a1c-e-material-num",
@@ -3825,7 +3734,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2703-2026",
     "recallInitiationDate": "20260608",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "elekta-inc-brand-name-fletcher-ct-mr-shielded-applicator-set-product-name-intracavitary-re",
@@ -3851,7 +3760,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2710-2026",
     "recallInitiationDate": "20260403",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "fresenius-medical-care-holdings-inc-5008x-blood-tubing-set-24-units-per-case-includes-the-",
@@ -3877,7 +3786,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2702-2026",
     "recallInitiationDate": "20260511",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "elekta-inc-brand-name-brachytherapy-applicator-product-name-advanced-gynecological-applica",
@@ -3903,7 +3812,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2711-2026",
     "recallInitiationDate": "20260403",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "elekta-inc-brand-name-geneva-product-name-brachytherapy-applicator-product-description-the",
@@ -3929,7 +3838,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2712-2026",
     "recallInitiationDate": "20260403",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "think-surgical-inc-tmini-femur-tracking-array-ref-109003-udi-di-code-m9461090030-tmini-tib",
@@ -3955,7 +3864,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2716-2026",
     "recallInitiationDate": "20260508",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "biomerieux-inc-vitek-2-ast-n447-test-kit-product-reference-424620",
@@ -3981,7 +3890,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2715-2026",
     "recallInitiationDate": "20260604",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "boston-scientific-neuromodulation-corporation-intracept-access-instruments-description-ref",
@@ -4007,7 +3916,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2694-2026",
     "recallInitiationDate": "20260422",
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "ftc-returns-money-to-consumers-harmed-by-trend-deploy-s-deceptive-marketing",
@@ -4031,7 +3940,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-07-23T19:45:23.837Z"
+    "lastUpdated": "2026-07-24T03:42:50.599Z"
   },
   {
     "id": "cpsc-26552",

@@ -1,48 +1,33 @@
 [
   {
-    "rank": 5,
-    "query": "midwest poultry services egg recall",
-    "searchVolume": 50000,
+    "rank": 3,
+    "query": "eggs recalled salmonella",
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "fda recalled eggs",
       "egg recall",
-      "texas egg salmonella contamination",
+      "egg recall 2026",
+      "midwest poultry services egg recall",
       "kroger brookshire egg recall",
-      "eggs recalled salmonella",
-      "egg recall 2026"
+      "fda recalled eggs",
+      "texas egg salmonella contamination",
+      "eggs recall",
+      "kroger salmonella egg recall",
+      "egg recall july 2026"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+egg+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled+salmonella&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "midwest poultry services egg recall fda recalled eggs egg recall texas egg salmonella contamination kroger brookshire egg recall eggs recalled salmonella egg recall 2026",
-    "trendScore": 50,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
+    "text": "eggs recalled salmonella egg recall egg recall 2026 midwest poultry services egg recall kroger brookshire egg recall fda recalled eggs texas egg salmonella contamination eggs recall kroger salmonella egg recall egg recall july 2026",
+    "trendScore": 52,
+    "detectedAt": "2026-07-24T03:42:50.599Z"
   },
   {
-    "rank": 1,
-    "query": "pt organics fruit pouch recall",
-    "searchVolume": 200000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "pt organics limited snack recall",
-      "fruit products recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pt+organics+fruit+pouch+recall&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "pt organics fruit pouch recall pt organics limited snack recall fruit products recall",
-    "trendScore": 32,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
-  },
-  {
-    "rank": 11,
+    "rank": 5,
     "query": "amy's lentil soup recall",
-    "searchVolume": 10000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -51,52 +36,52 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "amy's lentil soup recall",
-    "trendScore": 23,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
+    "trendScore": 24,
+    "detectedAt": "2026-07-24T03:42:50.599Z"
   },
   {
-    "rank": 27,
-    "query": "zyrtec recall 2026",
-    "searchVolume": 10000,
+    "rank": 26,
+    "query": "walmart enhomee dresser recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zyrtec+recall+2026&tz=420",
-    "increasePercentage": 600,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+enhomee+dresser+recall&tz=420",
+    "increasePercentage": 800,
     "source": "serpapi-google-trends",
-    "text": "zyrtec recall 2026",
-    "trendScore": 23,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
+    "text": "walmart enhomee dresser recall",
+    "trendScore": 24,
+    "detectedAt": "2026-07-24T03:42:50.599Z"
   },
   {
-    "rank": 32,
+    "rank": 90,
     "query": "nintendo palworld lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
     "increasePercentage": 600,
     "source": "serpapi-google-trends",
     "text": "nintendo palworld lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
+    "trendScore": 8,
+    "detectedAt": "2026-07-24T03:42:50.599Z"
   },
   {
-    "rank": 81,
-    "query": "capital one settlement payment delay",
+    "rank": 106,
+    "query": "fruit products recall",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capital+one+settlement+payment+delay&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fruit+products+recall&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "capital one settlement payment delay",
+    "text": "fruit products recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-23T19:45:23.837Z"
+    "detectedAt": "2026-07-24T03:42:50.599Z"
   }
 ]

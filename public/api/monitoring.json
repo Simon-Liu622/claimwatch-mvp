@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-24T08:41:51.134Z",
+  "updatedAt": "2026-07-24T14:12:07.439Z",
   "count": 2,
   "items": [
+    {
+      "id": "eggs-recalled-salmonella",
+      "slug": "eggs-recalled-salmonella",
+      "title": "Eggs Recalled Salmonella: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "eggs recalled salmonella",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled+salmonella&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 100000,
+      "trendScore": 52,
+      "matchedQueries": [
+        "eggs recalled salmonella",
+        "egg recall 2026",
+        "egg recall july 2026",
+        "kroger brookshire egg recall",
+        "fda recalled eggs",
+        "texas egg salmonella contamination",
+        "eggs recall",
+        "kroger salmonella egg recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-24T14:12:00.861Z"
+    },
     {
       "id": "amy-s-lentil-soup-recall",
       "slug": "amy-s-lentil-soup-recall",
@@ -29,36 +65,7 @@
         "amy's lentil soup recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-24T08:41:48.656Z"
-    },
-    {
-      "id": "fruit-products-recall",
-      "slug": "fruit-products-recall",
-      "title": "Fruit Products Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fruit products recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fruit+products+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "fruit products recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-24T08:41:48.656Z"
+      "lastUpdated": "2026-07-24T14:12:00.861Z"
     }
   ]
 }

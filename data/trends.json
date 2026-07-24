@@ -1,6 +1,6 @@
 [
   {
-    "rank": 3,
+    "rank": 5,
     "query": "eggs recalled salmonella",
     "searchVolume": 100000,
     "startedAt": "",
@@ -8,8 +8,8 @@
     "active": true,
     "breakdown": [
       "egg recall",
-      "egg recall 2026",
       "midwest poultry services egg recall",
+      "egg recall 2026",
       "kroger brookshire egg recall",
       "fda recalled eggs",
       "texas egg salmonella contamination",
@@ -20,12 +20,12 @@
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled+salmonella&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "eggs recalled salmonella egg recall egg recall 2026 midwest poultry services egg recall kroger brookshire egg recall fda recalled eggs texas egg salmonella contamination eggs recall kroger salmonella egg recall egg recall july 2026",
+    "text": "eggs recalled salmonella egg recall midwest poultry services egg recall egg recall 2026 kroger brookshire egg recall fda recalled eggs texas egg salmonella contamination eggs recall kroger salmonella egg recall egg recall july 2026",
     "trendScore": 52,
-    "detectedAt": "2026-07-24T03:42:50.599Z"
+    "detectedAt": "2026-07-24T08:41:48.656Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "query": "amy's lentil soup recall",
     "searchVolume": 50000,
     "startedAt": "",
@@ -37,40 +37,25 @@
     "source": "serpapi-google-trends",
     "text": "amy's lentil soup recall",
     "trendScore": 24,
-    "detectedAt": "2026-07-24T03:42:50.599Z"
+    "detectedAt": "2026-07-24T08:41:48.656Z"
   },
   {
-    "rank": 26,
+    "rank": 36,
     "query": "walmart enhomee dresser recall",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+enhomee+dresser+recall&tz=420",
     "increasePercentage": 800,
     "source": "serpapi-google-trends",
     "text": "walmart enhomee dresser recall",
-    "trendScore": 24,
-    "detectedAt": "2026-07-24T03:42:50.599Z"
+    "trendScore": 9,
+    "detectedAt": "2026-07-24T08:41:48.656Z"
   },
   {
-    "rank": 90,
-    "query": "nintendo palworld lawsuit",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+palworld+lawsuit&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "nintendo palworld lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-07-24T03:42:50.599Z"
-  },
-  {
-    "rank": 106,
+    "rank": 132,
     "query": "fruit products recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -82,6 +67,6 @@
     "source": "serpapi-google-trends",
     "text": "fruit products recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-24T03:42:50.599Z"
+    "detectedAt": "2026-07-24T08:41:48.656Z"
   }
 ]

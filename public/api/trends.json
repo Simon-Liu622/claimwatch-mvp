@@ -1,42 +1,24 @@
 {
-  "updatedAt": "2026-07-24T19:46:46.343Z",
+  "updatedAt": "2026-07-25T03:36:06.014Z",
   "count": 4,
   "trends": [
     {
-      "rank": 15,
-      "query": "trump administration us attorney lawsuit",
-      "searchVolume": 10000,
+      "rank": 53,
+      "query": "costco washington email lawsuit settlement",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+us+attorney+lawsuit&tz=420",
-      "increasePercentage": 1000,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+washington+email+lawsuit+settlement&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "trump administration us attorney lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-07-24T19:45:58.587Z"
+      "text": "costco washington email lawsuit settlement",
+      "trendScore": 31,
+      "detectedAt": "2026-07-25T03:36:02.985Z"
     },
     {
-      "rank": 116,
-      "query": "egg recall july 2026",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "eggs recall",
-        "kroger salmonella egg recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+july+2026&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "egg recall july 2026 eggs recall kroger salmonella egg recall",
-      "trendScore": 20,
-      "detectedAt": "2026-07-24T19:45:58.587Z"
-    },
-    {
-      "rank": 55,
+      "rank": 114,
       "query": "amazon prime settlement refund",
       "searchVolume": 5000,
       "startedAt": "",
@@ -48,24 +30,40 @@
       "source": "serpapi-google-trends",
       "text": "amazon prime settlement refund",
       "trendScore": 16,
-      "detectedAt": "2026-07-24T19:45:58.587Z"
+      "detectedAt": "2026-07-25T03:36:02.985Z"
     },
     {
-      "rank": 76,
+      "rank": 123,
       "query": "ford bronco engine fire recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
+        "ford recalls broncos",
         "ford bronco recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+engine+fire+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "ford bronco engine fire recall ford bronco recall",
-      "trendScore": 10,
-      "detectedAt": "2026-07-24T19:45:58.587Z"
+      "text": "ford bronco engine fire recall ford recalls broncos ford bronco recall",
+      "trendScore": 12,
+      "detectedAt": "2026-07-25T03:36:02.985Z"
+    },
+    {
+      "rank": 77,
+      "query": "trump administration us attorney lawsuit",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+us+attorney+lawsuit&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "trump administration us attorney lawsuit",
+      "trendScore": 9,
+      "detectedAt": "2026-07-25T03:36:02.985Z"
     }
   ]
 }

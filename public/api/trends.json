@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-25T03:36:06.014Z",
+  "updatedAt": "2026-07-25T08:23:13.057Z",
   "count": 4,
   "trends": [
     {
-      "rank": 53,
+      "rank": 28,
       "query": "costco washington email lawsuit settlement",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+washington+email+lawsuit+settlement&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "costco washington email lawsuit settlement",
       "trendScore": 31,
-      "detectedAt": "2026-07-25T03:36:02.985Z"
+      "detectedAt": "2026-07-25T08:23:10.475Z"
     },
     {
-      "rank": 114,
+      "rank": 111,
       "query": "amazon prime settlement refund",
       "searchVolume": 5000,
       "startedAt": "",
@@ -30,28 +30,28 @@
       "source": "serpapi-google-trends",
       "text": "amazon prime settlement refund",
       "trendScore": 16,
-      "detectedAt": "2026-07-25T03:36:02.985Z"
+      "detectedAt": "2026-07-25T08:23:10.475Z"
     },
     {
-      "rank": 123,
+      "rank": 120,
       "query": "ford bronco engine fire recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "ford recalls broncos",
-        "ford bronco recall"
+        "ford bronco recall",
+        "ford recalls broncos"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+engine+fire+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "ford bronco engine fire recall ford recalls broncos ford bronco recall",
+      "text": "ford bronco engine fire recall ford bronco recall ford recalls broncos",
       "trendScore": 12,
-      "detectedAt": "2026-07-25T03:36:02.985Z"
+      "detectedAt": "2026-07-25T08:23:10.475Z"
     },
     {
-      "rank": 77,
+      "rank": 69,
       "query": "trump administration us attorney lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
@@ -63,7 +63,7 @@
       "source": "serpapi-google-trends",
       "text": "trump administration us attorney lawsuit",
       "trendScore": 9,
-      "detectedAt": "2026-07-25T03:36:02.985Z"
+      "detectedAt": "2026-07-25T08:23:10.475Z"
     }
   ]
 }

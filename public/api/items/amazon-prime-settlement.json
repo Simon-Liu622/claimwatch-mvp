@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-25T08:23:13.057Z",
+  "updatedAt": "2026-07-25T14:01:30.767Z",
   "item": {
-    "id": "amazon-prime-settlement-refund",
-    "slug": "amazon-prime-settlement-refund",
-    "title": "Amazon Prime Settlement Refund: Consumer Alert Monitoring",
+    "id": "amazon-prime-settlement",
+    "slug": "amazon-prime-settlement",
+    "title": "Amazon Prime Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "amazon prime settlement refund",
+    "product": "amazon prime settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+refund&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
-    "trendScore": 16,
+    "trendScore": 18,
     "matchedQueries": [
+      "amazon prime settlement",
       "amazon prime settlement refund"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-25T08:23:10.475Z",
-    "url": "https://simon622.shop/item/amazon-prime-settlement-refund/"
+    "lastUpdated": "2026-07-25T14:01:28.497Z",
+    "url": "https://simon622.shop/item/amazon-prime-settlement/"
   }
 }

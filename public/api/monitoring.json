@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T08:23:13.057Z",
-  "count": 4,
+  "updatedAt": "2026-07-25T14:01:30.767Z",
+  "count": 3,
   "items": [
     {
       "id": "costco-washington-email-lawsuit-settlement",
@@ -23,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+washington+email+lawsuit+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 31,
       "matchedQueries": [
         "costco washington email lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-25T08:23:10.475Z"
+      "lastUpdated": "2026-07-25T14:01:28.497Z"
     },
     {
-      "id": "amazon-prime-settlement-refund",
-      "slug": "amazon-prime-settlement-refund",
-      "title": "Amazon Prime Settlement Refund: Consumer Alert Monitoring",
+      "id": "amazon-prime-settlement",
+      "slug": "amazon-prime-settlement",
+      "title": "Amazon Prime Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "amazon prime settlement refund",
+      "product": "amazon prime settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,47 +49,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+refund&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 16,
+      "trendScore": 18,
       "matchedQueries": [
+        "amazon prime settlement",
         "amazon prime settlement refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-25T08:23:10.475Z"
-    },
-    {
-      "id": "ford-bronco-engine-fire-recall",
-      "slug": "ford-bronco-engine-fire-recall",
-      "title": "Ford Bronco Engine Fire Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ford bronco engine fire recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+bronco+engine+fire+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 12,
-      "matchedQueries": [
-        "ford bronco engine fire recall",
-        "ford bronco recall",
-        "ford recalls broncos"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-25T08:23:10.475Z"
+      "lastUpdated": "2026-07-25T14:01:28.497Z"
     },
     {
       "id": "trump-administration-us-attorney-lawsuit",
@@ -118,7 +88,7 @@
         "trump administration us attorney lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-25T08:23:10.475Z"
+      "lastUpdated": "2026-07-25T14:01:28.497Z"
     }
   ]
 }

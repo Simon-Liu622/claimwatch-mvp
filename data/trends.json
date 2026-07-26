@@ -1,6 +1,21 @@
 [
   {
-    "rank": 153,
+    "rank": 109,
+    "query": "costco lawsuit settlement",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+lawsuit+settlement&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "costco lawsuit settlement",
+    "trendScore": 16,
+    "detectedAt": "2026-07-26T08:38:51.535Z"
+  },
+  {
+    "rank": 158,
     "query": "egg recall july 2026",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,10 +27,10 @@
     "source": "serpapi-google-trends",
     "text": "egg recall july 2026",
     "trendScore": 8,
-    "detectedAt": "2026-07-26T03:54:24.281Z"
+    "detectedAt": "2026-07-26T08:38:51.535Z"
   },
   {
-    "rank": 187,
+    "rank": 190,
     "query": "amy's soup can recall",
     "searchVolume": 1000,
     "startedAt": "",
@@ -27,10 +42,10 @@
     "source": "serpapi-google-trends",
     "text": "amy's soup can recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-26T03:54:24.281Z"
+    "detectedAt": "2026-07-26T08:38:51.535Z"
   },
   {
-    "rank": 245,
+    "rank": 239,
     "query": "amazon prime settlement",
     "searchVolume": 500,
     "startedAt": "",
@@ -42,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "amazon prime settlement",
     "trendScore": 8,
-    "detectedAt": "2026-07-26T03:54:24.281Z"
+    "detectedAt": "2026-07-26T08:38:51.535Z"
   }
 ]

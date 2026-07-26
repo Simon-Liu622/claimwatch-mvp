@@ -1,21 +1,36 @@
 [
   {
-    "rank": 60,
-    "query": "costco washington email lawsuit settlement",
-    "searchVolume": 10000,
+    "rank": 153,
+    "query": "egg recall july 2026",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+washington+email+lawsuit+settlement&tz=420",
-    "increasePercentage": 400,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+july+2026&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "costco washington email lawsuit settlement",
-    "trendScore": 16,
-    "detectedAt": "2026-07-25T19:33:48.987Z"
+    "text": "egg recall july 2026",
+    "trendScore": 8,
+    "detectedAt": "2026-07-26T03:54:24.281Z"
   },
   {
-    "rank": 178,
+    "rank": 187,
+    "query": "amy's soup can recall",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "amy's soup can recall",
+    "trendScore": 8,
+    "detectedAt": "2026-07-26T03:54:24.281Z"
+  },
+  {
+    "rank": 245,
     "query": "amazon prime settlement",
     "searchVolume": 500,
     "startedAt": "",
@@ -27,6 +42,6 @@
     "source": "serpapi-google-trends",
     "text": "amazon prime settlement",
     "trendScore": 8,
-    "detectedAt": "2026-07-25T19:33:48.987Z"
+    "detectedAt": "2026-07-26T03:54:24.281Z"
   }
 ]

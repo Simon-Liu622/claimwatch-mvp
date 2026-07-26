@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-07-25T19:33:53.437Z",
-  "count": 2,
+  "updatedAt": "2026-07-26T03:54:26.686Z",
+  "count": 3,
   "items": [
-    {
-      "id": "costco-washington-email-lawsuit-settlement",
-      "slug": "costco-washington-email-lawsuit-settlement",
-      "title": "Costco Washington Email Lawsuit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "costco washington email lawsuit settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+washington+email+lawsuit+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "costco washington email lawsuit settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-25T19:33:48.987Z"
-    },
     {
       "id": "amazon-prime-settlement",
       "slug": "amazon-prime-settlement",
@@ -59,7 +30,65 @@
         "amazon prime settlement refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-25T19:33:48.987Z"
+      "lastUpdated": "2026-07-26T03:54:24.281Z"
+    },
+    {
+      "id": "egg-recall-july-2026",
+      "slug": "egg-recall-july-2026",
+      "title": "Egg Recall July 2026: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "egg recall july 2026",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+july+2026&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "egg recall july 2026"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-26T03:54:24.281Z"
+    },
+    {
+      "id": "amy-s-soup-can-recall",
+      "slug": "amy-s-soup-can-recall",
+      "title": "Amy'S Soup Can Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amy's soup can recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "amy's soup can recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-26T03:54:24.281Z"
     }
   ]
 }

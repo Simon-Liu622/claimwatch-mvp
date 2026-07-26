@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-07-26T13:55:43.577Z",
-  "count": 4,
+  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "count": 5,
   "items": [
     {
-      "id": "egg-recall-2026",
-      "slug": "egg-recall-2026",
-      "title": "Egg Recall 2026: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "amazon-2-5b-settlement-claims",
+      "slug": "amazon-2-5b-settlement-claims",
+      "title": "Amazon $2.5b Settlement Claims: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "egg recall 2026",
-      "category": "Recall monitoring",
+      "product": "amazon $2.5b settlement claims",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,18 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%242.5b+settlement+claims&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 27,
+      "searchVolume": 1000,
+      "trendScore": 43,
       "matchedQueries": [
-        "egg recall 2026",
-        "egg recall july 2026",
-        "eggs recalled"
+        "amazon $2.5b settlement claims",
+        "amazon prime settlement",
+        "amazon customers have until july 27 to claim settlement funds"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T13:55:37.482Z"
+      "lastUpdated": "2026-07-26T19:34:11.913Z"
     },
     {
       "id": "amy-s-soup-can-recall",
@@ -54,23 +54,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "amy's soup can recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T13:55:37.482Z"
+      "lastUpdated": "2026-07-26T19:34:11.913Z"
     },
     {
-      "id": "amazon-prime-settlement",
-      "slug": "amazon-prime-settlement",
-      "title": "Amazon Prime Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "doe-clean-energy-grant-lawsuit",
+      "slug": "doe-clean-energy-grant-lawsuit",
+      "title": "Doe Clean-Energy Grant Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "amazon prime settlement",
+      "product": "doe clean-energy grant lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -80,18 +80,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 18,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "amazon prime settlement",
-        "amazon prime settlement refund",
-        "amazon customers have until july 27 to claim settlement funds"
+        "doe clean-energy grant lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T13:55:37.482Z"
+      "lastUpdated": "2026-07-26T19:34:11.913Z"
     },
     {
       "id": "costco-lawsuit-settlement",
@@ -120,7 +118,38 @@
         "costco lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T13:55:37.482Z"
+      "lastUpdated": "2026-07-26T19:34:11.913Z"
+    },
+    {
+      "id": "egg-recall-2026",
+      "slug": "egg-recall-2026",
+      "title": "Egg Recall 2026: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "egg recall 2026",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 12,
+      "matchedQueries": [
+        "egg recall 2026",
+        "egg recall july 2026",
+        "eggs recalled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-26T19:34:11.913Z"
     }
   ]
 }

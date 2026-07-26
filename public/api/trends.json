@@ -1,59 +1,57 @@
 {
-  "updatedAt": "2026-07-26T13:55:43.577Z",
-  "count": 4,
+  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 50,
-      "query": "egg recall 2026",
-      "searchVolume": 5000,
+      "rank": 85,
+      "query": "amazon $2.5b settlement claims",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "egg recall july 2026",
-        "eggs recalled"
+        "amazon prime settlement",
+        "amazon customers have until july 27 to claim settlement funds"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
-      "increasePercentage": 300,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%242.5b+settlement+claims&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "egg recall 2026 egg recall july 2026 eggs recalled",
-      "trendScore": 27,
-      "detectedAt": "2026-07-26T13:55:37.482Z"
+      "text": "amazon $2.5b settlement claims amazon prime settlement amazon customers have until july 27 to claim settlement funds",
+      "trendScore": 43,
+      "detectedAt": "2026-07-26T19:34:11.913Z"
     },
     {
-      "rank": 40,
+      "rank": 10,
       "query": "amy's soup can recall",
-      "searchVolume": 5000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "amy's soup can recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-26T13:55:37.482Z"
+      "trendScore": 24,
+      "detectedAt": "2026-07-26T19:34:11.913Z"
     },
     {
-      "rank": 162,
-      "query": "amazon prime settlement",
-      "searchVolume": 200,
+      "rank": 52,
+      "query": "doe clean-energy grant lawsuit",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "amazon customers have until july 27 to claim settlement funds"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
-      "increasePercentage": 100,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "amazon prime settlement amazon customers have until july 27 to claim settlement funds",
-      "trendScore": 18,
-      "detectedAt": "2026-07-26T13:55:37.482Z"
+      "text": "doe clean-energy grant lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-07-26T19:34:11.913Z"
     },
     {
-      "rank": 160,
+      "rank": 211,
       "query": "costco lawsuit settlement",
       "searchVolume": 1000,
       "startedAt": "",
@@ -65,7 +63,25 @@
       "source": "serpapi-google-trends",
       "text": "costco lawsuit settlement",
       "trendScore": 16,
-      "detectedAt": "2026-07-26T13:55:37.482Z"
+      "detectedAt": "2026-07-26T19:34:11.913Z"
+    },
+    {
+      "rank": 144,
+      "query": "egg recall 2026",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "egg recall july 2026",
+        "eggs recalled"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "egg recall 2026 egg recall july 2026 eggs recalled",
+      "trendScore": 12,
+      "detectedAt": "2026-07-26T19:34:11.913Z"
     }
   ]
 }

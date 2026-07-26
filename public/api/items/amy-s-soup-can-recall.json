@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T08:38:54.332Z",
+  "updatedAt": "2026-07-26T13:55:43.577Z",
   "item": {
     "id": "amy-s-soup-can-recall",
     "slug": "amy-s-soup-can-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 23,
     "matchedQueries": [
       "amy's soup can recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-26T08:38:51.535Z",
+    "lastUpdated": "2026-07-26T13:55:37.482Z",
     "url": "https://simon622.shop/item/amy-s-soup-can-recall/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "updatedAt": "2026-07-27T04:01:32.010Z",
   "item": {
-    "id": "amy-s-soup-can-recall",
-    "slug": "amy-s-soup-can-recall",
-    "title": "Amy'S Soup Can Recall: Consumer Alert Monitoring",
+    "id": "levothyroxine-recall",
+    "slug": "levothyroxine-recall",
+    "title": "Levothyroxine Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "amy's soup can recall",
+    "product": "levothyroxine recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 200,
+    "trendScore": 8,
     "matchedQueries": [
-      "amy's soup can recall"
+      "levothyroxine recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-26T19:34:11.913Z",
-    "url": "https://simon622.shop/item/amy-s-soup-can-recall/"
+    "lastUpdated": "2026-07-27T04:01:28.390Z",
+    "url": "https://simon622.shop/item/levothyroxine-recall/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "updatedAt": "2026-07-27T04:01:32.010Z",
   "count": 5,
   "trends": [
     {
-      "rank": 85,
+      "rank": 116,
       "query": "amazon $2.5b settlement claims",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "amazon prime settlement",
         "amazon customers have until july 27 to claim settlement funds"
@@ -17,41 +17,11 @@
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "amazon $2.5b settlement claims amazon prime settlement amazon customers have until july 27 to claim settlement funds",
-      "trendScore": 43,
-      "detectedAt": "2026-07-26T19:34:11.913Z"
+      "trendScore": 28,
+      "detectedAt": "2026-07-27T04:01:28.390Z"
     },
     {
-      "rank": 10,
-      "query": "amy's soup can recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "amy's soup can recall",
-      "trendScore": 24,
-      "detectedAt": "2026-07-26T19:34:11.913Z"
-    },
-    {
-      "rank": 52,
-      "query": "doe clean-energy grant lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "doe clean-energy grant lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-07-26T19:34:11.913Z"
-    },
-    {
-      "rank": 211,
+      "rank": 219,
       "query": "costco lawsuit settlement",
       "searchVolume": 1000,
       "startedAt": "",
@@ -63,25 +33,54 @@
       "source": "serpapi-google-trends",
       "text": "costco lawsuit settlement",
       "trendScore": 16,
-      "detectedAt": "2026-07-26T19:34:11.913Z"
+      "detectedAt": "2026-07-27T04:01:28.390Z"
     },
     {
-      "rank": 144,
+      "rank": 172,
       "query": "egg recall 2026",
-      "searchVolume": 5000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "egg recall july 2026",
         "eggs recalled"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "egg recall 2026 egg recall july 2026 eggs recalled",
-      "trendScore": 12,
-      "detectedAt": "2026-07-26T19:34:11.913Z"
+      "text": "egg recall 2026 eggs recalled",
+      "trendScore": 10,
+      "detectedAt": "2026-07-27T04:01:28.390Z"
+    },
+    {
+      "rank": 109,
+      "query": "doe clean-energy grant lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "doe clean-energy grant lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-07-27T04:01:28.390Z"
+    },
+    {
+      "rank": 249,
+      "query": "levothyroxine recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "levothyroxine recall",
+      "trendScore": 8,
+      "detectedAt": "2026-07-27T04:01:28.390Z"
     }
   ]
 }

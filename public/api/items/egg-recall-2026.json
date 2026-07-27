@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "updatedAt": "2026-07-27T04:01:32.010Z",
   "item": {
     "id": "egg-recall-2026",
     "slug": "egg-recall-2026",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 12,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
       "egg recall 2026",
       "egg recall july 2026",
       "eggs recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-26T19:34:11.913Z",
+    "lastUpdated": "2026-07-27T04:01:28.390Z",
     "url": "https://simon622.shop/item/egg-recall-2026/"
   }
 }

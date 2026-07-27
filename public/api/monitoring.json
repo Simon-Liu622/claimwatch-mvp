@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:34:14.126Z",
+  "updatedAt": "2026-07-27T04:01:32.010Z",
   "count": 5,
   "items": [
     {
@@ -23,73 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%242.5b+settlement+claims&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 43,
+      "searchVolume": 2000,
+      "trendScore": 28,
       "matchedQueries": [
         "amazon $2.5b settlement claims",
         "amazon prime settlement",
         "amazon customers have until july 27 to claim settlement funds"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T19:34:11.913Z"
-    },
-    {
-      "id": "amy-s-soup-can-recall",
-      "slug": "amy-s-soup-can-recall",
-      "title": "Amy'S Soup Can Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amy's soup can recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amy%27s+soup+can+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "amy's soup can recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-26T19:34:11.913Z"
-    },
-    {
-      "id": "doe-clean-energy-grant-lawsuit",
-      "slug": "doe-clean-energy-grant-lawsuit",
-      "title": "Doe Clean-Energy Grant Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doe clean-energy grant lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "doe clean-energy grant lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-26T19:34:11.913Z"
+      "lastUpdated": "2026-07-27T04:01:28.390Z"
     },
     {
       "id": "costco-lawsuit-settlement",
@@ -118,7 +60,7 @@
         "costco lawsuit settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T19:34:11.913Z"
+      "lastUpdated": "2026-07-27T04:01:28.390Z"
     },
     {
       "id": "egg-recall-2026",
@@ -141,15 +83,73 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 12,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
         "egg recall 2026",
         "egg recall july 2026",
         "eggs recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-26T19:34:11.913Z"
+      "lastUpdated": "2026-07-27T04:01:28.390Z"
+    },
+    {
+      "id": "doe-clean-energy-grant-lawsuit",
+      "slug": "doe-clean-energy-grant-lawsuit",
+      "title": "Doe Clean-Energy Grant Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "doe clean-energy grant lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "doe clean-energy grant lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-27T04:01:28.390Z"
+    },
+    {
+      "id": "levothyroxine-recall",
+      "slug": "levothyroxine-recall",
+      "title": "Levothyroxine Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "levothyroxine recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "levothyroxine recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-27T04:01:28.390Z"
     }
   ]
 }

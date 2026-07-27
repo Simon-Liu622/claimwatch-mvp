@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-27T15:13:19.965Z",
-  "count": 3,
+  "updatedAt": "2026-07-27T19:53:38.493Z",
+  "count": 2,
   "items": [
     {
       "id": "amazon-prime-settlement",
@@ -23,44 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 26,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "amazon prime settlement",
         "amazon $2.5b settlement claims",
         "amazon customers have until july 27 to claim settlement funds"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-27T15:12:42.734Z"
-    },
-    {
-      "id": "doe-clean-energy-grant-lawsuit",
-      "slug": "doe-clean-energy-grant-lawsuit",
-      "title": "Doe Clean-Energy Grant Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doe clean-energy grant lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "doe clean-energy grant lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-27T15:12:42.734Z"
+      "lastUpdated": "2026-07-27T19:53:11.968Z"
     },
     {
       "id": "cyclospora-outbreak-taylor-farms-recall",
@@ -89,7 +60,7 @@
         "cyclospora outbreak taylor farms recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-27T15:12:42.734Z"
+      "lastUpdated": "2026-07-27T19:53:11.968Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:13:19.965Z",
+  "updatedAt": "2026-07-27T19:53:38.493Z",
   "item": {
     "id": "amazon-prime-settlement",
     "slug": "amazon-prime-settlement",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 26,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
       "amazon prime settlement",
       "amazon $2.5b settlement claims",
       "amazon customers have until july 27 to claim settlement funds"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-27T15:12:42.734Z",
+    "lastUpdated": "2026-07-27T19:53:11.968Z",
     "url": "https://simon622.shop/item/amazon-prime-settlement/"
   }
 }

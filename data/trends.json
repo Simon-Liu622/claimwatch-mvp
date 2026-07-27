@@ -1,70 +1,58 @@
 [
   {
-    "rank": 99,
-    "query": "amazon prime settlement",
+    "rank": 62,
+    "query": "eggs recalled",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
-      "amazon $2.5b settlement claims"
+      "salmonella"
     ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "eggs recalled salmonella",
+    "trendScore": 33,
+    "detectedAt": "2026-07-27T19:53:11.968Z"
+  },
+  {
+    "rank": 22,
+    "query": "levothyroxine",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "levothyroxine recall 2026",
+      "thyroid medication recalled",
+      "fda recalls thyroid medication",
+      "levothyroxine recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "levothyroxine levothyroxine recall 2026 thyroid medication recalled fda recalls thyroid medication levothyroxine recall",
+    "trendScore": 32,
+    "detectedAt": "2026-07-27T19:53:11.968Z"
+  },
+  {
+    "rank": 142,
+    "query": "amazon prime settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "amazon prime settlement amazon $2.5b settlement claims",
-    "trendScore": 26,
-    "detectedAt": "2026-07-27T15:12:42.734Z"
-  },
-  {
-    "rank": 30,
-    "query": "levothyroxine",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "levothyroxine recall 2026"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "levothyroxine levothyroxine recall 2026",
-    "trendScore": 25,
-    "detectedAt": "2026-07-27T15:12:42.734Z"
-  },
-  {
-    "rank": 66,
-    "query": "salmonella",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "salmonella",
-    "trendScore": 23,
-    "detectedAt": "2026-07-27T15:12:42.734Z"
-  },
-  {
-    "rank": 166,
-    "query": "doe clean-energy grant lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doe+clean-energy+grant+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "doe clean-energy grant lawsuit",
+    "text": "amazon prime settlement",
     "trendScore": 8,
-    "detectedAt": "2026-07-27T15:12:42.734Z"
+    "detectedAt": "2026-07-27T19:53:11.968Z"
   },
   {
-    "rank": 177,
+    "rank": 221,
     "query": "cyclospora outbreak taylor farms recall",
     "searchVolume": 200,
     "startedAt": "",
@@ -76,6 +64,6 @@
     "source": "serpapi-google-trends",
     "text": "cyclospora outbreak taylor farms recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-27T15:12:42.734Z"
+    "detectedAt": "2026-07-27T19:53:11.968Z"
   }
 ]

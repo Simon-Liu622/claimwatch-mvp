@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-07-27T19:53:38.493Z",
+  "item": {
+    "id": "daavlin-distributing-company-photera-400-phototherapy-device-ultraviolet-lamp-for-dermatol",
+    "slug": "daavlin-distributing-company-photera-400-phototherapy-device-ultraviolet-lamp-for-dermatol",
+    "title": "Daavlin Distributing Company: Photera 400, phototherapy device; Ultraviolet Lamp For Dermatologic Disorders Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Daavlin Distributing Company",
+    "brand": "Daavlin Distributing Company",
+    "product": "Photera 400, phototherapy device; Ultraviolet Lamp For Dermatologic Disorders",
+    "category": "Recall",
+    "summary": "Calibrated Output was not calculating correctly - UV Sensor GAIN being applied was incorrect - GAIN seemed to be \"4/5\" instead of \"7\" (counts were at ~1000 instead of ~5000). Product details: Photera 400, phototherapy device; Ultraviolet Lamp For Dermatologic Disorders",
+    "affectedPeople": "US Nationwide distribution.",
+    "remedy": "Affected quantity: 2 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2742-2026",
+    "recallInitiationDate": "20260305",
+    "lastUpdated": "2026-07-27T19:53:11.968Z",
+    "url": "https://simon622.shop/item/daavlin-distributing-company-photera-400-phototherapy-device-ultraviolet-lamp-for-dermatol/"
+  }
+}

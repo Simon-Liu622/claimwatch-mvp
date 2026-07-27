@@ -1,39 +1,24 @@
 [
   {
-    "rank": 116,
-    "query": "amazon $2.5b settlement claims",
+    "rank": 81,
+    "query": "amazon prime settlement",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
-      "amazon prime settlement",
+      "amazon $2.5b settlement claims",
       "amazon customers have until july 27 to claim settlement funds"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%242.5b+settlement+claims&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "amazon $2.5b settlement claims amazon prime settlement amazon customers have until july 27 to claim settlement funds",
-    "trendScore": 28,
-    "detectedAt": "2026-07-27T04:01:28.390Z"
+    "text": "amazon prime settlement amazon $2.5b settlement claims amazon customers have until july 27 to claim settlement funds",
+    "trendScore": 43,
+    "detectedAt": "2026-07-27T10:07:51.327Z"
   },
   {
-    "rank": 219,
-    "query": "costco lawsuit settlement",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+lawsuit+settlement&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "costco lawsuit settlement",
-    "trendScore": 16,
-    "detectedAt": "2026-07-27T04:01:28.390Z"
-  },
-  {
-    "rank": 172,
+    "rank": 183,
     "query": "egg recall 2026",
     "searchVolume": 2000,
     "startedAt": "",
@@ -47,10 +32,10 @@
     "source": "serpapi-google-trends",
     "text": "egg recall 2026 eggs recalled",
     "trendScore": 10,
-    "detectedAt": "2026-07-27T04:01:28.390Z"
+    "detectedAt": "2026-07-27T10:07:51.327Z"
   },
   {
-    "rank": 109,
+    "rank": 121,
     "query": "doe clean-energy grant lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -62,10 +47,10 @@
     "source": "serpapi-google-trends",
     "text": "doe clean-energy grant lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-27T04:01:28.390Z"
+    "detectedAt": "2026-07-27T10:07:51.327Z"
   },
   {
-    "rank": 249,
+    "rank": 265,
     "query": "levothyroxine recall",
     "searchVolume": 200,
     "startedAt": "",
@@ -77,6 +62,6 @@
     "source": "serpapi-google-trends",
     "text": "levothyroxine recall",
     "trendScore": 8,
-    "detectedAt": "2026-07-27T04:01:28.390Z"
+    "detectedAt": "2026-07-27T10:07:51.327Z"
   }
 ]

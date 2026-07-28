@@ -1,48 +1,11 @@
 {
-  "updatedAt": "2026-07-28T03:34:07.753Z",
+  "updatedAt": "2026-07-28T08:50:34.175Z",
   "count": 5,
   "trends": [
     {
-      "rank": 13,
-      "query": "levothyroxine recall 2026",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "levothyroxine",
-        "levothyroxine recall",
-        "thyroid drug recall",
-        "fda recalls thyroid medication",
-        "thyroid medication recalled",
-        "levothyroxine sodium tablets recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall+2026&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "levothyroxine recall 2026 levothyroxine levothyroxine recall thyroid drug recall fda recalls thyroid medication thyroid medication recalled levothyroxine sodium tablets recall",
-      "trendScore": 34,
-      "detectedAt": "2026-07-28T03:34:03.290Z"
-    },
-    {
-      "rank": 75,
-      "query": "amazon prime settlement",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "amazon prime settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-07-28T03:34:03.290Z"
-    },
-    {
-      "rank": 81,
+      "rank": 78,
       "query": "eggs recalled",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
@@ -54,11 +17,48 @@
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "eggs recalled salmonella eggs salmonella",
-      "trendScore": 20,
-      "detectedAt": "2026-07-28T03:34:03.290Z"
+      "trendScore": 21,
+      "detectedAt": "2026-07-28T08:50:31.224Z"
     },
     {
-      "rank": 253,
+      "rank": 46,
+      "query": "levothyroxine recall 2026",
+      "searchVolume": 50000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "levothyroxine",
+        "levothyroxine recall",
+        "fda recalls thyroid medication",
+        "thyroid drug recall",
+        "thyroid medication recalled",
+        "levothyroxine sodium tablets recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall+2026&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "levothyroxine recall 2026 levothyroxine levothyroxine recall fda recalls thyroid medication thyroid drug recall thyroid medication recalled levothyroxine sodium tablets recall",
+      "trendScore": 19,
+      "detectedAt": "2026-07-28T08:50:31.224Z"
+    },
+    {
+      "rank": 121,
+      "query": "amazon prime settlement",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "amazon prime settlement",
+      "trendScore": 8,
+      "detectedAt": "2026-07-28T08:50:31.224Z"
+    },
+    {
+      "rank": 211,
       "query": "federal judge rejects commission lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -70,10 +70,10 @@
       "source": "serpapi-google-trends",
       "text": "federal judge rejects commission lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-28T03:34:03.290Z"
+      "detectedAt": "2026-07-28T08:50:31.224Z"
     },
     {
-      "rank": 282,
+      "rank": 290,
       "query": "cyclospora outbreak taylor farms recall",
       "searchVolume": 200,
       "startedAt": "",
@@ -85,7 +85,7 @@
       "source": "serpapi-google-trends",
       "text": "cyclospora outbreak taylor farms recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-28T03:34:03.290Z"
+      "detectedAt": "2026-07-28T08:50:31.224Z"
     }
   ]
 }

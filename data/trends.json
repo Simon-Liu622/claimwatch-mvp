@@ -1,63 +1,46 @@
 [
   {
-    "rank": 78,
-    "query": "eggs recalled",
+    "rank": 38,
+    "query": "levothyroxine recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "thyroid drug recall",
+      "fda recalls thyroid medication",
+      "thyroid medication recalled",
+      "levothyroxine sodium tablets recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "levothyroxine recall thyroid drug recall fda recalls thyroid medication thyroid medication recalled levothyroxine sodium tablets recall",
+    "trendScore": 32,
+    "detectedAt": "2026-07-28T14:36:14.927Z"
+  },
+  {
+    "rank": 121,
+    "query": "salmonella eggs",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "salmonella eggs",
+      "eggs recalled",
       "salmonella"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "eggs recalled salmonella eggs salmonella",
-    "trendScore": 21,
-    "detectedAt": "2026-07-28T08:50:31.224Z"
-  },
-  {
-    "rank": 46,
-    "query": "levothyroxine recall 2026",
-    "searchVolume": 50000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "levothyroxine",
-      "levothyroxine recall",
-      "fda recalls thyroid medication",
-      "thyroid drug recall",
-      "thyroid medication recalled",
-      "levothyroxine sodium tablets recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levothyroxine+recall+2026&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "levothyroxine recall 2026 levothyroxine levothyroxine recall fda recalls thyroid medication thyroid drug recall thyroid medication recalled levothyroxine sodium tablets recall",
-    "trendScore": 19,
-    "detectedAt": "2026-07-28T08:50:31.224Z"
-  },
-  {
-    "rank": 121,
-    "query": "amazon prime settlement",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+eggs&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "amazon prime settlement",
-    "trendScore": 8,
-    "detectedAt": "2026-07-28T08:50:31.224Z"
+    "text": "salmonella eggs eggs recalled salmonella",
+    "trendScore": 21,
+    "detectedAt": "2026-07-28T14:36:14.927Z"
   },
   {
-    "rank": 211,
+    "rank": 161,
     "query": "federal judge rejects commission lawsuit",
-    "searchVolume": 500,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -67,21 +50,6 @@
     "source": "serpapi-google-trends",
     "text": "federal judge rejects commission lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-28T08:50:31.224Z"
-  },
-  {
-    "rank": 290,
-    "query": "cyclospora outbreak taylor farms recall",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cyclospora+outbreak+taylor+farms+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "cyclospora outbreak taylor farms recall",
-    "trendScore": 8,
-    "detectedAt": "2026-07-28T08:50:31.224Z"
+    "detectedAt": "2026-07-28T14:36:14.927Z"
   }
 ]

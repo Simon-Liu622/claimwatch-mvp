@@ -1,43 +1,44 @@
 [
   {
-    "rank": 36,
+    "rank": 14,
     "query": "costco email lawsuit payout",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+email+lawsuit+payout&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "costco email lawsuit payout",
     "trendScore": 31,
-    "detectedAt": "2026-07-29T09:07:35.848Z"
+    "detectedAt": "2026-07-29T14:30:25.119Z"
   },
   {
-    "rank": 13,
+    "rank": 11,
     "query": "bacon recall",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "maple leaf foods bacon recall",
       "bacon recall 2026"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "bacon recall bacon recall 2026",
-    "trendScore": 26,
-    "detectedAt": "2026-07-29T09:07:35.848Z"
+    "text": "bacon recall maple leaf foods bacon recall bacon recall 2026",
+    "trendScore": 28,
+    "detectedAt": "2026-07-29T14:30:25.119Z"
   },
   {
-    "rank": 100,
+    "rank": 63,
     "query": "thyroid medication recall",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
       "thyroid medication recalled"
     ],
@@ -45,11 +46,11 @@
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "thyroid medication recall thyroid medication recalled",
-    "trendScore": 10,
-    "detectedAt": "2026-07-29T09:07:35.848Z"
+    "trendScore": 25,
+    "detectedAt": "2026-07-29T14:30:25.119Z"
   },
   {
-    "rank": 257,
+    "rank": 282,
     "query": "bbc panorama donald trump lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -61,6 +62,6 @@
     "source": "serpapi-google-trends",
     "text": "bbc panorama donald trump lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-29T09:07:35.848Z"
+    "detectedAt": "2026-07-29T14:30:25.119Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T09:07:38.035Z",
+  "updatedAt": "2026-07-29T14:30:32.475Z",
   "item": {
     "id": "thyroid-medication-recall",
     "slug": "thyroid-medication-recall",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thyroid+medication+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
+    "searchVolume": 10000,
+    "trendScore": 25,
     "matchedQueries": [
       "thyroid medication recall",
       "thyroid medication recalled",
       "thyroid drug recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-29T09:07:35.848Z",
+    "lastUpdated": "2026-07-29T14:30:25.119Z",
     "url": "https://simon622.shop/item/thyroid-medication-recall/"
   }
 }

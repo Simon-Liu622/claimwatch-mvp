@@ -1,8 +1,8 @@
 [
   {
-    "rank": 14,
+    "rank": 12,
     "query": "costco email lawsuit payout",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -11,57 +11,39 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "costco email lawsuit payout",
-    "trendScore": 31,
-    "detectedAt": "2026-07-29T14:30:25.119Z"
+    "trendScore": 32,
+    "detectedAt": "2026-07-29T19:42:12.553Z"
   },
   {
-    "rank": 11,
-    "query": "bacon recall",
-    "searchVolume": 20000,
+    "rank": 119,
+    "query": "rohto eye drops recall",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "maple leaf foods bacon recall",
-      "bacon recall 2026"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall&tz=420",
-    "increasePercentage": 400,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "bacon recall maple leaf foods bacon recall bacon recall 2026",
-    "trendScore": 28,
-    "detectedAt": "2026-07-29T14:30:25.119Z"
+    "text": "rohto eye drops recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-29T19:42:12.553Z"
   },
   {
-    "rank": 63,
-    "query": "thyroid medication recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "thyroid medication recalled"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thyroid+medication+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "thyroid medication recall thyroid medication recalled",
-    "trendScore": 25,
-    "detectedAt": "2026-07-29T14:30:25.119Z"
-  },
-  {
-    "rank": 282,
-    "query": "bbc panorama donald trump lawsuit",
-    "searchVolume": 1000,
+    "rank": 170,
+    "query": "bacon recall 2026",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+panorama+donald+trump+lawsuit&tz=420",
+    "breakdown": [
+      "maple leaf foods bacon recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall+2026&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "bbc panorama donald trump lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-07-29T14:30:25.119Z"
+    "text": "bacon recall 2026 maple leaf foods bacon recall",
+    "trendScore": 10,
+    "detectedAt": "2026-07-29T19:42:12.553Z"
   }
 ]

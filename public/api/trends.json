@@ -1,42 +1,43 @@
 {
-  "updatedAt": "2026-07-28T19:52:38.763Z",
-  "count": 5,
+  "updatedAt": "2026-07-29T03:37:43.740Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 88,
+      "rank": 18,
+      "query": "bacon recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "bacon recall 2026"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "bacon recall bacon recall 2026",
+      "trendScore": 26,
+      "detectedAt": "2026-07-29T03:37:40.634Z"
+    },
+    {
+      "rank": 68,
       "query": "thyroid medication recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "thyroid medication recalled",
-        "thyroid drug recall"
+        "thyroid medication recalled"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thyroid+medication+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "thyroid medication recall thyroid medication recalled thyroid drug recall",
-      "trendScore": 27,
-      "detectedAt": "2026-07-28T19:52:21.536Z"
+      "text": "thyroid medication recall thyroid medication recalled",
+      "trendScore": 25,
+      "detectedAt": "2026-07-29T03:37:40.634Z"
     },
     {
-      "rank": 42,
-      "query": "bacon recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "bacon recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-28T19:52:21.536Z"
-    },
-    {
-      "rank": 126,
+      "rank": 232,
       "query": "bbc panorama donald trump lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -48,37 +49,7 @@
       "source": "serpapi-google-trends",
       "text": "bbc panorama donald trump lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-28T19:52:21.536Z"
-    },
-    {
-      "rank": 137,
-      "query": "salmonella eggs",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+eggs&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "salmonella eggs",
-      "trendScore": 8,
-      "detectedAt": "2026-07-28T19:52:21.536Z"
-    },
-    {
-      "rank": 169,
-      "query": "federal judge rejects commission lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+judge+rejects+commission+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "federal judge rejects commission lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-28T19:52:21.536Z"
+      "detectedAt": "2026-07-29T03:37:40.634Z"
     }
   ]
 }

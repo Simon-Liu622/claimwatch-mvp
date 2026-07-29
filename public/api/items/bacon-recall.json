@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T19:52:38.763Z",
+  "updatedAt": "2026-07-29T03:37:43.740Z",
   "item": {
     "id": "bacon-recall",
     "slug": "bacon-recall",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bacon+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "bacon recall"
+      "bacon recall",
+      "bacon recall 2026"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-28T19:52:21.536Z",
+    "lastUpdated": "2026-07-29T03:37:40.634Z",
     "url": "https://simon622.shop/item/bacon-recall/"
   }
 }

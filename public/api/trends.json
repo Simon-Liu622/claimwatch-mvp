@@ -1,24 +1,42 @@
 {
-  "updatedAt": "2026-07-30T14:30:58.718Z",
+  "updatedAt": "2026-07-30T19:51:40.455Z",
   "count": 3,
   "trends": [
     {
-      "rank": 251,
-      "query": "vinita prabhakar english professor lawsuit",
-      "searchVolume": 2000,
+      "rank": 45,
+      "query": "doj nj voter rolls lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "new jersey voter privacy ruling",
+        "judge quraishi doj voter case"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "doj nj voter rolls lawsuit new jersey voter privacy ruling judge quraishi doj voter case",
+      "trendScore": 27,
+      "detectedAt": "2026-07-30T19:51:27.220Z"
+    },
+    {
+      "rank": 272,
+      "query": "trump white house ballroom lawsuit",
+      "searchVolume": 200,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vinita+prabhakar+english+professor+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "vinita prabhakar english professor lawsuit",
+      "text": "trump white house ballroom lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-30T14:30:55.400Z"
+      "detectedAt": "2026-07-30T19:51:27.220Z"
     },
     {
-      "rank": 356,
+      "rank": 381,
       "query": "wuanita swedlund usda inspection lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -30,22 +48,7 @@
       "source": "serpapi-google-trends",
       "text": "wuanita swedlund usda inspection lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-30T14:30:55.400Z"
-    },
-    {
-      "rank": 415,
-      "query": "rohto eye drops recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "rohto eye drops recall",
-      "trendScore": 8,
-      "detectedAt": "2026-07-30T14:30:55.400Z"
+      "detectedAt": "2026-07-30T19:51:27.220Z"
     }
   ]
 }

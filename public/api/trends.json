@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-30T08:49:09.439Z",
-  "count": 4,
+  "updatedAt": "2026-07-30T14:30:58.718Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 196,
+      "rank": 251,
       "query": "vinita prabhakar english professor lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "vinita prabhakar english professor lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-30T08:49:06.390Z"
+      "detectedAt": "2026-07-30T14:30:55.400Z"
     },
     {
-      "rank": 315,
+      "rank": 356,
       "query": "wuanita swedlund usda inspection lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -30,25 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "wuanita swedlund usda inspection lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-30T08:49:06.390Z"
+      "detectedAt": "2026-07-30T14:30:55.400Z"
     },
     {
-      "rank": 375,
-      "query": "maple leaf foods bacon recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maple+leaf+foods+bacon+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "maple leaf foods bacon recall",
-      "trendScore": 8,
-      "detectedAt": "2026-07-30T08:49:06.390Z"
-    },
-    {
-      "rank": 392,
+      "rank": 415,
       "query": "rohto eye drops recall",
       "searchVolume": 200,
       "startedAt": "",
@@ -60,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "rohto eye drops recall",
       "trendScore": 8,
-      "detectedAt": "2026-07-30T08:49:06.390Z"
+      "detectedAt": "2026-07-30T14:30:55.400Z"
     }
   ]
 }

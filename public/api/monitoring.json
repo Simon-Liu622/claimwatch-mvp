@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-07-30T19:51:40.455Z",
-  "count": 3,
+  "updatedAt": "2026-07-31T03:48:43.352Z",
+  "count": 5,
   "items": [
+    {
+      "id": "fda-rohto-eye-drops-recall",
+      "slug": "fda-rohto-eye-drops-recall",
+      "title": "Fda Rohto Eye Drops Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda rohto eye drops recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drops+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fda rohto eye drops recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-31T03:48:41.593Z"
+    },
+    {
+      "id": "netflix-105-million-lawsuit",
+      "slug": "netflix-105-million-lawsuit",
+      "title": "Netflix $105 Million Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "netflix $105 million lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+%24105+million+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "netflix $105 million lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-31T03:48:41.593Z"
+    },
     {
       "id": "doj-nj-voter-rolls-lawsuit",
       "slug": "doj-nj-voter-rolls-lawsuit",
@@ -24,43 +82,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 27,
+      "trendScore": 10,
       "matchedQueries": [
         "doj nj voter rolls lawsuit",
         "new jersey voter privacy ruling",
         "judge quraishi doj voter case"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-30T19:51:27.220Z"
-    },
-    {
-      "id": "wuanita-swedlund-usda-inspection-lawsuit",
-      "slug": "wuanita-swedlund-usda-inspection-lawsuit",
-      "title": "Wuanita Swedlund Usda Inspection Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "wuanita swedlund usda inspection lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wuanita+swedlund+usda+inspection+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "wuanita swedlund usda inspection lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-30T19:51:27.220Z"
+      "lastUpdated": "2026-07-31T03:48:41.593Z"
     },
     {
       "id": "trump-white-house-ballroom-lawsuit",
@@ -89,7 +118,36 @@
         "trump white house ballroom lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-30T19:51:27.220Z"
+      "lastUpdated": "2026-07-31T03:48:41.593Z"
+    },
+    {
+      "id": "lawsuit",
+      "slug": "lawsuit",
+      "title": "Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-31T03:48:41.593Z"
     }
   ]
 }

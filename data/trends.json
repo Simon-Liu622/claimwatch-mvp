@@ -1,24 +1,68 @@
 [
   {
-    "rank": 45,
-    "query": "doj nj voter rolls lawsuit",
+    "rank": 70,
+    "query": "fda rohto eye drops recall",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "new jersey voter privacy ruling",
-      "judge quraishi doj voter case"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
-    "increasePercentage": 400,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drops+recall&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "doj nj voter rolls lawsuit new jersey voter privacy ruling judge quraishi doj voter case",
-    "trendScore": 27,
-    "detectedAt": "2026-07-30T19:51:27.220Z"
+    "text": "fda rohto eye drops recall",
+    "trendScore": 23,
+    "detectedAt": "2026-07-31T03:48:41.593Z"
   },
   {
-    "rank": 272,
+    "rank": 99,
+    "query": "netflix $105 million lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+%24105+million+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "netflix $105 million lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-07-31T03:48:41.593Z"
+  },
+  {
+    "rank": 140,
+    "query": "doj nj voter rolls lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "new jersey voter privacy ruling"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "doj nj voter rolls lawsuit new jersey voter privacy ruling",
+    "trendScore": 10,
+    "detectedAt": "2026-07-31T03:48:41.593Z"
+  },
+  {
+    "rank": 200,
+    "query": "lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-07-31T03:48:41.593Z"
+  },
+  {
+    "rank": 413,
     "query": "trump white house ballroom lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -30,21 +74,6 @@
     "source": "serpapi-google-trends",
     "text": "trump white house ballroom lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-07-30T19:51:27.220Z"
-  },
-  {
-    "rank": 381,
-    "query": "wuanita swedlund usda inspection lawsuit",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wuanita+swedlund+usda+inspection+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "wuanita swedlund usda inspection lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-07-30T19:51:27.220Z"
+    "detectedAt": "2026-07-31T03:48:41.593Z"
   }
 ]

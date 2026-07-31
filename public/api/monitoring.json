@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-07-31T03:48:43.352Z",
-  "count": 5,
+  "updatedAt": "2026-07-31T09:15:28.739Z",
+  "count": 4,
   "items": [
-    {
-      "id": "fda-rohto-eye-drops-recall",
-      "slug": "fda-rohto-eye-drops-recall",
-      "title": "Fda Rohto Eye Drops Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda rohto eye drops recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drops+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "fda rohto eye drops recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-31T03:48:41.593Z"
-    },
     {
       "id": "netflix-105-million-lawsuit",
       "slug": "netflix-105-million-lawsuit",
@@ -52,13 +23,44 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+%24105+million+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 25,
       "matchedQueries": [
-        "netflix $105 million lawsuit"
+        "netflix $105 million lawsuit",
+        "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T03:48:41.593Z"
+      "lastUpdated": "2026-07-31T09:15:26.256Z"
+    },
+    {
+      "id": "rohto-eye-drops-recall",
+      "slug": "rohto-eye-drops-recall",
+      "title": "Rohto Eye Drops Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "rohto eye drops recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "rohto eye drops recall",
+        "fda rohto eye drops recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-31T09:15:26.256Z"
     },
     {
       "id": "doj-nj-voter-rolls-lawsuit",
@@ -89,7 +91,7 @@
         "judge quraishi doj voter case"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T03:48:41.593Z"
+      "lastUpdated": "2026-07-31T09:15:26.256Z"
     },
     {
       "id": "trump-white-house-ballroom-lawsuit",
@@ -118,36 +120,7 @@
         "trump white house ballroom lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T03:48:41.593Z"
-    },
-    {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-31T03:48:41.593Z"
+      "lastUpdated": "2026-07-31T09:15:26.256Z"
     }
   ]
 }

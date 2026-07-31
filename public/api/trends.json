@@ -1,39 +1,43 @@
 {
-  "updatedAt": "2026-07-31T03:48:43.352Z",
-  "count": 5,
+  "updatedAt": "2026-07-31T09:15:28.739Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 70,
-      "query": "fda rohto eye drops recall",
+      "rank": 53,
+      "query": "netflix $105 million lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drops+recall&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "fda rohto eye drops recall",
-      "trendScore": 23,
-      "detectedAt": "2026-07-31T03:48:41.593Z"
-    },
-    {
-      "rank": 99,
-      "query": "netflix $105 million lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "lawsuit"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+%24105+million+lawsuit&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "netflix $105 million lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-07-31T03:48:41.593Z"
+      "text": "netflix $105 million lawsuit lawsuit",
+      "trendScore": 25,
+      "detectedAt": "2026-07-31T09:15:26.256Z"
     },
     {
-      "rank": 140,
+      "rank": 58,
+      "query": "rohto eye drops recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "fda rohto eye drops recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "rohto eye drops recall fda rohto eye drops recall",
+      "trendScore": 25,
+      "detectedAt": "2026-07-31T09:15:26.256Z"
+    },
+    {
+      "rank": 134,
       "query": "doj nj voter rolls lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -47,25 +51,10 @@
       "source": "serpapi-google-trends",
       "text": "doj nj voter rolls lawsuit new jersey voter privacy ruling",
       "trendScore": 10,
-      "detectedAt": "2026-07-31T03:48:41.593Z"
+      "detectedAt": "2026-07-31T09:15:26.256Z"
     },
     {
-      "rank": 200,
-      "query": "lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-07-31T03:48:41.593Z"
-    },
-    {
-      "rank": 413,
+      "rank": 433,
       "query": "trump white house ballroom lawsuit",
       "searchVolume": 200,
       "startedAt": "",
@@ -77,7 +66,7 @@
       "source": "serpapi-google-trends",
       "text": "trump white house ballroom lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-07-31T03:48:41.593Z"
+      "detectedAt": "2026-07-31T09:15:26.256Z"
     }
   ]
 }

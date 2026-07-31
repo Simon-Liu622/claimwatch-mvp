@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-07-31T14:34:06.565Z",
+  "updatedAt": "2026-07-31T19:52:17.218Z",
   "item": {
-    "id": "doj-nj-voter-rolls-lawsuit",
-    "slug": "doj-nj-voter-rolls-lawsuit",
-    "title": "Doj Nj Voter Rolls Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "ocoopa-hand-warmer-recall",
+    "slug": "ocoopa-hand-warmer-recall",
+    "title": "Ocoopa Hand Warmer Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "doj nj voter rolls lawsuit",
-    "category": "Consumer monitoring",
+    "product": "ocoopa hand warmer recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ocoopa+hand+warmer+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 10,
+    "trendScore": 23,
     "matchedQueries": [
-      "doj nj voter rolls lawsuit",
-      "new jersey voter privacy ruling",
-      "judge quraishi doj voter case"
+      "ocoopa hand warmer recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-31T14:34:04.206Z",
-    "url": "https://simon622.shop/item/doj-nj-voter-rolls-lawsuit/"
+    "lastUpdated": "2026-07-31T19:51:39.448Z",
+    "url": "https://simon622.shop/item/ocoopa-hand-warmer-recall/"
   }
 }

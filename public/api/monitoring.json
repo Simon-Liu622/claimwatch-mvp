@@ -1,38 +1,7 @@
 {
-  "updatedAt": "2026-07-31T14:34:06.565Z",
-  "count": 5,
+  "updatedAt": "2026-07-31T19:52:17.218Z",
+  "count": 4,
   "items": [
-    {
-      "id": "netflix-fortitude-movie-lawsuit",
-      "slug": "netflix-fortitude-movie-lawsuit",
-      "title": "Netflix Fortitude Movie Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "netflix fortitude movie lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 27,
-      "matchedQueries": [
-        "netflix fortitude movie lawsuit",
-        "netflix $105 million lawsuit",
-        "lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-07-31T14:34:04.206Z"
-    },
     {
       "id": "rohto-eye-drops-recall",
       "slug": "rohto-eye-drops-recall",
@@ -61,7 +30,7 @@
         "fda rohto eye drops recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T14:34:04.206Z"
+      "lastUpdated": "2026-07-31T19:51:39.448Z"
     },
     {
       "id": "jessica-trevino-daca-lawsuit",
@@ -84,24 +53,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jessica+trevino+daca+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "jessica trevino daca lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T14:34:04.206Z"
+      "lastUpdated": "2026-07-31T19:51:39.448Z"
     },
     {
-      "id": "doj-nj-voter-rolls-lawsuit",
-      "slug": "doj-nj-voter-rolls-lawsuit",
-      "title": "Doj Nj Voter Rolls Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "ocoopa-hand-warmer-recall",
+      "slug": "ocoopa-hand-warmer-recall",
+      "title": "Ocoopa Hand Warmer Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "doj nj voter rolls lawsuit",
-      "category": "Consumer monitoring",
+      "product": "ocoopa hand warmer recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -110,28 +79,26 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ocoopa+hand+warmer+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 10,
+      "trendScore": 23,
       "matchedQueries": [
-        "doj nj voter rolls lawsuit",
-        "new jersey voter privacy ruling",
-        "judge quraishi doj voter case"
+        "ocoopa hand warmer recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T14:34:04.206Z"
+      "lastUpdated": "2026-07-31T19:51:39.448Z"
     },
     {
-      "id": "trump-white-house-ballroom-lawsuit",
-      "slug": "trump-white-house-ballroom-lawsuit",
-      "title": "Trump White House Ballroom Lawsuit: Consumer Alert Monitoring",
+      "id": "netflix-fortitude-movie-lawsuit",
+      "slug": "netflix-fortitude-movie-lawsuit",
+      "title": "Netflix Fortitude Movie Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump white house ballroom lawsuit",
+      "product": "netflix fortitude movie lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -141,16 +108,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
+      "searchVolume": 10000,
+      "trendScore": 14,
       "matchedQueries": [
-        "trump white house ballroom lawsuit"
+        "netflix fortitude movie lawsuit",
+        "netflix $105 million lawsuit",
+        "lawsuit",
+        "fortitude film producer netflix dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T14:34:04.206Z"
+      "lastUpdated": "2026-07-31T19:51:39.448Z"
     }
   ]
 }

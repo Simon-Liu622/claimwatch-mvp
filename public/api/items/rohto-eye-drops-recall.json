@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T09:15:28.739Z",
+  "updatedAt": "2026-07-31T14:34:06.565Z",
   "item": {
     "id": "rohto-eye-drops-recall",
     "slug": "rohto-eye-drops-recall",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 25,
     "matchedQueries": [
       "rohto eye drops recall",
       "fda rohto eye drops recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-07-31T09:15:26.256Z",
+    "lastUpdated": "2026-07-31T14:34:04.206Z",
     "url": "https://simon622.shop/item/rohto-eye-drops-recall/"
   }
 }

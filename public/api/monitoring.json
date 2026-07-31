@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-31T09:15:28.739Z",
-  "count": 4,
+  "updatedAt": "2026-07-31T14:34:06.565Z",
+  "count": 5,
   "items": [
     {
-      "id": "netflix-105-million-lawsuit",
-      "slug": "netflix-105-million-lawsuit",
-      "title": "Netflix $105 Million Lawsuit: Consumer Alert Monitoring",
+      "id": "netflix-fortitude-movie-lawsuit",
+      "slug": "netflix-fortitude-movie-lawsuit",
+      "title": "Netflix Fortitude Movie Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "netflix $105 million lawsuit",
+      "product": "netflix fortitude movie lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+%24105+million+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 27,
       "matchedQueries": [
+        "netflix fortitude movie lawsuit",
         "netflix $105 million lawsuit",
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T09:15:26.256Z"
+      "lastUpdated": "2026-07-31T14:34:04.206Z"
     },
     {
       "id": "rohto-eye-drops-recall",
@@ -53,14 +54,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rohto+eye+drops+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 25,
       "matchedQueries": [
         "rohto eye drops recall",
         "fda rohto eye drops recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T09:15:26.256Z"
+      "lastUpdated": "2026-07-31T14:34:04.206Z"
+    },
+    {
+      "id": "jessica-trevino-daca-lawsuit",
+      "slug": "jessica-trevino-daca-lawsuit",
+      "title": "Jessica Trevino Daca Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jessica trevino daca lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jessica+trevino+daca+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "jessica trevino daca lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-07-31T14:34:04.206Z"
     },
     {
       "id": "doj-nj-voter-rolls-lawsuit",
@@ -83,7 +113,7 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+nj+voter+rolls+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 10,
       "matchedQueries": [
         "doj nj voter rolls lawsuit",
@@ -91,7 +121,7 @@
         "judge quraishi doj voter case"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T09:15:26.256Z"
+      "lastUpdated": "2026-07-31T14:34:04.206Z"
     },
     {
       "id": "trump-white-house-ballroom-lawsuit",
@@ -120,7 +150,7 @@
         "trump white house ballroom lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-07-31T09:15:26.256Z"
+      "lastUpdated": "2026-07-31T14:34:04.206Z"
     }
   ]
 }

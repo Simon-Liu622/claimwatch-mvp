@@ -1,64 +1,29 @@
 {
-  "updatedAt": "2026-08-01T13:54:15.834Z",
-  "count": 11,
+  "updatedAt": "2026-08-01T19:32:49.665Z",
+  "count": 12,
   "trends": [
     {
-      "rank": 63,
-      "query": "blueberry",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "blueberry recall",
-        "fda publix berry recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "blueberry blueberry recall fda publix berry recall",
-      "trendScore": 27,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
-    },
-    {
-      "rank": 69,
+      "rank": 56,
       "query": "fda rohto eye drop recall",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "eye drop recall",
-        "are rohto eye drops recalled"
+        "are rohto eye drops recalled",
+        "eye drop recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "fda rohto eye drop recall eye drop recall are rohto eye drops recalled",
+      "text": "fda rohto eye drop recall are rohto eye drops recalled eye drop recall",
       "trendScore": 27,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     },
     {
-      "rank": 47,
-      "query": "department of education lawsuit ruling",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "sweet mcmahon federal loan forgiveness"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "department of education lawsuit ruling sweet mcmahon federal loan forgiveness",
-      "trendScore": 25,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
-    },
-    {
-      "rank": 91,
+      "rank": 45,
       "query": "amazon $600 million tariff refund",
-      "searchVolume": 1000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -66,61 +31,79 @@
         "amazon tariff refund"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%24600+million+tariff+refund&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "amazon $600 million tariff refund amazon tariff refund",
       "trendScore": 25,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     },
     {
-      "rank": 60,
+      "rank": 5,
+      "query": "woodure toddler stool recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=woodure+toddler+stool+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "woodure toddler stool recall",
+      "trendScore": 24,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 24,
       "query": "salmonella",
-      "searchVolume": 1000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
       "text": "salmonella",
       "trendScore": 23,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     },
     {
-      "rank": 127,
-      "query": "brian thure taylor farms lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "brian thure taylor farms lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
-    },
-    {
-      "rank": 211,
-      "query": "netflix fortitude movie lawsuit",
-      "searchVolume": 1000,
+      "rank": 155,
+      "query": "blueberry",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "fortitude film producer netflix dispute"
+        "fda publix berry recall",
+        "blueberry recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "netflix fortitude movie lawsuit fortitude film producer netflix dispute",
-      "trendScore": 10,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "text": "blueberry fda publix berry recall blueberry recall",
+      "trendScore": 12,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     },
     {
-      "rank": 102,
+      "rank": 113,
+      "query": "department of education lawsuit ruling",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "sweet mcmahon federal loan forgiveness"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "department of education lawsuit ruling sweet mcmahon federal loan forgiveness",
+      "trendScore": 10,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 129,
       "query": "trump irs lawsuit appeal",
       "searchVolume": 10000,
       "startedAt": "",
@@ -132,40 +115,10 @@
       "source": "serpapi-google-trends",
       "text": "trump irs lawsuit appeal",
       "trendScore": 8,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     },
     {
-      "rank": 228,
-      "query": "alemzewd lawgalet tesla lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alemzewd+lawgalet+tesla+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "alemzewd lawgalet tesla lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
-    },
-    {
-      "rank": 251,
-      "query": "timothy stanhope national guard settlement",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=timothy+stanhope+national+guard+settlement&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "timothy stanhope national guard settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
-    },
-    {
-      "rank": 275,
+      "rank": 248,
       "query": "galanz refrigerator safety recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -177,7 +130,67 @@
       "source": "serpapi-google-trends",
       "text": "galanz refrigerator safety recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-01T13:54:13.342Z"
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 258,
+      "query": "alemzewd lawgalet tesla lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alemzewd+lawgalet+tesla+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "alemzewd lawgalet tesla lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 285,
+      "query": "brian thure taylor farms lawsuit",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
+      "increasePercentage": 75,
+      "source": "serpapi-google-trends",
+      "text": "brian thure taylor farms lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 349,
+      "query": "netflix fortitude movie lawsuit",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "netflix fortitude movie lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "rank": 360,
+      "query": "timothy stanhope national guard settlement",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=timothy+stanhope+national+guard+settlement&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "timothy stanhope national guard settlement",
+      "trendScore": 8,
+      "detectedAt": "2026-08-01T19:32:47.035Z"
     }
   ]
 }

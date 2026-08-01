@@ -1,38 +1,7 @@
 {
-  "updatedAt": "2026-08-01T13:54:15.834Z",
-  "count": 8,
+  "updatedAt": "2026-08-01T19:32:49.665Z",
+  "count": 9,
   "items": [
-    {
-      "id": "blueberry",
-      "slug": "blueberry",
-      "title": "Blueberry: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "blueberry",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 27,
-      "matchedQueries": [
-        "blueberry",
-        "blueberry recall",
-        "fda publix berry recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
-    },
     {
       "id": "fda-rohto-eye-drop-recall",
       "slug": "fda-rohto-eye-drop-recall",
@@ -54,7 +23,7 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 27,
       "matchedQueries": [
         "fda rohto eye drop recall",
@@ -62,7 +31,67 @@
         "are rohto eye drops recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "id": "woodure-toddler-stool-recall",
+      "slug": "woodure-toddler-stool-recall",
+      "title": "Woodure Toddler Stool Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "woodure toddler stool recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=woodure+toddler+stool+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "woodure toddler stool recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
+    },
+    {
+      "id": "blueberry",
+      "slug": "blueberry",
+      "title": "Blueberry: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "blueberry",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 12,
+      "matchedQueries": [
+        "blueberry",
+        "blueberry recall",
+        "fda publix berry recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "department-of-education-lawsuit-ruling",
@@ -85,14 +114,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
         "department of education lawsuit ruling",
         "sweet mcmahon federal loan forgiveness"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "brian-thure-taylor-farms-lawsuit",
@@ -116,12 +145,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "brian thure taylor farms lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "netflix-fortitude-movie-lawsuit",
@@ -144,8 +173,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
         "netflix fortitude movie lawsuit",
         "netflix $105 million lawsuit",
@@ -153,7 +182,7 @@
         "fortitude film producer netflix dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "trump-irs-lawsuit-appeal",
@@ -182,7 +211,7 @@
         "trump irs lawsuit appeal"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "alemzewd-lawgalet-tesla-lawsuit",
@@ -211,7 +240,7 @@
         "alemzewd lawgalet tesla lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     },
     {
       "id": "timothy-stanhope-national-guard-settlement",
@@ -240,7 +269,7 @@
         "timothy stanhope national guard settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T13:54:13.342Z"
+      "lastUpdated": "2026-08-01T19:32:47.035Z"
     }
   ]
 }

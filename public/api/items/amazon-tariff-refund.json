@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-08-01T03:49:07.971Z",
+  "item": {
+    "id": "amazon-tariff-refund",
+    "slug": "amazon-tariff-refund",
+    "title": "Amazon Tariff Refund: Consumer Alert Monitoring",
+    "type": "refund",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "amazon tariff refund",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+tariff+refund&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 200,
+    "trendScore": 8,
+    "matchedQueries": [
+      "amazon tariff refund"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-01T03:49:05.019Z",
+    "url": "https://simon622.shop/item/amazon-tariff-refund/"
+  }
+}

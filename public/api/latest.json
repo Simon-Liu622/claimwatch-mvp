@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:33:24.082Z",
+  "updatedAt": "2026-08-01T13:54:15.834Z",
   "items": [
     {
       "title": "Total Nutrition Inc: 1. TNVitamins Ultrapotent Complete Green Superfood Moringa Capsules (120 count) 2. Doctor s Pride Complete Green Superfood Ultra Potent Mori Recall",
@@ -127,7 +127,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -143,7 +143,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -159,7 +159,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -239,7 +239,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -255,7 +255,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -479,7 +479,39 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
+    {
+      "title": "Conair Recalls Over One Million Cuisinart Grill Brushes Due to Ingestion Hazard",
+      "slug": "cpsc-26601",
+      "url": "https://simon622.shop/item/cpsc-26601/",
+      "type": "recall",
+      "status": "active",
+      "company": "Burlington, TJ Maxx and Ross stores and online including Amazon.com and Cuisinart.com from June 2009 through March 2026 for between $8 and $20.",
+      "product": "Metal Wire Bristle Grill Brushes",
+      "summary": "This recall involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers are included in this recall and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The word \"Cuisinart\" is stamped on the brush handle. Some of the recalled brushes were also sold as part of the Premium Grill 10 Piece set (CGS-2010), 13 Piece Wooden Handle Grill Tool Set (CGS-W13), 14 Piece Deluxe Stainless Steel Grill Set (CGS-5014), and 20 Piece Deluxe Grill Set, (CGS-5020). Model No. Brush Description Distribution Dates CCB-100 Triple Bristle Grill Cleaning Brush January 2013-March 2026 CCB4125 4-in-1 Grill Cleaning Brush with Stainless Steel Wire Bristles October 2022-March 2026 CCB-5014 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-6450 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-8012 Pizza Stone Cleaning Brush 2024 CCB-W2 Wood Grill Cleaning Brush (18.5\" with Pakka Wood Handle) March 2024-July 2025 CSBS-777 Steam Clean Grill Brush March 2014-July 2025",
+      "sourceAgency": "CPSC",
+      "officialVerified": true,
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Over-One-Million-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
+    {
+      "title": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported; Imported by Shenzhen Street Cat Technology",
+      "slug": "cpsc-26659",
+      "url": "https://simon622.shop/item/cpsc-26659/",
+      "type": "recall",
+      "status": "active",
+      "company": "Online at Amazon.com, Ocoopa.com, Ocoopa.net and Walmart.com from September 2018 through May 2026 for between $15 and $60.",
+      "product": "OCOOPA Rechargeable Hand Warmers",
+      "summary": "This recall involves OCOOPA-branded rechargeable lithium-ion battery hand warmers, models UT3053, UT3056, ZLS-118, ZLS-118S, ZLS-118D, H01 and H01(PD.) The dual-sided, rechargeable hand warmers were sold in varying colors and designs, in packs of two warmers that can magnetically be joined and with a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and a silicone lanyard. \"OCOOPA\" is printed on the top of the hand warmers and on the product packaging. The model number and three-digit batch number are printed on the hand warmers' underside.",
+      "sourceAgency": "CPSC",
+      "officialVerified": true,
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/OCOOPA-Direct-Recalls-1-5-Million-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-One-Death-Reported-Imported-by-Shenzhen-Street-Cat-Technology",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Ethnic Foods Inc: Bombay Kitchen brand Tikka Sev; Net Wt 9oz (255g); Recall",
@@ -498,22 +530,6 @@
       "lastUpdated": "2026-05-19T10:07:42.718Z"
     },
     {
-      "title": "Conair Recalls Over One Million Cuisinart Grill Brushes Due to Ingestion Hazard",
-      "slug": "cpsc-26601",
-      "url": "https://simon622.shop/item/cpsc-26601/",
-      "type": "recall",
-      "status": "active",
-      "company": "Burlington, TJ Maxx and Ross stores and online including Amazon.com and Cuisinart.com from June 2009 through March 2026 for between $8 and $20.",
-      "product": "Metal Wire Bristle Grill Brushes",
-      "summary": "This recall involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers are included in this recall and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The word \"Cuisinart\" is stamped on the brush handle. Some of the recalled brushes were also sold as part of the Premium Grill 10 Piece set (CGS-2010), 13 Piece Wooden Handle Grill Tool Set (CGS-W13), 14 Piece Deluxe Stainless Steel Grill Set (CGS-5014), and 20 Piece Deluxe Grill Set, (CGS-5020). Model No. Brush Description Distribution Dates CCB-100 Triple Bristle Grill Cleaning Brush January 2013-March 2026 CCB4125 4-in-1 Grill Cleaning Brush with Stainless Steel Wire Bristles October 2022-March 2026 CCB-5014 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-6450 Triple Bristle Grill Brush SS Bristles January 2025-March 2026 CCB-8012 Pizza Stone Cleaning Brush 2024 CCB-W2 Wood Grill Cleaning Brush (18.5\" with Pakka Wood Handle) March 2024-July 2025 CSBS-777 Steam Clean Grill Brush March 2014-July 2025",
-      "sourceAgency": "CPSC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Over-One-Million-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
-    },
-    {
       "title": "Conair Recalls Cuisinart Propel+ Four Burner 3-In-1 Gas Grills Due to Risk of Serious Injury from Laceration Hazard",
       "slug": "cpsc-26605",
       "url": "https://simon622.shop/item/cpsc-26605/",
@@ -527,7 +543,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Cuisinart-Propel-Four-Burner-3-In-1-Gas-Grills-Due-to-Risk-of-Serious-Injury-from-Laceration-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Madewell Recalls Women's Sweaters Due to Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Clothing Textiles",
@@ -543,7 +559,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Madewell-Recalls-Womens-Sweaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Clothing-Textiles",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Panasonic Recalls Electric Toaster Ovens Due to Shock and Fire Hazards",
@@ -559,7 +575,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Panasonic-Recalls-Electric-Toaster-Ovens-Due-to-Shock-and-Fire-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "title": "Lil Pick Up Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash and Burn Hazards; Violates Mandatory Standard for ATVs",
@@ -781,22 +797,6 @@
       "sourceAgency": "NHTSA",
       "officialVerified": true,
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V322000",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-05-27T20:29:01.709Z"
-    },
-    {
-      "title": "Toyota Motor Engineering & Manufacturing: BACK OVER PREVENTION:SOFTWARE Recall (2024 toyota tundra)",
-      "slug": "nhtsa-25v657000",
-      "url": "https://simon622.shop/item/nhtsa-25v657000/",
-      "type": "recall",
-      "status": "active",
-      "company": "Toyota Motor Engineering & Manufacturing",
-      "product": "2024 toyota tundra",
-      "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2025 Tundra, Tundra Hybrid, and 2023-2025 Sequoia Hybrid vehicles. A software error may cause the rearview image not to display when the vehicle is placed in reverse. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
-      "sourceAgency": "NHTSA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V657000",
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-05-27T20:29:01.709Z"

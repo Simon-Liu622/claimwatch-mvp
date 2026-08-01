@@ -1,7 +1,128 @@
 {
-  "updatedAt": "2026-08-01T08:33:24.082Z",
-  "count": 5,
+  "updatedAt": "2026-08-01T13:54:15.834Z",
+  "count": 8,
   "items": [
+    {
+      "id": "blueberry",
+      "slug": "blueberry",
+      "title": "Blueberry: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "blueberry",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "blueberry",
+        "blueberry recall",
+        "fda publix berry recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
+    {
+      "id": "fda-rohto-eye-drop-recall",
+      "slug": "fda-rohto-eye-drop-recall",
+      "title": "Fda Rohto Eye Drop Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda rohto eye drop recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "fda rohto eye drop recall",
+        "eye drop recall",
+        "are rohto eye drops recalled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
+    {
+      "id": "department-of-education-lawsuit-ruling",
+      "slug": "department-of-education-lawsuit-ruling",
+      "title": "Department Of Education Lawsuit Ruling: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "department of education lawsuit ruling",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "department of education lawsuit ruling",
+        "sweet mcmahon federal loan forgiveness"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
+    {
+      "id": "brian-thure-taylor-farms-lawsuit",
+      "slug": "brian-thure-taylor-farms-lawsuit",
+      "title": "Brian Thure Taylor Farms Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "brian thure taylor farms lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "brian thure taylor farms lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
+    },
     {
       "id": "netflix-fortitude-movie-lawsuit",
       "slug": "netflix-fortitude-movie-lawsuit",
@@ -23,7 +144,7 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 1000,
       "trendScore": 10,
       "matchedQueries": [
         "netflix fortitude movie lawsuit",
@@ -32,7 +153,7 @@
         "fortitude film producer netflix dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "id": "trump-irs-lawsuit-appeal",
@@ -61,7 +182,7 @@
         "trump irs lawsuit appeal"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
       "id": "alemzewd-lawgalet-tesla-lawsuit",
@@ -84,52 +205,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alemzewd+lawgalet+tesla+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
         "alemzewd lawgalet tesla lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     },
     {
-      "id": "fda-publix-berry-recall",
-      "slug": "fda-publix-berry-recall",
-      "title": "Fda Publix Berry Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "timothy-stanhope-national-guard-settlement",
+      "slug": "timothy-stanhope-national-guard-settlement",
+      "title": "Timothy Stanhope National Guard Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fda publix berry recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+publix+berry+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "fda publix berry recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
-    },
-    {
-      "id": "amazon-tariff-refund",
-      "slug": "amazon-tariff-refund",
-      "title": "Amazon Tariff Refund: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amazon tariff refund",
+      "product": "timothy stanhope national guard settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -139,16 +231,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+tariff+refund&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=timothy+stanhope+national+guard+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 200,
       "trendScore": 8,
       "matchedQueries": [
-        "amazon tariff refund"
+        "timothy stanhope national guard settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-01T08:33:21.097Z"
+      "lastUpdated": "2026-08-01T13:54:13.342Z"
     }
   ]
 }

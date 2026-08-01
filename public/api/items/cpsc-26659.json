@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:33:24.082Z",
+  "updatedAt": "2026-08-01T13:54:15.834Z",
   "item": {
     "id": "cpsc-26659",
     "slug": "cpsc-26659",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/OCOOPA-Direct-Recalls-1-5-Million-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-One-Death-Reported-Imported-by-Shenzhen-Street-Cat-Technology",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 1000,
+    "trendScore": 25,
+    "matchedQueries": [
+      "amazon $600 million tariff refund",
+      "amazon tariff refund"
+    ],
     "officialVerified": true,
     "officialRecordId": "26659",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-01T08:33:21.097Z",
+    "lastUpdated": "2026-08-01T13:54:13.342Z",
     "url": "https://simon622.shop/item/cpsc-26659/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-01T08:33:24.082Z",
+  "updatedAt": "2026-08-01T13:54:15.834Z",
   "item": {
-    "id": "amazon-tariff-refund",
-    "slug": "amazon-tariff-refund",
-    "title": "Amazon Tariff Refund: Consumer Alert Monitoring",
-    "type": "refund",
+    "id": "brian-thure-taylor-farms-lawsuit",
+    "slug": "brian-thure-taylor-farms-lawsuit",
+    "title": "Brian Thure Taylor Farms Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "amazon tariff refund",
+    "product": "brian thure taylor farms lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+tariff+refund&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 500,
+    "trendScore": 23,
     "matchedQueries": [
-      "amazon tariff refund"
+      "brian thure taylor farms lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-01T08:33:21.097Z",
-    "url": "https://simon622.shop/item/amazon-tariff-refund/"
+    "lastUpdated": "2026-08-01T13:54:13.342Z",
+    "url": "https://simon622.shop/item/brian-thure-taylor-farms-lawsuit/"
   }
 }

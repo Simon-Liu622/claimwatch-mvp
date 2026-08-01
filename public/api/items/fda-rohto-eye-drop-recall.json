@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-01T08:33:24.082Z",
+  "updatedAt": "2026-08-01T13:54:15.834Z",
   "item": {
-    "id": "fda-publix-berry-recall",
-    "slug": "fda-publix-berry-recall",
-    "title": "Fda Publix Berry Recall: Consumer Alert Monitoring",
+    "id": "fda-rohto-eye-drop-recall",
+    "slug": "fda-rohto-eye-drop-recall",
+    "title": "Fda Rohto Eye Drop Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fda publix berry recall",
+    "product": "fda rohto eye drop recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+publix+berry+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 27,
     "matchedQueries": [
-      "fda publix berry recall"
+      "fda rohto eye drop recall",
+      "eye drop recall",
+      "are rohto eye drops recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-01T08:33:21.097Z",
-    "url": "https://simon622.shop/item/fda-publix-berry-recall/"
+    "lastUpdated": "2026-08-01T13:54:13.342Z",
+    "url": "https://simon622.shop/item/fda-rohto-eye-drop-recall/"
   }
 }

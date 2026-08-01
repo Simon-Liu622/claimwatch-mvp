@@ -1,8 +1,108 @@
 [
   {
-    "rank": 181,
+    "rank": 63,
+    "query": "blueberry",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "blueberry recall",
+      "fda publix berry recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "blueberry blueberry recall fda publix berry recall",
+    "trendScore": 27,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 69,
+    "query": "fda rohto eye drop recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "eye drop recall",
+      "are rohto eye drops recalled"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "fda rohto eye drop recall eye drop recall are rohto eye drops recalled",
+    "trendScore": 27,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 47,
+    "query": "department of education lawsuit ruling",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "sweet mcmahon federal loan forgiveness"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "department of education lawsuit ruling sweet mcmahon federal loan forgiveness",
+    "trendScore": 25,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 91,
+    "query": "amazon $600 million tariff refund",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "amazon tariff refund"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%24600+million+tariff+refund&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "amazon $600 million tariff refund amazon tariff refund",
+    "trendScore": 25,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 60,
+    "query": "salmonella",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "salmonella",
+    "trendScore": 23,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 127,
+    "query": "brian thure taylor farms lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "brian thure taylor farms lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 211,
     "query": "netflix fortitude movie lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -10,14 +110,14 @@
       "fortitude film producer netflix dispute"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "netflix fortitude movie lawsuit fortitude film producer netflix dispute",
     "trendScore": 10,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
+    "detectedAt": "2026-08-01T13:54:13.342Z"
   },
   {
-    "rank": 55,
+    "rank": 102,
     "query": "trump irs lawsuit appeal",
     "searchVolume": 10000,
     "startedAt": "",
@@ -29,12 +129,12 @@
     "source": "serpapi-google-trends",
     "text": "trump irs lawsuit appeal",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
+    "detectedAt": "2026-08-01T13:54:13.342Z"
   },
   {
-    "rank": 234,
+    "rank": 228,
     "query": "alemzewd lawgalet tesla lawsuit",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -44,12 +144,27 @@
     "source": "serpapi-google-trends",
     "text": "alemzewd lawgalet tesla lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
+    "detectedAt": "2026-08-01T13:54:13.342Z"
   },
   {
-    "rank": 258,
+    "rank": 251,
+    "query": "timothy stanhope national guard settlement",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=timothy+stanhope+national+guard+settlement&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "timothy stanhope national guard settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-08-01T13:54:13.342Z"
+  },
+  {
+    "rank": 275,
     "query": "galanz refrigerator safety recall",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -59,36 +174,6 @@
     "source": "serpapi-google-trends",
     "text": "galanz refrigerator safety recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
-  },
-  {
-    "rank": 320,
-    "query": "fda publix berry recall",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+publix+berry+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "fda publix berry recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
-  },
-  {
-    "rank": 425,
-    "query": "amazon tariff refund",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+tariff+refund&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "amazon tariff refund",
-    "trendScore": 8,
-    "detectedAt": "2026-08-01T08:33:21.097Z"
+    "detectedAt": "2026-08-01T13:54:13.342Z"
   }
 ]

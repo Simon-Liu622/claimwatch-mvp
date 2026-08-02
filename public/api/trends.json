@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-02T03:51:54.145Z",
-  "count": 9,
+  "updatedAt": "2026-08-02T08:36:13.580Z",
+  "count": 8,
   "trends": [
     {
-      "rank": 2,
+      "rank": 4,
       "query": "woodure toddler stool recall",
       "searchVolume": 100000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "woodure toddler stool recall",
       "trendScore": 26,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 41,
+      "rank": 29,
       "query": "amazon $600 million tariff refund",
       "searchVolume": 10000,
       "startedAt": "",
@@ -30,28 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "amazon $600 million tariff refund",
       "trendScore": 23,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 170,
-      "query": "department of education lawsuit ruling",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "450k borrowers debt relief",
-        "sweet mcmahon federal loan forgiveness"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "department of education lawsuit ruling 450k borrowers debt relief sweet mcmahon federal loan forgiveness",
-      "trendScore": 12,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
-    },
-    {
-      "rank": 172,
+      "rank": 133,
       "query": "fda rohto eye drop recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -65,10 +47,10 @@
       "source": "serpapi-google-trends",
       "text": "fda rohto eye drop recall eye drop recall",
       "trendScore": 10,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 268,
+      "rank": 242,
       "query": "blueberry",
       "searchVolume": 2000,
       "startedAt": "",
@@ -82,10 +64,10 @@
       "source": "serpapi-google-trends",
       "text": "blueberry blueberry recall",
       "trendScore": 10,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 129,
+      "rank": 78,
       "query": "salmonella",
       "searchVolume": 10000,
       "startedAt": "",
@@ -97,10 +79,10 @@
       "source": "serpapi-google-trends",
       "text": "salmonella",
       "trendScore": 8,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 369,
+      "rank": 365,
       "query": "brian thure taylor farms lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -112,10 +94,10 @@
       "source": "serpapi-google-trends",
       "text": "brian thure taylor farms lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 409,
+      "rank": 405,
       "query": "netflix fortitude movie lawsuit",
       "searchVolume": 200,
       "startedAt": "",
@@ -127,10 +109,10 @@
       "source": "serpapi-google-trends",
       "text": "netflix fortitude movie lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     },
     {
-      "rank": 415,
+      "rank": 406,
       "query": "timothy stanhope national guard settlement",
       "searchVolume": 200,
       "startedAt": "",
@@ -142,7 +124,7 @@
       "source": "serpapi-google-trends",
       "text": "timothy stanhope national guard settlement",
       "trendScore": 8,
-      "detectedAt": "2026-08-02T03:51:51.519Z"
+      "detectedAt": "2026-08-02T08:36:11.306Z"
     }
   ]
 }

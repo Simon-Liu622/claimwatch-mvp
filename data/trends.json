@@ -1,43 +1,8 @@
 [
   {
-    "rank": 56,
-    "query": "fda rohto eye drop recall",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "are rohto eye drops recalled",
-      "eye drop recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "fda rohto eye drop recall are rohto eye drops recalled eye drop recall",
-    "trendScore": 27,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
-  },
-  {
-    "rank": 45,
-    "query": "amazon $600 million tariff refund",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "amazon tariff refund"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%24600+million+tariff+refund&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "amazon $600 million tariff refund amazon tariff refund",
-    "trendScore": 25,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
-  },
-  {
-    "rank": 5,
+    "rank": 2,
     "query": "woodure toddler stool recall",
-    "searchVolume": 20000,
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -46,106 +11,93 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "woodure toddler stool recall",
-    "trendScore": 24,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "trendScore": 26,
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
-    "rank": 24,
-    "query": "salmonella",
+    "rank": 41,
+    "query": "amazon $600 million tariff refund",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-    "increasePercentage": 800,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%24600+million+tariff+refund&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "salmonella",
+    "text": "amazon $600 million tariff refund",
     "trendScore": 23,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
-    "rank": 155,
-    "query": "blueberry",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "fda publix berry recall",
-      "blueberry recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "blueberry fda publix berry recall blueberry recall",
-    "trendScore": 12,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
-  },
-  {
-    "rank": 113,
+    "rank": 170,
     "query": "department of education lawsuit ruling",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
+      "450k borrowers debt relief",
       "sweet mcmahon federal loan forgiveness"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+education+lawsuit+ruling&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "department of education lawsuit ruling sweet mcmahon federal loan forgiveness",
+    "text": "department of education lawsuit ruling 450k borrowers debt relief sweet mcmahon federal loan forgiveness",
+    "trendScore": 12,
+    "detectedAt": "2026-08-02T03:51:51.519Z"
+  },
+  {
+    "rank": 172,
+    "query": "fda rohto eye drop recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "eye drop recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "fda rohto eye drop recall eye drop recall",
     "trendScore": 10,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
+  },
+  {
+    "rank": 268,
+    "query": "blueberry",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "blueberry recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "blueberry blueberry recall",
+    "trendScore": 10,
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
     "rank": 129,
-    "query": "trump irs lawsuit appeal",
+    "query": "salmonella",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+irs+lawsuit+appeal&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "trump irs lawsuit appeal",
+    "text": "salmonella",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
-    "rank": 248,
-    "query": "galanz refrigerator safety recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=galanz+refrigerator+safety+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "galanz refrigerator safety recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
-  },
-  {
-    "rank": 258,
-    "query": "alemzewd lawgalet tesla lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alemzewd+lawgalet+tesla+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "alemzewd lawgalet tesla lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
-  },
-  {
-    "rank": 285,
+    "rank": 369,
     "query": "brian thure taylor farms lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -157,10 +109,10 @@
     "source": "serpapi-google-trends",
     "text": "brian thure taylor farms lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
-    "rank": 349,
+    "rank": 409,
     "query": "netflix fortitude movie lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -172,10 +124,10 @@
     "source": "serpapi-google-trends",
     "text": "netflix fortitude movie lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   },
   {
-    "rank": 360,
+    "rank": 415,
     "query": "timothy stanhope national guard settlement",
     "searchVolume": 200,
     "startedAt": "",
@@ -187,6 +139,6 @@
     "source": "serpapi-google-trends",
     "text": "timothy stanhope national guard settlement",
     "trendScore": 8,
-    "detectedAt": "2026-08-01T19:32:47.035Z"
+    "detectedAt": "2026-08-02T03:51:51.519Z"
   }
 ]

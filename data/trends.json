@@ -1,17 +1,1 @@
-[
-  {
-    "rank": 4,
-    "query": "woodure toddler stool recall",
-    "searchVolume": 100000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=woodure+toddler+stool+recall&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "woodure toddler stool recall",
-    "trendScore": 26,
-    "detectedAt": "2026-08-02T13:53:24.376Z"
-  }
-]
+[]

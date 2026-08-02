@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T08:36:13.580Z",
-  "count": 8,
+  "updatedAt": "2026-08-02T13:53:27.706Z",
+  "count": 1,
   "trends": [
     {
       "rank": 4,
@@ -15,116 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "woodure toddler stool recall",
       "trendScore": 26,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 29,
-      "query": "amazon $600 million tariff refund",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+%24600+million+tariff+refund&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "amazon $600 million tariff refund",
-      "trendScore": 23,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 133,
-      "query": "fda rohto eye drop recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "eye drop recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rohto+eye+drop+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "fda rohto eye drop recall eye drop recall",
-      "trendScore": 10,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 242,
-      "query": "blueberry",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "blueberry recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "blueberry blueberry recall",
-      "trendScore": 10,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 78,
-      "query": "salmonella",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "salmonella",
-      "trendScore": 8,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 365,
-      "query": "brian thure taylor farms lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brian+thure+taylor+farms+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "brian thure taylor farms lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 405,
-      "query": "netflix fortitude movie lawsuit",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=netflix+fortitude+movie+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "netflix fortitude movie lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
-    },
-    {
-      "rank": 406,
-      "query": "timothy stanhope national guard settlement",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=timothy+stanhope+national+guard+settlement&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "timothy stanhope national guard settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-08-02T08:36:11.306Z"
+      "detectedAt": "2026-08-02T13:53:24.376Z"
     }
   ]
 }

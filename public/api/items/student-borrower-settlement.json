@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-03T03:53:35.252Z",
+  "updatedAt": "2026-08-03T10:04:50.297Z",
   "item": {
-    "id": "450k-borrowers-debt-relief",
-    "slug": "450k-borrowers-debt-relief",
-    "title": "450k Borrowers Debt Relief: Consumer Alert Monitoring",
+    "id": "student-borrower-settlement",
+    "slug": "student-borrower-settlement",
+    "title": "Student Borrower Settlement: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "450k borrowers debt relief",
+    "product": "student borrower settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=450k+borrowers+debt+relief&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+borrower+settlement&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 10,
+    "trendScore": 25,
     "matchedQueries": [
-      "450k borrowers debt relief",
-      "student borrower settlement"
+      "student borrower settlement",
+      "450k borrowers debt relief"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-03T03:53:32.365Z",
-    "url": "https://simon622.shop/item/450k-borrowers-debt-relief/"
+    "lastUpdated": "2026-08-03T10:04:46.492Z",
+    "url": "https://simon622.shop/item/student-borrower-settlement/"
   }
 }

@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rank": 147,
+    "query": "450k borrowers debt relief",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "student borrower settlement"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=450k+borrowers+debt+relief&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "450k borrowers debt relief student borrower settlement",
+    "trendScore": 10,
+    "detectedAt": "2026-08-03T03:53:32.365Z"
+  },
+  {
+    "rank": 64,
+    "query": "salmonella",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "salmonella",
+    "trendScore": 8,
+    "detectedAt": "2026-08-03T03:53:32.365Z"
+  }
+]

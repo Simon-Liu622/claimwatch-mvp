@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T10:04:50.297Z",
+  "updatedAt": "2026-08-03T15:15:31.650Z",
   "count": 1,
   "items": [
     {
@@ -23,14 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+borrower+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 25,
       "matchedQueries": [
         "student borrower settlement",
         "450k borrowers debt relief"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-03T10:04:46.492Z"
+      "lastUpdated": "2026-08-03T15:15:08.530Z"
     }
   ]
 }

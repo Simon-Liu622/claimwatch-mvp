@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:38:36.170Z",
+  "updatedAt": "2026-08-04T19:55:48.686Z",
   "item": {
     "id": "lawsuit",
     "slug": "lawsuit",
@@ -22,12 +22,13 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 20000,
-    "trendScore": 24,
+    "trendScore": 26,
     "matchedQueries": [
-      "lawsuit"
+      "lawsuit",
+      "john oliver"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-04T14:38:30.686Z",
+    "lastUpdated": "2026-08-04T19:55:45.828Z",
     "url": "https://simon622.shop/item/lawsuit/"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-08-04T19:55:48.686Z",
+  "item": {
+    "id": "equifax-class-action-payout",
+    "slug": "equifax-class-action-payout",
+    "title": "Equifax Class Action Payout: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "equifax class action payout",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+class+action+payout&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 16,
+    "matchedQueries": [
+      "equifax class action payout"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-04T19:55:45.828Z",
+    "url": "https://simon622.shop/item/equifax-class-action-payout/"
+  }
+}

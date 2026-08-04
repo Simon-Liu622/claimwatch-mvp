@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-08-04T03:35:47.705Z",
+  "item": {
+    "id": "medtronic-minimed-inc-minimed-go-app-model-mmt-8600-ios-mmt-8601-android",
+    "slug": "medtronic-minimed-inc-minimed-go-app-model-mmt-8600-ios-mmt-8601-android",
+    "title": "Medtronic MiniMed, Inc.: MiniMed Go App, Model: MMT-8600 (iOS), MMT-8601 (Android) Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Medtronic MiniMed, Inc.",
+    "brand": "Medtronic MiniMed, Inc.",
+    "product": "MiniMed Go App, Model: MMT-8600 (iOS), MMT-8601 (Android)",
+    "category": "Recall",
+    "summary": "For MiniMed Go app version 1.0.0 and 1.1.0, when the Set day and night is turned OFF and missed dose or Correct high glucose alerts are enabled, the associated alerts will not be triggered during the nighttime. This could result in missed rapid-acting insulin doses without the user s knowledge, and may lead to delayed therapy and an increased risk of hyperglycemia. Product details: MiniMed Go App, Model: MMT-8600 (iOS), MMT-8601 (Android)",
+    "affectedPeople": "Worldwide - US Nationwide distribution in the states and territories of PR, OH, WA, IL, NC, PA, VA, MN, ID, CA, UT, MI, NJ, MS, SC, CO, AZ, OR, AR, MO, TX, AL, FL, NY, IN, TN, IA, WI, MA, LA, OK, GA, KS, NM, CT, KY, NH, NV, MD and the countries of Australia, Switzerland, Germany, Denmark, Spain, Finland, Iceland, Norway, Sweden.",
+    "remedy": "Affected quantity: 3,465",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-2778-2026",
+    "recallInitiationDate": "20260616",
+    "lastUpdated": "2026-08-04T03:35:44.090Z",
+    "url": "https://simon622.shop/item/medtronic-minimed-inc-minimed-go-app-model-mmt-8600-ios-mmt-8601-android/"
+  }
+}

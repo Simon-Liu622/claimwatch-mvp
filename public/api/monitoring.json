@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-03T19:57:05.460Z",
-  "count": 1,
+  "updatedAt": "2026-08-04T03:35:47.705Z",
+  "count": 2,
   "items": [
     {
-      "id": "student-borrower-settlement",
-      "slug": "student-borrower-settlement",
-      "title": "Student Borrower Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "lawsuit",
+      "slug": "lawsuit",
+      "title": "Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "student borrower settlement",
+      "product": "lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=student+borrower+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
-        "student borrower settlement",
-        "450k borrowers debt relief"
+        "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-03T19:57:03.548Z"
+      "lastUpdated": "2026-08-04T03:35:44.090Z"
+    },
+    {
+      "id": "class-action-student-loan-lawsuit",
+      "slug": "class-action-student-loan-lawsuit",
+      "title": "Class Action Student Loan Lawsuit: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "class action student loan lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action+student+loan+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 16,
+      "matchedQueries": [
+        "class action student loan lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-04T03:35:44.090Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T03:35:47.705Z",
-  "count": 2,
+  "updatedAt": "2026-08-04T09:06:18.641Z",
+  "count": 4,
   "items": [
     {
       "id": "lawsuit",
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-04T03:35:44.090Z"
+      "lastUpdated": "2026-08-04T09:06:11.184Z"
     },
     {
       "id": "class-action-student-loan-lawsuit",
@@ -58,7 +58,66 @@
         "class action student loan lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-04T03:35:44.090Z"
+      "lastUpdated": "2026-08-04T09:06:11.184Z"
+    },
+    {
+      "id": "25-states-lawsuit-trump-tariffs",
+      "slug": "25-states-lawsuit-trump-tariffs",
+      "title": "25 States Lawsuit Trump Tariffs: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "25 states lawsuit trump tariffs",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=25+states+lawsuit+trump+tariffs&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "25 states lawsuit trump tariffs",
+        "tariff"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-04T09:06:11.184Z"
+    },
+    {
+      "id": "presidio-border-wall-lawsuit",
+      "slug": "presidio-border-wall-lawsuit",
+      "title": "Presidio Border Wall Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "presidio border wall lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=presidio+border+wall+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "presidio border wall lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-04T09:06:11.184Z"
     }
   ]
 }

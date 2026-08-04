@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-08-04T09:06:18.641Z",
-  "count": 4,
+  "updatedAt": "2026-08-04T14:38:36.170Z",
+  "count": 5,
   "items": [
-    {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-04T09:06:11.184Z"
-    },
     {
       "id": "class-action-student-loan-lawsuit",
       "slug": "class-action-student-loan-lawsuit",
@@ -52,13 +23,71 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action+student+loan+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 16,
+      "searchVolume": 1000,
+      "trendScore": 31,
       "matchedQueries": [
         "class action student loan lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-04T09:06:11.184Z"
+      "lastUpdated": "2026-08-04T14:38:30.686Z"
+    },
+    {
+      "id": "lawsuit",
+      "slug": "lawsuit",
+      "title": "Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-04T14:38:30.686Z"
+    },
+    {
+      "id": "nc-publix-berry-recall",
+      "slug": "nc-publix-berry-recall",
+      "title": "Nc Publix Berry Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "nc publix berry recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nc+publix+berry+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "nc publix berry recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-04T14:38:30.686Z"
     },
     {
       "id": "25-states-lawsuit-trump-tariffs",
@@ -88,7 +117,7 @@
         "tariff"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-04T09:06:11.184Z"
+      "lastUpdated": "2026-08-04T14:38:30.686Z"
     },
     {
       "id": "presidio-border-wall-lawsuit",
@@ -117,7 +146,7 @@
         "presidio border wall lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-04T09:06:11.184Z"
+      "lastUpdated": "2026-08-04T14:38:30.686Z"
     }
   ]
 }

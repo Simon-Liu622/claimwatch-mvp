@@ -1,23 +1,21 @@
 [
   {
-    "rank": 109,
-    "query": "fired fbi agents lawsuit support",
-    "searchVolume": 20000,
+    "rank": 87,
+    "query": "ukrop's meal recall",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "federal bureau of investigation"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
-    "increasePercentage": 500,
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "fired fbi agents lawsuit support federal bureau of investigation",
-    "trendScore": 11,
-    "detectedAt": "2026-08-05T14:32:06.216Z"
+    "text": "ukrop's meal recall",
+    "trendScore": 23,
+    "detectedAt": "2026-08-05T19:54:10.619Z"
   },
   {
-    "rank": 163,
+    "rank": 205,
     "query": "chipotle jalapeno salmonella outbreak",
     "searchVolume": 5000,
     "startedAt": "",
@@ -31,51 +29,6 @@
     "source": "serpapi-google-trends",
     "text": "chipotle jalapeno salmonella outbreak chipotle salmonella",
     "trendScore": 10,
-    "detectedAt": "2026-08-05T14:32:06.216Z"
-  },
-  {
-    "rank": 173,
-    "query": "ukrop's meal recall",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "ukrop's meal recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-05T14:32:06.216Z"
-  },
-  {
-    "rank": 174,
-    "query": "trump epa green bank lawsuit",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+epa+green+bank+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "trump epa green bank lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-05T14:32:06.216Z"
-  },
-  {
-    "rank": 296,
-    "query": "pima county sheriff lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pima+county+sheriff+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "pima county sheriff lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-05T14:32:06.216Z"
+    "detectedAt": "2026-08-05T19:54:10.619Z"
   }
 ]

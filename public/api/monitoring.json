@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-05T14:32:10.570Z",
-  "count": 5,
+  "updatedAt": "2026-08-05T19:54:34.806Z",
+  "count": 2,
   "items": [
     {
-      "id": "fired-fbi-agents-lawsuit-support",
-      "slug": "fired-fbi-agents-lawsuit-support",
-      "title": "Fired Fbi Agents Lawsuit Support: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "ukrop-s-meal-recall",
+      "slug": "ukrop-s-meal-recall",
+      "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fired fbi agents lawsuit support",
-      "category": "Consumer monitoring",
+      "product": "ukrop's meal recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,17 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 11,
+      "searchVolume": 500,
+      "trendScore": 23,
       "matchedQueries": [
-        "fired fbi agents lawsuit support",
-        "federal bureau of investigation"
+        "ukrop's meal recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T14:32:06.216Z"
+      "lastUpdated": "2026-08-05T19:54:10.619Z"
     },
     {
       "id": "chipotle-jalapeno-salmonella-outbreak",
@@ -60,94 +59,7 @@
         "chipotle salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T14:32:06.216Z"
-    },
-    {
-      "id": "pima-county-sheriff-lawsuit",
-      "slug": "pima-county-sheriff-lawsuit",
-      "title": "Pima County Sheriff Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "pima county sheriff lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pima+county+sheriff+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "pima county sheriff lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T14:32:06.216Z"
-    },
-    {
-      "id": "trump-epa-green-bank-lawsuit",
-      "slug": "trump-epa-green-bank-lawsuit",
-      "title": "Trump Epa Green Bank Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump epa green bank lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+epa+green+bank+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "trump epa green bank lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T14:32:06.216Z"
-    },
-    {
-      "id": "ukrop-s-meal-recall",
-      "slug": "ukrop-s-meal-recall",
-      "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ukrop's meal recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ukrop's meal recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T14:32:06.216Z"
+      "lastUpdated": "2026-08-05T19:54:10.619Z"
     }
   ]
 }

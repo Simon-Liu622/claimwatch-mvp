@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T09:04:29.106Z",
+  "updatedAt": "2026-08-05T14:32:10.570Z",
   "item": {
     "id": "fired-fbi-agents-lawsuit-support",
     "slug": "fired-fbi-agents-lawsuit-support",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 8,
+    "searchVolume": 20000,
+    "trendScore": 11,
     "matchedQueries": [
-      "fired fbi agents lawsuit support"
+      "fired fbi agents lawsuit support",
+      "federal bureau of investigation"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-05T09:04:22.560Z",
+    "lastUpdated": "2026-08-05T14:32:06.216Z",
     "url": "https://simon622.shop/item/fired-fbi-agents-lawsuit-support/"
   }
 }

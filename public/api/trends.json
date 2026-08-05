@@ -1,41 +1,26 @@
 {
-  "updatedAt": "2026-08-05T09:04:29.106Z",
-  "count": 8,
+  "updatedAt": "2026-08-05T14:32:10.570Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 325,
-      "query": "equifax class action payout",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+class+action+payout&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "equifax class action payout",
-      "trendScore": 16,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "rank": 110,
-      "query": "ukrop's meal recall",
+      "rank": 109,
+      "query": "fired fbi agents lawsuit support",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "product recall"
+        "federal bureau of investigation"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "ukrop's meal recall product recall",
+      "text": "fired fbi agents lawsuit support federal bureau of investigation",
       "trendScore": 11,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
+      "detectedAt": "2026-08-05T14:32:06.216Z"
     },
     {
-      "rank": 103,
+      "rank": 163,
       "query": "chipotle jalapeno salmonella outbreak",
       "searchVolume": 5000,
       "startedAt": "",
@@ -49,25 +34,25 @@
       "source": "serpapi-google-trends",
       "text": "chipotle jalapeno salmonella outbreak chipotle salmonella",
       "trendScore": 10,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
+      "detectedAt": "2026-08-05T14:32:06.216Z"
     },
     {
-      "rank": 73,
-      "query": "fired fbi agents lawsuit support",
-      "searchVolume": 10000,
+      "rank": 173,
+      "query": "ukrop's meal recall",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "fired fbi agents lawsuit support",
+      "text": "ukrop's meal recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
+      "detectedAt": "2026-08-05T14:32:06.216Z"
     },
     {
-      "rank": 131,
+      "rank": 174,
       "query": "trump epa green bank lawsuit",
       "searchVolume": 5000,
       "startedAt": "",
@@ -79,25 +64,10 @@
       "source": "serpapi-google-trends",
       "text": "trump epa green bank lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
+      "detectedAt": "2026-08-05T14:32:06.216Z"
     },
     {
-      "rank": 171,
-      "query": "nc publix berry recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nc+publix+berry+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "nc publix berry recall",
-      "trendScore": 8,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "rank": 266,
+      "rank": 296,
       "query": "pima county sheriff lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -109,22 +79,7 @@
       "source": "serpapi-google-trends",
       "text": "pima county sheriff lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "rank": 399,
-      "query": "psa lawsuit",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=psa+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "psa lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-05T09:04:22.560Z"
+      "detectedAt": "2026-08-05T14:32:06.216Z"
     }
   ]
 }

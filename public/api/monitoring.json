@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-05T09:04:29.106Z",
-  "count": 8,
+  "updatedAt": "2026-08-05T14:32:10.570Z",
+  "count": 5,
   "items": [
     {
-      "id": "equifax-class-action-payout",
-      "slug": "equifax-class-action-payout",
-      "title": "Equifax Class Action Payout: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "fired-fbi-agents-lawsuit-support",
+      "slug": "fired-fbi-agents-lawsuit-support",
+      "title": "Fired Fbi Agents Lawsuit Support: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "equifax class action payout",
+      "product": "fired fbi agents lawsuit support",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,16 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+class+action+payout&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 16,
+      "searchVolume": 20000,
+      "trendScore": 11,
       "matchedQueries": [
-        "equifax class action payout"
+        "fired fbi agents lawsuit support",
+        "federal bureau of investigation"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
+      "lastUpdated": "2026-08-05T14:32:06.216Z"
     },
     {
       "id": "chipotle-jalapeno-salmonella-outbreak",
@@ -59,7 +60,7 @@
         "chipotle salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
+      "lastUpdated": "2026-08-05T14:32:06.216Z"
     },
     {
       "id": "pima-county-sheriff-lawsuit",
@@ -88,65 +89,7 @@
         "pima county sheriff lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "id": "nc-publix-berry-recall",
-      "slug": "nc-publix-berry-recall",
-      "title": "Nc Publix Berry Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "nc publix berry recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nc+publix+berry+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "nc publix berry recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "id": "psa-lawsuit",
-      "slug": "psa-lawsuit",
-      "title": "Psa Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "psa lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=psa+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "psa lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
+      "lastUpdated": "2026-08-05T14:32:06.216Z"
     },
     {
       "id": "trump-epa-green-bank-lawsuit",
@@ -175,36 +118,7 @@
         "trump epa green bank lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
-    },
-    {
-      "id": "fired-fbi-agents-lawsuit-support",
-      "slug": "fired-fbi-agents-lawsuit-support",
-      "title": "Fired Fbi Agents Lawsuit Support: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fired fbi agents lawsuit support",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "fired fbi agents lawsuit support"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T09:04:22.560Z"
+      "lastUpdated": "2026-08-05T14:32:06.216Z"
     },
     {
       "id": "ukrop-s-meal-recall",
@@ -227,13 +141,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
         "ukrop's meal recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
+      "lastUpdated": "2026-08-05T14:32:06.216Z"
     }
   ]
 }

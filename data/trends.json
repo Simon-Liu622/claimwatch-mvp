@@ -1,23 +1,6 @@
 [
   {
-    "rank": 56,
-    "query": "chipotle jalapeno salmonella outbreak",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "chipotle salmonella"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "chipotle jalapeno salmonella outbreak chipotle salmonella",
-    "trendScore": 25,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
-  },
-  {
-    "rank": 329,
+    "rank": 325,
     "query": "equifax class action payout",
     "searchVolume": 500,
     "startedAt": "",
@@ -29,10 +12,59 @@
     "source": "serpapi-google-trends",
     "text": "equifax class action payout",
     "trendScore": 16,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
+    "detectedAt": "2026-08-05T09:04:22.560Z"
   },
   {
-    "rank": 155,
+    "rank": 110,
+    "query": "ukrop's meal recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "product recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "ukrop's meal recall product recall",
+    "trendScore": 11,
+    "detectedAt": "2026-08-05T09:04:22.560Z"
+  },
+  {
+    "rank": 103,
+    "query": "chipotle jalapeno salmonella outbreak",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "chipotle salmonella"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "chipotle jalapeno salmonella outbreak chipotle salmonella",
+    "trendScore": 10,
+    "detectedAt": "2026-08-05T09:04:22.560Z"
+  },
+  {
+    "rank": 73,
+    "query": "fired fbi agents lawsuit support",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "fired fbi agents lawsuit support",
+    "trendScore": 8,
+    "detectedAt": "2026-08-05T09:04:22.560Z"
+  },
+  {
+    "rank": 131,
     "query": "trump epa green bank lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
@@ -44,40 +76,10 @@
     "source": "serpapi-google-trends",
     "text": "trump epa green bank lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
+    "detectedAt": "2026-08-05T09:04:22.560Z"
   },
   {
-    "rank": 157,
-    "query": "ukrop's meal recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "ukrop's meal recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
-  },
-  {
-    "rank": 182,
-    "query": "product recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "product recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
-  },
-  {
-    "rank": 210,
+    "rank": 171,
     "query": "nc publix berry recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -89,10 +91,10 @@
     "source": "serpapi-google-trends",
     "text": "nc publix berry recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
+    "detectedAt": "2026-08-05T09:04:22.560Z"
   },
   {
-    "rank": 271,
+    "rank": 266,
     "query": "pima county sheriff lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -104,10 +106,10 @@
     "source": "serpapi-google-trends",
     "text": "pima county sheriff lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
+    "detectedAt": "2026-08-05T09:04:22.560Z"
   },
   {
-    "rank": 396,
+    "rank": 399,
     "query": "psa lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -119,6 +121,6 @@
     "source": "serpapi-google-trends",
     "text": "psa lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-05T03:31:39.758Z"
+    "detectedAt": "2026-08-05T09:04:22.560Z"
   }
 ]

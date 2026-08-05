@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-05T03:31:44.814Z",
-  "count": 7,
+  "updatedAt": "2026-08-05T09:04:29.106Z",
+  "count": 8,
   "items": [
-    {
-      "id": "chipotle-jalapeno-salmonella-outbreak",
-      "slug": "chipotle-jalapeno-salmonella-outbreak",
-      "title": "Chipotle Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "chipotle jalapeno salmonella outbreak",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "chipotle jalapeno salmonella outbreak",
-        "chipotle salmonella"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
-    },
     {
       "id": "equifax-class-action-payout",
       "slug": "equifax-class-action-payout",
@@ -59,7 +29,37 @@
         "equifax class action payout"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
+    },
+    {
+      "id": "chipotle-jalapeno-salmonella-outbreak",
+      "slug": "chipotle-jalapeno-salmonella-outbreak",
+      "title": "Chipotle Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "chipotle jalapeno salmonella outbreak",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "chipotle jalapeno salmonella outbreak",
+        "chipotle salmonella"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
     },
     {
       "id": "pima-county-sheriff-lawsuit",
@@ -88,36 +88,7 @@
         "pima county sheriff lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
-    },
-    {
-      "id": "ukrop-s-meal-recall",
-      "slug": "ukrop-s-meal-recall",
-      "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ukrop's meal recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ukrop's meal recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
     },
     {
       "id": "nc-publix-berry-recall",
@@ -146,7 +117,7 @@
         "nc publix berry recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
     },
     {
       "id": "psa-lawsuit",
@@ -175,7 +146,7 @@
         "psa lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T03:31:39.758Z"
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
     },
     {
       "id": "trump-epa-green-bank-lawsuit",
@@ -202,6 +173,64 @@
       "trendScore": 8,
       "matchedQueries": [
         "trump epa green bank lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
+    },
+    {
+      "id": "fired-fbi-agents-lawsuit-support",
+      "slug": "fired-fbi-agents-lawsuit-support",
+      "title": "Fired Fbi Agents Lawsuit Support: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fired fbi agents lawsuit support",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fired+fbi+agents+lawsuit+support&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "fired fbi agents lawsuit support"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-05T09:04:22.560Z"
+    },
+    {
+      "id": "ukrop-s-meal-recall",
+      "slug": "ukrop-s-meal-recall",
+      "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ukrop's meal recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "ukrop's meal recall"
       ],
       "officialVerified": false,
       "lastUpdated": "2026-08-05T03:31:39.758Z"

@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-08-05T03:31:44.814Z",
+  "item": {
+    "id": "chipotle-jalapeno-salmonella-outbreak",
+    "slug": "chipotle-jalapeno-salmonella-outbreak",
+    "title": "Chipotle Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "chipotle jalapeno salmonella outbreak",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 5000,
+    "trendScore": 25,
+    "matchedQueries": [
+      "chipotle jalapeno salmonella outbreak",
+      "chipotle salmonella"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-05T03:31:39.758Z",
+    "url": "https://simon622.shop/item/chipotle-jalapeno-salmonella-outbreak/"
+  }
+}

@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-06T03:35:25.851Z",
+  "updatedAt": "2026-08-06T09:04:33.019Z",
   "count": 5,
   "items": [
-    {
-      "id": "jalapeno-salmonella-outbreak",
-      "slug": "jalapeno-salmonella-outbreak",
-      "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jalapeno salmonella outbreak",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "jalapeno salmonella outbreak",
-        "chipotle menu"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-06T03:35:22.469Z"
-    },
     {
       "id": "salmonella-outbreak-linked-to-eggs",
       "slug": "salmonella-outbreak-linked-to-eggs",
@@ -53,13 +23,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 24,
       "matchedQueries": [
         "salmonella outbreak linked to eggs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T03:35:22.469Z"
+      "lastUpdated": "2026-08-06T09:04:30.879Z"
+    },
+    {
+      "id": "chipotle-menu",
+      "slug": "chipotle-menu",
+      "title": "Chipotle Menu: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "chipotle menu",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "chipotle menu",
+        "jalapeno salmonella outbreak"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T09:04:30.879Z"
     },
     {
       "id": "ukrop-s-meal-recall",
@@ -88,7 +88,7 @@
         "ukrop's meal recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T03:35:22.469Z"
+      "lastUpdated": "2026-08-06T09:04:30.879Z"
     },
     {
       "id": "donald-trump-bbc-defamation-lawsuit",
@@ -117,7 +117,7 @@
         "donald trump bbc defamation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T03:35:22.469Z"
+      "lastUpdated": "2026-08-06T09:04:30.879Z"
     },
     {
       "id": "jeffrey-epstein-new-mexico-lawsuit",
@@ -146,7 +146,7 @@
         "jeffrey epstein new mexico lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T03:35:22.469Z"
+      "lastUpdated": "2026-08-06T09:04:30.879Z"
     }
   ]
 }

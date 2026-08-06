@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T03:35:25.851Z",
+  "updatedAt": "2026-08-06T09:04:33.019Z",
   "item": {
-    "id": "jalapeno-salmonella-outbreak",
-    "slug": "jalapeno-salmonella-outbreak",
-    "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
+    "id": "chipotle-menu",
+    "slug": "chipotle-menu",
+    "title": "Chipotle Menu: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "jalapeno salmonella outbreak",
+    "product": "chipotle menu",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 25,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
-      "jalapeno salmonella outbreak",
-      "chipotle menu"
+      "chipotle menu",
+      "jalapeno salmonella outbreak"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T03:35:22.469Z",
-    "url": "https://simon622.shop/item/jalapeno-salmonella-outbreak/"
+    "lastUpdated": "2026-08-06T09:04:30.879Z",
+    "url": "https://simon622.shop/item/chipotle-menu/"
   }
 }

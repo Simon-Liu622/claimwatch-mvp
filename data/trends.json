@@ -1,25 +1,8 @@
 [
   {
-    "rank": 96,
-    "query": "jalapeno salmonella outbreak",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "chipotle menu"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "jalapeno salmonella outbreak chipotle menu",
-    "trendScore": 25,
-    "detectedAt": "2026-08-06T03:35:22.469Z"
-  },
-  {
-    "rank": 5,
+    "rank": 2,
     "query": "salmonella outbreak linked to eggs",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -29,25 +12,27 @@
     "source": "serpapi-google-trends",
     "text": "salmonella outbreak linked to eggs",
     "trendScore": 24,
-    "detectedAt": "2026-08-06T03:35:22.469Z"
+    "detectedAt": "2026-08-06T09:04:30.879Z"
   },
   {
-    "rank": 190,
-    "query": "donald trump bbc defamation lawsuit",
-    "searchVolume": 1000,
+    "rank": 150,
+    "query": "chipotle menu",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+bbc+defamation+lawsuit&tz=420",
+    "breakdown": [
+      "jalapeno salmonella outbreak"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "donald trump bbc defamation lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-06T03:35:22.469Z"
+    "text": "chipotle menu jalapeno salmonella outbreak",
+    "trendScore": 10,
+    "detectedAt": "2026-08-06T09:04:30.879Z"
   },
   {
-    "rank": 197,
+    "rank": 180,
     "query": "ukrop's meal recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -59,10 +44,25 @@
     "source": "serpapi-google-trends",
     "text": "ukrop's meal recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-06T03:35:22.469Z"
+    "detectedAt": "2026-08-06T09:04:30.879Z"
   },
   {
-    "rank": 293,
+    "rank": 201,
+    "query": "donald trump bbc defamation lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+bbc+defamation+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "donald trump bbc defamation lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-08-06T09:04:30.879Z"
+  },
+  {
+    "rank": 341,
     "query": "jeffrey epstein new mexico lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -74,6 +74,6 @@
     "source": "serpapi-google-trends",
     "text": "jeffrey epstein new mexico lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-06T03:35:22.469Z"
+    "detectedAt": "2026-08-06T09:04:30.879Z"
   }
 ]

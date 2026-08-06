@@ -205,7 +205,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -231,7 +231,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -257,7 +257,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -387,7 +387,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -413,7 +413,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -760,6 +760,35 @@
     "lastUpdated": "2026-05-07T08:40:29.023Z"
   },
   {
+    "id": "salmonella-outbreak-linked-to-eggs",
+    "slug": "salmonella-outbreak-linked-to-eggs",
+    "title": "Salmonella Outbreak Linked To Eggs: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "salmonella outbreak linked to eggs",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 100000,
+    "trendScore": 26,
+    "matchedQueries": [
+      "salmonella outbreak linked to eggs"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
     "title": "Toyota Motor Engineering & Manufacturing: SEATS Recall (2024 toyota camry)",
@@ -783,7 +812,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26601",
@@ -809,7 +838,7 @@
     "officialVerified": true,
     "officialRecordId": "26601",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26659",
@@ -835,7 +864,7 @@
     "officialVerified": true,
     "officialRecordId": "26659",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "ethnic-foods-inc-bombay-kitchen-brand-tikka-sev-net-wt-9oz-255g",
@@ -887,7 +916,7 @@
     "officialVerified": true,
     "officialRecordId": "26605",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26625",
@@ -913,7 +942,7 @@
     "officialVerified": true,
     "officialRecordId": "26625",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26618",
@@ -939,36 +968,7 @@
     "officialVerified": true,
     "officialRecordId": "26618",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
-  },
-  {
-    "id": "salmonella-outbreak-linked-to-eggs",
-    "slug": "salmonella-outbreak-linked-to-eggs",
-    "title": "Salmonella Outbreak Linked To Eggs: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "salmonella outbreak linked to eggs",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 24,
-    "matchedQueries": [
-      "salmonella outbreak linked to eggs"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26501",
@@ -1523,14 +1523,14 @@
     "lastUpdated": "2026-06-22T21:13:18.559Z"
   },
   {
-    "id": "chipotle-menu",
-    "slug": "chipotle-menu",
-    "title": "Chipotle Menu: Consumer Alert Monitoring",
+    "id": "jalapeno-salmonella-outbreak",
+    "slug": "jalapeno-salmonella-outbreak",
+    "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "chipotle menu",
+    "product": "jalapeno salmonella outbreak",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -1540,17 +1540,47 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
     "trendScore": 10,
     "matchedQueries": [
-      "chipotle menu",
-      "jalapeno salmonella outbreak"
+      "jalapeno salmonella outbreak",
+      "chipotle menu"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "donald-trump-100b-tariff-refund",
+    "slug": "donald-trump-100b-tariff-refund",
+    "title": "Donald Trump $100b Tariff Refund: Consumer Alert Monitoring",
+    "type": "refund",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "donald trump $100b tariff refund",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "donald trump $100b tariff refund",
+      "liberation day' tariffs"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26506",
@@ -2051,7 +2081,7 @@
       "ukrop's meal recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26603",
@@ -2077,7 +2107,7 @@
     "officialVerified": true,
     "officialRecordId": "26603",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26602",
@@ -2103,7 +2133,7 @@
     "officialVerified": true,
     "officialRecordId": "26602",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26595",
@@ -2129,7 +2159,7 @@
     "officialVerified": true,
     "officialRecordId": "26595",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26649",
@@ -2155,7 +2185,7 @@
     "officialVerified": true,
     "officialRecordId": "26649",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "donald-trump-bbc-defamation-lawsuit",
@@ -2184,7 +2214,7 @@
       "donald trump bbc defamation lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "jeffrey-epstein-new-mexico-lawsuit",
@@ -2213,7 +2243,36 @@
       "jeffrey epstein new mexico lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "taylor-farms-brian-thure-lawsuit",
+    "slug": "taylor-farms-brian-thure-lawsuit",
+    "title": "Taylor Farms Brian Thure Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "taylor farms brian thure lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+brian+thure+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 200,
+    "trendScore": 8,
+    "matchedQueries": [
+      "taylor farms brian thure lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -2237,7 +2296,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2261,7 +2320,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2285,7 +2344,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2309,7 +2368,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "find-refund-cases",
@@ -2333,7 +2392,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "consumer-advice",
@@ -2357,7 +2416,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2381,7 +2440,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2405,7 +2464,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2429,7 +2488,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "military-consumer",
@@ -2453,7 +2512,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "consumer-gov",
@@ -2477,7 +2536,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -2501,7 +2560,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",
@@ -2525,7 +2584,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26582",
@@ -2551,7 +2610,7 @@
     "officialVerified": true,
     "officialRecordId": "26582",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26581",
@@ -2577,7 +2636,7 @@
     "officialVerified": true,
     "officialRecordId": "26581",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26580",
@@ -2603,7 +2662,7 @@
     "officialVerified": true,
     "officialRecordId": "26580",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26507",
@@ -2629,7 +2688,7 @@
     "officialVerified": true,
     "officialRecordId": "26507",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26579",
@@ -2655,7 +2714,7 @@
     "officialVerified": true,
     "officialRecordId": "26579",
     "recallInitiationDate": "2026-06-25T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26596",
@@ -2681,7 +2740,7 @@
     "officialVerified": true,
     "officialRecordId": "26596",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26599",
@@ -2707,7 +2766,7 @@
     "officialVerified": true,
     "officialRecordId": "26599",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26593",
@@ -2733,7 +2792,7 @@
     "officialVerified": true,
     "officialRecordId": "26593",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26600",
@@ -2759,7 +2818,7 @@
     "officialVerified": true,
     "officialRecordId": "26600",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26594",
@@ -2785,7 +2844,7 @@
     "officialVerified": true,
     "officialRecordId": "26594",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26598",
@@ -2811,7 +2870,7 @@
     "officialVerified": true,
     "officialRecordId": "26598",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26592",
@@ -2837,7 +2896,7 @@
     "officialVerified": true,
     "officialRecordId": "26592",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26591",
@@ -2863,7 +2922,7 @@
     "officialVerified": true,
     "officialRecordId": "26591",
     "recallInitiationDate": "2026-07-02T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26606",
@@ -2889,7 +2948,7 @@
     "officialVerified": true,
     "officialRecordId": "26606",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26607",
@@ -2915,7 +2974,7 @@
     "officialVerified": true,
     "officialRecordId": "26607",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26610",
@@ -2941,7 +3000,7 @@
     "officialVerified": true,
     "officialRecordId": "26610",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26611",
@@ -2967,7 +3026,7 @@
     "officialVerified": true,
     "officialRecordId": "26611",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26608",
@@ -2993,7 +3052,7 @@
     "officialVerified": true,
     "officialRecordId": "26608",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26609",
@@ -3019,7 +3078,7 @@
     "officialVerified": true,
     "officialRecordId": "26609",
     "recallInitiationDate": "2026-07-09T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26621",
@@ -3045,7 +3104,7 @@
     "officialVerified": true,
     "officialRecordId": "26621",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26624",
@@ -3071,7 +3130,7 @@
     "officialVerified": true,
     "officialRecordId": "26624",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26626",
@@ -3097,7 +3156,7 @@
     "officialVerified": true,
     "officialRecordId": "26626",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26619",
@@ -3123,7 +3182,7 @@
     "officialVerified": true,
     "officialRecordId": "26619",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26630",
@@ -3149,7 +3208,7 @@
     "officialVerified": true,
     "officialRecordId": "26630",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26627",
@@ -3175,7 +3234,7 @@
     "officialVerified": true,
     "officialRecordId": "26627",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26617",
@@ -3201,7 +3260,7 @@
     "officialVerified": true,
     "officialRecordId": "26617",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26628",
@@ -3227,7 +3286,7 @@
     "officialVerified": true,
     "officialRecordId": "26628",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26629",
@@ -3253,7 +3312,7 @@
     "officialVerified": true,
     "officialRecordId": "26629",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26620",
@@ -3279,7 +3338,7 @@
     "officialVerified": true,
     "officialRecordId": "26620",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26622",
@@ -3305,7 +3364,7 @@
     "officialVerified": true,
     "officialRecordId": "26622",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26623",
@@ -3331,7 +3390,7 @@
     "officialVerified": true,
     "officialRecordId": "26623",
     "recallInitiationDate": "2026-07-16T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26634",
@@ -3357,7 +3416,7 @@
     "officialVerified": true,
     "officialRecordId": "26634",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26635",
@@ -3383,7 +3442,7 @@
     "officialVerified": true,
     "officialRecordId": "26635",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26638",
@@ -3409,7 +3468,7 @@
     "officialVerified": true,
     "officialRecordId": "26638",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26633",
@@ -3435,7 +3494,7 @@
     "officialVerified": true,
     "officialRecordId": "26633",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26637",
@@ -3461,7 +3520,7 @@
     "officialVerified": true,
     "officialRecordId": "26637",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26639",
@@ -3487,7 +3546,7 @@
     "officialVerified": true,
     "officialRecordId": "26639",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26636",
@@ -3513,7 +3572,7 @@
     "officialVerified": true,
     "officialRecordId": "26636",
     "recallInitiationDate": "2026-07-23T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26645",
@@ -3539,7 +3598,7 @@
     "officialVerified": true,
     "officialRecordId": "26645",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26646",
@@ -3565,7 +3624,7 @@
     "officialVerified": true,
     "officialRecordId": "26646",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26647",
@@ -3591,7 +3650,7 @@
     "officialVerified": true,
     "officialRecordId": "26647",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26650",
@@ -3617,7 +3676,7 @@
     "officialVerified": true,
     "officialRecordId": "26650",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26651",
@@ -3643,7 +3702,7 @@
     "officialVerified": true,
     "officialRecordId": "26651",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26652",
@@ -3669,7 +3728,7 @@
     "officialVerified": true,
     "officialRecordId": "26652",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26653",
@@ -3695,7 +3754,7 @@
     "officialVerified": true,
     "officialRecordId": "26653",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26654",
@@ -3721,7 +3780,7 @@
     "officialVerified": true,
     "officialRecordId": "26654",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26655",
@@ -3747,7 +3806,7 @@
     "officialVerified": true,
     "officialRecordId": "26655",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26656",
@@ -3773,7 +3832,7 @@
     "officialVerified": true,
     "officialRecordId": "26656",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26657",
@@ -3799,7 +3858,7 @@
     "officialVerified": true,
     "officialRecordId": "26657",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26632",
@@ -3825,7 +3884,7 @@
     "officialVerified": true,
     "officialRecordId": "26632",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "cpsc-26658",
@@ -3851,7 +3910,7 @@
     "officialVerified": true,
     "officialRecordId": "26658",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-nuez-1-bar-81-7-g-with",
@@ -3877,7 +3936,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1166-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-tamarindo-1-bar-81-7-g-with",
@@ -3903,7 +3962,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1172-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nutricia-north-america-functional-formularies-liquid-hope-organic-whole-foods-meal-replace",
@@ -3929,7 +3988,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1152-2026",
     "recallInitiationDate": "20260526",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-arroz-con-leche-4-oz-85-g-with",
@@ -3955,7 +4014,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1160-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "fayus-inc-ola-ola-pounded-groundnuts-intwilo-net-wt-32-oz-2-lbs-0-907-kg",
@@ -3981,7 +4040,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1175-2026",
     "recallInitiationDate": "20260619",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "gellert-global-group-ruby-artichoke-hearts-quartered-5-lb-8-oz-2500-g-drained-wt-3-lbs-6-o",
@@ -4007,7 +4066,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1176-2026",
     "recallInitiationDate": "20260515",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-fresa-leche-4-oz-85-g-with",
@@ -4033,7 +4092,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1159-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-mango-3-7-oz-81-7-g-with",
@@ -4059,7 +4118,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1171-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-limon-4-oz-85-g-with",
@@ -4085,7 +4144,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1169-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-cookies-cream-1-bar-81-7-g-with",
@@ -4111,7 +4170,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1167-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-pistachio-1-bar-81-7-g-with",
@@ -4137,7 +4196,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1165-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "frutas-y-hortalizas-del-sur-s-a-organic-whole-blueberries-net-wt-10-oz-284g-plastic-bag-pa",
@@ -4163,7 +4222,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1181-2026",
     "recallInitiationDate": "20260703",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "d-dioses-fruit-pops-inc-ice-pop-d-dioses-pina-colada-1-bar-81-7-g-with",
@@ -4189,7 +4248,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1168-2026",
     "recallInitiationDate": "20260504",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nutricia-north-america-functional-formularies-nourish-organic-whole-foods-meal-replacement",
@@ -4215,7 +4274,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1153-2026",
     "recallInitiationDate": "20260526",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
@@ -4241,7 +4300,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1180-2026",
     "recallInitiationDate": "20260708",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "brooklyn-roasting-works-llc-brooklyn-roasting-company-pasteurized-cold-brew-concentrate-2-",
@@ -4267,7 +4326,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1179-2026",
     "recallInitiationDate": "20260702",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "man-fon-inc-man-fon-inc-won-ton-wrappers-extra-thin-net-wt-10-oz",
@@ -4293,7 +4352,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1187-2026",
     "recallInitiationDate": "20260708",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "man-fon-inc-wonton-wrappers-packed-into-clear-flexible-plastic-bag-and-sold-as-40-units-16",
@@ -4319,7 +4378,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1188-2026",
     "recallInitiationDate": "20260708",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "vintage-roots-llc-vintage-roots-root-beer-syrup-packaged-in-glass-bottle-net-wt-8oz-236-6-",
@@ -4345,7 +4404,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1177-2026",
     "recallInitiationDate": "20260613",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "modern-warrior-life-llc-modern-warrior-ready-dietary-supplement-60-capsules",
@@ -4371,7 +4430,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1178-2026",
     "recallInitiationDate": "20260109",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "shandong-ling-xian-food-co-ltd-island-pacific-imitation-crab-flakes-net-wt-1-0-lb-454g",
@@ -4397,7 +4456,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1184-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "shandong-ling-xian-food-co-ltd-island-pacific-imitation-crab-sticks-net-wt-1-0-lb-454g",
@@ -4423,7 +4482,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1182-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "total-nutrition-inc-1-tnvitamins-100-organic-moringa-capsules-1-200-mg-2-tnvitamins-100-or",
@@ -4449,7 +4508,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1185-2026",
     "recallInitiationDate": "20260626",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "shandong-ling-xian-food-co-ltd-nautilus-imitation-crab-sticks-net-wt-1-0-lb-454-0g",
@@ -4475,7 +4534,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1183-2026",
     "recallInitiationDate": "20260602",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "gellert-global-group-fusia-asian-inspirations-kimchi-and-tofu-kimbap-8-1-oz-230-g-paper-fi",
@@ -4501,7 +4560,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1186-2026",
     "recallInitiationDate": "20260625",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "rohto-mentholatum-vietnam-co-ltd-rohto-cooling-eye-drops-max-strength-naphazoline-hydrochl",
@@ -4527,7 +4586,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0716-2026",
     "recallInitiationDate": "20260714",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-75-mcg-0-075-mg-10-tablets-10-x-1-u",
@@ -4553,7 +4612,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0709-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "rohto-mentholatum-vietnam-co-ltd-rohto-cooling-eye-drops-cool-relief-naphazoline-hydrochlo",
@@ -4579,7 +4638,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0722-2026",
     "recallInitiationDate": "20260714",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-150-mcg-0-0150-mg-10-tablets-10-x-1",
@@ -4605,7 +4664,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0711-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-88-mcg-0-088-mg-100-tablets-10-x-10",
@@ -4631,7 +4690,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0703-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "fresenius-kabi-usa-llc-naropin-ropivacaine-hydrochloride-injection-usp-0-5-100-mg-per-20-m",
@@ -4657,7 +4716,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0727-2026",
     "recallInitiationDate": "20260716",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-75-mcg-0-075-mg-100-tablets-10-x-10",
@@ -4683,7 +4742,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0702-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-125-mcg-0-0125-mg-10-tablets-10-x-1",
@@ -4709,7 +4768,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0710-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-25-mcg-0-025-mg-100-tablets-10-x-10",
@@ -4735,7 +4794,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0700-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "rohto-mentholatum-vietnam-co-ltd-rohto-cooling-eye-drops-digi-eye-hypromellose-0-35-tetrah",
@@ -4761,7 +4820,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0719-2026",
     "recallInitiationDate": "20260714",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "fresenius-kabi-usa-llc-xylocaine-lidocaine-hcl-injection-usp-1-200-mg-per-20-ml-10-mg-per-",
@@ -4787,7 +4846,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0728-2026",
     "recallInitiationDate": "20260716",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "rohto-mentholatum-vietnam-co-ltd-rohto-cooling-eye-drops-dry-aid-povidone-0-68-propylene-g",
@@ -4813,7 +4872,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0720-2026",
     "recallInitiationDate": "20260714",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "major-pharmaceuticals-levothyroxine-sodium-tablets-usp-50-mcg-0-050-mg-100-tablets-10-x-10",
@@ -4839,7 +4898,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0701-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "fresenius-kabi-usa-llc-lidocaine-hcl-injection-usp-2-100-mg-per-5-ml-20-mg-per-ml-25-singl",
@@ -4865,7 +4924,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0726-2026",
     "recallInitiationDate": "20260716",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "boston-scientific-corporation-faradrive-steerable-sheath-clear-used-to-facilitate-access-t",
@@ -4891,7 +4950,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2755-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "boston-scientific-corporation-farastar-ablation-generator-eu-pulsed-field-ablation-generat",
@@ -4917,7 +4976,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2753-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "avid-medical-inc-halyard-standard-line-insertion-pack-model-catalog-number-pvhm234-01-conv",
@@ -4943,7 +5002,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2772-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "penumbra-inc-penumbra-system-red-68-reperfusion-catheter-ref-red68kit",
@@ -4969,7 +5028,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2770-2026",
     "recallInitiationDate": "20260603",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "alphatec-spine-inc-safeop-patient-interface-ref-aix11240-part-of-safeop-3-neural-informati",
@@ -4995,7 +5054,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2793-2026",
     "recallInitiationDate": "20260513",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "medtronic-minimed-inc-minimed-go-app-model-mmt-8600-ios-mmt-8601-android",
@@ -5021,7 +5080,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2778-2026",
     "recallInitiationDate": "20260616",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "medline-industries-lp-medline-medical-procedure-convenience-kit-labeled-as-1-total-knee-lf",
@@ -5047,7 +5106,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2765-2026",
     "recallInitiationDate": "20260608",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "icu-medical-inc-hotline-fluid-warming-set-single-use-device-is-designed-to-warm-blood-and-",
@@ -5073,7 +5132,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2759-2026",
     "recallInitiationDate": "20260624",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "karl-storz-endoscopy-flexible-hystero-fiberscope-kits-ref-11264bbu1-11264bbuk1-that-contai",
@@ -5099,7 +5158,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2794-2026",
     "recallInitiationDate": "20260521",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-containing-bard-silastic-foley-catheters-fr",
@@ -5125,7 +5184,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2784-2026",
     "recallInitiationDate": "20260608",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "boston-scientific-corporation-farastar-pulsed-field-ablation-generator-product-id-m004pfce",
@@ -5151,7 +5210,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2751-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "ferno-washington-inc-power-f2-powered-fastening-system-product-no-0567091-powered-fastenin",
@@ -5177,7 +5236,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2760-2026",
     "recallInitiationDate": "20260619",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "medline-industries-lp-medline-medical-convenience-kits-labeled-as-1-shoulder-pack-medline-",
@@ -5203,7 +5262,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-2789-2026",
     "recallInitiationDate": "20260611",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -5229,7 +5288,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -5255,7 +5314,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -5281,7 +5340,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -5307,7 +5366,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -5333,7 +5392,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -5359,7 +5418,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -5385,7 +5444,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -5411,7 +5470,111 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-08-06T09:04:30.879Z"
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "nhtsa-24v284000",
+    "slug": "nhtsa-24v284000",
+    "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling one 2024 Model 3 vehicle. The driver seat side air bag module was assembled without a deflector that directs gas flow during deployment.",
+    "affectedPeople": "Without a deflector, the air bag may deploy improperly, increasing the risk of injury during a crash.",
+    "remedy": "Tesla service replaced the side air bag, free of charge. The affected vehicle was repaired April 12, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-13-001.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V284000",
+    "recallInitiationDate": "19/04/2024",
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "nhtsa-24v554000",
+    "slug": "nhtsa-24v554000",
+    "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles. The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
+    "affectedPeople": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
+    "remedy": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed September 24, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-012.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V554000",
+    "recallInitiationDate": "24/07/2024",
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "nhtsa-24v935000",
+    "slug": "nhtsa-24v935000",
+    "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles. The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
+    "affectedPeople": "Driving with improperly inflated tires increases the risk of a crash.",
+    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed February 15, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-018.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V935000",
+    "recallInitiationDate": "17/12/2024",
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "id": "nhtsa-25v002000",
+    "slug": "nhtsa-25v002000",
+    "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024-2025 Model 3, Model S, 2023-2025 Model X, and Model Y vehicles. The computer circuit board may short, resulting in the loss of the rearview camera image. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
+    "affectedPeople": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Tesla will also identify any vehicles that experienced a circuit board failure, or stress that may lead to a circuit board failure, and replace the affected computers, free of charge. Owner notification letters were mailed March 7, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-25-00-001.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V002000",
+    "recallInitiationDate": "07/01/2025",
+    "lastUpdated": "2026-08-06T14:39:14.122Z"
   },
   {
     "id": "onesource-specialty-pharma-limited-methohexital-sodium-for-injection-usp-500-mg-multiple-d",
@@ -6478,110 +6641,6 @@
     "officialRecordId": "H-1155-2026",
     "recallInitiationDate": "20260619",
     "lastUpdated": "2026-08-03T19:57:03.548Z"
-  },
-  {
-    "id": "nhtsa-24v284000",
-    "slug": "nhtsa-24v284000",
-    "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling one 2024 Model 3 vehicle. The driver seat side air bag module was assembled without a deflector that directs gas flow during deployment.",
-    "affectedPeople": "Without a deflector, the air bag may deploy improperly, increasing the risk of injury during a crash.",
-    "remedy": "Tesla service replaced the side air bag, free of charge. The affected vehicle was repaired April 12, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-13-001.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V284000",
-    "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-08-03T03:53:32.365Z"
-  },
-  {
-    "id": "nhtsa-24v554000",
-    "slug": "nhtsa-24v554000",
-    "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles. The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
-    "affectedPeople": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
-    "remedy": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed September 24, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-012.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V554000",
-    "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-08-03T03:53:32.365Z"
-  },
-  {
-    "id": "nhtsa-24v935000",
-    "slug": "nhtsa-24v935000",
-    "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles. The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
-    "affectedPeople": "Driving with improperly inflated tires increases the risk of a crash.",
-    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed February 15, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-018.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V935000",
-    "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-08-03T03:53:32.365Z"
-  },
-  {
-    "id": "nhtsa-25v002000",
-    "slug": "nhtsa-25v002000",
-    "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024-2025 Model 3, Model S, 2023-2025 Model X, and Model Y vehicles. The computer circuit board may short, resulting in the loss of the rearview camera image. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
-    "affectedPeople": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
-    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Tesla will also identify any vehicles that experienced a circuit board failure, or stress that may lead to a circuit board failure, and replace the affected computers, free of charge. Owner notification letters were mailed March 7, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-25-00-001.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V002000",
-    "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-08-03T03:53:32.365Z"
   },
   {
     "id": "cpsc-26552",

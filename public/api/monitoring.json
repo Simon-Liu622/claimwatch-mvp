@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T09:04:33.019Z",
-  "count": 5,
+  "updatedAt": "2026-08-06T14:39:17.621Z",
+  "count": 7,
   "items": [
     {
       "id": "salmonella-outbreak-linked-to-eggs",
@@ -23,23 +23,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
+      "searchVolume": 100000,
+      "trendScore": 26,
       "matchedQueries": [
         "salmonella outbreak linked to eggs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T09:04:30.879Z"
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
     },
     {
-      "id": "chipotle-menu",
-      "slug": "chipotle-menu",
-      "title": "Chipotle Menu: Consumer Alert Monitoring",
+      "id": "jalapeno-salmonella-outbreak",
+      "slug": "jalapeno-salmonella-outbreak",
+      "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "chipotle menu",
+      "product": "jalapeno salmonella outbreak",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,17 +49,47 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
       "trendScore": 10,
       "matchedQueries": [
-        "chipotle menu",
-        "jalapeno salmonella outbreak"
+        "jalapeno salmonella outbreak",
+        "chipotle menu"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T09:04:30.879Z"
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
+    },
+    {
+      "id": "donald-trump-100b-tariff-refund",
+      "slug": "donald-trump-100b-tariff-refund",
+      "title": "Donald Trump $100b Tariff Refund: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "donald trump $100b tariff refund",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "donald trump $100b tariff refund",
+        "liberation day' tariffs"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
     },
     {
       "id": "ukrop-s-meal-recall",
@@ -88,7 +118,7 @@
         "ukrop's meal recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T09:04:30.879Z"
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
     },
     {
       "id": "donald-trump-bbc-defamation-lawsuit",
@@ -117,7 +147,7 @@
         "donald trump bbc defamation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T09:04:30.879Z"
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
     },
     {
       "id": "jeffrey-epstein-new-mexico-lawsuit",
@@ -146,7 +176,36 @@
         "jeffrey epstein new mexico lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T09:04:30.879Z"
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
+    },
+    {
+      "id": "taylor-farms-brian-thure-lawsuit",
+      "slug": "taylor-farms-brian-thure-lawsuit",
+      "title": "Taylor Farms Brian Thure Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "taylor farms brian thure lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+brian+thure+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "taylor farms brian thure lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T14:39:14.122Z"
     }
   ]
 }

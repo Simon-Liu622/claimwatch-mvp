@@ -1,8 +1,8 @@
 [
   {
-    "rank": 2,
+    "rank": 3,
     "query": "salmonella outbreak linked to eggs",
-    "searchVolume": 50000,
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -11,28 +11,45 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "salmonella outbreak linked to eggs",
-    "trendScore": 24,
-    "detectedAt": "2026-08-06T09:04:30.879Z"
+    "trendScore": 26,
+    "detectedAt": "2026-08-06T14:39:14.122Z"
   },
   {
-    "rank": 150,
-    "query": "chipotle menu",
+    "rank": 184,
+    "query": "jalapeno salmonella outbreak",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "jalapeno salmonella outbreak"
+      "chipotle menu"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+menu&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "chipotle menu jalapeno salmonella outbreak",
+    "text": "jalapeno salmonella outbreak chipotle menu",
     "trendScore": 10,
-    "detectedAt": "2026-08-06T09:04:30.879Z"
+    "detectedAt": "2026-08-06T14:39:14.122Z"
   },
   {
-    "rank": 180,
+    "rank": 262,
+    "query": "donald trump $100b tariff refund",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "liberation day' tariffs"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "donald trump $100b tariff refund liberation day' tariffs",
+    "trendScore": 10,
+    "detectedAt": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "rank": 222,
     "query": "ukrop's meal recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -44,10 +61,25 @@
     "source": "serpapi-google-trends",
     "text": "ukrop's meal recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-06T09:04:30.879Z"
+    "detectedAt": "2026-08-06T14:39:14.122Z"
   },
   {
-    "rank": 201,
+    "rank": 226,
+    "query": "taylor farms brian thure lawsuit",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+brian+thure+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "taylor farms brian thure lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-08-06T14:39:14.122Z"
+  },
+  {
+    "rank": 254,
     "query": "donald trump bbc defamation lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -59,10 +91,10 @@
     "source": "serpapi-google-trends",
     "text": "donald trump bbc defamation lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-06T09:04:30.879Z"
+    "detectedAt": "2026-08-06T14:39:14.122Z"
   },
   {
-    "rank": 341,
+    "rank": 375,
     "query": "jeffrey epstein new mexico lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -74,6 +106,6 @@
     "source": "serpapi-google-trends",
     "text": "jeffrey epstein new mexico lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-06T09:04:30.879Z"
+    "detectedAt": "2026-08-06T14:39:14.122Z"
   }
 ]

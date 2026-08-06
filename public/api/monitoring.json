@@ -1,7 +1,66 @@
 {
-  "updatedAt": "2026-08-05T19:54:34.806Z",
-  "count": 2,
+  "updatedAt": "2026-08-06T03:35:25.851Z",
+  "count": 5,
   "items": [
+    {
+      "id": "jalapeno-salmonella-outbreak",
+      "slug": "jalapeno-salmonella-outbreak",
+      "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jalapeno salmonella outbreak",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "jalapeno salmonella outbreak",
+        "chipotle menu"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T03:35:22.469Z"
+    },
+    {
+      "id": "salmonella-outbreak-linked-to-eggs",
+      "slug": "salmonella-outbreak-linked-to-eggs",
+      "title": "Salmonella Outbreak Linked To Eggs: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "salmonella outbreak linked to eggs",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "salmonella outbreak linked to eggs"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T03:35:22.469Z"
+    },
     {
       "id": "ukrop-s-meal-recall",
       "slug": "ukrop-s-meal-recall",
@@ -23,24 +82,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "ukrop's meal recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T19:54:10.619Z"
+      "lastUpdated": "2026-08-06T03:35:22.469Z"
     },
     {
-      "id": "chipotle-jalapeno-salmonella-outbreak",
-      "slug": "chipotle-jalapeno-salmonella-outbreak",
-      "title": "Chipotle Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "donald-trump-bbc-defamation-lawsuit",
+      "slug": "donald-trump-bbc-defamation-lawsuit",
+      "title": "Donald Trump Bbc Defamation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "chipotle jalapeno salmonella outbreak",
-      "category": "Recall monitoring",
+      "product": "donald trump bbc defamation lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -49,17 +108,45 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chipotle+jalapeno+salmonella+outbreak&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+bbc+defamation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
+      "searchVolume": 1000,
+      "trendScore": 8,
       "matchedQueries": [
-        "chipotle jalapeno salmonella outbreak",
-        "chipotle salmonella"
+        "donald trump bbc defamation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-05T19:54:10.619Z"
+      "lastUpdated": "2026-08-06T03:35:22.469Z"
+    },
+    {
+      "id": "jeffrey-epstein-new-mexico-lawsuit",
+      "slug": "jeffrey-epstein-new-mexico-lawsuit",
+      "title": "Jeffrey Epstein New Mexico Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jeffrey epstein new mexico lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+new+mexico+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "jeffrey epstein new mexico lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-06T03:35:22.469Z"
     }
   ]
 }

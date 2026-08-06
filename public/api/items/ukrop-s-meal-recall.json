@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T19:54:34.806Z",
+  "updatedAt": "2026-08-06T03:35:25.851Z",
   "item": {
     "id": "ukrop-s-meal-recall",
     "slug": "ukrop-s-meal-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 23,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
       "ukrop's meal recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-05T19:54:10.619Z",
+    "lastUpdated": "2026-08-06T03:35:22.469Z",
     "url": "https://simon622.shop/item/ukrop-s-meal-recall/"
   }
 }

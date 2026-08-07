@@ -1,6 +1,6 @@
 [
   {
-    "rank": 7,
+    "rank": 6,
     "query": "walmart bettergoods pistachio nut butter recall",
     "searchVolume": 50000,
     "startedAt": "",
@@ -12,25 +12,25 @@
     "source": "serpapi-google-trends",
     "text": "walmart bettergoods pistachio nut butter recall",
     "trendScore": 24,
-    "detectedAt": "2026-08-07T03:16:53.714Z"
+    "detectedAt": "2026-08-07T07:40:24.696Z"
   },
   {
-    "rank": 130,
+    "rank": 195,
     "query": "chick fil a lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "chick fil a lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-08-07T03:16:53.714Z"
+    "trendScore": 8,
+    "detectedAt": "2026-08-07T07:40:24.696Z"
   },
   {
-    "rank": 193,
+    "rank": 272,
     "query": "jalapeno salmonella",
     "searchVolume": 500,
     "startedAt": "",
@@ -42,10 +42,10 @@
     "source": "serpapi-google-trends",
     "text": "jalapeno salmonella",
     "trendScore": 8,
-    "detectedAt": "2026-08-07T03:16:53.714Z"
+    "detectedAt": "2026-08-07T07:40:24.696Z"
   },
   {
-    "rank": 349,
+    "rank": 341,
     "query": "taylor farms brian thure lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -57,10 +57,10 @@
     "source": "serpapi-google-trends",
     "text": "taylor farms brian thure lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-07T03:16:53.714Z"
+    "detectedAt": "2026-08-07T07:40:24.696Z"
   },
   {
-    "rank": 393,
+    "rank": 379,
     "query": "donald trump $100b tariff refund",
     "searchVolume": 200,
     "startedAt": "",
@@ -72,6 +72,6 @@
     "source": "serpapi-google-trends",
     "text": "donald trump $100b tariff refund",
     "trendScore": 8,
-    "detectedAt": "2026-08-07T03:16:53.714Z"
+    "detectedAt": "2026-08-07T07:40:24.696Z"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T07:40:28.418Z",
-  "count": 5,
+  "updatedAt": "2026-08-07T13:37:50.088Z",
+  "count": 4,
   "items": [
     {
       "id": "walmart-bettergoods-pistachio-nut-butter-recall",
@@ -23,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pistachio+nut+butter+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
+      "searchVolume": 100000,
+      "trendScore": 26,
       "matchedQueries": [
         "walmart bettergoods pistachio nut butter recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T07:40:24.696Z"
+      "lastUpdated": "2026-08-07T13:37:47.625Z"
+    },
+    {
+      "id": "travis-kelce-patrick-mahomes-lawsuit",
+      "slug": "travis-kelce-patrick-mahomes-lawsuit",
+      "title": "Travis Kelce Patrick Mahomes Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "travis kelce patrick mahomes lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "travis kelce patrick mahomes lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-07T13:37:47.625Z"
     },
     {
       "id": "chick-fil-a-lawsuit",
@@ -58,66 +87,7 @@
         "chick fil a lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T07:40:24.696Z"
-    },
-    {
-      "id": "donald-trump-100b-tariff-refund",
-      "slug": "donald-trump-100b-tariff-refund",
-      "title": "Donald Trump $100b Tariff Refund: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "donald trump $100b tariff refund",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "donald trump $100b tariff refund",
-        "liberation day' tariffs"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T07:40:24.696Z"
-    },
-    {
-      "id": "taylor-farms-brian-thure-lawsuit",
-      "slug": "taylor-farms-brian-thure-lawsuit",
-      "title": "Taylor Farms Brian Thure Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "taylor farms brian thure lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+brian+thure+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "taylor farms brian thure lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T07:40:24.696Z"
+      "lastUpdated": "2026-08-07T13:37:47.625Z"
     },
     {
       "id": "jalapeno-salmonella",
@@ -146,7 +116,7 @@
         "jalapeno salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T07:40:24.696Z"
+      "lastUpdated": "2026-08-07T13:37:47.625Z"
     }
   ]
 }

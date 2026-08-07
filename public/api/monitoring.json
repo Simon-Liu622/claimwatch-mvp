@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-07T00:15:08.847Z",
-  "count": 6,
+  "updatedAt": "2026-08-07T03:17:01.487Z",
+  "count": 5,
   "items": [
-    {
-      "id": "cyclospora-contaminated-produce-outbreak",
-      "slug": "cyclospora-contaminated-produce-outbreak",
-      "title": "Cyclospora Contaminated Produce Outbreak: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "cyclospora contaminated produce outbreak",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cyclospora+contaminated+produce+outbreak&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "cyclospora contaminated produce outbreak",
-        "jalapeno salmonella outbreak"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
-    },
     {
       "id": "walmart-bettergoods-pistachio-nut-butter-recall",
       "slug": "walmart-bettergoods-pistachio-nut-butter-recall",
@@ -59,7 +29,36 @@
         "walmart bettergoods pistachio nut butter recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
+      "lastUpdated": "2026-08-07T03:16:53.714Z"
+    },
+    {
+      "id": "chick-fil-a-lawsuit",
+      "slug": "chick-fil-a-lawsuit",
+      "title": "Chick Fil A Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "chick fil a lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "chick fil a lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-07T03:16:53.714Z"
     },
     {
       "id": "donald-trump-100b-tariff-refund",
@@ -89,36 +88,7 @@
         "liberation day' tariffs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
-    },
-    {
-      "id": "jeffrey-epstein-new-mexico-lawsuit",
-      "slug": "jeffrey-epstein-new-mexico-lawsuit",
-      "title": "Jeffrey Epstein New Mexico Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jeffrey epstein new mexico lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+new+mexico+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "jeffrey epstein new mexico lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
+      "lastUpdated": "2026-08-07T03:16:53.714Z"
     },
     {
       "id": "taylor-farms-brian-thure-lawsuit",
@@ -147,18 +117,18 @@
         "taylor farms brian thure lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
+      "lastUpdated": "2026-08-07T03:16:53.714Z"
     },
     {
-      "id": "chick-fil-a-lawsuit",
-      "slug": "chick-fil-a-lawsuit",
-      "title": "Chick Fil A Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "jalapeno-salmonella",
+      "slug": "jalapeno-salmonella",
+      "title": "Jalapeno Salmonella: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "chick fil a lawsuit",
-      "category": "Consumer monitoring",
+      "product": "jalapeno salmonella",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -167,16 +137,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "chick fil a lawsuit"
+        "jalapeno salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T00:15:05.156Z"
+      "lastUpdated": "2026-08-07T03:16:53.714Z"
     }
   ]
 }

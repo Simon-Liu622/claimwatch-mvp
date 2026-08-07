@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-08-07T13:37:50.088Z",
-  "count": 4,
+  "updatedAt": "2026-08-07T19:14:33.666Z",
+  "count": 3,
   "items": [
-    {
-      "id": "walmart-bettergoods-pistachio-nut-butter-recall",
-      "slug": "walmart-bettergoods-pistachio-nut-butter-recall",
-      "title": "Walmart Bettergoods Pistachio Nut Butter Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart bettergoods pistachio nut butter recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pistachio+nut+butter+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "walmart bettergoods pistachio nut butter recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T13:37:47.625Z"
-    },
     {
       "id": "travis-kelce-patrick-mahomes-lawsuit",
       "slug": "travis-kelce-patrick-mahomes-lawsuit",
@@ -52,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "travis kelce patrick mahomes lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T13:37:47.625Z"
+      "lastUpdated": "2026-08-07T19:14:30.984Z"
     },
     {
       "id": "chick-fil-a-lawsuit",
@@ -87,7 +58,7 @@
         "chick fil a lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T13:37:47.625Z"
+      "lastUpdated": "2026-08-07T19:14:30.984Z"
     },
     {
       "id": "jalapeno-salmonella",
@@ -116,7 +87,7 @@
         "jalapeno salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T13:37:47.625Z"
+      "lastUpdated": "2026-08-07T19:14:30.984Z"
     }
   ]
 }

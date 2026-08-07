@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T14:39:17.621Z",
+  "updatedAt": "2026-08-07T00:15:08.847Z",
   "item": {
-    "id": "ukrop-s-meal-recall",
-    "slug": "ukrop-s-meal-recall",
-    "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
+    "id": "cyclospora-contaminated-produce-outbreak",
+    "slug": "cyclospora-contaminated-produce-outbreak",
+    "title": "Cyclospora Contaminated Produce Outbreak: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ukrop's meal recall",
+    "product": "cyclospora contaminated produce outbreak",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cyclospora+contaminated+produce+outbreak&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 8,
+    "trendScore": 25,
     "matchedQueries": [
-      "ukrop's meal recall"
+      "cyclospora contaminated produce outbreak",
+      "jalapeno salmonella outbreak"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T14:39:14.122Z",
-    "url": "https://simon622.shop/item/ukrop-s-meal-recall/"
+    "lastUpdated": "2026-08-07T00:15:05.156Z",
+    "url": "https://simon622.shop/item/cyclospora-contaminated-produce-outbreak/"
   }
 }

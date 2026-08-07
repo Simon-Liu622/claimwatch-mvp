@@ -1,73 +1,56 @@
 {
-  "updatedAt": "2026-08-06T14:39:17.621Z",
-  "count": 7,
+  "updatedAt": "2026-08-07T00:15:08.847Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 3,
-      "query": "salmonella outbreak linked to eggs",
-      "searchVolume": 100000,
+      "rank": 95,
+      "query": "cyclospora contaminated produce outbreak",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "jalapeno salmonella outbreak"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cyclospora+contaminated+produce+outbreak&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "cyclospora contaminated produce outbreak jalapeno salmonella outbreak",
+      "trendScore": 25,
+      "detectedAt": "2026-08-07T00:15:05.156Z"
+    },
+    {
+      "rank": 5,
+      "query": "walmart bettergoods pistachio nut butter recall",
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pistachio+nut+butter+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "salmonella outbreak linked to eggs",
-      "trendScore": 26,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
+      "text": "walmart bettergoods pistachio nut butter recall",
+      "trendScore": 24,
+      "detectedAt": "2026-08-07T00:15:05.156Z"
     },
     {
-      "rank": 184,
-      "query": "jalapeno salmonella outbreak",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "chipotle menu"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "jalapeno salmonella outbreak chipotle menu",
-      "trendScore": 10,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
-    },
-    {
-      "rank": 262,
-      "query": "donald trump $100b tariff refund",
+      "rank": 142,
+      "query": "chick fil a lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "liberation day' tariffs"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "donald trump $100b tariff refund liberation day' tariffs",
-      "trendScore": 10,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
-    },
-    {
-      "rank": 222,
-      "query": "ukrop's meal recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "ukrop's meal recall",
+      "text": "chick fil a lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
+      "detectedAt": "2026-08-07T00:15:05.156Z"
     },
     {
-      "rank": 226,
+      "rank": 305,
       "query": "taylor farms brian thure lawsuit",
       "searchVolume": 200,
       "startedAt": "",
@@ -79,25 +62,25 @@
       "source": "serpapi-google-trends",
       "text": "taylor farms brian thure lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
+      "detectedAt": "2026-08-07T00:15:05.156Z"
     },
     {
-      "rank": 254,
-      "query": "donald trump bbc defamation lawsuit",
-      "searchVolume": 1000,
+      "rank": 375,
+      "query": "donald trump $100b tariff refund",
+      "searchVolume": 200,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+bbc+defamation+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "donald trump bbc defamation lawsuit",
+      "text": "donald trump $100b tariff refund",
       "trendScore": 8,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
+      "detectedAt": "2026-08-07T00:15:05.156Z"
     },
     {
-      "rank": 375,
+      "rank": 384,
       "query": "jeffrey epstein new mexico lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -109,7 +92,7 @@
       "source": "serpapi-google-trends",
       "text": "jeffrey epstein new mexico lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-06T14:39:14.122Z"
+      "detectedAt": "2026-08-07T00:15:05.156Z"
     }
   ]
 }

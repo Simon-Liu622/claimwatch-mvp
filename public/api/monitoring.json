@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-06T14:39:17.621Z",
-  "count": 7,
+  "updatedAt": "2026-08-07T00:15:08.847Z",
+  "count": 6,
   "items": [
     {
-      "id": "salmonella-outbreak-linked-to-eggs",
-      "slug": "salmonella-outbreak-linked-to-eggs",
-      "title": "Salmonella Outbreak Linked To Eggs: Consumer Alert Monitoring",
+      "id": "cyclospora-contaminated-produce-outbreak",
+      "slug": "cyclospora-contaminated-produce-outbreak",
+      "title": "Cyclospora Contaminated Produce Outbreak: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "salmonella outbreak linked to eggs",
+      "product": "cyclospora contaminated produce outbreak",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,26 +20,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cyclospora+contaminated+produce+outbreak&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100000,
-      "trendScore": 26,
+      "searchVolume": 2000,
+      "trendScore": 25,
       "matchedQueries": [
-        "salmonella outbreak linked to eggs"
+        "cyclospora contaminated produce outbreak",
+        "jalapeno salmonella outbreak"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
     },
     {
-      "id": "jalapeno-salmonella-outbreak",
-      "slug": "jalapeno-salmonella-outbreak",
-      "title": "Jalapeno Salmonella Outbreak: Consumer Alert Monitoring",
+      "id": "walmart-bettergoods-pistachio-nut-butter-recall",
+      "slug": "walmart-bettergoods-pistachio-nut-butter-recall",
+      "title": "Walmart Bettergoods Pistachio Nut Butter Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "jalapeno salmonella outbreak",
+      "product": "walmart bettergoods pistachio nut butter recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,17 +50,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella+outbreak&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pistachio+nut+butter+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
+      "searchVolume": 50000,
+      "trendScore": 24,
       "matchedQueries": [
-        "jalapeno salmonella outbreak",
-        "chipotle menu"
+        "walmart bettergoods pistachio nut butter recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
     },
     {
       "id": "donald-trump-100b-tariff-refund",
@@ -82,72 +82,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+%24100b+tariff+refund&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 10,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
         "donald trump $100b tariff refund",
         "liberation day' tariffs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
-    },
-    {
-      "id": "ukrop-s-meal-recall",
-      "slug": "ukrop-s-meal-recall",
-      "title": "Ukrop'S Meal Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ukrop's meal recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukrop%27s+meal+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ukrop's meal recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
-    },
-    {
-      "id": "donald-trump-bbc-defamation-lawsuit",
-      "slug": "donald-trump-bbc-defamation-lawsuit",
-      "title": "Donald Trump Bbc Defamation Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "donald trump bbc defamation lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+bbc+defamation+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "donald trump bbc defamation lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
     },
     {
       "id": "jeffrey-epstein-new-mexico-lawsuit",
@@ -176,7 +118,7 @@
         "jeffrey epstein new mexico lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
     },
     {
       "id": "taylor-farms-brian-thure-lawsuit",
@@ -205,7 +147,36 @@
         "taylor farms brian thure lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-06T14:39:14.122Z"
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
+    },
+    {
+      "id": "chick-fil-a-lawsuit",
+      "slug": "chick-fil-a-lawsuit",
+      "title": "Chick Fil A Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "chick fil a lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "chick fil a lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-07T00:15:05.156Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-06T14:39:17.621Z",
+  "updatedAt": "2026-08-07T00:15:08.847Z",
   "item": {
-    "id": "salmonella-outbreak-linked-to-eggs",
-    "slug": "salmonella-outbreak-linked-to-eggs",
-    "title": "Salmonella Outbreak Linked To Eggs: Consumer Alert Monitoring",
+    "id": "walmart-bettergoods-pistachio-nut-butter-recall",
+    "slug": "walmart-bettergoods-pistachio-nut-butter-recall",
+    "title": "Walmart Bettergoods Pistachio Nut Butter Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "salmonella outbreak linked to eggs",
+    "product": "walmart bettergoods pistachio nut butter recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+linked+to+eggs&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pistachio+nut+butter+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 100000,
-    "trendScore": 26,
+    "searchVolume": 50000,
+    "trendScore": 24,
     "matchedQueries": [
-      "salmonella outbreak linked to eggs"
+      "walmart bettergoods pistachio nut butter recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-06T14:39:14.122Z",
-    "url": "https://simon622.shop/item/salmonella-outbreak-linked-to-eggs/"
+    "lastUpdated": "2026-08-07T00:15:05.156Z",
+    "url": "https://simon622.shop/item/walmart-bettergoods-pistachio-nut-butter-recall/"
   }
 }

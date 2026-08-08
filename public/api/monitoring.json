@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-08T13:11:26.725Z",
+  "updatedAt": "2026-08-08T18:57:38.837Z",
   "count": 3,
   "items": [
-    {
-      "id": "travis-kelce-patrick-mahomes-lawsuit",
-      "slug": "travis-kelce-patrick-mahomes-lawsuit",
-      "title": "Travis Kelce Patrick Mahomes Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "travis kelce patrick mahomes lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "travis kelce patrick mahomes lawsuit",
-        "travis kelce"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-08T13:11:25.000Z"
-    },
     {
       "id": "11-billion-student-loan-settlement",
       "slug": "11-billion-student-loan-settlement",
@@ -53,13 +23,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=%2411+billion+student+loan+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 23,
       "matchedQueries": [
         "$11 billion student loan settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-08T13:11:25.000Z"
+      "lastUpdated": "2026-08-08T18:57:28.829Z"
+    },
+    {
+      "id": "jewel-osco-salsa-salmonella-recall",
+      "slug": "jewel-osco-salsa-salmonella-recall",
+      "title": "Jewel-Osco Salsa Salmonella Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "jewel-osco salsa salmonella recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jewel-osco+salsa+salmonella+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 16,
+      "matchedQueries": [
+        "jewel-osco salsa salmonella recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-08T18:57:28.829Z"
     },
     {
       "id": "tractor-supply-5-1-million-settlement",
@@ -83,12 +82,12 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "tractor supply $5.1 million settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-08T13:11:25.000Z"
+      "lastUpdated": "2026-08-08T18:57:28.829Z"
     }
   ]
 }

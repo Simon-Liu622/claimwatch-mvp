@@ -1,28 +1,11 @@
 {
-  "updatedAt": "2026-08-08T13:11:26.725Z",
+  "updatedAt": "2026-08-08T18:57:38.837Z",
   "count": 3,
   "trends": [
     {
-      "rank": 11,
-      "query": "travis kelce patrick mahomes lawsuit",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "travis kelce"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "travis kelce patrick mahomes lawsuit travis kelce",
-      "trendScore": 26,
-      "detectedAt": "2026-08-08T13:11:25.000Z"
-    },
-    {
-      "rank": 93,
+      "rank": 78,
       "query": "$11 billion student loan settlement",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -32,22 +15,37 @@
       "source": "serpapi-google-trends",
       "text": "$11 billion student loan settlement",
       "trendScore": 23,
-      "detectedAt": "2026-08-08T13:11:25.000Z"
+      "detectedAt": "2026-08-08T18:57:28.829Z"
     },
     {
-      "rank": 105,
+      "rank": 155,
+      "query": "jewel-osco salsa salmonella recall",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jewel-osco+salsa+salmonella+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "jewel-osco salsa salmonella recall",
+      "trendScore": 16,
+      "detectedAt": "2026-08-08T18:57:28.829Z"
+    },
+    {
+      "rank": 235,
       "query": "tractor supply $5.1 million settlement",
       "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tractor+supply+%245.1+million+settlement&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "tractor supply $5.1 million settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-08-08T13:11:25.000Z"
+      "trendScore": 8,
+      "detectedAt": "2026-08-08T18:57:28.829Z"
     }
   ]
 }

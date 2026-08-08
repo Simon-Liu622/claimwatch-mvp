@@ -1,51 +1,23 @@
 {
-  "updatedAt": "2026-08-07T19:14:33.666Z",
-  "count": 3,
+  "updatedAt": "2026-08-08T02:20:36.492Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 35,
+      "rank": 33,
       "query": "travis kelce patrick mahomes lawsuit",
-      "searchVolume": 5000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "travis kelce"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "travis kelce patrick mahomes lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-08-07T19:14:30.984Z"
-    },
-    {
-      "rank": 256,
-      "query": "chick fil a lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "chick fil a lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-07T19:14:30.984Z"
-    },
-    {
-      "rank": 341,
-      "query": "jalapeno salmonella",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "jalapeno salmonella",
-      "trendScore": 8,
-      "detectedAt": "2026-08-07T19:14:30.984Z"
+      "text": "travis kelce patrick mahomes lawsuit travis kelce",
+      "trendScore": 26,
+      "detectedAt": "2026-08-08T02:20:28.561Z"
     }
   ]
 }

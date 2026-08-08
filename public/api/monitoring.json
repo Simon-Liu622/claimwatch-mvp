@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T19:14:33.666Z",
-  "count": 3,
+  "updatedAt": "2026-08-08T02:20:36.492Z",
+  "count": 1,
   "items": [
     {
       "id": "travis-kelce-patrick-mahomes-lawsuit",
@@ -23,71 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "travis kelce patrick mahomes lawsuit"
+        "travis kelce patrick mahomes lawsuit",
+        "travis kelce"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-07T19:14:30.984Z"
-    },
-    {
-      "id": "chick-fil-a-lawsuit",
-      "slug": "chick-fil-a-lawsuit",
-      "title": "Chick Fil A Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "chick fil a lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chick+fil+a+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "chick fil a lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T19:14:30.984Z"
-    },
-    {
-      "id": "jalapeno-salmonella",
-      "slug": "jalapeno-salmonella",
-      "title": "Jalapeno Salmonella: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "jalapeno salmonella",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalapeno+salmonella&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "jalapeno salmonella"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-07T19:14:30.984Z"
+      "lastUpdated": "2026-08-08T02:20:28.561Z"
     }
   ]
 }

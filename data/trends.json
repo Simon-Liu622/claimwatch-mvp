@@ -1,6 +1,6 @@
 [
   {
-    "rank": 34,
+    "rank": 11,
     "query": "travis kelce patrick mahomes lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -14,6 +14,36 @@
     "source": "serpapi-google-trends",
     "text": "travis kelce patrick mahomes lawsuit travis kelce",
     "trendScore": 26,
-    "detectedAt": "2026-08-08T07:13:57.020Z"
+    "detectedAt": "2026-08-08T13:11:25.000Z"
+  },
+  {
+    "rank": 93,
+    "query": "$11 billion student loan settlement",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=%2411+billion+student+loan+settlement&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "$11 billion student loan settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-08-08T13:11:25.000Z"
+  },
+  {
+    "rank": 105,
+    "query": "tractor supply $5.1 million settlement",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tractor+supply+%245.1+million+settlement&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "tractor supply $5.1 million settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-08-08T13:11:25.000Z"
   }
 ]

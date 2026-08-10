@@ -1,54 +1,23 @@
 [
   {
-    "rank": 19,
-    "query": "taylor farms",
-    "searchVolume": 20000,
+    "rank": 43,
+    "query": "taylor farms recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
       "taylor farms salmonella recall",
-      "taylor farms salsa",
       "taylor farms salsa recall",
-      "taylor farms recall",
-      "taylor farms salsa guacamole recall",
-      "fsis meat poultry salmonella alert"
+      "taylor farms salsa",
+      "fsis meat poultry salmonella alert",
+      "taylor farms salsa guacamole recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "taylor farms taylor farms salmonella recall taylor farms salsa taylor farms salsa recall taylor farms recall taylor farms salsa guacamole recall fsis meat poultry salmonella alert",
-    "trendScore": 42,
-    "detectedAt": "2026-08-10T13:42:45.398Z"
-  },
-  {
-    "rank": 262,
-    "query": "taylor farms fda lettuce recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+fda+lettuce+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+recall&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "taylor farms fda lettuce recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-10T13:42:45.398Z"
-  },
-  {
-    "rank": 362,
-    "query": "hannaford deli produce recall",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannaford+deli+produce+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "hannaford deli produce recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-10T13:42:45.398Z"
+    "text": "taylor farms recall taylor farms salmonella recall taylor farms salsa recall taylor farms salsa fsis meat poultry salmonella alert taylor farms salsa guacamole recall",
+    "trendScore": 41,
+    "detectedAt": "2026-08-10T19:15:47.077Z"
   }
 ]

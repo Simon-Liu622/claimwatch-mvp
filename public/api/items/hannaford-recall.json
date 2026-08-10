@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-09T18:59:50.418Z",
+  "updatedAt": "2026-08-10T02:33:51.756Z",
   "item": {
-    "id": "hannaford-deli-produce-recall",
-    "slug": "hannaford-deli-produce-recall",
-    "title": "Hannaford Deli Produce Recall: Consumer Alert Monitoring",
+    "id": "hannaford-recall",
+    "slug": "hannaford-recall",
+    "title": "Hannaford Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "hannaford deli produce recall",
+    "product": "hannaford recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannaford+deli+produce+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannaford+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 10,
     "matchedQueries": [
+      "hannaford recall",
       "hannaford deli produce recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-09T18:59:47.064Z",
-    "url": "https://simon622.shop/item/hannaford-deli-produce-recall/"
+    "lastUpdated": "2026-08-10T02:33:40.599Z",
+    "url": "https://simon622.shop/item/hannaford-recall/"
   }
 }

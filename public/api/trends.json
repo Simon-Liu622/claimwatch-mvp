@@ -1,39 +1,58 @@
 {
-  "updatedAt": "2026-08-09T18:59:50.418Z",
-  "count": 2,
+  "updatedAt": "2026-08-10T02:33:51.756Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 15,
+      "rank": 77,
       "query": "usda salmonella jalapeño meat alert",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
+        "taylor farms",
         "product recall",
+        "fsis meat poultry salmonella alert",
         "usda salmonella jalapeno meat alert"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+salmonella+jalape%C3%B1o+meat+alert&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "usda salmonella jalapeño meat alert product recall usda salmonella jalapeno meat alert",
-      "trendScore": 36,
-      "detectedAt": "2026-08-09T18:59:47.064Z"
+      "text": "usda salmonella jalapeño meat alert taylor farms product recall fsis meat poultry salmonella alert usda salmonella jalapeno meat alert",
+      "trendScore": 25,
+      "detectedAt": "2026-08-10T02:33:40.599Z"
     },
     {
-      "rank": 183,
-      "query": "hannaford deli produce recall",
-      "searchVolume": 200,
+      "rank": 311,
+      "query": "hannaford recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "hannaford deli produce recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannaford+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "hannaford recall hannaford deli produce recall",
+      "trendScore": 10,
+      "detectedAt": "2026-08-10T02:33:40.599Z"
+    },
+    {
+      "rank": 206,
+      "query": "taylor farms fda lettuce recall",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hannaford+deli+produce+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+fda+lettuce+recall&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "hannaford deli produce recall",
+      "text": "taylor farms fda lettuce recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-09T18:59:47.064Z"
+      "detectedAt": "2026-08-10T02:33:40.599Z"
     }
   ]
 }

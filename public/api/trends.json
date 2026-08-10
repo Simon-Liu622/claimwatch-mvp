@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-10T02:33:51.756Z",
+  "updatedAt": "2026-08-10T08:03:32.683Z",
   "count": 3,
   "trends": [
     {
-      "rank": 77,
+      "rank": 42,
       "query": "usda salmonella jalapeño meat alert",
       "searchVolume": 50000,
       "startedAt": "",
@@ -20,10 +20,10 @@
       "source": "serpapi-google-trends",
       "text": "usda salmonella jalapeño meat alert taylor farms product recall fsis meat poultry salmonella alert usda salmonella jalapeno meat alert",
       "trendScore": 25,
-      "detectedAt": "2026-08-10T02:33:40.599Z"
+      "detectedAt": "2026-08-10T08:03:22.652Z"
     },
     {
-      "rank": 311,
+      "rank": 257,
       "query": "hannaford recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -37,10 +37,10 @@
       "source": "serpapi-google-trends",
       "text": "hannaford recall hannaford deli produce recall",
       "trendScore": 10,
-      "detectedAt": "2026-08-10T02:33:40.599Z"
+      "detectedAt": "2026-08-10T08:03:22.652Z"
     },
     {
-      "rank": 206,
+      "rank": 204,
       "query": "taylor farms fda lettuce recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -52,7 +52,7 @@
       "source": "serpapi-google-trends",
       "text": "taylor farms fda lettuce recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-10T02:33:40.599Z"
+      "detectedAt": "2026-08-10T08:03:22.652Z"
     }
   ]
 }

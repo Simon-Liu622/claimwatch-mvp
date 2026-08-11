@@ -1,6 +1,42 @@
 [
   {
-    "rank": 103,
+    "rank": 68,
+    "query": "taylor farms salsa recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "jalapeno recall",
+      "jalapeno salmonella",
+      "kroger"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "taylor farms salsa recall jalapeno recall jalapeno salmonella kroger",
+    "trendScore": 37,
+    "detectedAt": "2026-08-11T19:19:32.343Z"
+  },
+  {
+    "rank": 1,
+    "query": "corte argentino usa meat recall",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "beef recalled"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+meat+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "corte argentino usa meat recall beef recalled",
+    "trendScore": 26,
+    "detectedAt": "2026-08-11T19:19:32.343Z"
+  },
+  {
+    "rank": 105,
     "query": "maple leaf foods bacon recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -12,6 +48,6 @@
     "source": "serpapi-google-trends",
     "text": "maple leaf foods bacon recall",
     "trendScore": 9,
-    "detectedAt": "2026-08-11T13:41:41.157Z"
+    "detectedAt": "2026-08-11T19:19:32.343Z"
   }
 ]

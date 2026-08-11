@@ -1,28 +1,6 @@
 [
   {
-    "rank": 91,
-    "query": "taylor farms recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "taylor farms salmonella recall",
-      "taylor farms salsa recall",
-      "jalapeno recall",
-      "taylor farms salsa",
-      "jalapeno salmonella",
-      "taylor farms salsa guacamole recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "taylor farms recall taylor farms salmonella recall taylor farms salsa recall jalapeno recall taylor farms salsa jalapeno salmonella taylor farms salsa guacamole recall",
-    "trendScore": 26,
-    "detectedAt": "2026-08-11T07:36:09.810Z"
-  },
-  {
-    "rank": 57,
+    "rank": 103,
     "query": "maple leaf foods bacon recall",
     "searchVolume": 20000,
     "startedAt": "",
@@ -34,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "maple leaf foods bacon recall",
     "trendScore": 9,
-    "detectedAt": "2026-08-11T07:36:09.810Z"
+    "detectedAt": "2026-08-11T13:41:41.157Z"
   }
 ]

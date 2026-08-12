@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:45:40.681Z",
+  "updatedAt": "2026-08-12T19:19:35.374Z",
   "item": {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
@@ -18,16 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 2000,
+    "searchVolume": 1000,
     "trendScore": 25,
     "matchedQueries": [
-      "toyota camry recall",
-      "toyota"
+      "toyota camry recall"
     ],
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-08-12T13:45:35.756Z",
+    "lastUpdated": "2026-08-12T19:19:32.803Z",
     "url": "https://simon622.shop/item/nhtsa-24v128000/"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T13:45:40.681Z",
-  "count": 6,
+  "updatedAt": "2026-08-12T19:19:35.374Z",
+  "count": 4,
   "items": [
     {
       "id": "chuck-redd-kennedy-center-lawsuit",
@@ -28,49 +28,21 @@
       "matchedQueries": [
         "chuck redd kennedy center lawsuit",
         "kennedy center chuck redd lawsuit",
-        "chuck redd kennedy center dispute"
+        "chuck redd kennedy center dispute",
+        "john f. kennedy center for the performing arts"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
+      "lastUpdated": "2026-08-12T19:19:32.803Z"
     },
     {
-      "id": "trump-student-loan-repayment-lawsuit",
-      "slug": "trump-student-loan-repayment-lawsuit",
-      "title": "Trump Student Loan Repayment Lawsuit: Consumer Alert Monitoring",
-      "type": "refund",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "trump student loan repayment lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "trump student loan repayment lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
-    },
-    {
-      "id": "taylor-farms-salsa-recall",
-      "slug": "taylor-farms-salsa-recall",
-      "title": "Taylor Farms Salsa Recall: Consumer Alert Monitoring",
+      "id": "corte-argentino-usa-beef-recall",
+      "slug": "corte-argentino-usa-beef-recall",
+      "title": "Corte Argentino Usa Beef Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "taylor farms salsa recall",
+      "product": "corte argentino usa beef recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -80,19 +52,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
+      "searchVolume": 5000,
+      "trendScore": 25,
       "matchedQueries": [
-        "taylor farms salsa recall",
-        "target",
-        "food",
-        "kroger"
+        "corte argentino usa beef recall",
+        "beef"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
+      "lastUpdated": "2026-08-12T19:19:32.803Z"
     },
     {
       "id": "trump-administration-mail-voting-lawsuit",
@@ -122,47 +92,17 @@
         "usps"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
+      "lastUpdated": "2026-08-12T19:19:32.803Z"
     },
     {
-      "id": "beef-recall",
-      "slug": "beef-recall",
-      "title": "Beef Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "trump-student-loan-repayment-lawsuit",
+      "slug": "trump-student-loan-repayment-lawsuit",
+      "title": "Trump Student Loan Repayment Lawsuit: Consumer Alert Monitoring",
+      "type": "refund",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "beef recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "beef recall",
-        "beef"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
-    },
-    {
-      "id": "equifax-credit-report-lawsuit",
-      "slug": "equifax-credit-report-lawsuit",
-      "title": "Equifax Credit Report Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "equifax credit report lawsuit",
+      "product": "trump student loan repayment lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -172,16 +112,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+credit+report+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 8,
       "matchedQueries": [
-        "equifax credit report lawsuit"
+        "trump student loan repayment lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T13:45:35.756Z"
+      "lastUpdated": "2026-08-12T19:19:32.803Z"
     }
   ]
 }

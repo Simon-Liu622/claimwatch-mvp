@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-12T07:51:27.520Z",
+  "updatedAt": "2026-08-12T13:45:40.681Z",
   "item": {
-    "id": "beef-recalled",
-    "slug": "beef-recalled",
-    "title": "Beef Recalled: Consumer Alert Monitoring",
+    "id": "beef-recall",
+    "slug": "beef-recall",
+    "title": "Beef Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "beef recalled",
+    "product": "beef recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 12,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "beef recalled",
       "beef recall",
       "beef"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-12T07:51:23.282Z",
-    "url": "https://simon622.shop/item/beef-recalled/"
+    "lastUpdated": "2026-08-12T13:45:35.756Z",
+    "url": "https://simon622.shop/item/beef-recall/"
   }
 }

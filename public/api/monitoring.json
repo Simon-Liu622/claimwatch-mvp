@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-12T07:51:27.520Z",
+  "updatedAt": "2026-08-12T13:45:40.681Z",
   "count": 6,
   "items": [
     {
-      "id": "kennedy-center-chuck-redd-lawsuit",
-      "slug": "kennedy-center-chuck-redd-lawsuit",
-      "title": "Kennedy Center Chuck Redd Lawsuit: Consumer Alert Monitoring",
+      "id": "chuck-redd-kennedy-center-lawsuit",
+      "slug": "chuck-redd-kennedy-center-lawsuit",
+      "title": "Chuck Redd Kennedy Center Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "kennedy center chuck redd lawsuit",
+      "product": "chuck redd kennedy center lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,29 +20,29 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chuck+redd+kennedy+center+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
       "trendScore": 28,
       "matchedQueries": [
+        "chuck redd kennedy center lawsuit",
         "kennedy center chuck redd lawsuit",
-        "chuck redd kennedy center dispute",
-        "chuck redd kennedy center lawsuit"
+        "chuck redd kennedy center dispute"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     },
     {
-      "id": "beef-recalled",
-      "slug": "beef-recalled",
-      "title": "Beef Recalled: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "trump-student-loan-repayment-lawsuit",
+      "slug": "trump-student-loan-repayment-lawsuit",
+      "title": "Trump Student Loan Repayment Lawsuit: Consumer Alert Monitoring",
+      "type": "refund",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "beef recalled",
-      "category": "Recall monitoring",
+      "product": "trump student loan repayment lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -51,18 +51,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 12,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "beef recalled",
-        "beef recall",
-        "beef"
+        "trump student loan repayment lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     },
     {
       "id": "taylor-farms-salsa-recall",
@@ -94,7 +92,7 @@
         "kroger"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     },
     {
       "id": "trump-administration-mail-voting-lawsuit",
@@ -124,18 +122,18 @@
         "usps"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     },
     {
-      "id": "trump-student-loan-repayment-lawsuit",
-      "slug": "trump-student-loan-repayment-lawsuit",
-      "title": "Trump Student Loan Repayment Lawsuit: Consumer Alert Monitoring",
-      "type": "refund",
+      "id": "beef-recall",
+      "slug": "beef-recall",
+      "title": "Beef Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump student loan repayment lawsuit",
-      "category": "Consumer monitoring",
+      "product": "beef recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -144,16 +142,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 8,
+      "trendScore": 10,
       "matchedQueries": [
-        "trump student loan repayment lawsuit"
+        "beef recall",
+        "beef"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     },
     {
       "id": "equifax-credit-report-lawsuit",
@@ -182,7 +181,7 @@
         "equifax credit report lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T07:51:23.282Z"
+      "lastUpdated": "2026-08-12T13:45:35.756Z"
     }
   ]
 }

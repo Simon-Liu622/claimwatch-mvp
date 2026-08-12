@@ -1,42 +1,56 @@
 [
   {
-    "rank": 25,
-    "query": "kennedy center chuck redd lawsuit",
+    "rank": 59,
+    "query": "chuck redd kennedy center lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "chuck redd kennedy center lawsuit",
+      "kennedy center chuck redd lawsuit",
       "chuck redd kennedy center dispute"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
-    "increasePercentage": 700,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chuck+redd+kennedy+center+lawsuit&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "kennedy center chuck redd lawsuit chuck redd kennedy center lawsuit chuck redd kennedy center dispute",
+    "text": "chuck redd kennedy center lawsuit kennedy center chuck redd lawsuit chuck redd kennedy center dispute",
     "trendScore": 28,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
+    "detectedAt": "2026-08-12T13:45:35.756Z"
   },
   {
-    "rank": 103,
-    "query": "beef recalled",
-    "searchVolume": 10000,
+    "rank": 75,
+    "query": "trump student loan repayment lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "trump student loan repayment lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-08-12T13:45:35.756Z"
+  },
+  {
+    "rank": 195,
+    "query": "beef recall",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "beef recall",
       "beef"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
-    "increasePercentage": 1000,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recall&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "beef recalled beef recall beef",
-    "trendScore": 12,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
+    "text": "beef recall beef",
+    "trendScore": 10,
+    "detectedAt": "2026-08-12T13:45:35.756Z"
   },
   {
-    "rank": 217,
+    "rank": 228,
     "query": "taylor farms salsa recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -46,14 +60,31 @@
       "food"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "taylor farms salsa recall food",
     "trendScore": 10,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
+    "detectedAt": "2026-08-12T13:45:35.756Z"
   },
   {
-    "rank": 250,
+    "rank": 269,
+    "query": "toyota camry recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "toyota"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+camry+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "toyota camry recall toyota",
+    "trendScore": 10,
+    "detectedAt": "2026-08-12T13:45:35.756Z"
+  },
+  {
+    "rank": 281,
     "query": "trump administration mail voting lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -67,25 +98,10 @@
     "source": "serpapi-google-trends",
     "text": "trump administration mail voting lawsuit usps",
     "trendScore": 10,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
+    "detectedAt": "2026-08-12T13:45:35.756Z"
   },
   {
-    "rank": 140,
-    "query": "trump student loan repayment lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "trump student loan repayment lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
-  },
-  {
-    "rank": 143,
+    "rank": 171,
     "query": "equifax credit report lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -97,21 +113,6 @@
     "source": "serpapi-google-trends",
     "text": "equifax credit report lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
-  },
-  {
-    "rank": 259,
-    "query": "toyota camry recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+camry+recall&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "toyota camry recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-12T07:51:23.282Z"
+    "detectedAt": "2026-08-12T13:45:35.756Z"
   }
 ]

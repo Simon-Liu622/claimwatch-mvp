@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:43:21.057Z",
+  "updatedAt": "2026-08-12T07:51:27.520Z",
   "item": {
     "id": "taylor-farms-salsa-recall",
     "slug": "taylor-farms-salsa-recall",
@@ -21,8 +21,8 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 14,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
       "taylor farms salsa recall",
       "target",
@@ -30,7 +30,7 @@
       "kroger"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-12T02:43:16.090Z",
+    "lastUpdated": "2026-08-12T07:51:23.282Z",
     "url": "https://simon622.shop/item/taylor-farms-salsa-recall/"
   }
 }

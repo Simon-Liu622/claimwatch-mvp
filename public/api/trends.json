@@ -1,45 +1,27 @@
 {
-  "updatedAt": "2026-08-12T02:43:21.057Z",
+  "updatedAt": "2026-08-12T07:51:27.520Z",
   "count": 7,
   "trends": [
     {
-      "rank": 34,
+      "rank": 25,
       "query": "kennedy center chuck redd lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
+        "chuck redd kennedy center lawsuit",
         "chuck redd kennedy center dispute"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+chuck+redd+lawsuit&tz=420",
-      "increasePercentage": 900,
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "kennedy center chuck redd lawsuit chuck redd kennedy center dispute",
-      "trendScore": 26,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "text": "kennedy center chuck redd lawsuit chuck redd kennedy center lawsuit chuck redd kennedy center dispute",
+      "trendScore": 28,
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     },
     {
-      "rank": 205,
-      "query": "taylor farms salsa recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "target",
-        "food",
-        "kroger"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "taylor farms salsa recall target food kroger",
-      "trendScore": 14,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
-    },
-    {
-      "rank": 113,
+      "rank": 103,
       "query": "beef recalled",
       "searchVolume": 10000,
       "startedAt": "",
@@ -54,10 +36,27 @@
       "source": "serpapi-google-trends",
       "text": "beef recalled beef recall beef",
       "trendScore": 12,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     },
     {
-      "rank": 221,
+      "rank": 217,
+      "query": "taylor farms salsa recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "food"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "taylor farms salsa recall food",
+      "trendScore": 10,
+      "detectedAt": "2026-08-12T07:51:23.282Z"
+    },
+    {
+      "rank": 250,
       "query": "trump administration mail voting lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -71,10 +70,10 @@
       "source": "serpapi-google-trends",
       "text": "trump administration mail voting lawsuit usps",
       "trendScore": 10,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     },
     {
-      "rank": 129,
+      "rank": 140,
       "query": "trump student loan repayment lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -86,10 +85,10 @@
       "source": "serpapi-google-trends",
       "text": "trump student loan repayment lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     },
     {
-      "rank": 154,
+      "rank": 143,
       "query": "equifax credit report lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -101,10 +100,10 @@
       "source": "serpapi-google-trends",
       "text": "equifax credit report lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     },
     {
-      "rank": 244,
+      "rank": 259,
       "query": "toyota camry recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -116,7 +115,7 @@
       "source": "serpapi-google-trends",
       "text": "toyota camry recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-12T02:43:16.090Z"
+      "detectedAt": "2026-08-12T07:51:23.282Z"
     }
   ]
 }

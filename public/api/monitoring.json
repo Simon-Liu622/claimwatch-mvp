@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:43:21.057Z",
+  "updatedAt": "2026-08-12T07:51:27.520Z",
   "count": 6,
   "items": [
     {
@@ -24,45 +24,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 26,
+      "trendScore": 28,
       "matchedQueries": [
         "kennedy center chuck redd lawsuit",
-        "chuck redd kennedy center dispute"
+        "chuck redd kennedy center dispute",
+        "chuck redd kennedy center lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
-    },
-    {
-      "id": "taylor-farms-salsa-recall",
-      "slug": "taylor-farms-salsa-recall",
-      "title": "Taylor Farms Salsa Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "taylor farms salsa recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 14,
-      "matchedQueries": [
-        "taylor farms salsa recall",
-        "target",
-        "food",
-        "kroger"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
     },
     {
       "id": "beef-recalled",
@@ -93,7 +62,39 @@
         "beef"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
+    },
+    {
+      "id": "taylor-farms-salsa-recall",
+      "slug": "taylor-farms-salsa-recall",
+      "title": "Taylor Farms Salsa Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "taylor farms salsa recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+salsa+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "taylor farms salsa recall",
+        "target",
+        "food",
+        "kroger"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
     },
     {
       "id": "trump-administration-mail-voting-lawsuit",
@@ -123,7 +124,7 @@
         "usps"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
     },
     {
       "id": "trump-student-loan-repayment-lawsuit",
@@ -152,7 +153,7 @@
         "trump student loan repayment lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
     },
     {
       "id": "equifax-credit-report-lawsuit",
@@ -181,7 +182,7 @@
         "equifax credit report lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-12T02:43:16.090Z"
+      "lastUpdated": "2026-08-12T07:51:23.282Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-11T19:19:34.426Z",
+  "updatedAt": "2026-08-12T02:43:21.057Z",
   "item": {
-    "id": "corte-argentino-usa-meat-recall",
-    "slug": "corte-argentino-usa-meat-recall",
-    "title": "Corte Argentino Usa Meat Recall: Consumer Alert Monitoring",
+    "id": "beef-recalled",
+    "slug": "beef-recalled",
+    "title": "Beef Recalled: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "corte argentino usa meat recall",
+    "product": "beef recalled",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+meat+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 26,
+    "searchVolume": 10000,
+    "trendScore": 12,
     "matchedQueries": [
-      "corte argentino usa meat recall",
-      "beef recalled"
+      "beef recalled",
+      "beef recall",
+      "beef"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-11T19:19:32.343Z",
-    "url": "https://simon622.shop/item/corte-argentino-usa-meat-recall/"
+    "lastUpdated": "2026-08-12T02:43:16.090Z",
+    "url": "https://simon622.shop/item/beef-recalled/"
   }
 }

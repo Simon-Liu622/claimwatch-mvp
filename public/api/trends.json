@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-13T02:46:33.742Z",
+  "updatedAt": "2026-08-13T07:52:00.757Z",
   "count": 3,
   "trends": [
     {
-      "rank": 40,
+      "rank": 7,
       "query": "taylor farms jalapeño recall salmonella",
-      "searchVolume": 5000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+jalape%C3%B1o+recall+salmonella&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 900,
       "source": "serpapi-google-trends",
       "text": "taylor farms jalapeño recall salmonella",
-      "trendScore": 31,
-      "detectedAt": "2026-08-13T02:46:30.683Z"
+      "trendScore": 32,
+      "detectedAt": "2026-08-13T07:51:56.973Z"
     },
     {
-      "rank": 49,
+      "rank": 33,
       "query": "trump truth social api lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -26,14 +26,14 @@
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+truth+social+api+lawsuit&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "trump truth social api lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-08-13T02:46:30.683Z"
+      "detectedAt": "2026-08-13T07:51:56.973Z"
     },
     {
-      "rank": 224,
+      "rank": 212,
       "query": "lilly retatrutide lawsuits",
       "searchVolume": 2000,
       "startedAt": "",
@@ -48,7 +48,7 @@
       "source": "serpapi-google-trends",
       "text": "lilly retatrutide lawsuits eli lilly retatrutide lawsuit eli lilly retatrutide lawsuits",
       "trendScore": 12,
-      "detectedAt": "2026-08-13T02:46:30.683Z"
+      "detectedAt": "2026-08-13T07:51:56.973Z"
     }
   ]
 }

@@ -1,88 +1,54 @@
 {
-  "updatedAt": "2026-08-12T19:19:35.374Z",
-  "count": 5,
+  "updatedAt": "2026-08-13T02:46:33.742Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 21,
-      "query": "chuck redd kennedy center lawsuit",
-      "searchVolume": 20000,
+      "rank": 40,
+      "query": "taylor farms jalapeño recall salmonella",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "john f. kennedy center for the performing arts",
-        "kennedy center chuck redd lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chuck+redd+kennedy+center+lawsuit&tz=420",
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+jalape%C3%B1o+recall+salmonella&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "taylor farms jalapeño recall salmonella",
+      "trendScore": 31,
+      "detectedAt": "2026-08-13T02:46:30.683Z"
+    },
+    {
+      "rank": 49,
+      "query": "trump truth social api lawsuit",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+truth+social+api+lawsuit&tz=420",
       "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "chuck redd kennedy center lawsuit john f. kennedy center for the performing arts kennedy center chuck redd lawsuit",
-      "trendScore": 28,
-      "detectedAt": "2026-08-12T19:19:32.803Z"
+      "text": "trump truth social api lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-08-13T02:46:30.683Z"
     },
     {
-      "rank": 75,
-      "query": "corte argentino usa beef recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "beef"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "corte argentino usa beef recall beef",
-      "trendScore": 25,
-      "detectedAt": "2026-08-12T19:19:32.803Z"
-    },
-    {
-      "rank": 305,
-      "query": "trump administration mail voting lawsuit",
-      "searchVolume": 1000,
+      "rank": 224,
+      "query": "lilly retatrutide lawsuits",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "usps"
+        "eli lilly retatrutide lawsuit",
+        "eli lilly retatrutide lawsuits"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+mail+voting+lawsuit&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lilly+retatrutide+lawsuits&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "trump administration mail voting lawsuit usps",
-      "trendScore": 10,
-      "detectedAt": "2026-08-12T19:19:32.803Z"
-    },
-    {
-      "rank": 158,
-      "query": "trump student loan repayment lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+student+loan+repayment+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "trump student loan repayment lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-12T19:19:32.803Z"
-    },
-    {
-      "rank": 287,
-      "query": "toyota camry recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+camry+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "toyota camry recall",
-      "trendScore": 8,
-      "detectedAt": "2026-08-12T19:19:32.803Z"
+      "text": "lilly retatrutide lawsuits eli lilly retatrutide lawsuit eli lilly retatrutide lawsuits",
+      "trendScore": 12,
+      "detectedAt": "2026-08-13T02:46:30.683Z"
     }
   ]
 }

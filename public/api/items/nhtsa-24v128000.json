@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-12T19:19:35.374Z",
+  "updatedAt": "2026-08-13T02:46:33.742Z",
   "item": {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
     "title": "Toyota Motor Engineering & Manufacturing: SEATS Recall (2024 toyota camry)",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "Toyota Motor Engineering & Manufacturing",
     "brand": "Toyota Motor Engineering & Manufacturing",
     "product": "2024 toyota camry",
@@ -20,13 +20,11 @@
     "sourceAgency": "NHTSA",
     "searchVolume": 1000,
     "trendScore": 25,
-    "matchedQueries": [
-      "toyota camry recall"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-08-12T19:19:32.803Z",
+    "lastUpdated": "2026-08-13T02:46:30.683Z",
     "url": "https://simon622.shop/item/nhtsa-24v128000/"
   }
 }

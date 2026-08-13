@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-13T13:46:21.917Z",
+  "updatedAt": "2026-08-13T19:19:17.892Z",
   "count": 3,
   "trends": [
     {
-      "rank": 9,
+      "rank": 7,
       "query": "taylor farms jalapeño recall salmonella",
       "searchVolume": 20000,
       "startedAt": "",
@@ -15,10 +15,27 @@
       "source": "serpapi-google-trends",
       "text": "taylor farms jalapeño recall salmonella",
       "trendScore": 32,
-      "detectedAt": "2026-08-13T13:46:07.868Z"
+      "detectedAt": "2026-08-13T19:19:13.975Z"
     },
     {
-      "rank": 117,
+      "rank": 41,
+      "query": "dismissed trump lawsuit against harvard",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "harvard university"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "dismissed trump lawsuit against harvard harvard university",
+      "trendScore": 25,
+      "detectedAt": "2026-08-13T19:19:13.975Z"
+    },
+    {
+      "rank": 109,
       "query": "trump truth social api lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -30,22 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "trump truth social api lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-13T13:46:07.868Z"
-    },
-    {
-      "rank": 373,
-      "query": "eli lilly retatrutide lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eli+lilly+retatrutide+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "eli lilly retatrutide lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-13T13:46:07.868Z"
+      "detectedAt": "2026-08-13T19:19:13.975Z"
     }
   ]
 }

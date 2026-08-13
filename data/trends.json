@@ -1,6 +1,6 @@
 [
   {
-    "rank": 7,
+    "rank": 9,
     "query": "taylor farms jalapeño recall salmonella",
     "searchVolume": 20000,
     "startedAt": "",
@@ -8,43 +8,40 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+jalape%C3%B1o+recall+salmonella&tz=420",
-    "increasePercentage": 900,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "taylor farms jalapeño recall salmonella",
     "trendScore": 32,
-    "detectedAt": "2026-08-13T07:51:56.973Z"
+    "detectedAt": "2026-08-13T13:46:07.868Z"
   },
   {
-    "rank": 33,
+    "rank": 117,
     "query": "trump truth social api lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+truth+social+api+lawsuit&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "trump truth social api lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-08-13T07:51:56.973Z"
+    "trendScore": 8,
+    "detectedAt": "2026-08-13T13:46:07.868Z"
   },
   {
-    "rank": 212,
-    "query": "lilly retatrutide lawsuits",
-    "searchVolume": 2000,
+    "rank": 373,
+    "query": "eli lilly retatrutide lawsuit",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "eli lilly retatrutide lawsuit",
-      "eli lilly retatrutide lawsuits"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lilly+retatrutide+lawsuits&tz=420",
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eli+lilly+retatrutide+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "lilly retatrutide lawsuits eli lilly retatrutide lawsuit eli lilly retatrutide lawsuits",
-    "trendScore": 12,
-    "detectedAt": "2026-08-13T07:51:56.973Z"
+    "text": "eli lilly retatrutide lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-08-13T13:46:07.868Z"
   }
 ]

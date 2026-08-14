@@ -1,26 +1,11 @@
 {
-  "updatedAt": "2026-08-13T19:19:17.892Z",
-  "count": 3,
+  "updatedAt": "2026-08-14T02:45:09.198Z",
+  "count": 7,
   "trends": [
     {
-      "rank": 7,
-      "query": "taylor farms jalapeño recall salmonella",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+farms+jalape%C3%B1o+recall+salmonella&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "taylor farms jalapeño recall salmonella",
-      "trendScore": 32,
-      "detectedAt": "2026-08-13T19:19:13.975Z"
-    },
-    {
-      "rank": 41,
+      "rank": 81,
       "query": "dismissed trump lawsuit against harvard",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -32,22 +17,101 @@
       "source": "serpapi-google-trends",
       "text": "dismissed trump lawsuit against harvard harvard university",
       "trendScore": 25,
-      "detectedAt": "2026-08-13T19:19:13.975Z"
+      "detectedAt": "2026-08-14T02:45:05.032Z"
     },
     {
-      "rank": 109,
-      "query": "trump truth social api lawsuit",
-      "searchVolume": 10000,
+      "rank": 42,
+      "query": "dog food salmonella",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+salmonella&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "dog food salmonella",
+      "trendScore": 23,
+      "detectedAt": "2026-08-14T02:45:05.032Z"
+    },
+    {
+      "rank": 68,
+      "query": "egg recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "egg recall",
+      "trendScore": 23,
+      "detectedAt": "2026-08-14T02:45:05.032Z"
+    },
+    {
+      "rank": 126,
+      "query": "texas mail in voting lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "texas mail in voting lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-08-14T02:45:05.032Z"
+    },
+    {
+      "rank": 271,
+      "query": "salmonella",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "taylor farms produce recalls"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+      "increasePercentage": 800,
+      "source": "serpapi-google-trends",
+      "text": "salmonella taylor farms produce recalls",
+      "trendScore": 18,
+      "detectedAt": "2026-08-14T02:45:05.032Z"
+    },
+    {
+      "rank": 196,
+      "query": "selena gomez wondermind fraud lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "selena gomez"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "selena gomez wondermind fraud lawsuit selena gomez",
+      "trendScore": 10,
+      "detectedAt": "2026-08-14T02:45:05.032Z"
+    },
+    {
+      "rank": 367,
+      "query": "popeyes texas customer lawsuit",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+truth+social+api+lawsuit&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=popeyes+texas+customer+lawsuit&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "trump truth social api lawsuit",
+      "text": "popeyes texas customer lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-13T19:19:13.975Z"
+      "detectedAt": "2026-08-14T02:45:05.032Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:19:17.892Z",
+  "updatedAt": "2026-08-14T02:45:09.198Z",
   "item": {
     "id": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
     "slug": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
@@ -18,13 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 2000,
+    "trendScore": 18,
+    "matchedQueries": [
+      "salmonella",
+      "taylor farms produce recalls"
+    ],
     "officialVerified": true,
     "officialRecordId": "H-1180-2026",
     "recallInitiationDate": "20260708",
-    "lastUpdated": "2026-08-13T19:19:13.975Z",
+    "lastUpdated": "2026-08-14T02:45:05.032Z",
     "url": "https://simon622.shop/item/green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96/"
   }
 }

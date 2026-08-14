@@ -1,8 +1,27 @@
 [
   {
-    "rank": 59,
+    "rank": 6,
+    "query": "class i salmonella egg recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "egg recall",
+      "fda class i egg recall",
+      "fda midwest poultry services egg recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+salmonella+egg+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "class i salmonella egg recall egg recall fda class i egg recall fda midwest poultry services egg recall",
+    "trendScore": 38,
+    "detectedAt": "2026-08-14T13:41:54.923Z"
+  },
+  {
+    "rank": 51,
     "query": "selena gomez wondermind fraud lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -15,12 +34,29 @@
     "source": "serpapi-google-trends",
     "text": "selena gomez wondermind fraud lawsuit selena gomez wondermind lawsuit selena gomez",
     "trendScore": 27,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
+    "detectedAt": "2026-08-14T13:41:54.923Z"
   },
   {
-    "rank": 18,
-    "query": "dog food salmonella",
+    "rank": 65,
+    "query": "judge",
     "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "dismissed trump lawsuit against harvard"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "judge dismissed trump lawsuit against harvard",
+    "trendScore": 25,
+    "detectedAt": "2026-08-14T13:41:54.923Z"
+  },
+  {
+    "rank": 12,
+    "query": "dog food salmonella",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -29,26 +65,26 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "dog food salmonella",
-    "trendScore": 23,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
+    "trendScore": 24,
+    "detectedAt": "2026-08-14T13:41:54.923Z"
   },
   {
-    "rank": 42,
-    "query": "egg recall",
-    "searchVolume": 10000,
+    "rank": 50,
+    "query": "texas mail in voting lawsuit",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "egg recall",
+    "text": "texas mail in voting lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
+    "detectedAt": "2026-08-14T13:41:54.923Z"
   },
   {
-    "rank": 293,
+    "rank": 327,
     "query": "salmonella",
     "searchVolume": 2000,
     "startedAt": "",
@@ -62,53 +98,6 @@
     "source": "serpapi-google-trends",
     "text": "salmonella taylor farms produce recalls",
     "trendScore": 18,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
-  },
-  {
-    "rank": 94,
-    "query": "dismissed trump lawsuit against harvard",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "harvard university"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "dismissed trump lawsuit against harvard harvard university",
-    "trendScore": 10,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
-  },
-  {
-    "rank": 108,
-    "query": "texas mail in voting lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "texas mail in voting lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
-  },
-  {
-    "rank": 348,
-    "query": "popeyes texas customer lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=popeyes+texas+customer+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "popeyes texas customer lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-14T07:49:17.733Z"
+    "detectedAt": "2026-08-14T13:41:54.923Z"
   }
 ]

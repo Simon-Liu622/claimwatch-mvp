@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T07:49:22.892Z",
+  "updatedAt": "2026-08-14T13:41:58.648Z",
   "item": {
     "id": "dog-food-salmonella",
     "slug": "dog-food-salmonella",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+salmonella&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "dog food salmonella"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-14T07:49:17.733Z",
+    "lastUpdated": "2026-08-14T13:41:54.923Z",
     "url": "https://simon622.shop/item/dog-food-salmonella/"
   }
 }

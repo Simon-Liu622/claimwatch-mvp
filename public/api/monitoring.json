@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-14T02:45:09.198Z",
+  "updatedAt": "2026-08-14T07:49:22.892Z",
   "count": 6,
   "items": [
     {
-      "id": "dismissed-trump-lawsuit-against-harvard",
-      "slug": "dismissed-trump-lawsuit-against-harvard",
-      "title": "Dismissed Trump Lawsuit Against Harvard: Consumer Alert Monitoring",
+      "id": "selena-gomez-wondermind-fraud-lawsuit",
+      "slug": "selena-gomez-wondermind-fraud-lawsuit",
+      "title": "Selena Gomez Wondermind Fraud Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "dismissed trump lawsuit against harvard",
+      "product": "selena gomez wondermind fraud lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 27,
       "matchedQueries": [
-        "dismissed trump lawsuit against harvard",
-        "harvard university"
+        "selena gomez wondermind fraud lawsuit",
+        "selena gomez",
+        "selena gomez wondermind lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
     },
     {
       "id": "dog-food-salmonella",
@@ -53,13 +54,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+salmonella&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "dog food salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
     },
     {
       "id": "egg-recall",
@@ -82,13 +83,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "egg recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
+    },
+    {
+      "id": "dismissed-trump-lawsuit-against-harvard",
+      "slug": "dismissed-trump-lawsuit-against-harvard",
+      "title": "Dismissed Trump Lawsuit Against Harvard: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "dismissed trump lawsuit against harvard",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 10,
+      "matchedQueries": [
+        "dismissed trump lawsuit against harvard",
+        "harvard university"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
     },
     {
       "id": "texas-mail-in-voting-lawsuit",
@@ -111,43 +142,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "texas mail in voting lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
-    },
-    {
-      "id": "selena-gomez-wondermind-fraud-lawsuit",
-      "slug": "selena-gomez-wondermind-fraud-lawsuit",
-      "title": "Selena Gomez Wondermind Fraud Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "selena gomez wondermind fraud lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "selena gomez wondermind fraud lawsuit",
-        "selena gomez"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
     },
     {
       "id": "popeyes-texas-customer-lawsuit",
@@ -176,7 +177,7 @@
         "popeyes texas customer lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T02:45:05.032Z"
+      "lastUpdated": "2026-08-14T07:49:17.733Z"
     }
   ]
 }

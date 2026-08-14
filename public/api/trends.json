@@ -1,28 +1,29 @@
 {
-  "updatedAt": "2026-08-14T02:45:09.198Z",
+  "updatedAt": "2026-08-14T07:49:22.892Z",
   "count": 7,
   "trends": [
     {
-      "rank": 81,
-      "query": "dismissed trump lawsuit against harvard",
-      "searchVolume": 10000,
+      "rank": 59,
+      "query": "selena gomez wondermind fraud lawsuit",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "harvard university"
+        "selena gomez wondermind lawsuit",
+        "selena gomez"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
-      "increasePercentage": 500,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "dismissed trump lawsuit against harvard harvard university",
-      "trendScore": 25,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "text": "selena gomez wondermind fraud lawsuit selena gomez wondermind lawsuit selena gomez",
+      "trendScore": 27,
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     },
     {
-      "rank": 42,
+      "rank": 18,
       "query": "dog food salmonella",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -32,40 +33,25 @@
       "source": "serpapi-google-trends",
       "text": "dog food salmonella",
       "trendScore": 23,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     },
     {
-      "rank": 68,
+      "rank": 42,
       "query": "egg recall",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "egg recall",
       "trendScore": 23,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     },
     {
-      "rank": 126,
-      "query": "texas mail in voting lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "texas mail in voting lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
-    },
-    {
-      "rank": 271,
+      "rank": 293,
       "query": "salmonella",
       "searchVolume": 2000,
       "startedAt": "",
@@ -79,27 +65,42 @@
       "source": "serpapi-google-trends",
       "text": "salmonella taylor farms produce recalls",
       "trendScore": 18,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     },
     {
-      "rank": 196,
-      "query": "selena gomez wondermind fraud lawsuit",
-      "searchVolume": 2000,
+      "rank": 94,
+      "query": "dismissed trump lawsuit against harvard",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "selena gomez"
+        "harvard university"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dismissed+trump+lawsuit+against+harvard&tz=420",
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "selena gomez wondermind fraud lawsuit selena gomez",
+      "text": "dismissed trump lawsuit against harvard harvard university",
       "trendScore": 10,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     },
     {
-      "rank": 367,
+      "rank": 108,
+      "query": "texas mail in voting lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "texas mail in voting lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-14T07:49:17.733Z"
+    },
+    {
+      "rank": 348,
       "query": "popeyes texas customer lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -111,7 +112,7 @@
       "source": "serpapi-google-trends",
       "text": "popeyes texas customer lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-14T02:45:05.032Z"
+      "detectedAt": "2026-08-14T07:49:17.733Z"
     }
   ]
 }

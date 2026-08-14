@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-14T13:41:58.648Z",
-  "count": 5,
+  "updatedAt": "2026-08-14T19:13:08.457Z",
+  "count": 4,
   "items": [
     {
-      "id": "class-i-salmonella-egg-recall",
-      "slug": "class-i-salmonella-egg-recall",
-      "title": "Class I Salmonella Egg Recall: Consumer Alert Monitoring",
+      "id": "egg-recall",
+      "slug": "egg-recall",
+      "title": "Egg Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "class i salmonella egg recall",
+      "product": "egg recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,80 +20,23 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+salmonella+egg+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 38,
+      "searchVolume": 100000,
+      "trendScore": 44,
       "matchedQueries": [
-        "class i salmonella egg recall",
         "egg recall",
+        "class i salmonella egg recall",
         "fda class i egg recall",
-        "fda midwest poultry services egg recall"
+        "eggs recalled",
+        "recalled eggs",
+        "class i fda egg recall",
+        "fda midwest poultry services egg recall",
+        "egg recall brands"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T13:41:54.923Z"
-    },
-    {
-      "id": "selena-gomez-wondermind-fraud-lawsuit",
-      "slug": "selena-gomez-wondermind-fraud-lawsuit",
-      "title": "Selena Gomez Wondermind Fraud Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "selena gomez wondermind fraud lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 27,
-      "matchedQueries": [
-        "selena gomez wondermind fraud lawsuit",
-        "selena gomez",
-        "selena gomez wondermind lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-14T13:41:54.923Z"
-    },
-    {
-      "id": "judge",
-      "slug": "judge",
-      "title": "Judge: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "judge",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=judge&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "judge",
-        "dismissed trump lawsuit against harvard"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-14T13:41:54.923Z"
+      "lastUpdated": "2026-08-14T19:12:55.035Z"
     },
     {
       "id": "dog-food-salmonella",
@@ -122,7 +65,7 @@
         "dog food salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T13:41:54.923Z"
+      "lastUpdated": "2026-08-14T19:12:55.035Z"
     },
     {
       "id": "texas-mail-in-voting-lawsuit",
@@ -151,7 +94,38 @@
         "texas mail in voting lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-14T13:41:54.923Z"
+      "lastUpdated": "2026-08-14T19:12:55.035Z"
+    },
+    {
+      "id": "selena-gomez-wondermind-fraud-lawsuit",
+      "slug": "selena-gomez-wondermind-fraud-lawsuit",
+      "title": "Selena Gomez Wondermind Fraud Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "selena gomez wondermind fraud lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 12,
+      "matchedQueries": [
+        "selena gomez wondermind fraud lawsuit",
+        "selena gomez",
+        "selena gomez wondermind lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-14T19:12:55.035Z"
     }
   ]
 }

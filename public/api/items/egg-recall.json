@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-14T13:41:58.648Z",
+  "updatedAt": "2026-08-14T19:13:08.457Z",
   "item": {
-    "id": "class-i-salmonella-egg-recall",
-    "slug": "class-i-salmonella-egg-recall",
-    "title": "Class I Salmonella Egg Recall: Consumer Alert Monitoring",
+    "id": "egg-recall",
+    "slug": "egg-recall",
+    "title": "Egg Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "class i salmonella egg recall",
+    "product": "egg recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,23 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+salmonella+egg+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 38,
+    "searchVolume": 100000,
+    "trendScore": 44,
     "matchedQueries": [
-      "class i salmonella egg recall",
       "egg recall",
+      "class i salmonella egg recall",
       "fda class i egg recall",
-      "fda midwest poultry services egg recall"
+      "eggs recalled",
+      "recalled eggs",
+      "class i fda egg recall",
+      "fda midwest poultry services egg recall",
+      "egg recall brands"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-14T13:41:54.923Z",
-    "url": "https://simon622.shop/item/class-i-salmonella-egg-recall/"
+    "lastUpdated": "2026-08-14T19:12:55.035Z",
+    "url": "https://simon622.shop/item/egg-recall/"
   }
 }

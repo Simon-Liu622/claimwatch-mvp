@@ -1,92 +1,95 @@
 {
-  "updatedAt": "2026-08-14T19:13:08.457Z",
+  "updatedAt": "2026-08-15T01:48:58.306Z",
   "count": 5,
   "trends": [
     {
-      "rank": 1,
-      "query": "egg recall",
+      "rank": 12,
+      "query": "fda class i egg recall",
       "searchVolume": 100000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
         "class i salmonella egg recall",
-        "fda class i egg recall",
+        "eggs recalled salmonella",
+        "egg recall august 2026",
         "eggs recalled",
-        "recalled eggs",
-        "class i fda egg recall",
+        "class 1 fda egg recall",
+        "fda class i egg risk",
         "fda midwest poultry services egg recall",
+        "class i fda egg recall",
+        "recalled eggs",
         "egg recall brands"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+class+i+egg+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "egg recall class i salmonella egg recall fda class i egg recall eggs recalled recalled eggs class i fda egg recall fda midwest poultry services egg recall egg recall brands",
+      "text": "fda class i egg recall class i salmonella egg recall eggs recalled salmonella egg recall august 2026 eggs recalled class 1 fda egg recall fda class i egg risk fda midwest poultry services egg recall class i fda egg recall recalled eggs egg recall brands",
       "trendScore": 44,
-      "detectedAt": "2026-08-14T19:12:55.035Z"
+      "detectedAt": "2026-08-15T01:48:48.161Z"
     },
     {
-      "rank": 7,
-      "query": "dog food salmonella",
+      "rank": 40,
+      "query": "bbc donald trump defamation lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+salmonella&tz=420",
-      "increasePercentage": 1000,
+      "breakdown": [
+        "bbc donald trump lawsuit",
+        "law"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+defamation+lawsuit&tz=420",
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "dog food salmonella",
-      "trendScore": 24,
-      "detectedAt": "2026-08-14T19:12:55.035Z"
+      "text": "bbc donald trump defamation lawsuit bbc donald trump lawsuit law",
+      "trendScore": 28,
+      "detectedAt": "2026-08-15T01:48:48.161Z"
     },
     {
-      "rank": 46,
-      "query": "texas mail in voting lawsuit",
-      "searchVolume": 5000,
+      "rank": 77,
+      "query": "henkel schwarzkopf mousse recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+mail+in+voting+lawsuit&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=henkel+schwarzkopf+mousse+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "texas mail in voting lawsuit",
+      "text": "henkel schwarzkopf mousse recall",
       "trendScore": 23,
-      "detectedAt": "2026-08-14T19:12:55.035Z"
+      "detectedAt": "2026-08-15T01:48:48.161Z"
     },
     {
-      "rank": 114,
-      "query": "selena gomez wondermind fraud lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "selena gomez",
-        "selena gomez wondermind lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+fraud+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "selena gomez wondermind fraud lawsuit selena gomez selena gomez wondermind lawsuit",
-      "trendScore": 12,
-      "detectedAt": "2026-08-14T19:12:55.035Z"
-    },
-    {
-      "rank": 366,
-      "query": "salmonella",
-      "searchVolume": 2000,
+      "rank": 259,
+      "query": "corte argentino usa beef recall",
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 800,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "salmonella",
+      "text": "corte argentino usa beef recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-14T19:12:55.035Z"
+      "detectedAt": "2026-08-15T01:48:48.161Z"
+    },
+    {
+      "rank": 286,
+      "query": "selena gomez wondermind lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "selena gomez wondermind lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-15T01:48:48.161Z"
     }
   ]
 }

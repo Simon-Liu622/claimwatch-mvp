@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T19:13:08.457Z",
+  "updatedAt": "2026-08-15T01:48:58.306Z",
   "item": {
     "id": "cpsc-26652",
     "slug": "cpsc-26652",
@@ -18,13 +18,20 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Heated-Sherpa-Throws-and-Blankets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-by-OCTROT",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 100000,
+    "trendScore": 44,
+    "matchedQueries": [
+      "fda class i egg recall",
+      "class i salmonella egg recall",
+      "eggs recalled salmonella",
+      "egg recall august 2026",
+      "eggs recalled",
+      "class 1 fda egg recall"
+    ],
     "officialVerified": true,
     "officialRecordId": "26652",
     "recallInitiationDate": "2026-07-30T00:00:00",
-    "lastUpdated": "2026-08-14T13:41:54.923Z",
+    "lastUpdated": "2026-08-15T01:48:48.161Z",
     "url": "https://simon622.shop/item/cpsc-26652/"
   }
 }

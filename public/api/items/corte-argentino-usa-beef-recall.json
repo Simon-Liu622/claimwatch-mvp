@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-14T19:13:08.457Z",
+  "updatedAt": "2026-08-15T01:48:58.306Z",
   "item": {
-    "id": "dog-food-salmonella",
-    "slug": "dog-food-salmonella",
-    "title": "Dog Food Salmonella: Consumer Alert Monitoring",
+    "id": "corte-argentino-usa-beef-recall",
+    "slug": "corte-argentino-usa-beef-recall",
+    "title": "Corte Argentino Usa Beef Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "dog food salmonella",
+    "product": "corte argentino usa beef recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+salmonella&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
-      "dog food salmonella"
+      "corte argentino usa beef recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-14T19:12:55.035Z",
-    "url": "https://simon622.shop/item/dog-food-salmonella/"
+    "lastUpdated": "2026-08-15T01:48:48.161Z",
+    "url": "https://simon622.shop/item/corte-argentino-usa-beef-recall/"
   }
 }

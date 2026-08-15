@@ -1,34 +1,32 @@
 {
-  "updatedAt": "2026-08-15T12:58:15.466Z",
-  "count": 5,
+  "updatedAt": "2026-08-15T18:47:36.589Z",
+  "count": 6,
   "trends": [
     {
-      "rank": 33,
-      "query": "eggs recalled salmonella",
-      "searchVolume": 50000,
+      "rank": 55,
+      "query": "egg recall august 2026",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "egg recall august 2026",
-        "eggs recalled",
+        "fda egg recall",
         "egg recall brands",
+        "eggs recalled salmonella",
         "fda class i egg risk",
-        "class i fda egg recall",
-        "recalled eggs",
         "class 1 fda egg recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eggs+recalled+salmonella&tz=420",
-      "increasePercentage": 700,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=egg+recall+august+2026&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "eggs recalled salmonella egg recall august 2026 eggs recalled egg recall brands fda class i egg risk class i fda egg recall recalled eggs class 1 fda egg recall",
+      "text": "egg recall august 2026 fda egg recall egg recall brands eggs recalled salmonella fda class i egg risk class 1 fda egg recall",
       "trendScore": 42,
-      "detectedAt": "2026-08-15T12:58:06.205Z"
+      "detectedAt": "2026-08-15T18:47:01.511Z"
     },
     {
-      "rank": 64,
+      "rank": 36,
       "query": "henkel schwarzkopf mousse recall",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -38,40 +36,40 @@
       "source": "serpapi-google-trends",
       "text": "henkel schwarzkopf mousse recall",
       "trendScore": 23,
-      "detectedAt": "2026-08-15T12:58:06.205Z"
+      "detectedAt": "2026-08-15T18:47:01.511Z"
     },
     {
-      "rank": 76,
+      "rank": 58,
       "query": "heb jalapeño product recall",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+jalape%C3%B1o+product+recall&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "heb jalapeño product recall",
       "trendScore": 23,
-      "detectedAt": "2026-08-15T12:58:06.205Z"
+      "detectedAt": "2026-08-15T18:47:01.511Z"
     },
     {
-      "rank": 153,
-      "query": "corte argentino usa beef recall",
-      "searchVolume": 1000,
+      "rank": 140,
+      "query": "robert carradine family lawsuit",
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+carradine+family+lawsuit&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "corte argentino usa beef recall",
+      "text": "robert carradine family lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-08-15T12:58:06.205Z"
+      "detectedAt": "2026-08-15T18:47:01.511Z"
     },
     {
-      "rank": 142,
+      "rank": 199,
       "query": "bbc donald trump defamation lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -85,7 +83,22 @@
       "source": "serpapi-google-trends",
       "text": "bbc donald trump defamation lawsuit bbc donald trump lawsuit",
       "trendScore": 10,
-      "detectedAt": "2026-08-15T12:58:06.205Z"
+      "detectedAt": "2026-08-15T18:47:01.511Z"
+    },
+    {
+      "rank": 307,
+      "query": "corte argentino usa beef recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "corte argentino usa beef recall",
+      "trendScore": 8,
+      "detectedAt": "2026-08-15T18:47:01.511Z"
     }
   ]
 }

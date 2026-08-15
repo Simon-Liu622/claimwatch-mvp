@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:48:58.306Z",
+  "updatedAt": "2026-08-15T06:56:47.653Z",
   "count": 4,
   "items": [
     {
@@ -23,15 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+defamation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 28,
+      "searchVolume": 10000,
+      "trendScore": 10,
       "matchedQueries": [
         "bbc donald trump defamation lawsuit",
         "bbc donald trump lawsuit",
         "law"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-15T01:48:48.161Z"
+      "lastUpdated": "2026-08-15T06:56:42.440Z"
     },
     {
       "id": "henkel-schwarzkopf-mousse-recall",
@@ -54,13 +54,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=henkel+schwarzkopf+mousse+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "henkel schwarzkopf mousse recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-15T01:48:48.161Z"
+      "lastUpdated": "2026-08-15T06:56:42.440Z"
     },
     {
       "id": "corte-argentino-usa-beef-recall",
@@ -89,18 +89,18 @@
         "corte argentino usa beef recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-15T01:48:48.161Z"
+      "lastUpdated": "2026-08-15T06:56:42.440Z"
     },
     {
-      "id": "selena-gomez-wondermind-lawsuit",
-      "slug": "selena-gomez-wondermind-lawsuit",
-      "title": "Selena Gomez Wondermind Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "heb-jalapeno-product-recall",
+      "slug": "heb-jalapeno-product-recall",
+      "title": "Heb JalapeñO Product Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "selena gomez wondermind lawsuit",
-      "category": "Consumer monitoring",
+      "product": "heb jalapeño product recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -109,16 +109,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+gomez+wondermind+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+jalape%C3%B1o+product+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 200,
       "trendScore": 8,
       "matchedQueries": [
-        "selena gomez wondermind lawsuit"
+        "heb jalapeño product recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-15T01:48:48.161Z"
+      "lastUpdated": "2026-08-15T06:56:42.440Z"
     }
   ]
 }

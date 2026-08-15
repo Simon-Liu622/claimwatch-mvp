@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:56:47.653Z",
+  "updatedAt": "2026-08-15T12:58:15.466Z",
   "item": {
     "id": "heb-jalapeno-product-recall",
     "slug": "heb-jalapeno-product-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+jalape%C3%B1o+product+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
       "heb jalapeño product recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-15T06:56:42.440Z",
+    "lastUpdated": "2026-08-15T12:58:06.205Z",
     "url": "https://simon622.shop/item/heb-jalapeno-product-recall/"
   }
 }

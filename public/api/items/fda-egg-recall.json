@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:56:25.669Z",
+  "updatedAt": "2026-08-16T06:58:25.598Z",
   "item": {
     "id": "fda-egg-recall",
     "slug": "fda-egg-recall",
@@ -21,8 +21,8 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 29,
+    "searchVolume": 20000,
+    "trendScore": 15,
     "matchedQueries": [
       "fda egg recall",
       "class i fda egg recall",
@@ -30,7 +30,7 @@
       "egg recall brands"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-16T01:56:20.467Z",
+    "lastUpdated": "2026-08-16T06:58:17.795Z",
     "url": "https://simon622.shop/item/fda-egg-recall/"
   }
 }

@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-16T01:56:25.669Z",
-  "count": 4,
+  "updatedAt": "2026-08-16T06:58:25.598Z",
+  "count": 3,
   "items": [
+    {
+      "id": "robert-carradine-family-lawsuit",
+      "slug": "robert-carradine-family-lawsuit",
+      "title": "Robert Carradine Family Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "robert carradine family lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+carradine+family+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "robert carradine family lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-16T06:58:17.795Z"
+    },
     {
       "id": "listeria-monocytogenes-meat-recall",
       "slug": "listeria-monocytogenes-meat-recall",
@@ -24,12 +53,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 31,
+      "trendScore": 16,
       "matchedQueries": [
         "listeria monocytogenes meat recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-16T01:56:20.467Z"
+      "lastUpdated": "2026-08-16T06:58:17.795Z"
     },
     {
       "id": "fda-egg-recall",
@@ -52,8 +81,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 29,
+      "searchVolume": 20000,
+      "trendScore": 15,
       "matchedQueries": [
         "fda egg recall",
         "class i fda egg recall",
@@ -61,65 +90,7 @@
         "egg recall brands"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-16T01:56:20.467Z"
-    },
-    {
-      "id": "robert-carradine-family-lawsuit",
-      "slug": "robert-carradine-family-lawsuit",
-      "title": "Robert Carradine Family Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "robert carradine family lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+carradine+family+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "robert carradine family lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-16T01:56:20.467Z"
-    },
-    {
-      "id": "heb-jalapeno-product-recall",
-      "slug": "heb-jalapeno-product-recall",
-      "title": "Heb JalapeñO Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "heb jalapeño product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+jalape%C3%B1o+product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "heb jalapeño product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-16T01:56:20.467Z"
+      "lastUpdated": "2026-08-16T06:58:17.795Z"
     }
   ]
 }

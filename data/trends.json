@@ -1,66 +1,51 @@
 [
   {
-    "rank": 81,
-    "query": "listeria monocytogenes meat recall",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria+monocytogenes+meat+recall&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "listeria monocytogenes meat recall",
-    "trendScore": 31,
-    "detectedAt": "2026-08-16T01:56:20.467Z"
-  },
-  {
-    "rank": 99,
-    "query": "fda egg recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "class i fda egg recall",
-      "egg recall texas",
-      "egg recall brands"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "fda egg recall class i fda egg recall egg recall texas egg recall brands",
-    "trendScore": 29,
-    "detectedAt": "2026-08-16T01:56:20.467Z"
-  },
-  {
-    "rank": 69,
+    "rank": 44,
     "query": "robert carradine family lawsuit",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+carradine+family+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "robert carradine family lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-08-16T01:56:20.467Z"
+    "detectedAt": "2026-08-16T06:58:17.795Z"
   },
   {
-    "rank": 164,
-    "query": "heb jalapeño product recall",
-    "searchVolume": 10000,
+    "rank": 115,
+    "query": "listeria monocytogenes meat recall",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+jalape%C3%B1o+product+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria+monocytogenes+meat+recall&tz=420",
     "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "heb jalapeño product recall",
-    "trendScore": 8,
-    "detectedAt": "2026-08-16T01:56:20.467Z"
+    "text": "listeria monocytogenes meat recall",
+    "trendScore": 16,
+    "detectedAt": "2026-08-16T06:58:17.795Z"
+  },
+  {
+    "rank": 101,
+    "query": "fda egg recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "class i fda egg recall",
+      "egg recall brands",
+      "egg recall texas"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "fda egg recall class i fda egg recall egg recall brands egg recall texas",
+    "trendScore": 15,
+    "detectedAt": "2026-08-16T06:58:17.795Z"
   }
 ]

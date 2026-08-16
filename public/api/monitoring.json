@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-08-16T06:58:25.598Z",
+  "updatedAt": "2026-08-16T12:59:52.844Z",
   "count": 3,
   "items": [
+    {
+      "id": "class-i-fda-egg-recall",
+      "slug": "class-i-fda-egg-recall",
+      "title": "Class I Fda Egg Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "class i fda egg recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+fda+egg+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "class i fda egg recall",
+        "fda egg recall",
+        "egg recall texas"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-16T12:59:48.248Z"
+    },
     {
       "id": "robert-carradine-family-lawsuit",
       "slug": "robert-carradine-family-lawsuit",
@@ -29,7 +60,7 @@
         "robert carradine family lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-16T06:58:17.795Z"
+      "lastUpdated": "2026-08-16T12:59:48.248Z"
     },
     {
       "id": "listeria-monocytogenes-meat-recall",
@@ -58,39 +89,7 @@
         "listeria monocytogenes meat recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-16T06:58:17.795Z"
-    },
-    {
-      "id": "fda-egg-recall",
-      "slug": "fda-egg-recall",
-      "title": "Fda Egg Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda egg recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 15,
-      "matchedQueries": [
-        "fda egg recall",
-        "class i fda egg recall",
-        "egg recall texas",
-        "egg recall brands"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-16T06:58:17.795Z"
+      "lastUpdated": "2026-08-16T12:59:48.248Z"
     }
   ]
 }

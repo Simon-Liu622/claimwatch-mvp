@@ -1,9 +1,27 @@
 {
-  "updatedAt": "2026-08-16T06:58:25.598Z",
+  "updatedAt": "2026-08-16T12:59:52.844Z",
   "count": 3,
   "trends": [
     {
-      "rank": 44,
+      "rank": 48,
+      "query": "class i fda egg recall",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "fda egg recall",
+        "egg recall texas"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+fda+egg+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "class i fda egg recall fda egg recall egg recall texas",
+      "trendScore": 27,
+      "detectedAt": "2026-08-16T12:59:48.248Z"
+    },
+    {
+      "rank": 39,
       "query": "robert carradine family lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -15,10 +33,10 @@
       "source": "serpapi-google-trends",
       "text": "robert carradine family lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-08-16T06:58:17.795Z"
+      "detectedAt": "2026-08-16T12:59:48.248Z"
     },
     {
-      "rank": 115,
+      "rank": 157,
       "query": "listeria monocytogenes meat recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -30,26 +48,7 @@
       "source": "serpapi-google-trends",
       "text": "listeria monocytogenes meat recall",
       "trendScore": 16,
-      "detectedAt": "2026-08-16T06:58:17.795Z"
-    },
-    {
-      "rank": 101,
-      "query": "fda egg recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "class i fda egg recall",
-        "egg recall brands",
-        "egg recall texas"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "fda egg recall class i fda egg recall egg recall brands egg recall texas",
-      "trendScore": 15,
-      "detectedAt": "2026-08-16T06:58:17.795Z"
+      "detectedAt": "2026-08-16T12:59:48.248Z"
     }
   ]
 }

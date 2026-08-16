@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-15T18:47:36.589Z",
+  "updatedAt": "2026-08-16T01:56:25.669Z",
   "item": {
-    "id": "henkel-schwarzkopf-mousse-recall",
-    "slug": "henkel-schwarzkopf-mousse-recall",
-    "title": "Henkel Schwarzkopf Mousse Recall: Consumer Alert Monitoring",
+    "id": "fda-egg-recall",
+    "slug": "fda-egg-recall",
+    "title": "Fda Egg Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "henkel schwarzkopf mousse recall",
+    "product": "fda egg recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=henkel+schwarzkopf+mousse+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+egg+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 23,
+    "trendScore": 29,
     "matchedQueries": [
-      "henkel schwarzkopf mousse recall"
+      "fda egg recall",
+      "class i fda egg recall",
+      "egg recall texas",
+      "egg recall brands"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-15T18:47:01.511Z",
-    "url": "https://simon622.shop/item/henkel-schwarzkopf-mousse-recall/"
+    "lastUpdated": "2026-08-16T01:56:20.467Z",
+    "url": "https://simon622.shop/item/fda-egg-recall/"
   }
 }

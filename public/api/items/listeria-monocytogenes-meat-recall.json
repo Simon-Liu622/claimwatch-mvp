@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-15T18:47:36.589Z",
+  "updatedAt": "2026-08-16T01:56:25.669Z",
   "item": {
-    "id": "corte-argentino-usa-beef-recall",
-    "slug": "corte-argentino-usa-beef-recall",
-    "title": "Corte Argentino Usa Beef Recall: Consumer Alert Monitoring",
+    "id": "listeria-monocytogenes-meat-recall",
+    "slug": "listeria-monocytogenes-meat-recall",
+    "title": "Listeria Monocytogenes Meat Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "corte argentino usa beef recall",
+    "product": "listeria monocytogenes meat recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corte+argentino+usa+beef+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria+monocytogenes+meat+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 31,
     "matchedQueries": [
-      "corte argentino usa beef recall"
+      "listeria monocytogenes meat recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-15T18:47:01.511Z",
-    "url": "https://simon622.shop/item/corte-argentino-usa-beef-recall/"
+    "lastUpdated": "2026-08-16T01:56:20.467Z",
+    "url": "https://simon622.shop/item/listeria-monocytogenes-meat-recall/"
   }
 }

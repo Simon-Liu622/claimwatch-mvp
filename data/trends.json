@@ -1,34 +1,21 @@
 [
   {
-    "rank": 44,
-    "query": "class i fda egg recall",
-    "searchVolume": 10000,
+    "rank": 1,
+    "query": "rebel creamery ice cream lawsuit",
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "egg recall texas"
+      "rebel creamery chapter 11 filing",
+      "rebel creamery ice cream",
+      "rebel ice cream"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+i+fda+egg+recall&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rebel+creamery+ice+cream+lawsuit&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "class i fda egg recall egg recall texas",
-    "trendScore": 25,
-    "detectedAt": "2026-08-16T18:46:16.617Z"
-  },
-  {
-    "rank": 189,
-    "query": "listeria monocytogenes meat recall",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=listeria+monocytogenes+meat+recall&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "listeria monocytogenes meat recall",
-    "trendScore": 16,
-    "detectedAt": "2026-08-16T18:46:16.617Z"
+    "text": "rebel creamery ice cream lawsuit rebel creamery chapter 11 filing rebel creamery ice cream rebel ice cream",
+    "trendScore": 32,
+    "detectedAt": "2026-08-17T01:54:28.910Z"
   }
 ]

@@ -1,75 +1,46 @@
 [
   {
-    "rank": 31,
-    "query": "outshine fruit bars recall",
-    "searchVolume": 20000,
+    "rank": 2,
+    "query": "dreyer's outshine fruit bars recall",
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "outshine fruit bars recall",
+      "frozen fruit bars recalled",
+      "outshine fruit bars",
       "recall outshine fruit bars",
       "outshine bar recalls",
       "outshine frozen fruit bar recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dreyer%27s+outshine+fruit+bars+recall&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "outshine fruit bars recall recall outshine fruit bars outshine bar recalls outshine frozen fruit bar recall",
-    "trendScore": 30,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
+    "text": "dreyer's outshine fruit bars recall outshine fruit bars recall frozen fruit bars recalled outshine fruit bars recall outshine fruit bars outshine bar recalls outshine frozen fruit bar recall",
+    "trendScore": 36,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
   },
   {
-    "rank": 46,
-    "query": "fbi reagan building relocation lawsuit",
-    "searchVolume": 5000,
+    "rank": 55,
+    "query": "fbi headquarters relocation legal dispute",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "fbi headquarters relocation legal dispute",
+      "fbi reagan building relocation lawsuit",
       "judge chuang fbi headquarters ruling"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
-    "increasePercentage": 300,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+headquarters+relocation+legal+dispute&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "fbi reagan building relocation lawsuit fbi headquarters relocation legal dispute judge chuang fbi headquarters ruling",
+    "text": "fbi headquarters relocation legal dispute fbi reagan building relocation lawsuit judge chuang fbi headquarters ruling",
     "trendScore": 27,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
+    "detectedAt": "2026-08-18T18:55:46.778Z"
   },
   {
-    "rank": 76,
-    "query": "arianna rodriguez in-n-out lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "arianna rodriguez in n out lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arianna+rodriguez+in-n-out+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "arianna rodriguez in-n-out lawsuit arianna rodriguez in n out lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
-  },
-  {
-    "rank": 21,
-    "query": "bbc trump defamation lawsuit",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+trump+defamation+lawsuit&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "bbc trump defamation lawsuit",
-    "trendScore": 24,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
-  },
-  {
-    "rank": 40,
+    "rank": 29,
     "query": "granola recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -81,25 +52,57 @@
     "source": "serpapi-google-trends",
     "text": "granola recall",
     "trendScore": 23,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
+    "detectedAt": "2026-08-18T18:55:46.778Z"
   },
   {
-    "rank": 187,
-    "query": "heb salmonella jalapeno recall",
-    "searchVolume": 5000,
+    "rank": 34,
+    "query": "uk egg salmonella cases",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uk+egg+salmonella+cases&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "uk egg salmonella cases",
+    "trendScore": 23,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
+  },
+  {
+    "rank": 60,
+    "query": "trump white house ballroom lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "trump white house ballroom lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
+  },
+  {
+    "rank": 129,
+    "query": "arianna rodriguez in-n-out lawsuit",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+salmonella+jalapeno+recall&tz=420",
+    "breakdown": [
+      "arianna rodriguez in n out lawsuit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arianna+rodriguez+in-n-out+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "heb salmonella jalapeno recall",
-    "trendScore": 16,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
+    "text": "arianna rodriguez in-n-out lawsuit arianna rodriguez in n out lawsuit",
+    "trendScore": 10,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
   },
   {
-    "rank": 177,
+    "rank": 191,
     "query": "stellantis u.s. vehicle recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -113,6 +116,36 @@
     "source": "serpapi-google-trends",
     "text": "stellantis u.s. vehicle recall stellantis 955000 vehicle recall",
     "trendScore": 10,
-    "detectedAt": "2026-08-18T13:07:00.501Z"
+    "detectedAt": "2026-08-18T18:55:46.778Z"
+  },
+  {
+    "rank": 161,
+    "query": "bill gates four seasons nevis lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bill+gates+four+seasons+nevis+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "bill gates four seasons nevis lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
+  },
+  {
+    "rank": 231,
+    "query": "midwest poultry services fda recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+fda+recall&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "midwest poultry services fda recall",
+    "trendScore": 8,
+    "detectedAt": "2026-08-18T18:55:46.778Z"
   }
 ]

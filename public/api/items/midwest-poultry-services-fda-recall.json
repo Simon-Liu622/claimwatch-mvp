@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-18T13:07:06.375Z",
+  "updatedAt": "2026-08-18T18:56:00.243Z",
   "item": {
-    "id": "outshine-fruit-bars-recall",
-    "slug": "outshine-fruit-bars-recall",
-    "title": "Outshine Fruit Bars Recall: Consumer Alert Monitoring",
+    "id": "midwest-poultry-services-fda-recall",
+    "slug": "midwest-poultry-services-fda-recall",
+    "title": "Midwest Poultry Services Fda Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "outshine fruit bars recall",
+    "product": "midwest poultry services fda recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=midwest+poultry+services+fda+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 30,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
-      "outshine fruit bars recall",
-      "recall outshine fruit bars",
-      "outshine bar recalls",
-      "outshine frozen fruit bar recall"
+      "midwest poultry services fda recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T13:07:00.501Z",
-    "url": "https://simon622.shop/item/outshine-fruit-bars-recall/"
+    "lastUpdated": "2026-08-18T18:55:46.778Z",
+    "url": "https://simon622.shop/item/midwest-poultry-services-fda-recall/"
   }
 }

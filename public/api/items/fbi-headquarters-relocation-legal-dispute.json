@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-18T13:07:06.375Z",
+  "updatedAt": "2026-08-18T18:56:00.243Z",
   "item": {
-    "id": "fbi-reagan-building-relocation-lawsuit",
-    "slug": "fbi-reagan-building-relocation-lawsuit",
-    "title": "Fbi Reagan Building Relocation Lawsuit: Consumer Alert Monitoring",
+    "id": "fbi-headquarters-relocation-legal-dispute",
+    "slug": "fbi-headquarters-relocation-legal-dispute",
+    "title": "Fbi Headquarters Relocation Legal Dispute: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fbi reagan building relocation lawsuit",
+    "product": "fbi headquarters relocation legal dispute",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+headquarters+relocation+legal+dispute&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 27,
     "matchedQueries": [
-      "fbi reagan building relocation lawsuit",
       "fbi headquarters relocation legal dispute",
+      "fbi reagan building relocation lawsuit",
       "judge chuang fbi headquarters ruling"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T13:07:00.501Z",
-    "url": "https://simon622.shop/item/fbi-reagan-building-relocation-lawsuit/"
+    "lastUpdated": "2026-08-18T18:55:46.778Z",
+    "url": "https://simon622.shop/item/fbi-headquarters-relocation-legal-dispute/"
   }
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-18T13:07:06.375Z",
+  "updatedAt": "2026-08-18T18:56:00.243Z",
   "item": {
-    "id": "heb-salmonella-jalapeno-recall",
-    "slug": "heb-salmonella-jalapeno-recall",
-    "title": "Heb Salmonella Jalapeno Recall: Consumer Alert Monitoring",
+    "id": "uk-egg-salmonella-cases",
+    "slug": "uk-egg-salmonella-cases",
+    "title": "Uk Egg Salmonella Cases: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "heb salmonella jalapeno recall",
+    "product": "uk egg salmonella cases",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heb+salmonella+jalapeno+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uk+egg+salmonella+cases&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 16,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
-      "heb salmonella jalapeno recall"
+      "uk egg salmonella cases"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T13:07:00.501Z",
-    "url": "https://simon622.shop/item/heb-salmonella-jalapeno-recall/"
+    "lastUpdated": "2026-08-18T18:55:46.778Z",
+    "url": "https://simon622.shop/item/uk-egg-salmonella-cases/"
   }
 }

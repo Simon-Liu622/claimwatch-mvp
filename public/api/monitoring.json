@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-18T01:50:00.052Z",
-  "count": 5,
+  "updatedAt": "2026-08-18T07:03:51.674Z",
+  "count": 6,
   "items": [
     {
-      "id": "bbc-trump-defamation-lawsuit",
-      "slug": "bbc-trump-defamation-lawsuit",
-      "title": "Bbc Trump Defamation Lawsuit: Consumer Alert Monitoring",
+      "id": "arianna-rodriguez-in-n-out-lawsuit",
+      "slug": "arianna-rodriguez-in-n-out-lawsuit",
+      "title": "Arianna Rodriguez In-N-Out Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bbc trump defamation lawsuit",
+      "product": "arianna rodriguez in-n-out lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,26 +20,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+trump+defamation+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arianna+rodriguez+in-n-out+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 25,
       "matchedQueries": [
-        "bbc trump defamation lawsuit"
+        "arianna rodriguez in-n-out lawsuit",
+        "arianna rodriguez in n out lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T01:49:57.452Z"
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
     },
     {
-      "id": "recall-outshine-fruit-bars",
-      "slug": "recall-outshine-fruit-bars",
-      "title": "Recall Outshine Fruit Bars: Consumer Alert Monitoring",
+      "id": "outshine-bar-recalls",
+      "slug": "outshine-bar-recalls",
+      "title": "Outshine Bar Recalls: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "recall outshine fruit bars",
+      "product": "outshine bar recalls",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,16 +50,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=recall+outshine+fruit+bars&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+bar+recalls&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 25,
       "matchedQueries": [
+        "outshine bar recalls",
         "recall outshine fruit bars"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T01:49:57.452Z"
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
     },
     {
       "id": "granola-recall",
@@ -81,23 +83,23 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=granola+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
+      "searchVolume": 2000,
       "trendScore": 23,
       "matchedQueries": [
         "granola recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T01:49:57.452Z"
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
     },
     {
-      "id": "arianna-rodriguez-in-n-out-lawsuit",
-      "slug": "arianna-rodriguez-in-n-out-lawsuit",
-      "title": "Arianna Rodriguez In-N-Out Lawsuit: Consumer Alert Monitoring",
+      "id": "fbi-reagan-building-relocation-lawsuit",
+      "slug": "fbi-reagan-building-relocation-lawsuit",
+      "title": "Fbi Reagan Building Relocation Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "arianna rodriguez in-n-out lawsuit",
+      "product": "fbi reagan building relocation lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -107,16 +109,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arianna+rodriguez+in-n-out+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
+      "searchVolume": 2000,
       "trendScore": 23,
       "matchedQueries": [
-        "arianna rodriguez in-n-out lawsuit"
+        "fbi reagan building relocation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T01:49:57.452Z"
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
     },
     {
       "id": "heb-salmonella-jalapeno-recall",
@@ -145,7 +147,36 @@
         "heb salmonella jalapeno recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T01:49:57.452Z"
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
+    },
+    {
+      "id": "bbc-trump-defamation-lawsuit",
+      "slug": "bbc-trump-defamation-lawsuit",
+      "title": "Bbc Trump Defamation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "bbc trump defamation lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+trump+defamation+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "bbc trump defamation lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-18T07:03:45.358Z"
     }
   ]
 }

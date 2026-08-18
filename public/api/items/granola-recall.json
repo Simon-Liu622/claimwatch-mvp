@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:50:00.052Z",
+  "updatedAt": "2026-08-18T07:03:51.674Z",
   "item": {
     "id": "granola-recall",
     "slug": "granola-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=granola+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
+    "searchVolume": 2000,
     "trendScore": 23,
     "matchedQueries": [
       "granola recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T01:49:57.452Z",
+    "lastUpdated": "2026-08-18T07:03:45.358Z",
     "url": "https://simon622.shop/item/granola-recall/"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:03:51.674Z",
+  "updatedAt": "2026-08-18T13:07:06.375Z",
   "item": {
     "id": "fbi-reagan-building-relocation-lawsuit",
     "slug": "fbi-reagan-building-relocation-lawsuit",
@@ -21,13 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 5000,
+    "trendScore": 27,
     "matchedQueries": [
-      "fbi reagan building relocation lawsuit"
+      "fbi reagan building relocation lawsuit",
+      "fbi headquarters relocation legal dispute",
+      "judge chuang fbi headquarters ruling"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T07:03:45.358Z",
+    "lastUpdated": "2026-08-18T13:07:00.501Z",
     "url": "https://simon622.shop/item/fbi-reagan-building-relocation-lawsuit/"
   }
 }

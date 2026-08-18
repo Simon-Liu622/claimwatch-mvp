@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-08-18T07:03:51.674Z",
+  "updatedAt": "2026-08-18T13:07:06.375Z",
   "count": 6,
   "items": [
+    {
+      "id": "outshine-fruit-bars-recall",
+      "slug": "outshine-fruit-bars-recall",
+      "title": "Outshine Fruit Bars Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "outshine fruit bars recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 30,
+      "matchedQueries": [
+        "outshine fruit bars recall",
+        "recall outshine fruit bars",
+        "outshine bar recalls",
+        "outshine frozen fruit bar recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
+    },
+    {
+      "id": "fbi-reagan-building-relocation-lawsuit",
+      "slug": "fbi-reagan-building-relocation-lawsuit",
+      "title": "Fbi Reagan Building Relocation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fbi reagan building relocation lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "fbi reagan building relocation lawsuit",
+        "fbi headquarters relocation legal dispute",
+        "judge chuang fbi headquarters ruling"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
+    },
     {
       "id": "arianna-rodriguez-in-n-out-lawsuit",
       "slug": "arianna-rodriguez-in-n-out-lawsuit",
@@ -30,18 +93,18 @@
         "arianna rodriguez in n out lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
     },
     {
-      "id": "outshine-bar-recalls",
-      "slug": "outshine-bar-recalls",
-      "title": "Outshine Bar Recalls: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "bbc-trump-defamation-lawsuit",
+      "slug": "bbc-trump-defamation-lawsuit",
+      "title": "Bbc Trump Defamation Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "outshine bar recalls",
-      "category": "Recall monitoring",
+      "product": "bbc trump defamation lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -50,17 +113,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+bar+recalls&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+trump+defamation+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
-        "outshine bar recalls",
-        "recall outshine fruit bars"
+        "bbc trump defamation lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
     },
     {
       "id": "granola-recall",
@@ -83,42 +145,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=granola+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "trendScore": 23,
       "matchedQueries": [
         "granola recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
-    },
-    {
-      "id": "fbi-reagan-building-relocation-lawsuit",
-      "slug": "fbi-reagan-building-relocation-lawsuit",
-      "title": "Fbi Reagan Building Relocation Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fbi reagan building relocation lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+reagan+building+relocation+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "fbi reagan building relocation lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
     },
     {
       "id": "heb-salmonella-jalapeno-recall",
@@ -147,36 +180,7 @@
         "heb salmonella jalapeno recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
-    },
-    {
-      "id": "bbc-trump-defamation-lawsuit",
-      "slug": "bbc-trump-defamation-lawsuit",
-      "title": "Bbc Trump Defamation Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "bbc trump defamation lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+trump+defamation+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "bbc trump defamation lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-18T07:03:45.358Z"
+      "lastUpdated": "2026-08-18T13:07:00.501Z"
     }
   ]
 }

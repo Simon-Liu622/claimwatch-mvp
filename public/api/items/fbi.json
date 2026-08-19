@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-18T18:56:00.243Z",
+  "updatedAt": "2026-08-19T01:52:26.014Z",
   "item": {
-    "id": "fbi-headquarters-relocation-legal-dispute",
-    "slug": "fbi-headquarters-relocation-legal-dispute",
-    "title": "Fbi Headquarters Relocation Legal Dispute: Consumer Alert Monitoring",
+    "id": "fbi",
+    "slug": "fbi",
+    "title": "Fbi: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fbi headquarters relocation legal dispute",
+    "product": "fbi",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi+headquarters+relocation+legal+dispute&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 27,
+    "trendScore": 14,
     "matchedQueries": [
-      "fbi headquarters relocation legal dispute",
+      "fbi",
       "fbi reagan building relocation lawsuit",
+      "fbi headquarters relocation legal dispute",
       "judge chuang fbi headquarters ruling"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-18T18:55:46.778Z",
-    "url": "https://simon622.shop/item/fbi-headquarters-relocation-legal-dispute/"
+    "lastUpdated": "2026-08-19T01:52:23.543Z",
+    "url": "https://simon622.shop/item/fbi/"
   }
 }

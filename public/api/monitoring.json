@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-08-19T01:52:26.014Z",
+  "updatedAt": "2026-08-19T07:04:28.099Z",
   "count": 7,
   "items": [
+    {
+      "id": "outshine-fruit-bars-recall",
+      "slug": "outshine-fruit-bars-recall",
+      "title": "Outshine Fruit Bars Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "outshine fruit bars recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 30,
+      "matchedQueries": [
+        "outshine fruit bars recall",
+        "outshine fruit bars",
+        "outshine recall",
+        "frozen fruit bars recalled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
+    },
     {
       "id": "salmonella-outbreak-eggs",
       "slug": "salmonella-outbreak-eggs",
@@ -31,17 +63,17 @@
         "uk egg salmonella cases"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
     },
     {
-      "id": "trump-ballroom-legal-challenge",
-      "slug": "trump-ballroom-legal-challenge",
-      "title": "Trump Ballroom Legal Challenge: Consumer Alert Monitoring",
+      "id": "trump-white-house-ballroom-lawsuit",
+      "slug": "trump-white-house-ballroom-lawsuit",
+      "title": "Trump White House Ballroom Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "trump ballroom legal challenge",
+      "product": "trump white house ballroom lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -51,17 +83,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+ballroom+legal+challenge&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 25,
+      "trendScore": 10,
       "matchedQueries": [
-        "trump ballroom legal challenge",
-        "trump white house ballroom lawsuit"
+        "trump white house ballroom lawsuit",
+        "trump ballroom legal challenge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
     },
     {
       "id": "bmw-vehicle-defect-recall",
@@ -84,13 +116,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+vehicle+defect+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 8,
       "matchedQueries": [
         "bmw vehicle defect recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
     },
     {
       "id": "franklin-sports-badminton-racket-lawsuit",
@@ -114,74 +146,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "franklin sports badminton racket lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
-    },
-    {
-      "id": "fbi",
-      "slug": "fbi",
-      "title": "Fbi: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fbi",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fbi&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 14,
-      "matchedQueries": [
-        "fbi",
-        "fbi reagan building relocation lawsuit",
-        "fbi headquarters relocation legal dispute",
-        "judge chuang fbi headquarters ruling"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
-    },
-    {
-      "id": "arianna-rodriguez-in-n-out-lawsuit",
-      "slug": "arianna-rodriguez-in-n-out-lawsuit",
-      "title": "Arianna Rodriguez In N Out Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "arianna rodriguez in n out lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arianna+rodriguez+in+n+out+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 8,
-      "matchedQueries": [
-        "arianna rodriguez in-n-out lawsuit",
-        "arianna rodriguez in n out lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
     },
     {
       "id": "bill-gates-four-seasons-nevis-lawsuit",
@@ -210,7 +180,36 @@
         "bill gates four seasons nevis lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T01:52:23.543Z"
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
+    },
+    {
+      "id": "delta-airlines-seat-belt-lawsuit",
+      "slug": "delta-airlines-seat-belt-lawsuit",
+      "title": "Delta Airlines Seat Belt Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "delta airlines seat belt lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=delta+airlines+seat+belt+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "delta airlines seat belt lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-19T07:04:21.786Z"
     }
   ]
 }

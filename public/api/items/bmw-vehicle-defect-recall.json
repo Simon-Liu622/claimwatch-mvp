@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:52:26.014Z",
+  "updatedAt": "2026-08-19T07:04:28.099Z",
   "item": {
     "id": "bmw-vehicle-defect-recall",
     "slug": "bmw-vehicle-defect-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bmw+vehicle+defect+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 8,
     "matchedQueries": [
       "bmw vehicle defect recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T01:52:23.543Z",
+    "lastUpdated": "2026-08-19T07:04:21.786Z",
     "url": "https://simon622.shop/item/bmw-vehicle-defect-recall/"
   }
 }

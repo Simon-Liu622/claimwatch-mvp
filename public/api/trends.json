@@ -1,33 +1,64 @@
 {
-  "updatedAt": "2026-08-19T07:04:28.099Z",
+  "updatedAt": "2026-08-19T13:07:51.051Z",
   "count": 7,
   "trends": [
     {
-      "rank": 19,
-      "query": "outshine fruit bars recall",
-      "searchVolume": 20000,
+      "rank": 108,
+      "query": "outshine recall",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
         "outshine fruit bars",
-        "outshine recall",
         "frozen fruit bars recalled"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
-      "increasePercentage": 800,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+recall&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "outshine fruit bars recall outshine fruit bars outshine recall frozen fruit bars recalled",
-      "trendScore": 30,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
+      "text": "outshine recall outshine fruit bars frozen fruit bars recalled",
+      "trendScore": 27,
+      "detectedAt": "2026-08-19T13:07:46.448Z"
     },
     {
-      "rank": 40,
+      "rank": 15,
+      "query": "trump bbc lawsuit judge change",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "jeffrey kuntz trump bbc case"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bbc+lawsuit+judge+change&tz=420",
+      "increasePercentage": 700,
+      "source": "serpapi-google-trends",
+      "text": "trump bbc lawsuit judge change jeffrey kuntz trump bbc case",
+      "trendScore": 26,
+      "detectedAt": "2026-08-19T13:07:46.448Z"
+    },
+    {
+      "rank": 58,
+      "query": "franklin sports badminton racket lawsuit",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=franklin+sports+badminton+racket+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "franklin sports badminton racket lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-08-19T13:07:46.448Z"
+    },
+    {
+      "rank": 126,
       "query": "salmonella outbreak eggs",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "uk egg salmonella cases",
         "salmonella uk"
@@ -36,11 +67,11 @@
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "salmonella outbreak eggs uk egg salmonella cases salmonella uk",
-      "trendScore": 27,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
+      "trendScore": 12,
+      "detectedAt": "2026-08-19T13:07:46.448Z"
     },
     {
-      "rank": 204,
+      "rank": 227,
       "query": "trump white house ballroom lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -54,10 +85,10 @@
       "source": "serpapi-google-trends",
       "text": "trump white house ballroom lawsuit trump ballroom legal challenge",
       "trendScore": 10,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
+      "detectedAt": "2026-08-19T13:07:46.448Z"
     },
     {
-      "rank": 92,
+      "rank": 114,
       "query": "bmw vehicle defect recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -69,40 +100,10 @@
       "source": "serpapi-google-trends",
       "text": "bmw vehicle defect recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
+      "detectedAt": "2026-08-19T13:07:46.448Z"
     },
     {
-      "rank": 131,
-      "query": "franklin sports badminton racket lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=franklin+sports+badminton+racket+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "franklin sports badminton racket lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
-    },
-    {
-      "rank": 280,
-      "query": "bill gates four seasons nevis lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bill+gates+four+seasons+nevis+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "bill gates four seasons nevis lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
-    },
-    {
-      "rank": 309,
+      "rank": 321,
       "query": "delta airlines seat belt lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -114,7 +115,7 @@
       "source": "serpapi-google-trends",
       "text": "delta airlines seat belt lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-19T07:04:21.786Z"
+      "detectedAt": "2026-08-19T13:07:46.448Z"
     }
   ]
 }

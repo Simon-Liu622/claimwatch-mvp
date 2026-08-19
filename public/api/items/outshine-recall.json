@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-19T07:04:28.099Z",
+  "updatedAt": "2026-08-19T13:07:51.051Z",
   "item": {
-    "id": "outshine-fruit-bars-recall",
-    "slug": "outshine-fruit-bars-recall",
-    "title": "Outshine Fruit Bars Recall: Consumer Alert Monitoring",
+    "id": "outshine-recall",
+    "slug": "outshine-recall",
+    "title": "Outshine Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "outshine fruit bars recall",
+    "product": "outshine recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,19 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 30,
+    "searchVolume": 10000,
+    "trendScore": 27,
     "matchedQueries": [
-      "outshine fruit bars recall",
-      "outshine fruit bars",
       "outshine recall",
+      "outshine fruit bars",
       "frozen fruit bars recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T07:04:21.786Z",
-    "url": "https://simon622.shop/item/outshine-fruit-bars-recall/"
+    "lastUpdated": "2026-08-19T13:07:46.448Z",
+    "url": "https://simon622.shop/item/outshine-recall/"
   }
 }

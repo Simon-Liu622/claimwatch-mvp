@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-19T07:04:28.099Z",
+  "updatedAt": "2026-08-19T13:07:51.051Z",
   "count": 7,
   "items": [
     {
-      "id": "outshine-fruit-bars-recall",
-      "slug": "outshine-fruit-bars-recall",
-      "title": "Outshine Fruit Bars Recall: Consumer Alert Monitoring",
+      "id": "outshine-recall",
+      "slug": "outshine-recall",
+      "title": "Outshine Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "outshine fruit bars recall",
+      "product": "outshine recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,77 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+fruit+bars+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=outshine+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 30,
+      "searchVolume": 10000,
+      "trendScore": 27,
       "matchedQueries": [
-        "outshine fruit bars recall",
-        "outshine fruit bars",
         "outshine recall",
+        "outshine fruit bars",
         "frozen fruit bars recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
+    },
+    {
+      "id": "trump-bbc-lawsuit-judge-change",
+      "slug": "trump-bbc-lawsuit-judge-change",
+      "title": "Trump Bbc Lawsuit Judge Change: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "trump bbc lawsuit judge change",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+bbc+lawsuit+judge+change&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 26,
+      "matchedQueries": [
+        "trump bbc lawsuit judge change",
+        "jeffrey kuntz trump bbc case"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
+    },
+    {
+      "id": "franklin-sports-badminton-racket-lawsuit",
+      "slug": "franklin-sports-badminton-racket-lawsuit",
+      "title": "Franklin Sports Badminton Racket Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "franklin sports badminton racket lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=franklin+sports+badminton+racket+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "franklin sports badminton racket lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
     },
     {
       "id": "salmonella-outbreak-eggs",
@@ -56,14 +114,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 27,
+      "trendScore": 12,
       "matchedQueries": [
         "salmonella outbreak eggs",
         "salmonella uk",
         "uk egg salmonella cases"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
     },
     {
       "id": "trump-white-house-ballroom-lawsuit",
@@ -93,7 +151,7 @@
         "trump ballroom legal challenge"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
     },
     {
       "id": "bmw-vehicle-defect-recall",
@@ -122,65 +180,7 @@
         "bmw vehicle defect recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
-    },
-    {
-      "id": "franklin-sports-badminton-racket-lawsuit",
-      "slug": "franklin-sports-badminton-racket-lawsuit",
-      "title": "Franklin Sports Badminton Racket Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "franklin sports badminton racket lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=franklin+sports+badminton+racket+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "franklin sports badminton racket lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
-    },
-    {
-      "id": "bill-gates-four-seasons-nevis-lawsuit",
-      "slug": "bill-gates-four-seasons-nevis-lawsuit",
-      "title": "Bill Gates Four Seasons Nevis Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "bill gates four seasons nevis lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bill+gates+four+seasons+nevis+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "bill gates four seasons nevis lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
     },
     {
       "id": "delta-airlines-seat-belt-lawsuit",
@@ -209,7 +209,7 @@
         "delta airlines seat belt lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-19T07:04:21.786Z"
+      "lastUpdated": "2026-08-19T13:07:46.448Z"
     }
   ]
 }

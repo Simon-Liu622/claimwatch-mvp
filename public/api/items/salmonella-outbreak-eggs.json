@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:07:51.051Z",
+  "updatedAt": "2026-08-19T18:52:42.376Z",
   "item": {
     "id": "salmonella-outbreak-eggs",
     "slug": "salmonella-outbreak-eggs",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+eggs&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 12,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
       "salmonella outbreak eggs",
       "salmonella uk",
       "uk egg salmonella cases"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T13:07:46.448Z",
+    "lastUpdated": "2026-08-19T18:52:31.485Z",
     "url": "https://simon622.shop/item/salmonella-outbreak-eggs/"
   }
 }

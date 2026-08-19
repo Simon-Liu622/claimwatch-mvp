@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-19T13:07:51.051Z",
+  "updatedAt": "2026-08-19T18:52:42.376Z",
   "item": {
-    "id": "trump-white-house-ballroom-lawsuit",
-    "slug": "trump-white-house-ballroom-lawsuit",
-    "title": "Trump White House Ballroom Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "dog-food-recall",
+    "slug": "dog-food-recall",
+    "title": "Dog Food Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "trump white house ballroom lawsuit",
-    "category": "Consumer monitoring",
+    "product": "dog food recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+white+house+ballroom+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 10,
+    "trendScore": 23,
     "matchedQueries": [
-      "trump white house ballroom lawsuit",
-      "trump ballroom legal challenge"
+      "dog food recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T13:07:46.448Z",
-    "url": "https://simon622.shop/item/trump-white-house-ballroom-lawsuit/"
+    "lastUpdated": "2026-08-19T18:52:31.485Z",
+    "url": "https://simon622.shop/item/dog-food-recall/"
   }
 }

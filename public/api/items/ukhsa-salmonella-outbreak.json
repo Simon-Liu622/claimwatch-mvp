@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-19T18:52:42.376Z",
+  "updatedAt": "2026-08-20T01:50:58.943Z",
   "item": {
-    "id": "salmonella-outbreak-eggs",
-    "slug": "salmonella-outbreak-eggs",
-    "title": "Salmonella Outbreak Eggs: Consumer Alert Monitoring",
+    "id": "ukhsa-salmonella-outbreak",
+    "slug": "ukhsa-salmonella-outbreak",
+    "title": "Ukhsa Salmonella Outbreak: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "salmonella outbreak eggs",
+    "product": "ukhsa salmonella outbreak",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella+outbreak+eggs&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukhsa+salmonella+outbreak&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
-      "salmonella outbreak eggs",
-      "salmonella uk",
-      "uk egg salmonella cases"
+      "ukhsa salmonella outbreak"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T18:52:31.485Z",
-    "url": "https://simon622.shop/item/salmonella-outbreak-eggs/"
+    "lastUpdated": "2026-08-20T01:50:54.391Z",
+    "url": "https://simon622.shop/item/ukhsa-salmonella-outbreak/"
   }
 }

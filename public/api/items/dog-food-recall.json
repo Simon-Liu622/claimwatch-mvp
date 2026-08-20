@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T18:52:42.376Z",
+  "updatedAt": "2026-08-20T01:50:58.943Z",
   "item": {
     "id": "dog-food-recall",
     "slug": "dog-food-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 24,
     "matchedQueries": [
       "dog food recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-19T18:52:31.485Z",
+    "lastUpdated": "2026-08-20T01:50:54.391Z",
     "url": "https://simon622.shop/item/dog-food-recall/"
   }
 }

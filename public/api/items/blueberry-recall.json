@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:50:58.943Z",
+  "updatedAt": "2026-08-20T07:05:13.630Z",
   "item": {
     "id": "blueberry-recall",
     "slug": "blueberry-recall",
@@ -22,14 +22,15 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 20000,
-    "trendScore": 28,
+    "trendScore": 30,
     "matchedQueries": [
       "blueberry recall",
       "blueberries recall",
-      "fda greenwise berry recall"
+      "fda greenwise berry recall",
+      "publix frozen blueberry fda recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-20T01:50:54.391Z",
+    "lastUpdated": "2026-08-20T07:05:05.710Z",
     "url": "https://simon622.shop/item/blueberry-recall/"
   }
 }

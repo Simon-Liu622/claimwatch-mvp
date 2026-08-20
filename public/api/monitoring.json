@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T07:05:13.630Z",
-  "count": 5,
+  "updatedAt": "2026-08-20T13:10:07.427Z",
+  "count": 6,
   "items": [
     {
       "id": "blueberry-recall",
@@ -62,7 +62,36 @@
         "dog food recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T07:05:05.710Z"
+      "lastUpdated": "2026-08-20T13:09:53.768Z"
+    },
+    {
+      "id": "missouri-gop-redistricting-map-lawsuit",
+      "slug": "missouri-gop-redistricting-map-lawsuit",
+      "title": "Missouri Gop Redistricting Map Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "missouri gop redistricting map lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=missouri+gop+redistricting+map+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "missouri gop redistricting map lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-20T13:09:53.768Z"
     },
     {
       "id": "demon-hunter",
@@ -95,7 +124,7 @@
         "band"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T07:05:05.710Z"
+      "lastUpdated": "2026-08-20T13:09:53.768Z"
     },
     {
       "id": "eye-drops-recalled",
@@ -125,7 +154,7 @@
         "clear eyes maximum recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T07:05:05.710Z"
+      "lastUpdated": "2026-08-20T13:09:53.768Z"
     },
     {
       "id": "ukhsa-salmonella-outbreak",
@@ -154,7 +183,7 @@
         "ukhsa salmonella outbreak"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T07:05:05.710Z"
+      "lastUpdated": "2026-08-20T13:09:53.768Z"
     }
   ]
 }

@@ -1,99 +1,47 @@
 {
-  "updatedAt": "2026-08-20T13:10:07.427Z",
-  "count": 7,
+  "updatedAt": "2026-08-20T18:58:38.139Z",
+  "count": 5,
   "trends": [
     {
-      "rank": 4,
-      "query": "blueberry recall",
-      "searchVolume": 20000,
+      "rank": 48,
+      "query": "blueberries",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "publix frozen blueberry fda recall",
-        "blueberries",
-        "blueberries recall",
         "frozen blueberry recall",
+        "blueberries recall",
+        "publix frozen blueberry fda recall",
+        "greenwise blueberries",
         "blueberry recall 2026",
-        "greenwise organic blueberries",
-        "fda greenwise berry recall"
+        "fda greenwise berry recall",
+        "greenwise organic blueberries"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberry+recall&tz=420",
-      "increasePercentage": 1000,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberries&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "blueberry recall publix frozen blueberry fda recall blueberries blueberries recall frozen blueberry recall blueberry recall 2026 greenwise organic blueberries fda greenwise berry recall",
-      "trendScore": 34,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
+      "text": "blueberries frozen blueberry recall blueberries recall publix frozen blueberry fda recall greenwise blueberries blueberry recall 2026 fda greenwise berry recall greenwise organic blueberries",
+      "trendScore": 33,
+      "detectedAt": "2026-08-20T18:58:31.184Z"
     },
     {
-      "rank": 5,
-      "query": "dog food recall",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "dog food recalled"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dog+food+recall&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "dog food recall dog food recalled",
-      "trendScore": 26,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
-    },
-    {
-      "rank": 71,
-      "query": "missouri gop redistricting map lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=missouri+gop+redistricting+map+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "missouri gop redistricting map lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
-    },
-    {
-      "rank": 73,
+      "rank": 20,
       "query": "salmonella",
-      "searchVolume": 2000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "salmonella",
       "trendScore": 23,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
+      "detectedAt": "2026-08-20T18:58:31.184Z"
     },
     {
-      "rank": 135,
-      "query": "demon hunter",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "demon hunter band lawsuit netflix",
-        "demon hunter band netflix dispute",
-        "demon hunters",
-        "band"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=demon+hunter&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "demon hunter demon hunter band lawsuit netflix demon hunter band netflix dispute demon hunters band",
-      "trendScore": 16,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
-    },
-    {
-      "rank": 150,
+      "rank": 160,
       "query": "eye drops recalled",
       "searchVolume": 10000,
       "startedAt": "",
@@ -107,10 +55,25 @@
       "source": "serpapi-google-trends",
       "text": "eye drops recalled clear eyes maximum recall",
       "trendScore": 10,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
+      "detectedAt": "2026-08-20T18:58:31.184Z"
     },
     {
-      "rank": 332,
+      "rank": 122,
+      "query": "missouri gop redistricting map lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=missouri+gop+redistricting+map+lawsuit&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "missouri gop redistricting map lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-08-20T18:58:31.184Z"
+    },
+    {
+      "rank": 351,
       "query": "ukhsa salmonella outbreak",
       "searchVolume": 1000,
       "startedAt": "",
@@ -122,7 +85,7 @@
       "source": "serpapi-google-trends",
       "text": "ukhsa salmonella outbreak",
       "trendScore": 8,
-      "detectedAt": "2026-08-20T13:09:53.768Z"
+      "detectedAt": "2026-08-20T18:58:31.184Z"
     }
   ]
 }

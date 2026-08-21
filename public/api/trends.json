@@ -1,34 +1,32 @@
 {
-  "updatedAt": "2026-08-20T18:58:38.139Z",
-  "count": 5,
+  "updatedAt": "2026-08-21T01:56:45.925Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 48,
-      "query": "blueberries",
-      "searchVolume": 10000,
+      "rank": 8,
+      "query": "publix greenwise berry recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "frozen blueberry recall",
-        "blueberries recall",
-        "publix frozen blueberry fda recall",
-        "greenwise blueberries",
         "blueberry recall 2026",
-        "fda greenwise berry recall",
+        "frozen blueberry recall",
+        "blueberries",
+        "publix blueberry recall",
         "greenwise organic blueberries"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blueberries&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+greenwise+berry+recall&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "blueberries frozen blueberry recall blueberries recall publix frozen blueberry fda recall greenwise blueberries blueberry recall 2026 fda greenwise berry recall greenwise organic blueberries",
-      "trendScore": 33,
-      "detectedAt": "2026-08-20T18:58:31.184Z"
+      "text": "publix greenwise berry recall blueberry recall 2026 frozen blueberry recall blueberries publix blueberry recall greenwise organic blueberries",
+      "trendScore": 34,
+      "detectedAt": "2026-08-21T01:56:43.973Z"
     },
     {
-      "rank": 20,
+      "rank": 23,
       "query": "salmonella",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -37,28 +35,26 @@
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "salmonella",
-      "trendScore": 23,
-      "detectedAt": "2026-08-20T18:58:31.184Z"
+      "trendScore": 24,
+      "detectedAt": "2026-08-21T01:56:43.973Z"
     },
     {
-      "rank": 160,
-      "query": "eye drops recalled",
-      "searchVolume": 10000,
+      "rank": 21,
+      "query": "atmosfear ride settlement portland",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "clear eyes maximum recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
-      "increasePercentage": 400,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atmosfear+ride+settlement+portland&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "eye drops recalled clear eyes maximum recall",
-      "trendScore": 10,
-      "detectedAt": "2026-08-20T18:58:31.184Z"
+      "text": "atmosfear ride settlement portland",
+      "trendScore": 23,
+      "detectedAt": "2026-08-21T01:56:43.973Z"
     },
     {
-      "rank": 122,
+      "rank": 238,
       "query": "missouri gop redistricting map lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -70,22 +66,7 @@
       "source": "serpapi-google-trends",
       "text": "missouri gop redistricting map lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-20T18:58:31.184Z"
-    },
-    {
-      "rank": 351,
-      "query": "ukhsa salmonella outbreak",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukhsa+salmonella+outbreak&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "ukhsa salmonella outbreak",
-      "trendScore": 8,
-      "detectedAt": "2026-08-20T18:58:31.184Z"
+      "detectedAt": "2026-08-21T01:56:43.973Z"
     }
   ]
 }

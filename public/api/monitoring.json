@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-20T18:58:38.139Z",
-  "count": 3,
+  "updatedAt": "2026-08-21T01:56:45.925Z",
+  "count": 2,
   "items": [
     {
-      "id": "eye-drops-recalled",
-      "slug": "eye-drops-recalled",
-      "title": "Eye Drops Recalled: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "atmosfear-ride-settlement-portland",
+      "slug": "atmosfear-ride-settlement-portland",
+      "title": "Atmosfear Ride Settlement Portland: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "eye drops recalled",
-      "category": "Recall monitoring",
+      "product": "atmosfear ride settlement portland",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,17 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atmosfear+ride+settlement+portland&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 10,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "eye drops recalled",
-        "clear eyes maximum recall"
+        "atmosfear ride settlement portland"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T18:58:31.184Z"
+      "lastUpdated": "2026-08-21T01:56:43.973Z"
     },
     {
       "id": "missouri-gop-redistricting-map-lawsuit",
@@ -59,36 +58,7 @@
         "missouri gop redistricting map lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-20T18:58:31.184Z"
-    },
-    {
-      "id": "ukhsa-salmonella-outbreak",
-      "slug": "ukhsa-salmonella-outbreak",
-      "title": "Ukhsa Salmonella Outbreak: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ukhsa salmonella outbreak",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ukhsa+salmonella+outbreak&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ukhsa salmonella outbreak"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-20T18:58:31.184Z"
+      "lastUpdated": "2026-08-21T01:56:43.973Z"
     }
   ]
 }

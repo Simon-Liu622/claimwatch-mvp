@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T13:10:06.347Z",
+  "updatedAt": "2026-08-21T18:54:59.007Z",
   "count": 2,
   "items": [
     {
@@ -23,7 +23,7 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+blueberry+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 28,
       "matchedQueries": [
         "publix blueberry recall",
@@ -31,7 +31,7 @@
         "blueberries recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-21T13:09:53.018Z"
+      "lastUpdated": "2026-08-21T18:54:52.711Z"
     },
     {
       "id": "atmosfear-ride-settlement-portland",
@@ -60,7 +60,7 @@
         "atmosfear ride settlement portland"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-21T13:09:53.018Z"
+      "lastUpdated": "2026-08-21T18:54:52.711Z"
     }
   ]
 }

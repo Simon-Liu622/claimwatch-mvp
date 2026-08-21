@@ -1,5 +1,66 @@
 {
-  "updatedAt": "2026-08-21T07:07:27.981Z",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-08-21T13:10:06.347Z",
+  "count": 2,
+  "items": [
+    {
+      "id": "publix-blueberry-recall",
+      "slug": "publix-blueberry-recall",
+      "title": "Publix Blueberry Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "publix blueberry recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+blueberry+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 28,
+      "matchedQueries": [
+        "publix blueberry recall",
+        "publix greenwise berry recall",
+        "blueberries recalled"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-21T13:09:53.018Z"
+    },
+    {
+      "id": "atmosfear-ride-settlement-portland",
+      "slug": "atmosfear-ride-settlement-portland",
+      "title": "Atmosfear Ride Settlement Portland: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "atmosfear ride settlement portland",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atmosfear+ride+settlement+portland&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "atmosfear ride settlement portland"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-21T13:09:53.018Z"
+    }
+  ]
 }

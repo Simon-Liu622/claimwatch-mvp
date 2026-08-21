@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "rank": 17,
+    "query": "publix blueberry recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "publix greenwise berry recall",
+      "blueberries recalled"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=publix+blueberry+recall&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "publix blueberry recall publix greenwise berry recall blueberries recalled",
+    "trendScore": 28,
+    "detectedAt": "2026-08-21T13:09:53.018Z"
+  },
+  {
+    "rank": 102,
+    "query": "atmosfear ride settlement portland",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atmosfear+ride+settlement+portland&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "atmosfear ride settlement portland",
+    "trendScore": 8,
+    "detectedAt": "2026-08-21T13:09:53.018Z"
+  }
+]

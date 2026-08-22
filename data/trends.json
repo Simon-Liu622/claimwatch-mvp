@@ -1,21 +1,21 @@
 [
   {
-    "rank": 39,
-    "query": "ice cream recall",
-    "searchVolume": 5000,
+    "rank": 145,
+    "query": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
-    "increasePercentage": 1000,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "ice cream recall",
-    "trendScore": 23,
-    "detectedAt": "2026-08-22T06:58:31.410Z"
+    "text": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
+    "trendScore": 31,
+    "detectedAt": "2026-08-22T12:59:59.512Z"
   },
   {
-    "rank": 85,
+    "rank": 70,
     "query": "clear eyes eye drops recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,40 +27,25 @@
     "source": "serpapi-google-trends",
     "text": "clear eyes eye drops recall",
     "trendScore": 23,
-    "detectedAt": "2026-08-22T06:58:31.410Z"
+    "detectedAt": "2026-08-22T12:59:59.512Z"
   },
   {
-    "rank": 248,
-    "query": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
-    "searchVolume": 2000,
+    "rank": 103,
+    "query": "ice cream recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
-    "trendScore": 16,
-    "detectedAt": "2026-08-22T06:58:31.410Z"
-  },
-  {
-    "rank": 171,
-    "query": "ftc prime subscription settlement fund",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement+fund&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "ftc prime subscription settlement fund",
+    "text": "ice cream recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-22T06:58:31.410Z"
+    "detectedAt": "2026-08-22T12:59:59.512Z"
   },
   {
-    "rank": 355,
+    "rank": 436,
     "query": "equifax 100 million fcra settlement",
     "searchVolume": 1000,
     "startedAt": "",
@@ -72,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "equifax 100 million fcra settlement",
     "trendScore": 8,
-    "detectedAt": "2026-08-22T06:58:31.410Z"
+    "detectedAt": "2026-08-22T12:59:59.512Z"
   }
 ]

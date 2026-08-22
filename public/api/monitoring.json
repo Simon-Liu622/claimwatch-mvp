@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-22T06:58:36.822Z",
-  "count": 5,
+  "updatedAt": "2026-08-22T13:00:14.166Z",
+  "count": 4,
   "items": [
+    {
+      "id": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
+      "slug": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
+      "title": "Oura Faces A Class Action Lawsuit Over Alleged Inaccurate Sleep Tracking: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 31,
+      "matchedQueries": [
+        "oura faces a class action lawsuit over alleged inaccurate sleep tracking"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-22T12:59:59.512Z"
+    },
     {
       "id": "clear-eyes-eye-drops-recall",
       "slug": "clear-eyes-eye-drops-recall",
@@ -29,7 +58,7 @@
         "clear eyes eye drops recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T06:58:31.410Z"
+      "lastUpdated": "2026-08-22T12:59:59.512Z"
     },
     {
       "id": "ice-cream-recall",
@@ -52,71 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
+      "searchVolume": 10000,
+      "trendScore": 8,
       "matchedQueries": [
         "ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T06:58:31.410Z"
-    },
-    {
-      "id": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
-      "slug": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
-      "title": "Oura Faces A Class Action Lawsuit Over Alleged Inaccurate Sleep Tracking: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "oura faces a class action lawsuit over alleged inaccurate sleep tracking"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T06:58:31.410Z"
-    },
-    {
-      "id": "ftc-prime-subscription-settlement-fund",
-      "slug": "ftc-prime-subscription-settlement-fund",
-      "title": "Ftc Prime Subscription Settlement Fund: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ftc prime subscription settlement fund",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement+fund&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "ftc prime subscription settlement fund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T06:58:31.410Z"
+      "lastUpdated": "2026-08-22T12:59:59.512Z"
     },
     {
       "id": "equifax-100-million-fcra-settlement",
@@ -145,7 +116,7 @@
         "equifax 100 million fcra settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T06:58:31.410Z"
+      "lastUpdated": "2026-08-22T12:59:59.512Z"
     }
   ]
 }

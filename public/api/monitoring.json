@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-08-22T01:49:33.087Z",
-  "count": 6,
+  "updatedAt": "2026-08-22T06:58:36.822Z",
+  "count": 5,
   "items": [
+    {
+      "id": "clear-eyes-eye-drops-recall",
+      "slug": "clear-eyes-eye-drops-recall",
+      "title": "Clear Eyes Eye Drops Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "clear eyes eye drops recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "clear eyes eye drops recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-22T06:58:31.410Z"
+    },
+    {
+      "id": "ice-cream-recall",
+      "slug": "ice-cream-recall",
+      "title": "Ice Cream Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ice cream recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ice cream recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-22T06:58:31.410Z"
+    },
     {
       "id": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
       "slug": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
@@ -23,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 31,
+      "searchVolume": 2000,
+      "trendScore": 16,
       "matchedQueries": [
         "oura faces a class action lawsuit over alleged inaccurate sleep tracking"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
+      "lastUpdated": "2026-08-22T06:58:31.410Z"
     },
     {
       "id": "ftc-prime-subscription-settlement-fund",
@@ -53,70 +111,12 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "ftc prime subscription settlement fund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
-    },
-    {
-      "id": "clear-eyes-eye-drops-recall",
-      "slug": "clear-eyes-eye-drops-recall",
-      "title": "Clear Eyes Eye Drops Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "clear eyes eye drops recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "clear eyes eye drops recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
-    },
-    {
-      "id": "kai-spears-defamation-lawsuit",
-      "slug": "kai-spears-defamation-lawsuit",
-      "title": "Kai Spears Defamation Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "kai spears defamation lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kai+spears+defamation+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "kai spears defamation lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
+      "lastUpdated": "2026-08-22T06:58:31.410Z"
     },
     {
       "id": "equifax-100-million-fcra-settlement",
@@ -145,36 +145,7 @@
         "equifax 100 million fcra settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
-    },
-    {
-      "id": "franklin-sports-badminton-lawsuit-maine",
-      "slug": "franklin-sports-badminton-lawsuit-maine",
-      "title": "Franklin Sports Badminton Lawsuit Maine: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "franklin sports badminton lawsuit maine",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=franklin+sports+badminton+lawsuit+maine&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "franklin sports badminton lawsuit maine"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T01:49:30.158Z"
+      "lastUpdated": "2026-08-22T06:58:31.410Z"
     }
   ]
 }

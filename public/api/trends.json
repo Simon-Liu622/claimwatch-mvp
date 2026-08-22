@@ -1,39 +1,24 @@
 {
-  "updatedAt": "2026-08-22T13:00:14.166Z",
-  "count": 4,
+  "updatedAt": "2026-08-22T18:48:23.776Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 145,
+      "rank": 286,
       "query": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
       "increasePercentage": 75,
       "source": "serpapi-google-trends",
       "text": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
-      "trendScore": 31,
-      "detectedAt": "2026-08-22T12:59:59.512Z"
+      "trendScore": 16,
+      "detectedAt": "2026-08-22T18:48:10.542Z"
     },
     {
-      "rank": 70,
-      "query": "clear eyes eye drops recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "clear eyes eye drops recall",
-      "trendScore": 23,
-      "detectedAt": "2026-08-22T12:59:59.512Z"
-    },
-    {
-      "rank": 103,
+      "rank": 168,
       "query": "ice cream recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -45,22 +30,22 @@
       "source": "serpapi-google-trends",
       "text": "ice cream recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-22T12:59:59.512Z"
+      "detectedAt": "2026-08-22T18:48:10.542Z"
     },
     {
-      "rank": 436,
-      "query": "equifax 100 million fcra settlement",
-      "searchVolume": 1000,
+      "rank": 174,
+      "query": "clear eyes eye drops recall",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+100+million+fcra+settlement&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "equifax 100 million fcra settlement",
+      "text": "clear eyes eye drops recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-22T12:59:59.512Z"
+      "detectedAt": "2026-08-22T18:48:10.542Z"
     }
   ]
 }

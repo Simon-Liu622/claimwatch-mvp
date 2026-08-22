@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T13:00:14.166Z",
-  "count": 4,
+  "updatedAt": "2026-08-22T18:48:23.776Z",
+  "count": 3,
   "items": [
     {
       "id": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
@@ -24,12 +24,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 31,
+      "trendScore": 16,
       "matchedQueries": [
         "oura faces a class action lawsuit over alleged inaccurate sleep tracking"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T12:59:59.512Z"
+      "lastUpdated": "2026-08-22T18:48:10.542Z"
     },
     {
       "id": "clear-eyes-eye-drops-recall",
@@ -52,13 +52,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "clear eyes eye drops recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T12:59:59.512Z"
+      "lastUpdated": "2026-08-22T18:48:10.542Z"
     },
     {
       "id": "ice-cream-recall",
@@ -87,36 +87,7 @@
         "ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T12:59:59.512Z"
-    },
-    {
-      "id": "equifax-100-million-fcra-settlement",
-      "slug": "equifax-100-million-fcra-settlement",
-      "title": "Equifax 100 Million Fcra Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "equifax 100 million fcra settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=equifax+100+million+fcra+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "equifax 100 million fcra settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T12:59:59.512Z"
+      "lastUpdated": "2026-08-22T18:48:10.542Z"
     }
   ]
 }

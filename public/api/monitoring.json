@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T07:00:20.836Z",
-  "count": 2,
+  "updatedAt": "2026-08-23T13:01:31.548Z",
+  "count": 3,
   "items": [
     {
       "id": "starr-manufacturing-julie-watson-lawsuit",
@@ -24,12 +24,41 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "starr manufacturing julie watson lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-23T07:00:13.974Z"
+      "lastUpdated": "2026-08-23T13:01:27.597Z"
+    },
+    {
+      "id": "taylor-sheridan-yellowstone-lawsuit",
+      "slug": "taylor-sheridan-yellowstone-lawsuit",
+      "title": "Taylor Sheridan Yellowstone Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "taylor sheridan yellowstone lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+sheridan+yellowstone+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "taylor sheridan yellowstone lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-23T13:01:27.597Z"
     },
     {
       "id": "robert-danbom-firetruck-lawsuit-verdict",
@@ -58,7 +87,7 @@
         "robert danbom firetruck lawsuit verdict"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-23T07:00:13.974Z"
+      "lastUpdated": "2026-08-23T13:01:27.597Z"
     }
   ]
 }

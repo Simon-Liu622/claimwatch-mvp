@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-22T18:48:23.776Z",
-  "count": 3,
+  "updatedAt": "2026-08-23T01:59:00.969Z",
+  "count": 2,
   "items": [
     {
-      "id": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
-      "slug": "oura-faces-a-class-action-lawsuit-over-alleged-inaccurate-sleep-tracking",
-      "title": "Oura Faces A Class Action Lawsuit Over Alleged Inaccurate Sleep Tracking: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "starr-manufacturing-julie-watson-lawsuit",
+      "slug": "starr-manufacturing-julie-watson-lawsuit",
+      "title": "Starr Manufacturing Julie Watson Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "oura faces a class action lawsuit over alleged inaccurate sleep tracking",
+      "product": "starr manufacturing julie watson lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,45 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oura+faces+a+class+action+lawsuit+over+alleged+inaccurate+sleep+tracking&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starr+manufacturing+julie+watson+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 16,
+      "searchVolume": 10000,
+      "trendScore": 23,
       "matchedQueries": [
-        "oura faces a class action lawsuit over alleged inaccurate sleep tracking"
+        "starr manufacturing julie watson lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T18:48:10.542Z"
-    },
-    {
-      "id": "clear-eyes-eye-drops-recall",
-      "slug": "clear-eyes-eye-drops-recall",
-      "title": "Clear Eyes Eye Drops Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "clear eyes eye drops recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clear+eyes+eye+drops+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "clear eyes eye drops recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-22T18:48:10.542Z"
+      "lastUpdated": "2026-08-23T01:58:56.358Z"
     },
     {
       "id": "ice-cream-recall",
@@ -87,7 +58,7 @@
         "ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-22T18:48:10.542Z"
+      "lastUpdated": "2026-08-23T01:58:56.358Z"
     }
   ]
 }

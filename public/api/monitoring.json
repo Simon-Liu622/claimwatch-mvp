@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:59:00.969Z",
+  "updatedAt": "2026-08-23T07:00:20.836Z",
   "count": 2,
   "items": [
     {
@@ -24,23 +24,23 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "starr manufacturing julie watson lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-23T01:58:56.358Z"
+      "lastUpdated": "2026-08-23T07:00:13.974Z"
     },
     {
-      "id": "ice-cream-recall",
-      "slug": "ice-cream-recall",
-      "title": "Ice Cream Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "robert-danbom-firetruck-lawsuit-verdict",
+      "slug": "robert-danbom-firetruck-lawsuit-verdict",
+      "title": "Robert Danbom Firetruck Lawsuit Verdict: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ice cream recall",
-      "category": "Recall monitoring",
+      "product": "robert danbom firetruck lawsuit verdict",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -49,16 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+danbom+firetruck+lawsuit+verdict&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
+      "searchVolume": 2000,
       "trendScore": 8,
       "matchedQueries": [
-        "ice cream recall"
+        "robert danbom firetruck lawsuit verdict"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-23T01:58:56.358Z"
+      "lastUpdated": "2026-08-23T07:00:13.974Z"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-24T01:57:11.469Z",
+  "updatedAt": "2026-08-24T07:19:58.019Z",
   "count": 3,
   "trends": [
     {
-      "rank": 28,
+      "rank": 22,
       "query": "fromm dog food metal recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -11,14 +11,14 @@
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+dog+food+metal+recall&tz=420",
-      "increasePercentage": 700,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "fromm dog food metal recall",
       "trendScore": 23,
-      "detectedAt": "2026-08-24T01:57:06.941Z"
+      "detectedAt": "2026-08-24T07:19:51.472Z"
     },
     {
-      "rank": 265,
+      "rank": 232,
       "query": "yellowstone tv show pitch dispute",
       "searchVolume": 2000,
       "startedAt": "",
@@ -32,10 +32,10 @@
       "source": "serpapi-google-trends",
       "text": "yellowstone tv show pitch dispute taylor sheridan yellowstone lawsuit",
       "trendScore": 10,
-      "detectedAt": "2026-08-24T01:57:06.941Z"
+      "detectedAt": "2026-08-24T07:19:51.472Z"
     },
     {
-      "rank": 320,
+      "rank": 349,
       "query": "prestige brand holdings eye drops recall",
       "searchVolume": 1000,
       "startedAt": "",
@@ -47,7 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "prestige brand holdings eye drops recall",
       "trendScore": 8,
-      "detectedAt": "2026-08-24T01:57:06.941Z"
+      "detectedAt": "2026-08-24T07:19:51.472Z"
     }
   ]
 }

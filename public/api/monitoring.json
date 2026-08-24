@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T13:12:03.002Z",
-  "count": 2,
+  "updatedAt": "2026-08-24T18:58:18.134Z",
+  "count": 3,
   "items": [
     {
       "id": "fromm-dog-food-metal-recall",
@@ -58,7 +58,36 @@
         "prestige brand holdings eye drops recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-24T13:11:54.341Z"
+      "lastUpdated": "2026-08-24T18:58:15.203Z"
+    },
+    {
+      "id": "fda-food-recall-list-us",
+      "slug": "fda-food-recall-list-us",
+      "title": "Fda Food Recall List Us: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fda food recall list us",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+food+recall+list+us&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "fda food recall list us"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-24T18:58:15.203Z"
     }
   ]
 }

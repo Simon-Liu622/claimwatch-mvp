@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-23T18:47:31.647Z",
-  "count": 1,
+  "updatedAt": "2026-08-24T01:57:11.469Z",
+  "count": 3,
   "items": [
+    {
+      "id": "fromm-dog-food-metal-recall",
+      "slug": "fromm-dog-food-metal-recall",
+      "title": "Fromm Dog Food Metal Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "fromm dog food metal recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+dog+food+metal+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "fromm dog food metal recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-24T01:57:06.941Z"
+    },
     {
       "id": "yellowstone-tv-show-pitch-dispute",
       "slug": "yellowstone-tv-show-pitch-dispute",
@@ -30,7 +59,36 @@
         "taylor sheridan yellowstone lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-23T18:47:29.183Z"
+      "lastUpdated": "2026-08-24T01:57:06.941Z"
+    },
+    {
+      "id": "prestige-brand-holdings-eye-drops-recall",
+      "slug": "prestige-brand-holdings-eye-drops-recall",
+      "title": "Prestige Brand Holdings Eye Drops Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "prestige brand holdings eye drops recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prestige+brand+holdings+eye+drops+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "prestige brand holdings eye drops recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-24T01:57:06.941Z"
     }
   ]
 }

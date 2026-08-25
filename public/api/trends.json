@@ -1,53 +1,23 @@
 {
-  "updatedAt": "2026-08-24T18:58:18.134Z",
-  "count": 3,
+  "updatedAt": "2026-08-25T01:51:40.958Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 7,
-      "query": "fromm dog food metal recall",
+      "rank": 59,
+      "query": "food recalls",
       "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "food recalls"
+        "fda food recall list us"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+dog+food+metal+recall&tz=420",
-      "increasePercentage": 900,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+recalls&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "fromm dog food metal recall food recalls",
-      "trendScore": 26,
-      "detectedAt": "2026-08-24T18:58:15.203Z"
-    },
-    {
-      "rank": 131,
-      "query": "fda food recall list us",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+food+recall+list+us&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "fda food recall list us",
-      "trendScore": 8,
-      "detectedAt": "2026-08-24T18:58:15.203Z"
-    },
-    {
-      "rank": 471,
-      "query": "prestige brand holdings eye drops recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prestige+brand+holdings+eye+drops+recall&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "prestige brand holdings eye drops recall",
-      "trendScore": 8,
-      "detectedAt": "2026-08-24T18:58:15.203Z"
+      "text": "food recalls fda food recall list us",
+      "trendScore": 11,
+      "detectedAt": "2026-08-25T01:51:38.793Z"
     }
   ]
 }

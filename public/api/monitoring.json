@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-24T18:58:18.134Z",
-  "count": 3,
+  "updatedAt": "2026-08-25T01:51:40.958Z",
+  "count": 1,
   "items": [
     {
-      "id": "fromm-dog-food-metal-recall",
-      "slug": "fromm-dog-food-metal-recall",
-      "title": "Fromm Dog Food Metal Recall: Consumer Alert Monitoring",
+      "id": "food-recalls",
+      "slug": "food-recalls",
+      "title": "Food Recalls: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fromm dog food metal recall",
+      "product": "food recalls",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,74 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+dog+food+metal+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+recalls&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
+      "searchVolume": 50000,
+      "trendScore": 11,
       "matchedQueries": [
-        "fromm dog food metal recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-24T13:11:54.341Z"
-    },
-    {
-      "id": "prestige-brand-holdings-eye-drops-recall",
-      "slug": "prestige-brand-holdings-eye-drops-recall",
-      "title": "Prestige Brand Holdings Eye Drops Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "prestige brand holdings eye drops recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=prestige+brand+holdings+eye+drops+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "prestige brand holdings eye drops recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-24T18:58:15.203Z"
-    },
-    {
-      "id": "fda-food-recall-list-us",
-      "slug": "fda-food-recall-list-us",
-      "title": "Fda Food Recall List Us: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fda food recall list us",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+food+recall+list+us&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
+        "food recalls",
         "fda food recall list us"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-24T18:58:15.203Z"
+      "lastUpdated": "2026-08-25T01:51:38.793Z"
     }
   ]
 }

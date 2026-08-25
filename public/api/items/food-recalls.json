@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-24T18:58:18.134Z",
+  "updatedAt": "2026-08-25T01:51:40.958Z",
   "item": {
-    "id": "fromm-dog-food-metal-recall",
-    "slug": "fromm-dog-food-metal-recall",
-    "title": "Fromm Dog Food Metal Recall: Consumer Alert Monitoring",
+    "id": "food-recalls",
+    "slug": "food-recalls",
+    "title": "Food Recalls: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "fromm dog food metal recall",
+    "product": "food recalls",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+dog+food+metal+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=food+recalls&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 50000,
+    "trendScore": 11,
     "matchedQueries": [
-      "fromm dog food metal recall"
+      "food recalls",
+      "fda food recall list us"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-24T13:11:54.341Z",
-    "url": "https://simon622.shop/item/fromm-dog-food-metal-recall/"
+    "lastUpdated": "2026-08-25T01:51:38.793Z",
+    "url": "https://simon622.shop/item/food-recalls/"
   }
 }

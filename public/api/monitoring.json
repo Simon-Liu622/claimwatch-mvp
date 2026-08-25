@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-08-25T13:10:41.124Z",
-  "count": 3,
+  "updatedAt": "2026-08-25T18:56:01.064Z",
+  "count": 2,
   "items": [
-    {
-      "id": "fromm-and-oma-s-pride-recall",
-      "slug": "fromm-and-oma-s-pride-recall",
-      "title": "Fromm And Oma'S Pride Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "fromm and oma's pride recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+and+oma%27s+pride+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 26,
-      "matchedQueries": [
-        "fromm and oma's pride recall",
-        "food recalls"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-25T13:10:35.791Z"
-    },
     {
       "id": "vitruvias-therapeutics-hyperthyroidism-risk-recall",
       "slug": "vitruvias-therapeutics-hyperthyroidism-risk-recall",
@@ -53,23 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+hyperthyroidism+risk+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "vitruvias therapeutics hyperthyroidism risk recall"
+        "vitruvias therapeutics hyperthyroidism risk recall",
+        "vitruvias therapeutics thyroid tablet recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-25T13:10:35.791Z"
+      "lastUpdated": "2026-08-25T18:55:55.048Z"
     },
     {
-      "id": "fda-food-recall-list-us",
-      "slug": "fda-food-recall-list-us",
-      "title": "Fda Food Recall List Us: Consumer Alert Monitoring",
+      "id": "fromm-and-oma-s-pride-recall",
+      "slug": "fromm-and-oma-s-pride-recall",
+      "title": "Fromm And Oma'S Pride Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "fda food recall list us",
+      "product": "fromm and oma's pride recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -79,16 +50,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+food+recall+list+us&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+and+oma%27s+pride+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "fda food recall list us"
+        "fromm and oma's pride recall",
+        "food recalls"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-25T13:10:35.791Z"
+      "lastUpdated": "2026-08-25T18:55:55.048Z"
     }
   ]
 }

@@ -1,53 +1,38 @@
 {
-  "updatedAt": "2026-08-25T13:10:41.124Z",
-  "count": 3,
+  "updatedAt": "2026-08-25T18:56:01.064Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 76,
-      "query": "fromm and oma's pride recall",
-      "searchVolume": 50000,
+      "rank": 11,
+      "query": "vitruvias therapeutics hyperthyroidism risk recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "food recalls"
+        "vitruvias therapeutics thyroid tablet recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+and+oma%27s+pride+recall&tz=420",
-      "increasePercentage": 300,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+hyperthyroidism+risk+recall&tz=420",
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "fromm and oma's pride recall food recalls",
+      "text": "vitruvias therapeutics hyperthyroidism risk recall vitruvias therapeutics thyroid tablet recall",
       "trendScore": 26,
-      "detectedAt": "2026-08-25T13:10:35.791Z"
+      "detectedAt": "2026-08-25T18:55:55.048Z"
     },
     {
-      "rank": 27,
-      "query": "vitruvias therapeutics hyperthyroidism risk recall",
-      "searchVolume": 10000,
+      "rank": 46,
+      "query": "fromm and oma's pride recall",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+hyperthyroidism+risk+recall&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "vitruvias therapeutics hyperthyroidism risk recall",
-      "trendScore": 23,
-      "detectedAt": "2026-08-25T13:10:35.791Z"
-    },
-    {
-      "rank": 290,
-      "query": "fda food recall list us",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+food+recall+list+us&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fromm+and+oma%27s+pride+recall&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "fda food recall list us",
-      "trendScore": 8,
-      "detectedAt": "2026-08-25T13:10:35.791Z"
+      "text": "fromm and oma's pride recall",
+      "trendScore": 23,
+      "detectedAt": "2026-08-25T18:55:55.048Z"
     }
   ]
 }

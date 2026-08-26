@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-26T13:15:46.341Z",
-  "count": 3,
+  "updatedAt": "2026-08-26T20:02:40.325Z",
+  "count": 4,
   "items": [
+    {
+      "id": "meta",
+      "slug": "meta",
+      "title": "Meta: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "meta",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=meta&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 50000,
+      "trendScore": 42,
+      "matchedQueries": [
+        "meta",
+        "meta settlement",
+        "meta lawsuit settlement",
+        "meta stock price",
+        "meta stock",
+        "meta lawsuit",
+        "meta settlement 2026"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-26T20:02:36.837Z"
+    },
     {
       "id": "kroger-pharmacy-settlement-eligibility",
       "slug": "kroger-pharmacy-settlement-eligibility",
@@ -23,44 +58,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kroger+pharmacy+settlement+eligibility&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
+      "searchVolume": 2000,
       "trendScore": 31,
       "matchedQueries": [
         "kroger pharmacy settlement eligibility"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-26T13:15:43.735Z"
-    },
-    {
-      "id": "vitruvias-therapeutics-superpotent-medication-recall",
-      "slug": "vitruvias-therapeutics-superpotent-medication-recall",
-      "title": "Vitruvias Therapeutics Superpotent Medication Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "vitruvias therapeutics superpotent medication recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+superpotent+medication+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "vitruvias therapeutics superpotent medication recall",
-        "vitruvias therapeutics thyroid tablet recall",
-        "thyroid medication recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-26T13:15:43.735Z"
+      "lastUpdated": "2026-08-26T20:02:36.837Z"
     },
     {
       "id": "better-bakehouse-snack-company-recall",
@@ -83,13 +87,42 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=better+bakehouse+snack+company+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 20000,
+      "trendScore": 24,
       "matchedQueries": [
         "better bakehouse snack company recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-26T13:15:43.735Z"
+      "lastUpdated": "2026-08-26T20:02:36.837Z"
+    },
+    {
+      "id": "thyroid-medication-recall",
+      "slug": "thyroid-medication-recall",
+      "title": "Thyroid Medication Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "thyroid medication recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thyroid+medication+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "thyroid medication recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-26T20:02:36.837Z"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-27T09:47:51.986Z",
+  "updatedAt": "2026-08-27T22:15:40.585Z",
   "item": {
-    "id": "letitia-james",
-    "slug": "letitia-james",
-    "title": "Letitia James: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "usda-argentine-beef-recall-texas-florida",
+    "slug": "usda-argentine-beef-recall-texas-florida",
+    "title": "Usda Argentine Beef Recall Texas Florida: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "letitia james",
-    "category": "Consumer monitoring",
+    "product": "usda argentine beef recall texas florida",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=letitia+james&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+argentine+beef+recall+texas+florida&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
-    "trendScore": 25,
+    "trendScore": 8,
     "matchedQueries": [
-      "letitia james",
-      "rensselaer county sheriff federal lawsuit"
+      "usda argentine beef recall texas florida"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-27T09:47:49.723Z",
-    "url": "https://simon622.shop/item/letitia-james/"
+    "lastUpdated": "2026-08-27T22:15:35.729Z",
+    "url": "https://simon622.shop/item/usda-argentine-beef-recall-texas-florida/"
   }
 }

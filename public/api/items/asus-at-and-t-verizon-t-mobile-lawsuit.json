@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-27T09:47:51.986Z",
+  "updatedAt": "2026-08-27T22:15:40.585Z",
   "item": {
-    "id": "it",
-    "slug": "it",
-    "title": "It: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "asus-at-and-t-verizon-t-mobile-lawsuit",
+    "slug": "asus-at-and-t-verizon-t-mobile-lawsuit",
+    "title": "Asus At&T Verizon T-Mobile Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "it",
+    "product": "asus at&t verizon t-mobile lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,24 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=it&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asus+at%26t+verizon+t-mobile+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 100000,
-    "trendScore": 44,
+    "searchVolume": 500,
+    "trendScore": 23,
     "matchedQueries": [
-      "it",
-      "meta",
-      "meta settlement",
-      "meta stock",
-      "meta lawsuit settlement",
-      "meta stock price",
-      "meta lawsuit",
-      "rob bonta",
-      "meta settlement 2026"
+      "asus at&t verizon t-mobile lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-27T09:47:49.723Z",
-    "url": "https://simon622.shop/item/it/"
+    "lastUpdated": "2026-08-27T22:15:35.729Z",
+    "url": "https://simon622.shop/item/asus-at-and-t-verizon-t-mobile-lawsuit/"
   }
 }

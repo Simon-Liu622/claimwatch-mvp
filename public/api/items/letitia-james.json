@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-26T20:02:40.325Z",
+  "updatedAt": "2026-08-27T09:47:51.986Z",
   "item": {
-    "id": "meta",
-    "slug": "meta",
-    "title": "Meta: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "letitia-james",
+    "slug": "letitia-james",
+    "title": "Letitia James: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "meta",
+    "product": "letitia james",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,22 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=meta&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=letitia+james&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 42,
+    "searchVolume": 5000,
+    "trendScore": 25,
     "matchedQueries": [
-      "meta",
-      "meta settlement",
-      "meta lawsuit settlement",
-      "meta stock price",
-      "meta stock",
-      "meta lawsuit",
-      "meta settlement 2026"
+      "letitia james",
+      "rensselaer county sheriff federal lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-26T20:02:36.837Z",
-    "url": "https://simon622.shop/item/meta/"
+    "lastUpdated": "2026-08-27T09:47:49.723Z",
+    "url": "https://simon622.shop/item/letitia-james/"
   }
 }

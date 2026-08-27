@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T20:02:40.325Z",
+  "updatedAt": "2026-08-27T09:47:51.986Z",
   "item": {
     "id": "cpsc-26693",
     "slug": "cpsc-26693",
@@ -18,13 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Yamazuki-Recalls-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violates-Mandatory-Standard-for-ATVs",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 20000,
+    "trendScore": 13,
+    "matchedQueries": [
+      "republican reaction trump trade policy",
+      "beef recall",
+      "beef recalls"
+    ],
     "officialVerified": true,
     "officialRecordId": "26693",
     "recallInitiationDate": "2026-08-13T00:00:00",
-    "lastUpdated": "2026-08-26T20:02:36.837Z",
+    "lastUpdated": "2026-08-27T09:47:49.723Z",
     "url": "https://simon622.shop/item/cpsc-26693/"
   }
 }

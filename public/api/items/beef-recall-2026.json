@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-26T20:02:40.325Z",
+  "updatedAt": "2026-08-27T09:47:51.986Z",
   "item": {
-    "id": "better-bakehouse-snack-company-recall",
-    "slug": "better-bakehouse-snack-company-recall",
-    "title": "Better Bakehouse Snack Company Recall: Consumer Alert Monitoring",
+    "id": "beef-recall-2026",
+    "slug": "beef-recall-2026",
+    "title": "Beef Recall 2026: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "better bakehouse snack company recall",
+    "product": "beef recall 2026",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=better+bakehouse+snack+company+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recall+2026&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 1000,
+    "trendScore": 8,
     "matchedQueries": [
-      "better bakehouse snack company recall"
+      "beef recall 2026"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-26T20:02:36.837Z",
-    "url": "https://simon622.shop/item/better-bakehouse-snack-company-recall/"
+    "lastUpdated": "2026-08-27T09:47:49.723Z",
+    "url": "https://simon622.shop/item/beef-recall-2026/"
   }
 }

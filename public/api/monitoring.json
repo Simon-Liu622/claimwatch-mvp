@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-08-28T11:22:59.598Z",
-  "count": 4,
+  "updatedAt": "2026-08-28T22:19:53.258Z",
+  "count": 3,
   "items": [
     {
-      "id": "anthropic-lawsuit-against-department-of-defense",
-      "slug": "anthropic-lawsuit-against-department-of-defense",
-      "title": "Anthropic Lawsuit Against Department Of Defense: Consumer Alert Monitoring",
+      "id": "anthropic",
+      "slug": "anthropic",
+      "title": "Anthropic: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "anthropic lawsuit against department of defense",
+      "product": "anthropic",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic+lawsuit+against+department+of+defense&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 25,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "anthropic lawsuit against department of defense",
-        "anthropic"
+        "anthropic",
+        "anthropic lawsuit against department of defense"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-28T11:22:54.703Z"
+      "lastUpdated": "2026-08-28T22:19:37.001Z"
     },
     {
       "id": "iv-fluid-recall",
@@ -54,12 +54,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "iv fluid recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-28T11:22:54.703Z"
+      "lastUpdated": "2026-08-28T22:19:37.001Z"
     },
     {
       "id": "shanghai-ravioli-corporation-chicken-recall",
@@ -82,42 +82,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "shanghai ravioli corporation chicken recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-28T11:22:54.703Z"
-    },
-    {
-      "id": "asus-at-and-t-verizon-t-mobile-lawsuit",
-      "slug": "asus-at-and-t-verizon-t-mobile-lawsuit",
-      "title": "Asus At&T Verizon T-Mobile Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "asus at&t verizon t-mobile lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asus+at%26t+verizon+t-mobile+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "asus at&t verizon t-mobile lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-28T11:22:54.703Z"
+      "lastUpdated": "2026-08-28T22:19:37.001Z"
     }
   ]
 }

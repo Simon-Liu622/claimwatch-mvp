@@ -1,88 +1,89 @@
 {
-  "updatedAt": "2026-08-28T11:22:59.598Z",
+  "updatedAt": "2026-08-28T22:19:53.258Z",
   "count": 5,
   "trends": [
     {
-      "rank": 62,
-      "query": "beef recalled",
-      "searchVolume": 50000,
+      "rank": 28,
+      "query": "jasmine rice recalled",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "product recall",
-        "beef recall 2026",
-        "usda argentine beef recall texas florida",
-        "recalls"
+        "white rice recall",
+        "rice recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jasmine+rice+recalled&tz=420",
+      "increasePercentage": 500,
+      "source": "serpapi-google-trends",
+      "text": "jasmine rice recalled white rice recall rice recall",
+      "trendScore": 28,
+      "detectedAt": "2026-08-28T22:19:37.001Z"
+    },
+    {
+      "rank": 151,
+      "query": "beef recalled",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "recalls",
+        "beef recall 2026"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "beef recalled product recall beef recall 2026 usda argentine beef recall texas florida recalls",
-      "trendScore": 32,
-      "detectedAt": "2026-08-28T11:22:54.703Z"
+      "text": "beef recalled recalls beef recall 2026",
+      "trendScore": 12,
+      "detectedAt": "2026-08-28T22:19:37.001Z"
     },
     {
-      "rank": 98,
-      "query": "anthropic lawsuit against department of defense",
-      "searchVolume": 500,
+      "rank": 227,
+      "query": "anthropic",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "anthropic"
+        "anthropic lawsuit against department of defense"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic+lawsuit+against+department+of+defense&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "anthropic lawsuit against department of defense anthropic",
-      "trendScore": 25,
-      "detectedAt": "2026-08-28T11:22:54.703Z"
+      "text": "anthropic anthropic lawsuit against department of defense",
+      "trendScore": 10,
+      "detectedAt": "2026-08-28T22:19:37.001Z"
     },
     {
-      "rank": 67,
+      "rank": 125,
+      "query": "shanghai ravioli corporation chicken recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "shanghai ravioli corporation chicken recall",
+      "trendScore": 8,
+      "detectedAt": "2026-08-28T22:19:37.001Z"
+    },
+    {
+      "rank": 150,
       "query": "iv fluid recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iv+fluid+recall&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "iv fluid recall",
-      "trendScore": 23,
-      "detectedAt": "2026-08-28T11:22:54.703Z"
-    },
-    {
-      "rank": 75,
-      "query": "shanghai ravioli corporation chicken recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "shanghai ravioli corporation chicken recall",
-      "trendScore": 23,
-      "detectedAt": "2026-08-28T11:22:54.703Z"
-    },
-    {
-      "rank": 260,
-      "query": "asus at&t verizon t-mobile lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asus+at%26t+verizon+t-mobile+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "asus at&t verizon t-mobile lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-08-28T11:22:54.703Z"
+      "detectedAt": "2026-08-28T22:19:37.001Z"
     }
   ]
 }

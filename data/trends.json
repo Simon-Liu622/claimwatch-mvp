@@ -1,47 +1,84 @@
 [
   {
-    "rank": 13,
-    "query": "product recall",
-    "searchVolume": 20000,
+    "rank": 62,
+    "query": "beef recalled",
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-    "increasePercentage": 1000,
+    "breakdown": [
+      "product recall",
+      "beef recall 2026",
+      "usda argentine beef recall texas florida",
+      "recalls"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "product recall",
-    "trendScore": 24,
-    "detectedAt": "2026-08-27T22:15:35.729Z"
+    "text": "beef recalled product recall beef recall 2026 usda argentine beef recall texas florida recalls",
+    "trendScore": 32,
+    "detectedAt": "2026-08-28T11:22:54.703Z"
   },
   {
-    "rank": 116,
-    "query": "asus at&t verizon t-mobile lawsuit",
+    "rank": 98,
+    "query": "anthropic lawsuit against department of defense",
     "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": true,
+    "breakdown": [
+      "anthropic"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic+lawsuit+against+department+of+defense&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "anthropic lawsuit against department of defense anthropic",
+    "trendScore": 25,
+    "detectedAt": "2026-08-28T11:22:54.703Z"
+  },
+  {
+    "rank": 67,
+    "query": "iv fluid recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iv+fluid+recall&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "iv fluid recall",
+    "trendScore": 23,
+    "detectedAt": "2026-08-28T11:22:54.703Z"
+  },
+  {
+    "rank": 75,
+    "query": "shanghai ravioli corporation chicken recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "shanghai ravioli corporation chicken recall",
+    "trendScore": 23,
+    "detectedAt": "2026-08-28T11:22:54.703Z"
+  },
+  {
+    "rank": 260,
+    "query": "asus at&t verizon t-mobile lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asus+at%26t+verizon+t-mobile+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "asus at&t verizon t-mobile lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-08-27T22:15:35.729Z"
-  },
-  {
-    "rank": 142,
-    "query": "usda argentine beef recall texas florida",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+argentine+beef+recall+texas+florida&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "usda argentine beef recall texas florida",
     "trendScore": 8,
-    "detectedAt": "2026-08-27T22:15:35.729Z"
+    "detectedAt": "2026-08-28T11:22:54.703Z"
   }
 ]

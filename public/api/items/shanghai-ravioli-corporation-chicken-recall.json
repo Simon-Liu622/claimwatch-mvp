@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-27T22:15:40.585Z",
+  "updatedAt": "2026-08-28T11:22:59.598Z",
   "item": {
-    "id": "usda-argentine-beef-recall-texas-florida",
-    "slug": "usda-argentine-beef-recall-texas-florida",
-    "title": "Usda Argentine Beef Recall Texas Florida: Consumer Alert Monitoring",
+    "id": "shanghai-ravioli-corporation-chicken-recall",
+    "slug": "shanghai-ravioli-corporation-chicken-recall",
+    "title": "Shanghai Ravioli Corporation Chicken Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "usda argentine beef recall texas florida",
+    "product": "shanghai ravioli corporation chicken recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+argentine+beef+recall+texas+florida&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
-      "usda argentine beef recall texas florida"
+      "shanghai ravioli corporation chicken recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-27T22:15:35.729Z",
-    "url": "https://simon622.shop/item/usda-argentine-beef-recall-texas-florida/"
+    "lastUpdated": "2026-08-28T11:22:54.703Z",
+    "url": "https://simon622.shop/item/shanghai-ravioli-corporation-chicken-recall/"
   }
 }

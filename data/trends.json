@@ -1,25 +1,8 @@
 [
   {
-    "rank": 68,
-    "query": "rice recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "white rice recall"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rice+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "rice recall white rice recall",
-    "trendScore": 25,
-    "detectedAt": "2026-08-29T16:42:41.516Z"
-  },
-  {
-    "rank": 110,
+    "rank": 132,
     "query": "california lottery lawsuit $750,000 ticket",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -29,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "california lottery lawsuit $750,000 ticket",
     "trendScore": 23,
-    "detectedAt": "2026-08-29T16:42:41.516Z"
+    "detectedAt": "2026-08-29T20:54:52.946Z"
   }
 ]

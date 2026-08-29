@@ -1,46 +1,16 @@
 {
-  "updatedAt": "2026-08-29T07:04:21.298Z",
+  "updatedAt": "2026-08-29T16:42:55.267Z",
   "count": 2,
   "items": [
     {
-      "id": "anthropic",
-      "slug": "anthropic",
-      "title": "Anthropic: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "anthropic",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "anthropic",
-        "anthropic lawsuit against department of defense"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-08-29T07:04:05.054Z"
-    },
-    {
-      "id": "white-rice-recall",
-      "slug": "white-rice-recall",
-      "title": "White Rice Recall: Consumer Alert Monitoring",
+      "id": "rice-recall",
+      "slug": "rice-recall",
+      "title": "Rice Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "white rice recall",
+      "product": "rice recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,17 +20,46 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rice+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 10,
+      "trendScore": 25,
       "matchedQueries": [
-        "white rice recall",
-        "rice recall"
+        "rice recall",
+        "white rice recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-08-29T07:04:05.054Z"
+      "lastUpdated": "2026-08-29T16:42:41.516Z"
+    },
+    {
+      "id": "california-lottery-lawsuit-750-000-ticket",
+      "slug": "california-lottery-lawsuit-750-000-ticket",
+      "title": "California Lottery Lawsuit $750,000 Ticket: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "california lottery lawsuit $750,000 ticket",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+lottery+lawsuit+%24750%2C000+ticket&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "california lottery lawsuit $750,000 ticket"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-29T16:42:41.516Z"
     }
   ]
 }

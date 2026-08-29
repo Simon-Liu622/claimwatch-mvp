@@ -1,40 +1,38 @@
 {
-  "updatedAt": "2026-08-29T07:04:21.298Z",
+  "updatedAt": "2026-08-29T16:42:55.267Z",
   "count": 2,
   "trends": [
     {
-      "rank": 136,
-      "query": "white rice recall",
+      "rank": 68,
+      "query": "rice recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "rice recall"
+        "white rice recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rice+recall&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "white rice recall rice recall",
-      "trendScore": 10,
-      "detectedAt": "2026-08-29T07:04:05.054Z"
+      "text": "rice recall white rice recall",
+      "trendScore": 25,
+      "detectedAt": "2026-08-29T16:42:41.516Z"
     },
     {
-      "rank": 390,
-      "query": "anthropic",
+      "rank": 110,
+      "query": "california lottery lawsuit $750,000 ticket",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "anthropic lawsuit against department of defense"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anthropic&tz=420",
-      "increasePercentage": 50,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+lottery+lawsuit+%24750%2C000+ticket&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "anthropic anthropic lawsuit against department of defense",
-      "trendScore": 10,
-      "detectedAt": "2026-08-29T07:04:05.054Z"
+      "text": "california lottery lawsuit $750,000 ticket",
+      "trendScore": 23,
+      "detectedAt": "2026-08-29T16:42:41.516Z"
     }
   ]
 }

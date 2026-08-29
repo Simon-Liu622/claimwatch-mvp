@@ -1,45 +1,26 @@
 {
-  "updatedAt": "2026-08-28T22:19:53.258Z",
-  "count": 5,
+  "updatedAt": "2026-08-29T07:04:21.298Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 28,
-      "query": "jasmine rice recalled",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "white rice recall",
-        "rice recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jasmine+rice+recalled&tz=420",
-      "increasePercentage": 500,
-      "source": "serpapi-google-trends",
-      "text": "jasmine rice recalled white rice recall rice recall",
-      "trendScore": 28,
-      "detectedAt": "2026-08-28T22:19:37.001Z"
-    },
-    {
-      "rank": 151,
-      "query": "beef recalled",
-      "searchVolume": 5000,
+      "rank": 136,
+      "query": "white rice recall",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "recalls",
-        "beef recall 2026"
+        "rice recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=beef+recalled&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "beef recalled recalls beef recall 2026",
-      "trendScore": 12,
-      "detectedAt": "2026-08-28T22:19:37.001Z"
+      "text": "white rice recall rice recall",
+      "trendScore": 10,
+      "detectedAt": "2026-08-29T07:04:05.054Z"
     },
     {
-      "rank": 227,
+      "rank": 390,
       "query": "anthropic",
       "searchVolume": 2000,
       "startedAt": "",
@@ -53,37 +34,7 @@
       "source": "serpapi-google-trends",
       "text": "anthropic anthropic lawsuit against department of defense",
       "trendScore": 10,
-      "detectedAt": "2026-08-28T22:19:37.001Z"
-    },
-    {
-      "rank": 125,
-      "query": "shanghai ravioli corporation chicken recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "shanghai ravioli corporation chicken recall",
-      "trendScore": 8,
-      "detectedAt": "2026-08-28T22:19:37.001Z"
-    },
-    {
-      "rank": 150,
-      "query": "iv fluid recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iv+fluid+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "iv fluid recall",
-      "trendScore": 8,
-      "detectedAt": "2026-08-28T22:19:37.001Z"
+      "detectedAt": "2026-08-29T07:04:05.054Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-28T22:19:53.258Z",
+  "updatedAt": "2026-08-29T07:04:21.298Z",
   "item": {
-    "id": "shanghai-ravioli-corporation-chicken-recall",
-    "slug": "shanghai-ravioli-corporation-chicken-recall",
-    "title": "Shanghai Ravioli Corporation Chicken Recall: Consumer Alert Monitoring",
+    "id": "white-rice-recall",
+    "slug": "white-rice-recall",
+    "title": "White Rice Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "shanghai ravioli corporation chicken recall",
+    "product": "white rice recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shanghai+ravioli+corporation+chicken+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 8,
+    "searchVolume": 10000,
+    "trendScore": 10,
     "matchedQueries": [
-      "shanghai ravioli corporation chicken recall"
+      "white rice recall",
+      "rice recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-28T22:19:37.001Z",
-    "url": "https://simon622.shop/item/shanghai-ravioli-corporation-chicken-recall/"
+    "lastUpdated": "2026-08-29T07:04:05.054Z",
+    "url": "https://simon622.shop/item/white-rice-recall/"
   }
 }

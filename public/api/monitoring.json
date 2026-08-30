@@ -1,5 +1,93 @@
 {
-  "updatedAt": "2026-08-30T05:23:47.516Z",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-08-30T11:54:28.803Z",
+  "count": 3,
+  "items": [
+    {
+      "id": "white-rice-recall-2026",
+      "slug": "white-rice-recall-2026",
+      "title": "White Rice Recall 2026: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "white rice recall 2026",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall+2026&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "white rice recall 2026"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-30T11:54:26.261Z"
+    },
+    {
+      "id": "mike-lindell-recount-lawsuit-minnesota",
+      "slug": "mike-lindell-recount-lawsuit-minnesota",
+      "title": "Mike Lindell Recount Lawsuit Minnesota: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "mike lindell recount lawsuit minnesota",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+lindell+recount+lawsuit+minnesota&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "mike lindell recount lawsuit minnesota"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-30T11:54:26.261Z"
+    },
+    {
+      "id": "zohran-mamdani-teachers-union-lawsuit",
+      "slug": "zohran-mamdani-teachers-union-lawsuit",
+      "title": "Zohran Mamdani Teachers Union Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "zohran mamdani teachers union lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zohran+mamdani+teachers+union+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 23,
+      "matchedQueries": [
+        "zohran mamdani teachers union lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-08-30T11:54:26.261Z"
+    }
+  ]
 }

@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:55:07.764Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 132,
-      "query": "california lottery lawsuit $750,000 ticket",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+lottery+lawsuit+%24750%2C000+ticket&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "california lottery lawsuit $750,000 ticket",
-      "trendScore": 23,
-      "detectedAt": "2026-08-29T20:54:52.946Z"
-    }
-  ]
+  "updatedAt": "2026-08-30T05:23:47.516Z",
+  "count": 0,
+  "trends": []
 }

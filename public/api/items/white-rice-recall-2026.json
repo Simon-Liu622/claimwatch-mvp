@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T11:54:28.803Z",
+  "updatedAt": "2026-08-30T16:40:36.140Z",
   "item": {
     "id": "white-rice-recall-2026",
     "slug": "white-rice-recall-2026",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=white+rice+recall+2026&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 23,
+    "searchVolume": 50000,
+    "trendScore": 24,
     "matchedQueries": [
       "white rice recall 2026"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-30T11:54:26.261Z",
+    "lastUpdated": "2026-08-30T16:40:33.636Z",
     "url": "https://simon622.shop/item/white-rice-recall-2026/"
   }
 }

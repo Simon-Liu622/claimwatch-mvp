@@ -1,8 +1,8 @@
 [
   {
-    "rank": 18,
+    "rank": 2,
     "query": "white rice recall 2026",
-    "searchVolume": 10000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -11,37 +11,67 @@
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "white rice recall 2026",
-    "trendScore": 23,
-    "detectedAt": "2026-08-30T11:54:26.261Z"
+    "trendScore": 24,
+    "detectedAt": "2026-08-30T16:40:33.636Z"
   },
   {
-    "rank": 64,
+    "rank": 35,
+    "query": "state farm hail damage lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+hail+damage+lawsuit&tz=420",
+    "increasePercentage": 800,
+    "source": "serpapi-google-trends",
+    "text": "state farm hail damage lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-08-30T16:40:33.636Z"
+  },
+  {
+    "rank": 61,
     "query": "mike lindell recount lawsuit minnesota",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+lindell+recount+lawsuit+minnesota&tz=420",
-    "increasePercentage": 600,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "mike lindell recount lawsuit minnesota",
     "trendScore": 23,
-    "detectedAt": "2026-08-30T11:54:26.261Z"
+    "detectedAt": "2026-08-30T16:40:33.636Z"
   },
   {
-    "rank": 124,
+    "rank": 98,
     "query": "zohran mamdani teachers union lawsuit",
-    "searchVolume": 200,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zohran+mamdani+teachers+union+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "zohran mamdani teachers union lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-08-30T11:54:26.261Z"
+    "detectedAt": "2026-08-30T16:40:33.636Z"
+  },
+  {
+    "rank": 441,
+    "query": "southwest airlines flight attendant lawsuit",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=southwest+airlines+flight+attendant+lawsuit&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "southwest airlines flight attendant lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-08-30T16:40:33.636Z"
   }
 ]

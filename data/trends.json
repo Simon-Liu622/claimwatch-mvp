@@ -1,62 +1,17 @@
 [
   {
-    "rank": 108,
-    "query": "state farm hail damage lawsuit",
-    "searchVolume": 10000,
+    "rank": 144,
+    "query": "northwest naturals pet food recall",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+hail+damage+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "state farm hail damage lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-31T05:33:55.142Z"
-  },
-  {
-    "rank": 146,
-    "query": "mike lindell recount lawsuit minnesota",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+lindell+recount+lawsuit+minnesota&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=northwest+naturals+pet+food+recall&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "mike lindell recount lawsuit minnesota",
+    "text": "northwest naturals pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-31T05:33:55.142Z"
-  },
-  {
-    "rank": 259,
-    "query": "zohran mamdani teachers union lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zohran+mamdani+teachers+union+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "zohran mamdani teachers union lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-31T05:33:55.142Z"
-  },
-  {
-    "rank": 559,
-    "query": "southwest airlines flight attendant lawsuit",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=southwest+airlines+flight+attendant+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "southwest airlines flight attendant lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-08-31T05:33:55.142Z"
+    "detectedAt": "2026-08-31T13:49:18.702Z"
   }
 ]

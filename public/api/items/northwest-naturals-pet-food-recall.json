@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-31T05:33:58.025Z",
+  "updatedAt": "2026-08-31T13:49:32.587Z",
   "item": {
-    "id": "mike-lindell-recount-lawsuit-minnesota",
-    "slug": "mike-lindell-recount-lawsuit-minnesota",
-    "title": "Mike Lindell Recount Lawsuit Minnesota: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "northwest-naturals-pet-food-recall",
+    "slug": "northwest-naturals-pet-food-recall",
+    "title": "Northwest Naturals Pet Food Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "mike lindell recount lawsuit minnesota",
-    "category": "Consumer monitoring",
+    "product": "northwest naturals pet food recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mike+lindell+recount+lawsuit+minnesota&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=northwest+naturals+pet+food+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 500,
     "trendScore": 8,
     "matchedQueries": [
-      "mike lindell recount lawsuit minnesota"
+      "northwest naturals pet food recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-08-31T05:33:55.142Z",
-    "url": "https://simon622.shop/item/mike-lindell-recount-lawsuit-minnesota/"
+    "lastUpdated": "2026-08-31T13:49:18.702Z",
+    "url": "https://simon622.shop/item/northwest-naturals-pet-food-recall/"
   }
 }

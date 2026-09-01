@@ -1,38 +1,24 @@
 [
   {
-    "rank": 23,
-    "query": "mangoes recalled",
-    "searchVolume": 10000,
+    "rank": 98,
+    "query": "sony digital game ownership lawsuit",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "mango recall"
+      "digital game license vs ownership",
+      "playstation class action lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mangoes+recalled&tz=420",
-    "increasePercentage": 700,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "mangoes recalled mango recall",
-    "trendScore": 25,
-    "detectedAt": "2026-09-01T16:39:36.780Z"
+    "text": "sony digital game ownership lawsuit digital game license vs ownership playstation class action lawsuit",
+    "trendScore": 35,
+    "detectedAt": "2026-09-01T21:01:43.518Z"
   },
   {
-    "rank": 300,
-    "query": "playstation class action lawsuit",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation+class+action+lawsuit&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "playstation class action lawsuit",
-    "trendScore": 16,
-    "detectedAt": "2026-09-01T16:39:36.780Z"
-  },
-  {
-    "rank": 236,
+    "rank": 252,
     "query": "copper property trust onyx lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -44,6 +30,6 @@
     "source": "serpapi-google-trends",
     "text": "copper property trust onyx lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-09-01T16:39:36.780Z"
+    "detectedAt": "2026-09-01T21:01:43.518Z"
   }
 ]

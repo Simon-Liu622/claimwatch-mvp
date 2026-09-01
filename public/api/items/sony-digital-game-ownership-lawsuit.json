@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-01T16:39:39.904Z",
+  "updatedAt": "2026-09-01T21:01:46.345Z",
   "item": {
-    "id": "playstation-class-action-lawsuit",
-    "slug": "playstation-class-action-lawsuit",
-    "title": "Playstation Class Action Lawsuit: Consumer Alert Monitoring",
+    "id": "sony-digital-game-ownership-lawsuit",
+    "slug": "sony-digital-game-ownership-lawsuit",
+    "title": "Sony Digital Game Ownership Lawsuit: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "playstation class action lawsuit",
+    "product": "sony digital game ownership lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation+class+action+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 16,
+    "searchVolume": 2000,
+    "trendScore": 35,
     "matchedQueries": [
+      "sony digital game ownership lawsuit",
+      "digital game license vs ownership",
       "playstation class action lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-01T16:39:36.780Z",
-    "url": "https://simon622.shop/item/playstation-class-action-lawsuit/"
+    "lastUpdated": "2026-09-01T21:01:43.518Z",
+    "url": "https://simon622.shop/item/sony-digital-game-ownership-lawsuit/"
   }
 }

@@ -1,46 +1,16 @@
 {
-  "updatedAt": "2026-09-01T16:39:39.904Z",
-  "count": 3,
+  "updatedAt": "2026-09-01T21:01:46.345Z",
+  "count": 2,
   "items": [
     {
-      "id": "mangoes-recalled",
-      "slug": "mangoes-recalled",
-      "title": "Mangoes Recalled: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "mangoes recalled",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mangoes+recalled&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
-      "matchedQueries": [
-        "mangoes recalled",
-        "mango recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-01T16:39:36.780Z"
-    },
-    {
-      "id": "playstation-class-action-lawsuit",
-      "slug": "playstation-class-action-lawsuit",
-      "title": "Playstation Class Action Lawsuit: Consumer Alert Monitoring",
+      "id": "sony-digital-game-ownership-lawsuit",
+      "slug": "sony-digital-game-ownership-lawsuit",
+      "title": "Sony Digital Game Ownership Lawsuit: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "playstation class action lawsuit",
+      "product": "sony digital game ownership lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,16 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation+class+action+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 16,
+      "searchVolume": 2000,
+      "trendScore": 35,
       "matchedQueries": [
+        "sony digital game ownership lawsuit",
+        "digital game license vs ownership",
         "playstation class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-01T16:39:36.780Z"
+      "lastUpdated": "2026-09-01T21:01:43.518Z"
     },
     {
       "id": "copper-property-trust-onyx-lawsuit",
@@ -88,7 +60,7 @@
         "copper property trust onyx lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-01T16:39:36.780Z"
+      "lastUpdated": "2026-09-01T21:01:43.518Z"
     }
   ]
 }

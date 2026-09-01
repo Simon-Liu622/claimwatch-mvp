@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:38:53.736Z",
+  "updatedAt": "2026-09-01T16:39:39.904Z",
   "item": {
     "id": "mangoes-recalled",
     "slug": "mangoes-recalled",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mangoes+recalled&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "trendScore": 25,
     "matchedQueries": [
       "mangoes recalled",
       "mango recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-01T11:38:48.571Z",
+    "lastUpdated": "2026-09-01T16:39:36.780Z",
     "url": "https://simon622.shop/item/mangoes-recalled/"
   }
 }

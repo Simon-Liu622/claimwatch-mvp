@@ -1,23 +1,6 @@
 [
   {
-    "rank": 17,
-    "query": "tofu recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "tofu recall 2026"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tofu+recall&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "tofu recall tofu recall 2026",
-    "trendScore": 26,
-    "detectedAt": "2026-08-31T22:50:05.874Z"
-  },
-  {
-    "rank": 293,
+    "rank": 367,
     "query": "northwest naturals pet food recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -29,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "northwest naturals pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-08-31T22:50:05.874Z"
+    "detectedAt": "2026-09-01T05:07:10.189Z"
   }
 ]

@@ -1,6 +1,53 @@
 [
   {
-    "rank": 367,
+    "rank": 82,
+    "query": "mangoes recalled",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "mango recall"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mangoes+recalled&tz=420",
+    "increasePercentage": 700,
+    "source": "serpapi-google-trends",
+    "text": "mangoes recalled mango recall",
+    "trendScore": 25,
+    "detectedAt": "2026-09-01T11:38:48.571Z"
+  },
+  {
+    "rank": 248,
+    "query": "playstation class action lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation+class+action+lawsuit&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "playstation class action lawsuit",
+    "trendScore": 16,
+    "detectedAt": "2026-09-01T11:38:48.571Z"
+  },
+  {
+    "rank": 236,
+    "query": "copper property trust onyx lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=copper+property+trust+onyx+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "copper property trust onyx lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-09-01T11:38:48.571Z"
+  },
+  {
+    "rank": 402,
     "query": "northwest naturals pet food recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -12,6 +59,6 @@
     "source": "serpapi-google-trends",
     "text": "northwest naturals pet food recall",
     "trendScore": 8,
-    "detectedAt": "2026-09-01T05:07:10.189Z"
+    "detectedAt": "2026-09-01T11:38:48.571Z"
   }
 ]

@@ -1,23 +1,6 @@
 [
   {
-    "rank": 272,
-    "query": "sony digital game ownership lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "digital game license vs ownership"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "sony digital game ownership lawsuit digital game license vs ownership",
-    "trendScore": 10,
-    "detectedAt": "2026-09-02T11:17:32.979Z"
-  },
-  {
-    "rank": 300,
+    "rank": 311,
     "query": "lizzo lawsuit dismissed federal judge",
     "searchVolume": 1000,
     "startedAt": "",
@@ -31,10 +14,10 @@
     "source": "serpapi-google-trends",
     "text": "lizzo lawsuit dismissed federal judge lizzo",
     "trendScore": 10,
-    "detectedAt": "2026-09-02T11:17:32.979Z"
+    "detectedAt": "2026-09-02T16:34:17.918Z"
   },
   {
-    "rank": 267,
+    "rank": 270,
     "query": "avery trainor marine corps retirement lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -46,10 +29,25 @@
     "source": "serpapi-google-trends",
     "text": "avery trainor marine corps retirement lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-09-02T11:17:32.979Z"
+    "detectedAt": "2026-09-02T16:34:17.918Z"
   },
   {
-    "rank": 384,
+    "rank": 276,
+    "query": "sony digital game ownership lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "sony digital game ownership lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-09-02T16:34:17.918Z"
+  },
+  {
+    "rank": 397,
     "query": "halloween candy recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -61,6 +59,6 @@
     "source": "serpapi-google-trends",
     "text": "halloween candy recall",
     "trendScore": 8,
-    "detectedAt": "2026-09-02T11:17:32.979Z"
+    "detectedAt": "2026-09-02T16:34:17.918Z"
   }
 ]

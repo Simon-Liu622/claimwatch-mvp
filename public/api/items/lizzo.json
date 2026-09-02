@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-01T21:01:46.345Z",
+  "updatedAt": "2026-09-02T04:33:04.461Z",
   "item": {
-    "id": "copper-property-trust-onyx-lawsuit",
-    "slug": "copper-property-trust-onyx-lawsuit",
-    "title": "Copper Property Trust Onyx Lawsuit: Consumer Alert Monitoring",
+    "id": "lizzo",
+    "slug": "lizzo",
+    "title": "Lizzo: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "copper property trust onyx lawsuit",
+    "product": "lizzo",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=copper+property+trust+onyx+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lizzo&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 1000,
+    "trendScore": 10,
     "matchedQueries": [
-      "copper property trust onyx lawsuit"
+      "lizzo",
+      "lizzo lawsuit dismissed federal judge"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-01T21:01:43.518Z",
-    "url": "https://simon622.shop/item/copper-property-trust-onyx-lawsuit/"
+    "lastUpdated": "2026-09-02T04:33:01.235Z",
+    "url": "https://simon622.shop/item/lizzo/"
   }
 }

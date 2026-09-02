@@ -1,35 +1,67 @@
 [
   {
-    "rank": 98,
+    "rank": 245,
     "query": "sony digital game ownership lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
       "digital game license vs ownership",
       "playstation class action lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
-    "increasePercentage": 75,
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
     "text": "sony digital game ownership lawsuit digital game license vs ownership playstation class action lawsuit",
-    "trendScore": 35,
-    "detectedAt": "2026-09-01T21:01:43.518Z"
+    "trendScore": 20,
+    "detectedAt": "2026-09-02T04:33:01.235Z"
   },
   {
-    "rank": 252,
-    "query": "copper property trust onyx lawsuit",
+    "rank": 208,
+    "query": "lizzo",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "lizzo lawsuit dismissed federal judge"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lizzo&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "lizzo lizzo lawsuit dismissed federal judge",
+    "trendScore": 10,
+    "detectedAt": "2026-09-02T04:33:01.235Z"
+  },
+  {
+    "rank": 235,
+    "query": "avery trainor marine corps retirement lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=copper+property+trust+onyx+lawsuit&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=avery+trainor+marine+corps+retirement+lawsuit&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "copper property trust onyx lawsuit",
+    "text": "avery trainor marine corps retirement lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-09-01T21:01:43.518Z"
+    "detectedAt": "2026-09-02T04:33:01.235Z"
+  },
+  {
+    "rank": 312,
+    "query": "halloween candy recall",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=halloween+candy+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "halloween candy recall",
+    "trendScore": 8,
+    "detectedAt": "2026-09-02T04:33:01.235Z"
   }
 ]

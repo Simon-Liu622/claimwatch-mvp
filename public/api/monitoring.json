@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T16:34:20.486Z",
-  "count": 4,
+  "updatedAt": "2026-09-02T21:02:44.233Z",
+  "count": 2,
   "items": [
     {
       "id": "lizzo-lawsuit-dismissed-federal-judge",
@@ -30,67 +30,7 @@
         "lizzo"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T16:34:17.918Z"
-    },
-    {
-      "id": "sony-digital-game-ownership-lawsuit",
-      "slug": "sony-digital-game-ownership-lawsuit",
-      "title": "Sony Digital Game Ownership Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "sony digital game ownership lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "sony digital game ownership lawsuit",
-        "digital game license vs ownership",
-        "playstation class action lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-02T16:34:17.918Z"
-    },
-    {
-      "id": "avery-trainor-marine-corps-retirement-lawsuit",
-      "slug": "avery-trainor-marine-corps-retirement-lawsuit",
-      "title": "Avery Trainor Marine Corps Retirement Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "avery trainor marine corps retirement lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=avery+trainor+marine+corps+retirement+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "avery trainor marine corps retirement lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-02T16:34:17.918Z"
+      "lastUpdated": "2026-09-02T21:02:37.538Z"
     },
     {
       "id": "halloween-candy-recall",
@@ -119,7 +59,7 @@
         "halloween candy recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T16:34:17.918Z"
+      "lastUpdated": "2026-09-02T21:02:37.538Z"
     }
   ]
 }

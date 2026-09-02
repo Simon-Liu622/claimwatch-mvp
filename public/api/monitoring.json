@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-02T04:33:04.461Z",
+  "updatedAt": "2026-09-02T11:17:37.536Z",
   "count": 4,
   "items": [
     {
       "id": "sony-digital-game-ownership-lawsuit",
       "slug": "sony-digital-game-ownership-lawsuit",
       "title": "Sony Digital Game Ownership Lawsuit: Consumer Alert Monitoring",
-      "type": "settlement",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
@@ -24,24 +24,24 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 20,
+      "trendScore": 10,
       "matchedQueries": [
         "sony digital game ownership lawsuit",
         "digital game license vs ownership",
         "playstation class action lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T04:33:01.235Z"
+      "lastUpdated": "2026-09-02T11:17:32.979Z"
     },
     {
-      "id": "lizzo",
-      "slug": "lizzo",
-      "title": "Lizzo: Consumer Alert Monitoring",
+      "id": "lizzo-lawsuit-dismissed-federal-judge",
+      "slug": "lizzo-lawsuit-dismissed-federal-judge",
+      "title": "Lizzo Lawsuit Dismissed Federal Judge: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lizzo",
+      "product": "lizzo lawsuit dismissed federal judge",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -51,17 +51,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lizzo&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lizzo+lawsuit+dismissed+federal+judge&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 1000,
       "trendScore": 10,
       "matchedQueries": [
-        "lizzo",
-        "lizzo lawsuit dismissed federal judge"
+        "lizzo lawsuit dismissed federal judge",
+        "lizzo"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T04:33:01.235Z"
+      "lastUpdated": "2026-09-02T11:17:32.979Z"
     },
     {
       "id": "avery-trainor-marine-corps-retirement-lawsuit",
@@ -90,7 +90,7 @@
         "avery trainor marine corps retirement lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T04:33:01.235Z"
+      "lastUpdated": "2026-09-02T11:17:32.979Z"
     },
     {
       "id": "halloween-candy-recall",
@@ -119,7 +119,7 @@
         "halloween candy recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-02T04:33:01.235Z"
+      "lastUpdated": "2026-09-02T11:17:32.979Z"
     }
   ]
 }

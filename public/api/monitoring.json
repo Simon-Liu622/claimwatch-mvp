@@ -1,5 +1,36 @@
 {
-  "updatedAt": "2026-09-03T11:13:40.102Z",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-09-03T16:25:07.429Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "sony-ps5-tariff-refund-lawsuit",
+      "slug": "sony-ps5-tariff-refund-lawsuit",
+      "title": "Sony Ps5 Tariff Refund Lawsuit: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "sony ps5 tariff refund lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+ps5+tariff+refund+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 33,
+      "matchedQueries": [
+        "sony ps5 tariff refund lawsuit",
+        "tariff refunds"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-03T16:24:59.482Z"
+    }
+  ]
 }

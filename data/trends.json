@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "rank": 26,
+    "query": "sony ps5 tariff refund lawsuit",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "tariff refunds"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+ps5+tariff+refund+lawsuit&tz=420",
+    "increasePercentage": 400,
+    "source": "serpapi-google-trends",
+    "text": "sony ps5 tariff refund lawsuit tariff refunds",
+    "trendScore": 33,
+    "detectedAt": "2026-09-03T16:24:59.482Z"
+  },
+  {
+    "rank": 35,
+    "query": "candy recall",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=candy+recall&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "candy recall",
+    "trendScore": 23,
+    "detectedAt": "2026-09-03T16:24:59.482Z"
+  }
+]

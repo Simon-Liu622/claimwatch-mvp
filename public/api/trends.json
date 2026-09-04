@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-09-04T04:32:40.315Z",
+  "updatedAt": "2026-09-04T11:17:11.774Z",
   "count": 4,
   "trends": [
     {
-      "rank": 156,
+      "rank": 107,
+      "query": "walmart mango recall salmonella",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "walmart mango recall salmonella",
+      "trendScore": 31,
+      "detectedAt": "2026-09-04T11:17:08.473Z"
+    },
+    {
+      "rank": 168,
       "query": "sony ps5 tariff refund lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -18,27 +33,10 @@
       "source": "serpapi-google-trends",
       "text": "sony ps5 tariff refund lawsuit sony microsoft tariff refund lawsuits tariff refunds",
       "trendScore": 20,
-      "detectedAt": "2026-09-04T04:32:34.630Z"
+      "detectedAt": "2026-09-04T11:17:08.473Z"
     },
     {
-      "rank": 150,
-      "query": "walmart mango recall fda",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "walmart mango recall salmonella"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "walmart mango recall fda walmart mango recall salmonella",
-      "trendScore": 18,
-      "detectedAt": "2026-09-04T04:32:34.630Z"
-    },
-    {
-      "rank": 247,
+      "rank": 266,
       "query": "recalled chocolate",
       "searchVolume": 2000,
       "startedAt": "",
@@ -52,10 +50,10 @@
       "source": "serpapi-google-trends",
       "text": "recalled chocolate chocolate milk taste complaints recall",
       "trendScore": 10,
-      "detectedAt": "2026-09-04T04:32:34.630Z"
+      "detectedAt": "2026-09-04T11:17:08.473Z"
     },
     {
-      "rank": 214,
+      "rank": 220,
       "query": "candy recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -67,7 +65,7 @@
       "source": "serpapi-google-trends",
       "text": "candy recall",
       "trendScore": 8,
-      "detectedAt": "2026-09-04T04:32:34.630Z"
+      "detectedAt": "2026-09-04T11:17:08.473Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-04T04:32:40.315Z",
+  "updatedAt": "2026-09-04T11:17:11.774Z",
   "item": {
-    "id": "walmart-mango-recall-fda",
-    "slug": "walmart-mango-recall-fda",
-    "title": "Walmart Mango Recall Fda: Consumer Alert Monitoring",
+    "id": "walmart-mango-recall-salmonella",
+    "slug": "walmart-mango-recall-salmonella",
+    "title": "Walmart Mango Recall Salmonella: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "walmart mango recall fda",
+    "product": "walmart mango recall salmonella",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 18,
+    "searchVolume": 1000,
+    "trendScore": 31,
     "matchedQueries": [
-      "walmart mango recall fda",
       "walmart mango recall salmonella"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-04T04:32:34.630Z",
-    "url": "https://simon622.shop/item/walmart-mango-recall-fda/"
+    "lastUpdated": "2026-09-04T11:17:08.473Z",
+    "url": "https://simon622.shop/item/walmart-mango-recall-salmonella/"
   }
 }

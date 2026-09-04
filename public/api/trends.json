@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-09-03T21:01:47.664Z",
+  "updatedAt": "2026-09-04T04:32:40.315Z",
   "count": 4,
   "trends": [
     {
-      "rank": 53,
-      "query": "walmart mango recall fda",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "walmart mango recall fda",
-      "trendScore": 23,
-      "detectedAt": "2026-09-03T21:01:45.323Z"
-    },
-    {
-      "rank": 112,
+      "rank": 156,
       "query": "sony ps5 tariff refund lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -33,10 +18,44 @@
       "source": "serpapi-google-trends",
       "text": "sony ps5 tariff refund lawsuit sony microsoft tariff refund lawsuits tariff refunds",
       "trendScore": 20,
-      "detectedAt": "2026-09-03T21:01:45.323Z"
+      "detectedAt": "2026-09-04T04:32:34.630Z"
     },
     {
-      "rank": 147,
+      "rank": 150,
+      "query": "walmart mango recall fda",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "walmart mango recall salmonella"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "walmart mango recall fda walmart mango recall salmonella",
+      "trendScore": 18,
+      "detectedAt": "2026-09-04T04:32:34.630Z"
+    },
+    {
+      "rank": 247,
+      "query": "recalled chocolate",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "chocolate milk taste complaints recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=recalled+chocolate&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "recalled chocolate chocolate milk taste complaints recall",
+      "trendScore": 10,
+      "detectedAt": "2026-09-04T04:32:34.630Z"
+    },
+    {
+      "rank": 214,
       "query": "candy recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -48,22 +67,7 @@
       "source": "serpapi-google-trends",
       "text": "candy recall",
       "trendScore": 8,
-      "detectedAt": "2026-09-03T21:01:45.323Z"
-    },
-    {
-      "rank": 229,
-      "query": "emmitt smith solar farm lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=emmitt+smith+solar+farm+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "emmitt smith solar farm lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-09-03T21:01:45.323Z"
+      "detectedAt": "2026-09-04T04:32:34.630Z"
     }
   ]
 }

@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-09-03T21:01:47.664Z",
+  "updatedAt": "2026-09-04T04:32:40.315Z",
   "count": 3,
   "items": [
-    {
-      "id": "walmart-mango-recall-fda",
-      "slug": "walmart-mango-recall-fda",
-      "title": "Walmart Mango Recall Fda: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart mango recall fda",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "walmart mango recall fda"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-03T21:01:45.323Z"
-    },
     {
       "id": "sony-ps5-tariff-refund-lawsuit",
       "slug": "sony-ps5-tariff-refund-lawsuit",
@@ -60,18 +31,18 @@
         "sony microsoft tariff refund lawsuits"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-03T21:01:45.323Z"
+      "lastUpdated": "2026-09-04T04:32:34.630Z"
     },
     {
-      "id": "emmitt-smith-solar-farm-lawsuit",
-      "slug": "emmitt-smith-solar-farm-lawsuit",
-      "title": "Emmitt Smith Solar Farm Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "walmart-mango-recall-fda",
+      "slug": "walmart-mango-recall-fda",
+      "title": "Walmart Mango Recall Fda: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "emmitt smith solar farm lawsuit",
-      "category": "Consumer monitoring",
+      "product": "walmart mango recall fda",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -80,16 +51,47 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=emmitt+smith+solar+farm+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+fda&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 18,
+      "matchedQueries": [
+        "walmart mango recall fda",
+        "walmart mango recall salmonella"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-04T04:32:34.630Z"
+    },
+    {
+      "id": "recalled-chocolate",
+      "slug": "recalled-chocolate",
+      "title": "Recalled Chocolate: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "recalled chocolate",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=recalled+chocolate&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 8,
+      "trendScore": 10,
       "matchedQueries": [
-        "emmitt smith solar farm lawsuit"
+        "recalled chocolate",
+        "chocolate milk taste complaints recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-03T21:01:45.323Z"
+      "lastUpdated": "2026-09-04T04:32:34.630Z"
     }
   ]
 }

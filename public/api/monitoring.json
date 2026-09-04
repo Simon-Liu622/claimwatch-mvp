@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T16:21:00.622Z",
-  "count": 2,
+  "updatedAt": "2026-09-04T20:45:03.545Z",
+  "count": 5,
   "items": [
     {
       "id": "walmart-mango-recall-salmonella",
@@ -29,7 +29,36 @@
         "walmart mango recall salmonella"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-04T16:20:57.406Z"
+      "lastUpdated": "2026-09-04T20:44:59.834Z"
+    },
+    {
+      "id": "alec-bohm-lawsuit-family-settlement",
+      "slug": "alec-bohm-lawsuit-family-settlement",
+      "title": "Alec Bohm Lawsuit Family Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "alec bohm lawsuit family settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm+lawsuit+family+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 16,
+      "matchedQueries": [
+        "alec bohm lawsuit family settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-04T20:44:59.834Z"
     },
     {
       "id": "chocolate-milk-taste-complaints-recall",
@@ -58,7 +87,65 @@
         "chocolate milk taste complaints recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-04T16:20:57.406Z"
+      "lastUpdated": "2026-09-04T20:44:59.834Z"
+    },
+    {
+      "id": "walmart-frozen-berry-e-coli-recall",
+      "slug": "walmart-frozen-berry-e-coli-recall",
+      "title": "Walmart Frozen Berry E Coli Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "walmart frozen berry e coli recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+e+coli+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "walmart frozen berry e coli recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-04T20:44:59.834Z"
+    },
+    {
+      "id": "consumer-product-safety-commission-toy-recall",
+      "slug": "consumer-product-safety-commission-toy-recall",
+      "title": "Consumer Product Safety Commission Toy Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "consumer product safety commission toy recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+product+safety+commission+toy+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "consumer product safety commission toy recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-04T20:44:59.834Z"
     }
   ]
 }

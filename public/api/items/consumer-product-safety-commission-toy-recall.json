@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-09-04T20:45:03.545Z",
+  "item": {
+    "id": "consumer-product-safety-commission-toy-recall",
+    "slug": "consumer-product-safety-commission-toy-recall",
+    "title": "Consumer Product Safety Commission Toy Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "consumer product safety commission toy recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+product+safety+commission+toy+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "consumer product safety commission toy recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-09-04T20:44:59.834Z",
+    "url": "https://simon622.shop/item/consumer-product-safety-commission-toy-recall/"
+  }
+}

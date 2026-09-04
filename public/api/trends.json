@@ -1,71 +1,36 @@
 {
-  "updatedAt": "2026-09-04T11:17:11.774Z",
-  "count": 4,
+  "updatedAt": "2026-09-04T16:21:00.622Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 107,
+      "rank": 146,
       "query": "walmart mango recall salmonella",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "walmart mango recall salmonella",
-      "trendScore": 31,
-      "detectedAt": "2026-09-04T11:17:08.473Z"
+      "trendScore": 16,
+      "detectedAt": "2026-09-04T16:20:57.406Z"
     },
     {
-      "rank": 168,
-      "query": "sony ps5 tariff refund lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "sony microsoft tariff refund lawsuits",
-        "tariff refunds"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+ps5+tariff+refund+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "sony ps5 tariff refund lawsuit sony microsoft tariff refund lawsuits tariff refunds",
-      "trendScore": 20,
-      "detectedAt": "2026-09-04T11:17:08.473Z"
-    },
-    {
-      "rank": 266,
-      "query": "recalled chocolate",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "chocolate milk taste complaints recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=recalled+chocolate&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "recalled chocolate chocolate milk taste complaints recall",
-      "trendScore": 10,
-      "detectedAt": "2026-09-04T11:17:08.473Z"
-    },
-    {
-      "rank": 220,
-      "query": "candy recall",
-      "searchVolume": 5000,
+      "rank": 352,
+      "query": "chocolate milk taste complaints recall",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=candy+recall&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+milk+taste+complaints+recall&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "candy recall",
+      "text": "chocolate milk taste complaints recall",
       "trendScore": 8,
-      "detectedAt": "2026-09-04T11:17:08.473Z"
+      "detectedAt": "2026-09-04T16:20:57.406Z"
     }
   ]
 }

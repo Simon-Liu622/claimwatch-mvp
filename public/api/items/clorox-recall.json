@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T15:13:42.333Z",
+  "updatedAt": "2026-09-05T20:20:18.940Z",
   "item": {
     "id": "clorox-recall",
     "slug": "clorox-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clorox+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 23,
     "matchedQueries": [
       "clorox recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-05T15:13:28.173Z",
+    "lastUpdated": "2026-09-05T20:20:12.770Z",
     "url": "https://simon622.shop/item/clorox-recall/"
   }
 }

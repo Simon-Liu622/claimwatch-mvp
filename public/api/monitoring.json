@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-05T10:35:07.286Z",
-  "count": 3,
+  "updatedAt": "2026-09-05T15:13:42.333Z",
+  "count": 2,
   "items": [
     {
-      "id": "alec-bohm-lawsuit-family-settlement",
-      "slug": "alec-bohm-lawsuit-family-settlement",
-      "title": "Alec Bohm Lawsuit Family Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "clorox-recall",
+      "slug": "clorox-recall",
+      "title": "Clorox Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "alec bohm lawsuit family settlement",
-      "category": "Consumer monitoring",
+      "product": "clorox recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,16 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm+lawsuit+family+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clorox+recall&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 16,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "alec bohm lawsuit family settlement"
+        "clorox recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T10:35:02.550Z"
+      "lastUpdated": "2026-09-05T15:13:28.173Z"
     },
     {
       "id": "walmart-frozen-berry-recall-e-coli",
@@ -53,42 +53,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 10,
+      "trendScore": 8,
       "matchedQueries": [
         "walmart frozen berry recall e coli",
         "walmart frozen berry e coli recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T10:35:02.550Z"
-    },
-    {
-      "id": "consumer-product-safety-commission-toy-recall",
-      "slug": "consumer-product-safety-commission-toy-recall",
-      "title": "Consumer Product Safety Commission Toy Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "consumer product safety commission toy recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=consumer+product+safety+commission+toy+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "consumer product safety commission toy recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-05T10:35:02.550Z"
+      "lastUpdated": "2026-09-05T15:13:28.173Z"
     }
   ]
 }

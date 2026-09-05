@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-04T20:45:03.545Z",
+  "updatedAt": "2026-09-05T04:28:17.025Z",
   "item": {
-    "id": "walmart-mango-recall-salmonella",
-    "slug": "walmart-mango-recall-salmonella",
-    "title": "Walmart Mango Recall Salmonella: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "alec-bohm",
+    "slug": "alec-bohm",
+    "title": "Alec Bohm: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "walmart mango recall salmonella",
-    "category": "Recall monitoring",
+    "product": "alec bohm",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 16,
+    "searchVolume": 1000,
+    "trendScore": 18,
     "matchedQueries": [
-      "walmart mango recall salmonella"
+      "alec bohm",
+      "alec bohm lawsuit family settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-04T20:44:59.834Z",
-    "url": "https://simon622.shop/item/walmart-mango-recall-salmonella/"
+    "lastUpdated": "2026-09-05T04:28:14.881Z",
+    "url": "https://simon622.shop/item/alec-bohm/"
   }
 }

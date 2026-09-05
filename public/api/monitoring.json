@@ -1,45 +1,16 @@
 {
-  "updatedAt": "2026-09-04T20:45:03.545Z",
-  "count": 5,
+  "updatedAt": "2026-09-05T04:28:17.025Z",
+  "count": 3,
   "items": [
     {
-      "id": "walmart-mango-recall-salmonella",
-      "slug": "walmart-mango-recall-salmonella",
-      "title": "Walmart Mango Recall Salmonella: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart mango recall salmonella",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 16,
-      "matchedQueries": [
-        "walmart mango recall salmonella"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-04T20:44:59.834Z"
-    },
-    {
-      "id": "alec-bohm-lawsuit-family-settlement",
-      "slug": "alec-bohm-lawsuit-family-settlement",
-      "title": "Alec Bohm Lawsuit Family Settlement: Consumer Alert Monitoring",
+      "id": "alec-bohm",
+      "slug": "alec-bohm",
+      "title": "Alec Bohm: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "alec bohm lawsuit family settlement",
+      "product": "alec bohm",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,26 +20,27 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm+lawsuit+family+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 200,
-      "trendScore": 16,
+      "searchVolume": 1000,
+      "trendScore": 18,
       "matchedQueries": [
+        "alec bohm",
         "alec bohm lawsuit family settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-04T20:44:59.834Z"
+      "lastUpdated": "2026-09-05T04:28:14.881Z"
     },
     {
-      "id": "chocolate-milk-taste-complaints-recall",
-      "slug": "chocolate-milk-taste-complaints-recall",
-      "title": "Chocolate Milk Taste Complaints Recall: Consumer Alert Monitoring",
+      "id": "walmart-frozen-berry-recall-e-coli",
+      "slug": "walmart-frozen-berry-recall-e-coli",
+      "title": "Walmart Frozen Berry Recall E Coli: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "chocolate milk taste complaints recall",
+      "product": "walmart frozen berry recall e coli",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -78,45 +50,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+milk+taste+complaints+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+recall+e+coli&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "chocolate milk taste complaints recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-04T20:44:59.834Z"
-    },
-    {
-      "id": "walmart-frozen-berry-e-coli-recall",
-      "slug": "walmart-frozen-berry-e-coli-recall",
-      "title": "Walmart Frozen Berry E Coli Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart frozen berry e coli recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+e+coli+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
+        "walmart frozen berry recall e coli",
         "walmart frozen berry e coli recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-04T20:44:59.834Z"
+      "lastUpdated": "2026-09-05T04:28:14.881Z"
     },
     {
       "id": "consumer-product-safety-commission-toy-recall",
@@ -145,7 +89,7 @@
         "consumer product safety commission toy recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-04T20:44:59.834Z"
+      "lastUpdated": "2026-09-05T04:28:14.881Z"
     }
   ]
 }

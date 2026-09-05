@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-04T20:45:03.545Z",
+  "updatedAt": "2026-09-05T04:28:17.025Z",
   "item": {
-    "id": "chocolate-milk-taste-complaints-recall",
-    "slug": "chocolate-milk-taste-complaints-recall",
-    "title": "Chocolate Milk Taste Complaints Recall: Consumer Alert Monitoring",
+    "id": "walmart-frozen-berry-recall-e-coli",
+    "slug": "walmart-frozen-berry-recall-e-coli",
+    "title": "Walmart Frozen Berry Recall E Coli: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "chocolate milk taste complaints recall",
+    "product": "walmart frozen berry recall e coli",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+milk+taste+complaints+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+recall+e+coli&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "chocolate milk taste complaints recall"
+      "walmart frozen berry recall e coli",
+      "walmart frozen berry e coli recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-04T20:44:59.834Z",
-    "url": "https://simon622.shop/item/chocolate-milk-taste-complaints-recall/"
+    "lastUpdated": "2026-09-05T04:28:14.881Z",
+    "url": "https://simon622.shop/item/walmart-frozen-berry-recall-e-coli/"
   }
 }

@@ -1,54 +1,43 @@
 {
-  "updatedAt": "2026-09-04T20:45:03.545Z",
-  "count": 5,
+  "updatedAt": "2026-09-05T04:28:17.025Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 191,
-      "query": "walmart mango recall salmonella",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+mango+recall+salmonella&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "walmart mango recall salmonella",
-      "trendScore": 16,
-      "detectedAt": "2026-09-04T20:44:59.834Z"
-    },
-    {
-      "rank": 358,
-      "query": "alec bohm lawsuit family settlement",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm+lawsuit+family+settlement&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "alec bohm lawsuit family settlement",
-      "trendScore": 16,
-      "detectedAt": "2026-09-04T20:44:59.834Z"
-    },
-    {
       "rank": 249,
-      "query": "walmart frozen berry e coli recall",
+      "query": "alec bohm",
       "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+e+coli+recall&tz=420",
+      "breakdown": [
+        "alec bohm lawsuit family settlement"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "walmart frozen berry e coli recall",
-      "trendScore": 8,
-      "detectedAt": "2026-09-04T20:44:59.834Z"
+      "text": "alec bohm alec bohm lawsuit family settlement",
+      "trendScore": 18,
+      "detectedAt": "2026-09-05T04:28:14.881Z"
     },
     {
-      "rank": 260,
+      "rank": 188,
+      "query": "walmart frozen berry recall e coli",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "walmart frozen berry e coli recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+recall+e+coli&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "walmart frozen berry recall e coli walmart frozen berry e coli recall",
+      "trendScore": 10,
+      "detectedAt": "2026-09-05T04:28:14.881Z"
+    },
+    {
+      "rank": 381,
       "query": "consumer product safety commission toy recall",
       "searchVolume": 500,
       "startedAt": "",
@@ -60,22 +49,7 @@
       "source": "serpapi-google-trends",
       "text": "consumer product safety commission toy recall",
       "trendScore": 8,
-      "detectedAt": "2026-09-04T20:44:59.834Z"
-    },
-    {
-      "rank": 355,
-      "query": "chocolate milk taste complaints recall",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chocolate+milk+taste+complaints+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "chocolate milk taste complaints recall",
-      "trendScore": 8,
-      "detectedAt": "2026-09-04T20:44:59.834Z"
+      "detectedAt": "2026-09-05T04:28:14.881Z"
     }
   ]
 }

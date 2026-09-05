@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-05T04:28:17.025Z",
+  "updatedAt": "2026-09-05T10:35:07.286Z",
   "count": 3,
   "items": [
     {
-      "id": "alec-bohm",
-      "slug": "alec-bohm",
-      "title": "Alec Bohm: Consumer Alert Monitoring",
+      "id": "alec-bohm-lawsuit-family-settlement",
+      "slug": "alec-bohm-lawsuit-family-settlement",
+      "title": "Alec Bohm Lawsuit Family Settlement: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "alec bohm",
+      "product": "alec bohm lawsuit family settlement",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alec+bohm+lawsuit+family+settlement&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 18,
+      "searchVolume": 200,
+      "trendScore": 16,
       "matchedQueries": [
-        "alec bohm",
         "alec bohm lawsuit family settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T04:28:14.881Z"
+      "lastUpdated": "2026-09-05T10:35:02.550Z"
     },
     {
       "id": "walmart-frozen-berry-recall-e-coli",
@@ -60,7 +59,7 @@
         "walmart frozen berry e coli recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T04:28:14.881Z"
+      "lastUpdated": "2026-09-05T10:35:02.550Z"
     },
     {
       "id": "consumer-product-safety-commission-toy-recall",
@@ -89,7 +88,7 @@
         "consumer product safety commission toy recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T04:28:14.881Z"
+      "lastUpdated": "2026-09-05T10:35:02.550Z"
     }
   ]
 }

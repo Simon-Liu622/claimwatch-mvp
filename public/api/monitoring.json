@@ -1,45 +1,16 @@
 {
-  "updatedAt": "2026-09-06T04:38:05.411Z",
-  "count": 4,
+  "updatedAt": "2026-09-06T10:55:40.140Z",
+  "count": 3,
   "items": [
     {
-      "id": "clorox-recall",
-      "slug": "clorox-recall",
-      "title": "Clorox Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "clorox recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clorox+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "clorox recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-06T04:37:59.366Z"
-    },
-    {
-      "id": "matt-gutman-abc-lawsuit-dismissed",
-      "slug": "matt-gutman-abc-lawsuit-dismissed",
-      "title": "Matt Gutman Abc Lawsuit Dismissed: Consumer Alert Monitoring",
+      "id": "matt-gutman-dropped-from-lawsuit",
+      "slug": "matt-gutman-dropped-from-lawsuit",
+      "title": "Matt Gutman Dropped From Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "matt gutman abc lawsuit dismissed",
+      "product": "matt gutman dropped from lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,19 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+dropped+from+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 15,
+      "trendScore": 30,
       "matchedQueries": [
+        "matt gutman dropped from lawsuit",
         "matt gutman abc lawsuit dismissed",
-        "cbs",
         "abc",
-        "matt gutman dropped from lawsuit"
+        "cbs"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T04:37:59.366Z"
+      "lastUpdated": "2026-09-06T10:55:37.275Z"
     },
     {
       "id": "class-action",
@@ -90,7 +61,7 @@
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T04:37:59.366Z"
+      "lastUpdated": "2026-09-06T10:55:37.275Z"
     },
     {
       "id": "kyrsten-sinema-north-carolina-lawsuit",
@@ -119,7 +90,7 @@
         "kyrsten sinema north carolina lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T04:37:59.366Z"
+      "lastUpdated": "2026-09-06T10:55:37.275Z"
     }
   ]
 }

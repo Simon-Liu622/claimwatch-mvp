@@ -1,40 +1,25 @@
 [
   {
-    "rank": 46,
-    "query": "clorox recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clorox+recall&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "clorox recall",
-    "trendScore": 23,
-    "detectedAt": "2026-09-06T04:37:59.366Z"
-  },
-  {
-    "rank": 163,
-    "query": "matt gutman abc lawsuit dismissed",
+    "rank": 97,
+    "query": "matt gutman dropped from lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
+      "matt gutman abc lawsuit dismissed",
       "abc",
-      "matt gutman dropped from lawsuit",
       "cbs"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+dropped+from+lawsuit&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "matt gutman abc lawsuit dismissed abc matt gutman dropped from lawsuit cbs",
-    "trendScore": 15,
-    "detectedAt": "2026-09-06T04:37:59.366Z"
+    "text": "matt gutman dropped from lawsuit matt gutman abc lawsuit dismissed abc cbs",
+    "trendScore": 30,
+    "detectedAt": "2026-09-06T10:55:37.275Z"
   },
   {
-    "rank": 260,
+    "rank": 226,
     "query": "class action",
     "searchVolume": 5000,
     "startedAt": "",
@@ -46,10 +31,10 @@
     "source": "serpapi-google-trends",
     "text": "class action",
     "trendScore": 8,
-    "detectedAt": "2026-09-06T04:37:59.366Z"
+    "detectedAt": "2026-09-06T10:55:37.275Z"
   },
   {
-    "rank": 405,
+    "rank": 400,
     "query": "kyrsten sinema north carolina lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -61,6 +46,6 @@
     "source": "serpapi-google-trends",
     "text": "kyrsten sinema north carolina lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-09-06T04:37:59.366Z"
+    "detectedAt": "2026-09-06T10:55:37.275Z"
   }
 ]

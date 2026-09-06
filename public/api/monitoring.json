@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-06T10:55:40.140Z",
+  "updatedAt": "2026-09-06T15:27:52.341Z",
   "count": 3,
   "items": [
     {
-      "id": "matt-gutman-dropped-from-lawsuit",
-      "slug": "matt-gutman-dropped-from-lawsuit",
-      "title": "Matt Gutman Dropped From Lawsuit: Consumer Alert Monitoring",
+      "id": "matt-gutman-abc-lawsuit-dismissed",
+      "slug": "matt-gutman-abc-lawsuit-dismissed",
+      "title": "Matt Gutman Abc Lawsuit Dismissed: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "matt gutman dropped from lawsuit",
+      "product": "matt gutman abc lawsuit dismissed",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+dropped+from+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 30,
+      "searchVolume": 10000,
+      "trendScore": 12,
       "matchedQueries": [
-        "matt gutman dropped from lawsuit",
         "matt gutman abc lawsuit dismissed",
-        "abc",
-        "cbs"
+        "matt gutman dropped from lawsuit",
+        "abc"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T10:55:37.275Z"
+      "lastUpdated": "2026-09-06T15:27:40.169Z"
     },
     {
       "id": "class-action",
@@ -61,7 +60,7 @@
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T10:55:37.275Z"
+      "lastUpdated": "2026-09-06T15:27:40.169Z"
     },
     {
       "id": "kyrsten-sinema-north-carolina-lawsuit",
@@ -90,7 +89,7 @@
         "kyrsten sinema north carolina lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T10:55:37.275Z"
+      "lastUpdated": "2026-09-06T15:27:40.169Z"
     }
   ]
 }

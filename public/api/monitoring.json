@@ -1,38 +1,7 @@
 {
-  "updatedAt": "2026-09-05T20:20:18.940Z",
+  "updatedAt": "2026-09-06T04:38:05.411Z",
   "count": 4,
   "items": [
-    {
-      "id": "matt-gutman-abc-lawsuit-dismissed",
-      "slug": "matt-gutman-abc-lawsuit-dismissed",
-      "title": "Matt Gutman Abc Lawsuit Dismissed: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "matt gutman abc lawsuit dismissed",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 27,
-      "matchedQueries": [
-        "matt gutman abc lawsuit dismissed",
-        "cbs",
-        "abc"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-05T20:20:12.770Z"
-    },
     {
       "id": "clorox-recall",
       "slug": "clorox-recall",
@@ -54,13 +23,45 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clorox+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "clorox recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T20:20:12.770Z"
+      "lastUpdated": "2026-09-06T04:37:59.366Z"
+    },
+    {
+      "id": "matt-gutman-abc-lawsuit-dismissed",
+      "slug": "matt-gutman-abc-lawsuit-dismissed",
+      "title": "Matt Gutman Abc Lawsuit Dismissed: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "matt gutman abc lawsuit dismissed",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 15,
+      "matchedQueries": [
+        "matt gutman abc lawsuit dismissed",
+        "cbs",
+        "abc",
+        "matt gutman dropped from lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-06T04:37:59.366Z"
     },
     {
       "id": "class-action",
@@ -83,24 +84,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T20:20:12.770Z"
+      "lastUpdated": "2026-09-06T04:37:59.366Z"
     },
     {
-      "id": "walmart-frozen-berry-recall-e-coli",
-      "slug": "walmart-frozen-berry-recall-e-coli",
-      "title": "Walmart Frozen Berry Recall E Coli: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "kyrsten-sinema-north-carolina-lawsuit",
+      "slug": "kyrsten-sinema-north-carolina-lawsuit",
+      "title": "Kyrsten Sinema North Carolina Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "walmart frozen berry recall e coli",
-      "category": "Recall monitoring",
+      "product": "kyrsten sinema north carolina lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -109,17 +110,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+frozen+berry+recall+e+coli&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kyrsten+sinema+north+carolina+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
+      "searchVolume": 1000,
       "trendScore": 8,
       "matchedQueries": [
-        "walmart frozen berry recall e coli",
-        "walmart frozen berry e coli recall"
+        "kyrsten sinema north carolina lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-05T20:20:12.770Z"
+      "lastUpdated": "2026-09-06T04:37:59.366Z"
     }
   ]
 }

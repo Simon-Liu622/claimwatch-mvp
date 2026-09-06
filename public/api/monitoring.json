@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T15:27:52.341Z",
-  "count": 3,
+  "updatedAt": "2026-09-06T20:23:45.245Z",
+  "count": 1,
   "items": [
     {
       "id": "matt-gutman-abc-lawsuit-dismissed",
@@ -23,73 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 12,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
         "matt gutman abc lawsuit dismissed",
         "matt gutman dropped from lawsuit",
         "abc"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-06T15:27:40.169Z"
-    },
-    {
-      "id": "class-action",
-      "slug": "class-action",
-      "title": "Class Action: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "class action",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "class action"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-06T15:27:40.169Z"
-    },
-    {
-      "id": "kyrsten-sinema-north-carolina-lawsuit",
-      "slug": "kyrsten-sinema-north-carolina-lawsuit",
-      "title": "Kyrsten Sinema North Carolina Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "kyrsten sinema north carolina lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kyrsten+sinema+north+carolina+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "kyrsten sinema north carolina lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-06T15:27:40.169Z"
+      "lastUpdated": "2026-09-06T20:23:42.643Z"
     }
   ]
 }

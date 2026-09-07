@@ -1,19 +1,17 @@
 [
   {
-    "rank": 200,
+    "rank": 348,
     "query": "matt gutman abc lawsuit dismissed",
-    "searchVolume": 2000,
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "matt gutman dropped from lawsuit"
-    ],
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "matt gutman abc lawsuit dismissed matt gutman dropped from lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-09-06T20:23:42.643Z"
+    "text": "matt gutman abc lawsuit dismissed",
+    "trendScore": 8,
+    "detectedAt": "2026-09-07T04:40:39.415Z"
   }
 ]

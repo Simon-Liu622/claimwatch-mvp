@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-07T04:40:42.276Z",
+  "updatedAt": "2026-09-07T12:31:52.393Z",
   "count": 1,
   "items": [
     {
-      "id": "matt-gutman-abc-lawsuit-dismissed",
-      "slug": "matt-gutman-abc-lawsuit-dismissed",
-      "title": "Matt Gutman Abc Lawsuit Dismissed: Consumer Alert Monitoring",
+      "id": "abc",
+      "slug": "abc",
+      "title": "Abc: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "matt gutman abc lawsuit dismissed",
+      "product": "abc",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,18 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=abc&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "matt gutman abc lawsuit dismissed",
-        "matt gutman dropped from lawsuit",
-        "abc"
+        "abc",
+        "matt gutman abc lawsuit dismissed"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-07T04:40:39.415Z"
+      "lastUpdated": "2026-09-07T12:31:50.069Z"
     }
   ]
 }

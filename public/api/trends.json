@@ -1,21 +1,23 @@
 {
-  "updatedAt": "2026-09-07T04:40:42.276Z",
+  "updatedAt": "2026-09-07T12:31:52.393Z",
   "count": 1,
   "trends": [
     {
-      "rank": 348,
-      "query": "matt gutman abc lawsuit dismissed",
-      "searchVolume": 1000,
+      "rank": 310,
+      "query": "abc",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matt+gutman+abc+lawsuit+dismissed&tz=420",
-      "increasePercentage": 200,
+      "breakdown": [
+        "matt gutman abc lawsuit dismissed"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=abc&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "matt gutman abc lawsuit dismissed",
-      "trendScore": 8,
-      "detectedAt": "2026-09-07T04:40:39.415Z"
+      "text": "abc matt gutman abc lawsuit dismissed",
+      "trendScore": 10,
+      "detectedAt": "2026-09-07T12:31:50.069Z"
     }
   ]
 }

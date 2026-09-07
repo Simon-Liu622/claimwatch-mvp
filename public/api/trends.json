@@ -1,23 +1,21 @@
 {
-  "updatedAt": "2026-09-07T12:31:52.393Z",
+  "updatedAt": "2026-09-07T21:30:43.839Z",
   "count": 1,
   "trends": [
     {
-      "rank": 310,
-      "query": "abc",
+      "rank": 127,
+      "query": "pork recall",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "matt gutman abc lawsuit dismissed"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=abc&tz=420",
-      "increasePercentage": 100,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pork+recall&tz=420",
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "abc matt gutman abc lawsuit dismissed",
-      "trendScore": 10,
-      "detectedAt": "2026-09-07T12:31:50.069Z"
+      "text": "pork recall",
+      "trendScore": 8,
+      "detectedAt": "2026-09-07T21:30:39.137Z"
     }
   ]
 }

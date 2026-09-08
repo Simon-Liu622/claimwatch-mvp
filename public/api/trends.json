@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T16:37:45.715Z",
+  "updatedAt": "2026-09-08T21:08:59.759Z",
   "count": 2,
   "trends": [
     {
-      "rank": 99,
+      "rank": 142,
       "query": "youtube tv settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "youtube tv settlement",
       "trendScore": 8,
-      "detectedAt": "2026-09-08T16:37:42.827Z"
+      "detectedAt": "2026-09-08T21:08:57.584Z"
     },
     {
-      "rank": 224,
+      "rank": 251,
       "query": "class action",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,7 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "class action",
       "trendScore": 8,
-      "detectedAt": "2026-09-08T16:37:42.827Z"
+      "detectedAt": "2026-09-08T21:08:57.584Z"
     }
   ]
 }

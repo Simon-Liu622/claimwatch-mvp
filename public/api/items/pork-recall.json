@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:35:11.475Z",
+  "updatedAt": "2026-09-08T11:18:41.662Z",
   "item": {
     "id": "pork-recall",
     "slug": "pork-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pork+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 5000,
+    "trendScore": 23,
     "matchedQueries": [
       "pork recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-08T04:35:08.277Z",
+    "lastUpdated": "2026-09-08T11:18:38.476Z",
     "url": "https://simon622.shop/item/pork-recall/"
   }
 }

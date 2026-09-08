@@ -1,9 +1,39 @@
 {
-  "updatedAt": "2026-09-08T04:35:11.475Z",
-  "count": 2,
+  "updatedAt": "2026-09-08T11:18:41.662Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 189,
+      "rank": 28,
+      "query": "youtube tv settlement",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv+settlement&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "youtube tv settlement",
+      "trendScore": 23,
+      "detectedAt": "2026-09-08T11:18:38.476Z"
+    },
+    {
+      "rank": 33,
+      "query": "pork recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pork+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "pork recall",
+      "trendScore": 23,
+      "detectedAt": "2026-09-08T11:18:38.476Z"
+    },
+    {
+      "rank": 207,
       "query": "class action",
       "searchVolume": 2000,
       "startedAt": "",
@@ -15,22 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "class action",
       "trendScore": 8,
-      "detectedAt": "2026-09-08T04:35:08.277Z"
-    },
-    {
-      "rank": 202,
-      "query": "pork recall",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pork+recall&tz=420",
-      "increasePercentage": 700,
-      "source": "serpapi-google-trends",
-      "text": "pork recall",
-      "trendScore": 8,
-      "detectedAt": "2026-09-08T04:35:08.277Z"
+      "detectedAt": "2026-09-08T11:18:38.476Z"
     }
   ]
 }

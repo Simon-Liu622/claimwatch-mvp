@@ -1,39 +1,24 @@
 {
-  "updatedAt": "2026-09-08T11:18:41.662Z",
-  "count": 3,
+  "updatedAt": "2026-09-08T16:37:45.715Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 28,
+      "rank": 99,
       "query": "youtube tv settlement",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv+settlement&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "youtube tv settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-09-08T11:18:38.476Z"
-    },
-    {
-      "rank": 33,
-      "query": "pork recall",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pork+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "pork recall",
-      "trendScore": 23,
-      "detectedAt": "2026-09-08T11:18:38.476Z"
+      "text": "youtube tv settlement",
+      "trendScore": 8,
+      "detectedAt": "2026-09-08T16:37:42.827Z"
     },
     {
-      "rank": 207,
+      "rank": 224,
       "query": "class action",
       "searchVolume": 2000,
       "startedAt": "",
@@ -45,7 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "class action",
       "trendScore": 8,
-      "detectedAt": "2026-09-08T11:18:38.476Z"
+      "detectedAt": "2026-09-08T16:37:42.827Z"
     }
   ]
 }

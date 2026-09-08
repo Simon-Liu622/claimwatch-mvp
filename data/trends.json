@@ -1,6 +1,21 @@
 [
   {
-    "rank": 127,
+    "rank": 189,
+    "query": "class action",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "class action",
+    "trendScore": 8,
+    "detectedAt": "2026-09-08T04:35:08.277Z"
+  },
+  {
+    "rank": 202,
     "query": "pork recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,6 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "pork recall",
     "trendScore": 8,
-    "detectedAt": "2026-09-07T21:30:39.137Z"
+    "detectedAt": "2026-09-08T04:35:08.277Z"
   }
 ]

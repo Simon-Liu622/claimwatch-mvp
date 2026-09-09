@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-09-09T04:41:25.534Z",
-  "count": 2,
+  "updatedAt": "2026-09-09T11:22:24.870Z",
+  "count": 1,
   "items": [
-    {
-      "id": "youtube-tv-settlement",
-      "slug": "youtube-tv-settlement",
-      "title": "Youtube Tv Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "youtube tv settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "youtube tv settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-09T04:41:23.112Z"
-    },
     {
       "id": "cream-cheese-recall",
       "slug": "cream-cheese-recall",
@@ -58,7 +29,7 @@
         "cream cheese recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-09T04:41:23.112Z"
+      "lastUpdated": "2026-09-09T11:22:23.033Z"
     }
   ]
 }

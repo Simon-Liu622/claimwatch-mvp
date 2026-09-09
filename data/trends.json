@@ -1,6 +1,21 @@
 [
   {
-    "rank": 162,
+    "rank": 74,
+    "query": "salmonella",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+    "increasePercentage": 300,
+    "source": "serpapi-google-trends",
+    "text": "salmonella",
+    "trendScore": 23,
+    "detectedAt": "2026-09-09T11:22:23.033Z"
+  },
+  {
+    "rank": 187,
     "query": "cream cheese recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,21 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "cream cheese recall",
     "trendScore": 8,
-    "detectedAt": "2026-09-09T04:41:23.112Z"
-  },
-  {
-    "rank": 218,
-    "query": "youtube tv settlement",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=youtube+tv+settlement&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "youtube tv settlement",
-    "trendScore": 8,
-    "detectedAt": "2026-09-09T04:41:23.112Z"
+    "detectedAt": "2026-09-09T11:22:23.033Z"
   }
 ]

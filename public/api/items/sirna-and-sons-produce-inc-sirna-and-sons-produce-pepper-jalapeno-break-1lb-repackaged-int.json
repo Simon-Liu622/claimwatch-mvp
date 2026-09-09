@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T04:41:25.534Z",
+  "updatedAt": "2026-09-09T11:22:24.870Z",
   "item": {
     "id": "sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int",
     "slug": "sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 500,
+    "trendScore": 23,
+    "matchedQueries": [
+      "salmonella"
+    ],
     "officialVerified": true,
     "officialRecordId": "H-1262-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-09-09T04:41:23.112Z",
+    "lastUpdated": "2026-09-09T11:22:23.033Z",
     "url": "https://simon622.shop/item/sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int/"
   }
 }

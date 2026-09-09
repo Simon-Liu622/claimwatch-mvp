@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-09-08T21:08:59.759Z",
+  "updatedAt": "2026-09-09T04:41:25.534Z",
   "count": 2,
   "trends": [
     {
-      "rank": 142,
+      "rank": 162,
+      "query": "cream cheese recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cream+cheese+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "cream cheese recall",
+      "trendScore": 8,
+      "detectedAt": "2026-09-09T04:41:23.112Z"
+    },
+    {
+      "rank": 218,
       "query": "youtube tv settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -15,22 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "youtube tv settlement",
       "trendScore": 8,
-      "detectedAt": "2026-09-08T21:08:57.584Z"
-    },
-    {
-      "rank": 251,
-      "query": "class action",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "class action",
-      "trendScore": 8,
-      "detectedAt": "2026-09-08T21:08:57.584Z"
+      "detectedAt": "2026-09-09T04:41:23.112Z"
     }
   ]
 }

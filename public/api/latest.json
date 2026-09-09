@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:22:24.870Z",
+  "updatedAt": "2026-09-09T16:37:55.885Z",
   "items": [
     {
       "title": "Heated Sherpa Throws and Blankets Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon by OCTROT",
@@ -159,7 +159,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -175,7 +175,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -191,7 +191,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -258,6 +258,70 @@
       "lastUpdated": "2026-06-12T20:25:53.438Z"
     },
     {
+      "title": "Sirna and Sons Produce, Inc: Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 71 Recall",
+      "slug": "sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int",
+      "url": "https://simon622.shop/item/sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int/",
+      "type": "recall",
+      "status": "active",
+      "company": "Sirna and Sons Produce, Inc",
+      "product": "Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 71",
+      "summary": "Potential Salmonella Javiana contamination Product details: Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 7176 State Route 88, Ravenna, OH 44266, distributed for food service use only",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
+    },
+    {
+      "title": "Botticelli Foods, LLC: bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g), Recall",
+      "slug": "botticelli-foods-llc-bettergoods-brand-pistachio-nut-butter-net-wt-6-7oz-190g",
+      "url": "https://simon622.shop/item/botticelli-foods-llc-bettergoods-brand-pistachio-nut-butter-net-wt-6-7oz-190g/",
+      "type": "recall",
+      "status": "active",
+      "company": "Botticelli Foods, LLC",
+      "product": "bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g),",
+      "summary": "Product may be contaminated with Salmonella. Product details: bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
+    },
+    {
+      "title": "WFM Purchasing, LP: Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and  Recall",
+      "slug": "wfm-purchasing-lp-whole-foods-medium-pico-de-gallo-guacamole-dip-keep-refrigerated-packed-",
+      "url": "https://simon622.shop/item/wfm-purchasing-lp-whole-foods-medium-pico-de-gallo-guacamole-dip-keep-refrigerated-packed-/",
+      "type": "recall",
+      "status": "active",
+      "company": "WFM Purchasing, LP",
+      "product": "Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and ",
+      "summary": "Salsa and Guacamole products were made with jalapenos that may be contaminated with Salmonella. Product details: Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished product label is applied. Products contain the following PLU Cods located under label bar code: 29802800000. ...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
+    },
+    {
+      "title": "WFM Purchasing, LP: Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished prod Recall",
+      "slug": "wfm-purchasing-lp-whole-foods-spicy-guacamole-dip-keep-refrigerated-packed-in-various-size",
+      "url": "https://simon622.shop/item/wfm-purchasing-lp-whole-foods-spicy-guacamole-dip-keep-refrigerated-packed-in-various-size/",
+      "type": "recall",
+      "status": "active",
+      "company": "WFM Purchasing, LP",
+      "product": "Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished prod",
+      "summary": "Salsa and Guacamole products were made with jalapenos that may be contaminated with Salmonella. Product details: Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished product label is applied. Products contain the following PLU Cods located under label bar code: 21212000000, 21211900000, 25...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
+    },
+    {
       "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
       "slug": "nhtsa-25v164000",
       "url": "https://simon622.shop/item/nhtsa-25v164000/",
@@ -271,7 +335,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -287,7 +351,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -511,7 +575,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
+      "lastUpdated": "2026-09-09T16:37:51.875Z"
     },
     {
       "title": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported; Imported by Shenzhen Street Cat Technology",
@@ -672,70 +736,6 @@
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-06-19T20:03:11.794Z"
-    },
-    {
-      "title": "Sirna and Sons Produce, Inc: Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 71 Recall",
-      "slug": "sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int",
-      "url": "https://simon622.shop/item/sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int/",
-      "type": "recall",
-      "status": "active",
-      "company": "Sirna and Sons Produce, Inc",
-      "product": "Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 71",
-      "summary": "Potential Salmonella Javiana contamination Product details: Sirna & Sons Produce PEPPER JALAPENO BREAK 1LB, repackaged into 1 lb. plastic bags, Product Number: 55255, Packed by Sirna & Sons Produce 7176 State Route 88, Ravenna, OH 44266, distributed for food service use only",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
-    },
-    {
-      "title": "Botticelli Foods, LLC: bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g), Recall",
-      "slug": "botticelli-foods-llc-bettergoods-brand-pistachio-nut-butter-net-wt-6-7oz-190g",
-      "url": "https://simon622.shop/item/botticelli-foods-llc-bettergoods-brand-pistachio-nut-butter-net-wt-6-7oz-190g/",
-      "type": "recall",
-      "status": "active",
-      "company": "Botticelli Foods, LLC",
-      "product": "bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g),",
-      "summary": "Product may be contaminated with Salmonella. Product details: bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g), UPC 194346207961",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
-    },
-    {
-      "title": "WFM Purchasing, LP: Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and  Recall",
-      "slug": "wfm-purchasing-lp-whole-foods-medium-pico-de-gallo-guacamole-dip-keep-refrigerated-packed-",
-      "url": "https://simon622.shop/item/wfm-purchasing-lp-whole-foods-medium-pico-de-gallo-guacamole-dip-keep-refrigerated-packed-/",
-      "type": "recall",
-      "status": "active",
-      "company": "WFM Purchasing, LP",
-      "product": "Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and ",
-      "summary": "Salsa and Guacamole products were made with jalapenos that may be contaminated with Salmonella. Product details: Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished product label is applied. Products contain the following PLU Cods located under label bar code: 29802800000. ...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
-    },
-    {
-      "title": "WFM Purchasing, LP: Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished prod Recall",
-      "slug": "wfm-purchasing-lp-whole-foods-spicy-guacamole-dip-keep-refrigerated-packed-in-various-size",
-      "url": "https://simon622.shop/item/wfm-purchasing-lp-whole-foods-spicy-guacamole-dip-keep-refrigerated-packed-in-various-size/",
-      "type": "recall",
-      "status": "active",
-      "company": "WFM Purchasing, LP",
-      "product": "Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished prod",
-      "summary": "Salsa and Guacamole products were made with jalapenos that may be contaminated with Salmonella. Product details: Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished product label is applied. Products contain the following PLU Cods located under label bar code: 21212000000, 21211900000, 25...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-09-09T11:22:23.033Z"
     },
     {
       "title": "MOGO Moringa LLC: MOGO PURE MORINGA OLEIFERA CAPSULES, HERBAL SUPPLEMENT, 180 QUICK RELEASE VEGGIE CAPSULE, 100% PURE, 350 MG PER CAPSULE, SUPPLEMENT FACTS MO Recall",

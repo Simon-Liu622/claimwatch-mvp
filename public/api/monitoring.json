@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T11:18:48.026Z",
-  "count": 1,
+  "updatedAt": "2026-09-10T16:23:46.914Z",
+  "count": 2,
   "items": [
     {
       "id": "fi-salmonella-pet-supplement-recall",
@@ -24,13 +24,44 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 33,
+      "trendScore": 31,
       "matchedQueries": [
         "fi salmonella pet supplement recall",
         "fi dog supplement salmonella recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-10T11:18:42.424Z"
+      "lastUpdated": "2026-09-10T16:23:44.468Z"
+    },
+    {
+      "id": "what-are-the-details-of-donald-trump-s-plan-to-send-500-obamacare-rebate-checks",
+      "slug": "what-are-the-details-of-donald-trump-s-plan-to-send-500-obamacare-rebate-checks",
+      "title": "What Are The Details Of Donald Trump'S Plan To Send $500 Obamacare Rebate Checks: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "what are the details of donald trump's plan to send $500 obamacare rebate checks",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=what+are+the+details+of+donald+trump%27s+plan+to+send+%24500+obamacare+rebate+checks&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "what are the details of donald trump's plan to send $500 obamacare rebate checks",
+        "donald trump obamacare refund checks",
+        "trump administration obamacare rebate checks"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-10T16:23:44.468Z"
     }
   ]
 }

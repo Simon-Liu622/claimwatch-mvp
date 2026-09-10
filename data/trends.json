@@ -1,6 +1,6 @@
 [
   {
-    "rank": 84,
+    "rank": 53,
     "query": "fi salmonella pet supplement recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -14,21 +14,6 @@
     "source": "serpapi-google-trends",
     "text": "fi salmonella pet supplement recall fi dog supplement salmonella recall",
     "trendScore": 33,
-    "detectedAt": "2026-09-10T04:41:54.516Z"
-  },
-  {
-    "rank": 417,
-    "query": "salmonella",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "salmonella",
-    "trendScore": 8,
-    "detectedAt": "2026-09-10T04:41:54.516Z"
+    "detectedAt": "2026-09-10T11:18:42.424Z"
   }
 ]

@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-09T20:55:34.844Z",
+  "updatedAt": "2026-09-10T04:41:57.735Z",
   "count": 2,
   "trends": [
     {
-      "rank": 32,
-      "query": "fi dog supplement salmonella recall",
+      "rank": 84,
+      "query": "fi salmonella pet supplement recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "salmonella"
+        "fi dog supplement salmonella recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fi+dog+supplement+salmonella+recall&tz=420",
-      "increasePercentage": 700,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fi+salmonella+pet+supplement+recall&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "fi dog supplement salmonella recall salmonella",
+      "text": "fi salmonella pet supplement recall fi dog supplement salmonella recall",
       "trendScore": 33,
-      "detectedAt": "2026-09-09T20:55:32.407Z"
+      "detectedAt": "2026-09-10T04:41:54.516Z"
     },
     {
-      "rank": 233,
-      "query": "cream cheese recall",
-      "searchVolume": 2000,
+      "rank": 417,
+      "query": "salmonella",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cream+cheese+recall&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "cream cheese recall",
+      "text": "salmonella",
       "trendScore": 8,
-      "detectedAt": "2026-09-09T20:55:32.407Z"
+      "detectedAt": "2026-09-10T04:41:54.516Z"
     }
   ]
 }

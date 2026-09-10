@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-09T20:55:34.844Z",
+  "updatedAt": "2026-09-10T04:41:57.735Z",
   "item": {
-    "id": "cream-cheese-recall",
-    "slug": "cream-cheese-recall",
-    "title": "Cream Cheese Recall: Consumer Alert Monitoring",
+    "id": "fi-salmonella-pet-supplement-recall",
+    "slug": "fi-salmonella-pet-supplement-recall",
+    "title": "Fi Salmonella Pet Supplement Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "cream cheese recall",
+    "product": "fi salmonella pet supplement recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cream+cheese+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fi+salmonella+pet+supplement+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
+    "searchVolume": 10000,
+    "trendScore": 33,
     "matchedQueries": [
-      "cream cheese recall"
+      "fi salmonella pet supplement recall",
+      "fi dog supplement salmonella recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-09T20:55:32.407Z",
-    "url": "https://simon622.shop/item/cream-cheese-recall/"
+    "lastUpdated": "2026-09-10T04:41:54.516Z",
+    "url": "https://simon622.shop/item/fi-salmonella-pet-supplement-recall/"
   }
 }

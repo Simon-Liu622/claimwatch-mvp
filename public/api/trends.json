@@ -1,54 +1,56 @@
 {
-  "updatedAt": "2026-09-10T16:23:46.914Z",
+  "updatedAt": "2026-09-10T20:52:17.994Z",
   "count": 3,
   "trends": [
     {
-      "rank": 31,
+      "rank": 47,
       "query": "fi salmonella pet supplement recall",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fi+salmonella+pet+supplement+recall&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "fi salmonella pet supplement recall",
-      "trendScore": 31,
-      "detectedAt": "2026-09-10T16:23:44.468Z"
+      "trendScore": 16,
+      "detectedAt": "2026-09-10T20:52:04.222Z"
     },
     {
-      "rank": 62,
-      "query": "what are the details of donald trump's plan to send $500 obamacare rebate checks",
-      "searchVolume": 2000,
+      "rank": 99,
+      "query": "donald trump aca financial rebate",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
+        "what are the details of donald trump's plan to send $500 obamacare rebate checks",
+        "trump administration obamacare rebate checks",
         "donald trump obamacare refund checks",
-        "trump administration obamacare rebate checks"
+        "1"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=what+are+the+details+of+donald+trump%27s+plan+to+send+%24500+obamacare+rebate+checks&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+aca+financial+rebate&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "what are the details of donald trump's plan to send $500 obamacare rebate checks donald trump obamacare refund checks trump administration obamacare rebate checks",
-      "trendScore": 27,
-      "detectedAt": "2026-09-10T16:23:44.468Z"
+      "text": "donald trump aca financial rebate what are the details of donald trump's plan to send $500 obamacare rebate checks trump administration obamacare rebate checks donald trump obamacare refund checks 1",
+      "trendScore": 16,
+      "detectedAt": "2026-09-10T20:52:04.222Z"
     },
     {
-      "rank": 18,
+      "rank": 27,
       "query": "walmart great value berry recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+great+value+berry+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "walmart great value berry recall",
-      "trendScore": 23,
-      "detectedAt": "2026-09-10T16:23:44.468Z"
+      "trendScore": 9,
+      "detectedAt": "2026-09-10T20:52:04.222Z"
     }
   ]
 }

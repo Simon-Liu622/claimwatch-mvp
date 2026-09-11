@@ -1,6 +1,6 @@
 [
   {
-    "rank": 46,
+    "rank": 31,
     "query": "donald trump aca financial rebate",
     "searchVolume": 10000,
     "startedAt": "",
@@ -8,20 +8,19 @@
     "active": true,
     "breakdown": [
       "what are the details of donald trump's plan to send $500 obamacare rebate checks",
-      "trump administration obamacare rebate checks",
       "donald trump obamacare refund checks"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donald+trump+aca+financial+rebate&tz=420",
     "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "donald trump aca financial rebate what are the details of donald trump's plan to send $500 obamacare rebate checks trump administration obamacare rebate checks donald trump obamacare refund checks",
-    "trendScore": 29,
-    "detectedAt": "2026-09-11T04:39:41.320Z"
+    "text": "donald trump aca financial rebate what are the details of donald trump's plan to send $500 obamacare rebate checks donald trump obamacare refund checks",
+    "trendScore": 27,
+    "detectedAt": "2026-09-11T11:20:21.341Z"
   },
   {
-    "rank": 16,
+    "rank": 5,
     "query": "walmart great value berry recall",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -31,6 +30,6 @@
     "source": "serpapi-google-trends",
     "text": "walmart great value berry recall",
     "trendScore": 24,
-    "detectedAt": "2026-09-11T04:39:41.320Z"
+    "detectedAt": "2026-09-11T11:20:21.341Z"
   }
 ]

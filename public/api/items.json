@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:52:17.994Z",
+  "updatedAt": "2026-09-11T04:39:44.490Z",
   "count": 1155,
   "items": [
     {
@@ -160,7 +160,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -176,7 +176,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -192,7 +192,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -272,7 +272,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Botticelli Foods, LLC: bettergoods brand Pistachio Nut Butter, NET WT 6.7oz (190g), Recall",
@@ -288,7 +288,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "WFM Purchasing, LP: Whole Foods Medium Pico de Gallo Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and  Recall",
@@ -304,7 +304,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "WFM Purchasing, LP: Whole Foods Spicy Guacamole Dip, Keep Refrigerated. Packed in various sized clear plastic containers. Product is weighed and a finished prod Recall",
@@ -320,7 +320,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
@@ -336,7 +336,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -352,7 +352,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -576,7 +576,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported; Imported by Shenzhen Street Cat Technology",
@@ -625,6 +625,22 @@
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-05-19T10:07:42.718Z"
+    },
+    {
+      "title": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
+      "slug": "cpsc-26748",
+      "url": "https://simon622.shop/item/cpsc-26748/",
+      "type": "recall",
+      "status": "active",
+      "company": "H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
+      "product": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+      "summary": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle’s rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, “EXTREME SOUR, “SOUR CRUSH” and the flavor name are printed on the front of the bottle along with the image of a green monster.",
+      "sourceAgency": "CPSC",
+      "officialVerified": true,
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "FACTORY6, INC.: Zen Principle Naturals Moringa Leaf Powder dietary supplement, 900mg capsules, 180 capsules per PET white bottle. Intended Use: take 2 capsu Recall",
@@ -737,22 +753,6 @@
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-06-19T20:03:11.794Z"
-    },
-    {
-      "title": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
-      "slug": "cpsc-26748",
-      "url": "https://simon622.shop/item/cpsc-26748/",
-      "type": "recall",
-      "status": "active",
-      "company": "Sold At: H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
-      "product": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
-      "summary": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle’s rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, “EXTREME SOUR, “SOUR CRUSH” and the flavor name are printed on the front of the bottle along with the image of a green monster.",
-      "sourceAgency": "CPSC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
     },
     {
       "title": "MOGO Moringa LLC: MOGO PURE MORINGA OLEIFERA CAPSULES, HERBAL SUPPLEMENT, 180 QUICK RELEASE VEGGIE CAPSULE, 100% PURE, 350 MG PER CAPSULE, SUPPLEMENT FACTS MO Recall",
@@ -1424,7 +1424,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Consumer Sentinel Network",
@@ -1440,7 +1440,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/consumer-sentinel-network",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "FTC Refund Programs",
@@ -1456,7 +1456,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Sign up for consumer alerts",
@@ -1472,7 +1472,7 @@
       "officialSourceUrl": "https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Find refund cases",
@@ -1488,7 +1488,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Consumer Advice",
@@ -1504,7 +1504,7 @@
       "officialSourceUrl": "https://www.consumer.ftc.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Visit militaryconsumer.gov",
@@ -1520,7 +1520,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Visit consumer.gov",
@@ -1536,7 +1536,7 @@
       "officialSourceUrl": "https://consumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "FTC Refunds to Consumers",
@@ -1552,7 +1552,7 @@
       "officialSourceUrl": "https://public.tableau.com/app/profile/federal.trade.commission/viz/Refunds_15797958402020/RefundsbyCase",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Military Consumer",
@@ -1568,7 +1568,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Consumer.gov",
@@ -1584,7 +1584,7 @@
       "officialSourceUrl": "https://consumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Data on Refunds to Consumers",
@@ -1600,7 +1600,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: STEERING:COLUMN Recall (2024 ford f-150)",
@@ -1616,7 +1616,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V329000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:WINDSHIELD Recall (2024 ford f-150)",
@@ -1632,7 +1632,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V486000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
@@ -1648,7 +1648,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V851000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: EQUIPMENT:OTHER:LABELS Recall (2024 ford f-150)",
@@ -1664,7 +1664,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V852000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: STEERING Recall (2024 ford f-150)",
@@ -1680,7 +1680,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V022000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
@@ -1696,7 +1696,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V198000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: POWER TRAIN:AXLE HUBS Recall (2024 ford f-150)",
@@ -1712,7 +1712,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V512000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ford Motor Company: ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL Recall (2024 ford f-150)",
@@ -1728,7 +1728,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V104000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
@@ -1744,7 +1744,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
@@ -1760,7 +1760,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
@@ -1776,7 +1776,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
@@ -1792,7 +1792,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Tesla, Inc.: STRUCTURE:BODY:BUMPERS Recall (2024 tesla model 3)",
@@ -1808,7 +1808,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V445000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "H & U Inc. dba Sun Noodle: Sura Tanmen Hot and Sour Flavor Premium Japanese Noodles & Soup Base. Retail package net wt. 15.4oz. Product is ramen noodle kit which conta Recall",
@@ -1824,7 +1824,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "KHONG GUAN (HQ): Glutinous Rice Balls with Black Sesame Filling NET WT. 14.1 OZ (400 g) Product of China Recall",
@@ -1840,7 +1840,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Byron White Formulas, Inc.: Byron White FORMULAS A-FNG Herbal Supplement 1.0 fl. oz./30 mL May Contain Nuts (Juglans nigra hull) Byron White Formulas Inc. 3315 Chanate  Recall",
@@ -1856,7 +1856,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bar Watermelon, 6-Count 2.5 ounce with Recall",
@@ -1872,7 +1872,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bars Grape, 6-Count 2.5 ounce, with Recall",
@@ -1888,7 +1888,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ZMB Enterprises: Addall XR Shot 1 single bottle, 2 fl. oz., liquid dietary supplement Recall",
@@ -1904,7 +1904,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "CUISINE, KETTLE: Marketside Tomato Bisque Soup Kit, Tomato Bisque with Cheese Croutons & White Cheddar Cheese, Ready to Heat, Net Wt. 14 OZ (397g), with Recall",
@@ -1920,7 +1920,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Africando Foods LLC: Clear glass bottle with black screw lid with multi label which reads in part as \"***AFRICANDO FOODS, LLC ALFREDO HOT SAUCE, Net Weight 8 oz. Recall",
@@ -1936,7 +1936,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bars Strawberry, 6-Count 2.5 ounce, with Recall",
@@ -1952,7 +1952,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Lidl US TRADING: ERIDANOUS GREEK STYLE Shortbread Cookies with apricot filling and cocoa topping with coconut sprinkles. Product is packed onto a plastic car Recall",
@@ -1968,7 +1968,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bars Black Cherry, 6 Bars, 2.5 ounce, with Recall",
@@ -1984,7 +1984,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Lidl US TRADING: ERIDANOUS GREEK STYLE Shortbread Cookies with Chocolate Truffle Coating & Apricot Filling. Product is packed onto a plastic carton tray with Recall",
@@ -2000,7 +2000,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bars Strawberry, Pineapple, Grape, Tangerine. 24-Count 2.5 ounce, Recall",
@@ -2016,7 +2016,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "KHONG GUAN (HQ): BLACK AND WHITE GLUTINOUS RICE BALLS WITH BLACK SESAME FILLING NET WT. 14.1 OZ (400 g) Product of China Recall",
@@ -2032,7 +2032,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Jaime's Foods ATX, LLC: Jalapeno Ranch, packed in 16 oz. glass jars, 6 jars per case, with Recall",
@@ -2048,7 +2048,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Byron White Formulas, Inc.: Byron White FORMULAS A-P Herbal Supplement 1.0 fl. oz./30 mL May Contain Nuts (Juglans nigra hull) Byron White Formulas Inc. 3315 Chanate Rd Recall",
@@ -2064,7 +2064,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dreyer's Grand Ice Cream Inc.: Outshine Fruit Bars Tangerine, 6-Count 2.5 ounce, with Recall",
@@ -2080,7 +2080,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Byron White Formulas, Inc.: Byron White FORMULAS A-L Complex Herbal Supplement 1.0 fl. oz./30 mL May Contain Nuts (Juglans nigra hull) Byron White Formulas Inc. 3315 Ch Recall",
@@ -2096,7 +2096,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "UPSTATE NIAGARA COOPERATIVE: Mehadrin Chocolate Leben; 6 OZ (170g) CUPS, Recall",
@@ -2112,7 +2112,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Prospector Popcorn, LLC: Prospector Popcorn Fudge Brownie Gourmet Popcorn 1.5oz and 3.5oz Recall",
@@ -2128,7 +2128,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Publix Super Markets, Inc.: Organic Whole Mixed Berries, Net Wt. 48 oz (3Lb) plastic bag. packed in 6 bags per case of 10 oz each. Keep Frozen. Recall",
@@ -2144,7 +2144,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 200 mcg (0.2 mg), packaged in a) 90-count bottles ( Recall",
@@ -2160,7 +2160,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Hikma Pharmaceuticals USA INC.: Ramipril Capsules USP, 10 mg, packaged in a) 100 Capsules ( Recall",
@@ -2176,7 +2176,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 50 mcg (0.05 mg), 1000-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 276 Recall",
@@ -2192,7 +2192,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 125 mcg (0.125 mg), 1000-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 2 Recall",
@@ -2208,7 +2208,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 25 mcg (0.025 mg), 1000-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 27 Recall",
@@ -2224,7 +2224,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 137 mcg (0.137 mg), packaged in a) 90-count bottles ( Recall",
@@ -2240,7 +2240,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Lupin Pharmaceuticals Inc.: Clobetasol Propionate Cream USP, 0.05%, 60 g tube, Rx Only, Manufactured for: Lupin Pharmaceuticals, Inc., Naples, FL 34108, United States, Recall",
@@ -2256,7 +2256,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 300 mcg (0.3 mg), 90-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 27617 Recall",
@@ -2272,7 +2272,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 75 mcg (0.075 mg), 1000-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 27 Recall",
@@ -2288,7 +2288,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Mallinckrodt Hospital Products Inc.: Acthar Gel (repository corticotropin injection), 5 mL multiple-dose vial, Rx Only, Mfd. for: Mallinckrodt ARD LLC, Bridgewater, NJ 08807, Recall",
@@ -2304,7 +2304,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 150 mcg (0.15 mg), 1000-count bottles, Rx Only, Manufactured for: Accord Healthcare, Inc., Raleigh, NC 27 Recall",
@@ -2320,7 +2320,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Church & Dwight Co., Inc.: Zicam, Cold Remedy, Medicated Nasal Swabs, With Cooling Menthol & Eucalyptus, 20 Single-Use Swabs per carton, Zinc-Free Homeopathic, Recall",
@@ -2336,7 +2336,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ACCORD HEALTHCARE, INC.: Levothyroxine Sodium Tablets, USP, 175 mcg (0.175 mg), packaged in a) 90-count bottles ( Recall",
@@ -2352,7 +2352,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Fresenius Kabi USA, LLC: Tyenne (tocilizumab-aazg) Injection, 400 mg/20 mL (20 mg/mL), 20 mL vial, Rx Only, Recall",
@@ -2368,7 +2368,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "B BRAUN MEDICAL INC: Lactated Ringer's Injection USP, 1000 mL EXCEL container, Rx only, L7500, B. Braun Medical, Inc., Bethlehem, PA 18018-3524 USA, Recall",
@@ -2384,7 +2384,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits labeled as: 1) LAMI FUSION, Medline Kit SKU CDS982035Y; 2) NON MB MJR NEURO CRANI SM PK, Medline Kit SKU DYNJT6104; Recall",
@@ -2400,7 +2400,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits labeled as: 1) CMH LITHO MINOR PACK-LF, Medline Kit SKU DYNJ54362F; 2) EAST MAJOR LITHOTOMY, Medline Kit SKU DYNJ90 Recall",
@@ -2416,7 +2416,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits labeled as: 1) MAJOR PROCEDURE, Medline Kit SKU CDS982040U; 2) OPERATIVE LAP P&S SURGICAL, Medline Kit SKU DYNJ8960 Recall",
@@ -2432,7 +2432,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "IMRIS Imaging Inc: ORT200, operating room table, including the ORT200 Covered Table Assembly, Reconditioned, Part Number 113821-600 and the ORT200 50/60Hz Cove Recall",
@@ -2448,7 +2448,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline breathing circuits labeled as: 1) HUDSON RCI, CIRCUIT, HTD, DL, NEONATE, 48, Medline Product Number/SKU HUD78007 (Teleflex Product N Recall",
@@ -2464,7 +2464,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "IMRIS Imaging Inc: ORT300, operating room table, ORT300 Modular Table Main Unit Assy Part Numbers 114093-000 and 114093-600 Recall",
@@ -2480,7 +2480,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits labeled as: 1) C-SECTION, Medline Kit SKU DYNJ904612L; 2) C-SECTION, Medline Kit SKU DYNJ911755; 3) AHR C-SECTION K Recall",
@@ -2496,7 +2496,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Olympus Corporation of the Americas: POWERSEAL 5 MM (in diameter) 23 CM (long), Curved Jaw Sealer & Divider, Double Action. GEI / Electrosurgical, cutting & coagulation & access Recall",
@@ -2512,7 +2512,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Fresenius Medical Care Renal Therapies Group, LLC: Fresenius Medical Care, 2008T BlueStar Hemodialysis Machine, Model Numbers: 191126, 191130. Recall",
@@ -2528,7 +2528,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Merge Healthcare, Inc.: Merge PACS and Merge OrthoPACS, medical imaging diagnostic workstation Recall",
@@ -2544,7 +2544,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Canon Medical System, USA, INC.: Alphenix Models INFX-8000C INFX-8000F INFX-8000V This device is a digital radiography/fluoroscopy system used in a diagnostic and interventi Recall",
@@ -2560,7 +2560,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline medical convenience kits, labeled as: 1) SINUS PACK-LF, Medline Kit SKU DYNJ0966146F; 2) ENT PACK, Medline Kit SKU DYNJ40154D; 3) EN Recall",
@@ -2576,7 +2576,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline Hudson RCI, DBD-CIRCUIT,VENT,INSPIRATORY,HEATED,NEO, Medline Product Number/SKU HUD78019 (Teleflex Product Number/SKU 780-19); breat Recall",
@@ -2592,7 +2592,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "AVID Medical, Inc.: Halyard TOTAL JOINT Model/Catalog Number: MSBM036-03 Recall",
@@ -2608,7 +2608,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits labeled as: LTP CDS-LF, Medline kit SKU CDS980375M Recall",
@@ -2624,7 +2624,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "How the FTC Provides Refunds",
@@ -2640,7 +2640,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T20:52:04.222Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "COMMOWNER Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by AZ Home Concept",
@@ -2656,7 +2656,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/COMMOWNER-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Imported-by-AZ-Home-Concept",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Cooluli Recalls 10-Liter and 15-Liter Minifridges Due to Fire and Burn Hazards",
@@ -2672,7 +2672,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Cooluli-Recalls-10-Liter-and-15-Liter-Minifridges-Due-to-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "CuberShop Magnetic Speed Cubes Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Imported by SKY CUBE HK",
@@ -2688,7 +2688,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/CuberShop-Magnetic-Speed-Cubes-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Imported-by-SKY-CUBE-HK",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Deli Jerry Fuel Containers Recalled Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers; Sold on Walmart.com by Deli OfficeSupplies",
@@ -2704,7 +2704,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Deli-Jerry-Fuel-Containers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers-Sold-on-Walmart-com-by-Deli-OfficeSupplies",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "DUMOS Nine-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -2720,7 +2720,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/DUMOS-Nine-Drawer-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Fastbuy Recalls Zimtown Portable Gas and Fuel Cans Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers",
@@ -2736,7 +2736,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Fastbuy-Recalls-Zimtown-Portable-Gas-and-Fuel-Cans-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "GigaCloud Technology USA Recalls Merax Murphy Beds Due to Risk of Serious Injury or Death from Impact and Crush Hazards",
@@ -2752,7 +2752,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/GigaCloud-Technology-USA-Recalls-Merax-Murphy-Beds-Due-to-Risk-of-Serious-Injury-or-Death-from-Impact-and-Crush-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Goody King Magnetic Building Cubes and Blocks Recalled Due to Risk of Serious Injury or Death from Magnetic Ingestion Hazard; Imported by Yi Suen Commerce",
@@ -2768,7 +2768,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Goody-King-Magnetic-Building-Cubes-and-Blocks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnetic-Ingestion-Hazard-Imported-by-Yi-Suen-Commerce",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Hampton Bay Halwin 52-Inch Ceiling Fans Recalled Due to Impact and Injury Hazards; Manufactured by Youngo Limited",
@@ -2784,7 +2784,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Hampton-Bay-Halwin-52-Inch-Ceiling-Fans-Recalled-Due-to-Impact-and-Injury-Hazards-Manufactured-by-Youngo-Limited",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Qabefy",
@@ -2800,7 +2800,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability-Sold-on-Amazon-by-Qabefy",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Ritchey Design Recalls Carbon Bicycle Forks Due to Risk of Serious Injury or Death from Fall and Crash Hazards",
@@ -2816,7 +2816,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Ritchey-Design-Recalls-Carbon-Bicycle-Forks-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Crash-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Shengsen Prank Sound Makers Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries; Imported by Shengsen Toys",
@@ -2832,7 +2832,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Shengsen-Prank-Sound-Makers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Imported-by-Shengsen-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Southern Telecom Recalls Brookstone-Branded Tabletop Fire Pits Due to Risk of Serious Burn Injury or Death from Flame Jetting and Fire Hazards",
@@ -2848,7 +2848,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Southern-Telecom-Recalls-Brookstone-Branded-Tabletop-Fire-Pits-Due-to-Risk-of-Serious-Burn-Injury-or-Death-from-Flame-Jetting-and-Fire-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "SUGIFT Recalls SUGIFT Pressure Washers Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
@@ -2864,7 +2864,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SUGIFT-Recalls-SUGIFT-Pressure-Washers-Due-to-Serious-Risk-of-Injury-or-Death-From-Shock-and-Electrocution-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Sunnyside Corporation Recalls 1-K Kerosene Heater and Appliance Fuel Containers Due to Risk of Serious Injury or Death from Flash Fire and Burn Hazard; Violates Mandatory Standards for Portable Fuel Containers",
@@ -2880,7 +2880,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Sunnyside-Corporation-Recalls-1-K-Kerosene-Heater-and-Appliance-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Flash-Fire-and-Burn-Hazard-Violates-Mandatory-Standards-for-Portable-Fuel-Containers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Taleco Gear Recalls Baby Jumpers, Baby Swings and 2-in-1 Baby Jumper & Swings Due to Risk of Serious Injury or Death from Fall and Strangulation Hazards",
@@ -2896,7 +2896,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Taleco-Gear-Recalls-Baby-Jumpers-Baby-Swings-and-2-in-1-Baby-Jumper-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Strangulation-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "TooyBing Wooden Bead Stacking Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Small Parts Ban",
@@ -2912,7 +2912,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/TooyBing-Wooden-Bead-Stacking-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Small-Parts-Ban",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "CCM Hockey U.S. Recalls FMHVR Hybrid Visors and ACCHVR Replacement Visor Accessories Due to Risk of Injury from Laceration or Impact Hazards",
@@ -2928,7 +2928,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/CCM-Hockey-US-Recalls-FMHVR-Hybrid-Visors-and-ACCHVR-Replacement-Visor-Accessories-Due-to-Risk-of-Injury-from-Laceration-or-Impact-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Goal Zero Recalls YETI 3000X Power Stations Due to Serious Risk of Injury from Fire and Burn Hazards",
@@ -2944,7 +2944,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Goal-Zero-Recalls-YETI-3000X-Power-Stations-Due-to-Serious-Risk-of-Injury-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "JINHEZO Mini Waterproof LED Tea Lights Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries; Imported by Mystic ZO",
@@ -2960,7 +2960,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/JINHEZO-Mini-Waterproof-LED-Tea-Lights-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries-Imported-by-Mystic-ZO",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Koorlian Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Dream Bedding Technology",
@@ -2976,7 +2976,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Koorlian-Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability-Sold-on-Amazon-by-Dream-Bedding-Technology",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "KTM North America Recalls Off-Road Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard",
@@ -2992,7 +2992,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/KTM-North-America-Recalls-Off-Road-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Modine Manufacturing Company Recalls Airedale Heating and Cooling Ventilation Fans Due to Fire Hazard",
@@ -3008,7 +3008,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Modine-Manufacturing-Company-Recalls-Airedale-Heating-and-Cooling-Ventilation-Fans-Due-to-Fire-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Workbless Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards",
@@ -3024,7 +3024,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Workbless-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Loyoda Direct and Loyoda",
@@ -3037,10 +3037,10 @@
       "summary": "This recall involves Loyoda-branded adult portable bed rails. The bed rail comes in silver, measures 13.38 inches wide by 17.71 inches tall and can be extended to 20.47 inches tall. “Loyoda” and the model “FBL140202” are both printed on labels on the product. Only bed rails manufactured before December 15, 2025 are included in this recall. The manufacture date in YYYY-MM-DD format and model number are printed on the product packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Audio Partnership Recalls Cambridge Audio Yoyo (M) Portable Bluetooth Speakers Due to Fire Hazard",
@@ -3053,10 +3053,10 @@
       "summary": "This recall involves the Cambridge Audio Yoyo (M) Bluetooth Speaker sold in light gray, dark gray and blue colors. The recalled speakers can be identified by the unit's product name – \"Yoyo (M)\" – and the following FD numbers which are visible on the underside of the Bluetooth speakers (sold in pairs).",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Branch Recalls Ergonomic Chairs Due to Fall Hazard",
@@ -3064,15 +3064,15 @@
       "url": "https://simon622.shop/item/cpsc-26735/",
       "type": "recall",
       "status": "active",
-      "company": "Bureau Office, Inc. dba Branch, of New York, New York",
+      "company": "Sold At: Online at BranchFurniture.com, Amazon.com, WestElm.com, ContainerStore.com, OfficeDepot.com and other websites from approximately December 2025 through July 2026 for between $320 and $350.",
       "product": "Ergonomic Chairs",
       "summary": "This recall involves height-adjustable ergonomic chairs and only applies to chairs with backrest anchors that were incorrectly installed at the time of manufacture. The recalled chairs were manufactured between September 10, 2025 and April 22, 2026. The dates of manufacture can be found on the label located underneath the chair’s seat cushion. The following SKUs are included in the recall and are located on the side of the product packaging:",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Clorox Puerto Rico Recalls 6 Million Scented Mistolin and Lestoil Multi-Purpose Cleaners Due to Risk of Exposure to Bacteria",
@@ -3085,10 +3085,10 @@
       "summary": "This recall only includes Mistolin and Lestoil products sold in Puerto Rico and the U.S. Virgin Islands. The recall involves scented Mistolin Dilutable Cleaners in Alegra tu Día, Espíritu Play, Flores de Primavera, Fresco Despertar, Frescura de Lavanda, Frescura Tropical, Manzana y Canela, Pino y Especias and Sólo para Ti scents and scented Lestoil Heavy Duty Multi-Purpose Cleaners in Energía del Yunque, Fuerza de Lavanda Tropical, Intenso Limon Boricua and Olas de Rincón scents, with date codes beginning with the prefix “PR01” and followed by a five-digit number between 25091 and 26168, which represents products produced between April 1, 2025 to June 17, 2026. Only products with scents are included in this recall. The products were sold in bottles of 28, 40, 64 and 128 fluid ounces.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Daikin Comfort Technologies Manufacturing Recalls Amana Through-The-Wall Air Conditioners and Heat Pumps Due to Risk of Serious Injury from Fire",
@@ -3096,15 +3096,15 @@
       "url": "https://simon622.shop/item/cpsc-26734/",
       "type": "recall",
       "status": "active",
-      "company": "Daikin Comfort Technologies Manufacturing, Inc., of Houston, Texas",
+      "company": "Sold At: Through direct sales and distribution customers nationwide from April 2025 through June 2026 for between $625 and $900.",
       "product": "Amana Through the Wall (TTW) air conditioners or heat pumps",
       "summary": "This recall involves certain Amana brand Through the Wall (TTW) air conditioners or heat pumps. These products are white and the brand name is printed on most of the units’ control covers. The units are used to provide room climate control. They most often are installed at hotels, apartment buildings, and commercial spaces. The model number and serial number are located on the front of the unit on the front edge of the base pan on a white sticker. Recalled units have a model number beginning with PB. The model numbers in the recall include:",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "GIHNJSI Squeezy Dumplings Toys Recalled Due to Serious Ingestion, Choking and Obstruction Hazards; Sold on Amazon by Chenyuanhui",
@@ -3117,10 +3117,10 @@
       "summary": "This recall involves GIHNJSI Squeezy Dumplings toys. The toys are translucent round squishy balls with cartoon faces and glitter-like particles and water beads on the inside. The Squeezy Dumplings come in a tan plastic container shaped like a bamboo steamer. “SQUEEZY DUMPLINGS” and “SQUEEZE ME” are printed on a removable label. There are no markings on the product.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Gizoon Direct Recalls Six-Drawer Double Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violates Mandatory Standard for Clothing Storage Units",
@@ -3133,10 +3133,10 @@
       "summary": "This recall involves Gizoon-branded six-drawer double wood dressers. They were sold in white and black, measure about 47.3 inches wide, 15.7 inches long, 31.5 inches tall and weigh about 88.2 pounds. “AP47-W” or “AP47-B” is printed on the product packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "MONDRAKER USA Recalls Mountain Bicycles Equipped with ONOFF S9 Carbon MTB Handlebars Due to Risk of Serious Injury or Death from Fall Hazard",
@@ -3144,15 +3144,15 @@
       "url": "https://simon622.shop/item/cpsc-26746/",
       "type": "recall",
       "status": "active",
-      "company": "MONDRAKER USA, LLC, of Boulder, Colorado",
+      "company": "Sold At: Evolucion Innovations, The Path Bike Shop and bicycle stores nationwide from December 2024 through June 2026 for about $5,000 to $12,000.",
       "product": "Mondraker mountain bicycles equipped with ONOFF S9 Carbon MTB handlebars.",
       "summary": "This recall involves Certain Mondraker mountain bicycles equipped with ONOFF S9 Carbon MTB handlebars. The ONOFF S9 Carbon MTB handlebar is used as a steering and control component on the bicycle. Bicycles with model numbers CRAFTY CARBON RR S (MY2026), CRAFTY CARBON XR (MY2025-MY2026), CRAFTY CARBON RR SL (MY2025-MY2026), CRAFTY UNLIMITED GULF (MY2026), DUNE CARBON XR (MY2025), FOXY CARBON RR (MY2025-MY2026), LEVEL XR (MY2026), NEAT RR SL (MY2025), ZENDIT R (MY2027), ZENDIT RR (MY2027), ZENDIT RR S (MY2027), ZENDIT XR (MY2027), RAZE CARBON RR (MY2026) and S9 Carbon MTB Handlebar are affected in this recall.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Nanjing Wu Hai Smart Home Appliance Store Recalls Alanca 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -3165,10 +3165,10 @@
       "summary": "This recall involves Alanca-branded 6-Drawer Wood Dressers. The wooden dressers were sold in brown and white and have six drawers. The dressers measure about 15.75 inches wide, 57 inches long and 31.5 inches tall and weigh about 55 pounds. “WH-DS02-6W” or “WH-DS02-6GE” is printed on the product packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "OKK Trading Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
@@ -3176,15 +3176,15 @@
       "url": "https://simon622.shop/item/cpsc-26737/",
       "type": "recall",
       "status": "active",
-      "company": "OKK Trading Inc., of Vernon, CA",
+      "company": "Sold At: Various third-party stores nationwide from May 2026 through August 2026.",
       "product": "Rainbow Mystery Squishy Bun Toys",
       "summary": "This recall involves Rainbow Mystery Squishy Bun Toys, Model D08004. The squishy bun toys are a translucent pink color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “Rainbow MYSTERY” and “SUGAR EDITION” are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban",
@@ -3192,15 +3192,15 @@
       "url": "https://simon622.shop/item/cpsc-26732/",
       "type": "recall",
       "status": "active",
-      "company": "SHEIN Distribution Corporation of Los Angeles, California",
+      "company": "Sold Online At: SHEIN.com from September 2025 through May 2026 for between $6 to $16.",
       "product": "Spiral Toy",
       "summary": "This recall involves the Spiral Toy (spinning toy). The toy comes with various colored platforms (three, five, or seven, depending on the model) that can be stacked and several yellow plastic balls with a bear head and a basket at the top. One model comes with a basket and a bull head. The packaging lists the manufacturer, manufacturer’s address and email, product name, batch code and various warnings on a sticker label. A separate sticker label has the SKU code “sl25013088678574868” with a bar code and “Made in China” along with various Chinese characters.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Skip Hop Recalls Baby Sesame Street Elmo Silicone Teethers Due to Risk of Serious Injury or Death from Choking Hazard",
@@ -3208,15 +3208,15 @@
       "url": "https://simon622.shop/item/cpsc-26739/",
       "type": "recall",
       "status": "active",
-      "company": "The William Carter Company, of Atlanta, Georgia",
+      "company": "Sold At: Carter’s retail stores nationwide and online at www.carters.com and www.skiphop.com from January 2025 through March 2026 for about $12.",
       "product": "Baby Sesame Street Elmo Silicone Teethers",
       "summary": "This recall involves the Skip Hop Baby Sesame Street Elmo Silicone Teether. The product is in the shape of Elmo’s face (red, orange, and white, with black eyes) and includes a textured key (blue) and fabric crayon box (beige, blue, green, yellow, orange, red). The model number for the Baby Sesame Street Elmo Silicone Teether is 9R263210. A red tag with the Skip Hop brand name and teether model number is attached to the side of the crayon box.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Truststone Group Recalls XO Poppy Power Trip Magnetic Wireless Power Banks Due to Fire and Burn Hazards; Sold Exclusively at TJX and Marshalls Stores",
@@ -3224,15 +3224,15 @@
       "url": "https://simon622.shop/item/cpsc-26740/",
       "type": "recall",
       "status": "active",
-      "company": "Truststone Group LLC of New York",
+      "company": "Sold At: TJX and Marshalls stores nationwide from April 2025 through March 2026 for about $15",
       "product": "XO Poppy Power Trip Magnetic Wireless Power Banks",
       "summary": "This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-PBK5M-TB2). Specific model numbers can be found printed on the bottom of the original packaging, directly above the barcode.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "AudioLineOut Recalls Studio Six Headphone Amplifiers Due to Risk of Serious Injury or Death from Electrocution Hazard",
@@ -3240,15 +3240,15 @@
       "url": "https://simon622.shop/item/cpsc-26720/",
       "type": "recall",
       "status": "active",
-      "company": "AudioLineOut LLC, of Portland, Oregon",
+      "company": "Sold At: Independent stereo stores nationwide and online at aloaudio.com from December 2014 through December 2022 for about $3,900.",
       "product": "Studio Six Headphone Amplifiers",
       "summary": "This recall involves Studio Six Headphone Amplifiers with model ST6. The amplifiers are black or silver. The amplifiers measure 15-3/4 inches high by 12 inches wide. The height for the lower level of the unit, top to bottom, is 5-3/4 inches; the height from the top of the upper level to bottom of the unit is 20-3/4 inches. In the front of the unit, there are four audio connectors for headphones. In the back, there are three sets (L and R) of RCA inputs. Also in the back is a connector for an auxiliary power device.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Conair Expands Recall of Cuisinart Grill Brushes Due to Ingestion Hazard; Over 3.6 Million Brushes Now Recalled",
@@ -3256,15 +3256,15 @@
       "url": "https://simon622.shop/item/cpsc-26717/",
       "type": "recall",
       "status": "active",
-      "company": "Conair LLC of Stamford, Connecticut",
+      "company": "Sold At: Walmart, Burlington, TJ Maxx and Ross and online including Amazon and Cuisinart.com from June 2009 through March 2026 for between $8 and $20.",
       "product": "Metal Wire Bristle Grill Brushes",
       "summary": "This recall expansion involves Cuisinart metal wire bristle grill brushes. The brushes have black plastic, stainless steel, and wood handles. The following model numbers were previously recalled and can be found on the product packaging: CCB-100, CCB-4125, CCB-5014, CCB-6450, CCB-8012, CCB-4114, CCB-W2, and CSBS-777. The following model numbers are part of this recall expansion: CGWM-024, CGWM-059, FCB-501, CGS-W18, CCB-134, CGWM-061, CB-395, CCB-3001, CGWM-077, CGWM-058, CCB-012/021, CGWM-060, and FBH-51. In addition to the identified models, additional Cuisinart brand wire bristle brushes were sold individually and in sets, prior to 2020. All Cuisinart wire bristle grill brushes are included in the recall. The word “Cuisinart” is stamped on the brush handle of the identified models except FCB-501 and CCB-395, where the handle is not stamped. Some of the recalled brushes were also sold as part of the Premium Grill 10 Piece set (CGS-2010), 13 Piece Wooden Handle Grill Tool Set (CGS-W13), 14 Piece Deluxe Stainless Steel Grill Set (CGS-5014), and 20 Piece Deluxe Grill Set, (CGS-5020). The model numbers listed below are part of this recall:",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Diamond Wipes International Recalls MD Wipe Outz Numbing Tattoo Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging",
@@ -3277,10 +3277,10 @@
       "summary": "This recall involves MD Wipe Outz Numbing Tattoo Wipes. The pain-relieving wipes were sold in individually wrapped 3 x 4 inches foil packets in boxes of 5, 10, 25, and 250. The Wipe Outz logo, “NUMB” and “Lidocaine Infused” is printed on the front of the packet.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Excel Industries Recalls Accessory LED Light Kits Due to Risk of Serious Injury from Fire Hazard",
@@ -3293,10 +3293,10 @@
       "summary": "This recall involves an accessory LED Light Kit containing two LED Light Bars and kit components. These accessory products are used on Hustler or BigDog ride-on mowers as an accessory light at the front of the mower. A black or yellow steel mounting bracket attaches to the mower footrest at the front of the mower and holds two LED Light Bars as headlights. The LED Light Bars are clear plastic with a white and a black wire and an orange plug at the end. They measure 6 inches wide and ¾ of an inch tall.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Excel-Industries-Recalls-Accessory-LED-Light-Kits-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Excel-Industries-Recalls-Accessory-LED-Light-Kits-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards",
@@ -3304,15 +3304,15 @@
       "url": "https://simon622.shop/item/cpsc-26719/",
       "type": "recall",
       "status": "active",
-      "company": "Habermaass Corporation, Inc. dba HABA USA, of Skaneateles, New York",
+      "company": "Sold At: Specialty stores nationwide and online at Amazon.com, Target.com, Bellalunatoys.com, Habausa.com and Nordstrom.com from December 2025 through July 2026 for about $13.",
       "product": "HABA Rainbow Rattle Grasping and Teething Toy",
       "summary": "This recall involves HABA Rainbow Rattle Grasping and Teething Toy item number 2012261001 and batch code 0925. The rattle grasping and teething toy features plastic rattling rings that produce sound when moved. Constructed from wood with multiple materials and colorful components, designed for infant grasping, sensory exploration and early play. Each HABA Rainbow Rattle Grasping and Teething Toy can be identified by the product batch code in black on one of the natural wooden hemisphere pieces and the item number found on the back side of the backer card above the barcode.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Kmaier Recalls Infant Walkers Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers",
@@ -3325,10 +3325,10 @@
       "summary": "This recall involves Kmaier-branded infant walkers. The pink, green or white walkers have a tray, a fabric seat and a round base with six-wheels. The walkers can be adjusted to nine different height levels. “Model No.: RV001” is printed on a label located under the walker’s seat.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Little Loves & Co. Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Entrapment Hazard",
@@ -3336,15 +3336,15 @@
       "url": "https://simon622.shop/item/cpsc-26724/",
       "type": "recall",
       "status": "active",
-      "company": "Little Loves & Co. LLC, of Olympia, Washington",
+      "company": "Sold Online At: Littlelovesandco.com and Whatnot.com from May 2025 through July 2026 for between $15 and $30.",
       "product": "Little Loves & Co. Youth Clothing with Drawstrings",
       "summary": "This recall involves youth daywear sets and boy short sets with waist drawstrings. The daywear sets were sold with a crew neck shirt and joggers. The boy short sets were sold with a short sleeve shirt and shorts. The products were sold in sizes 12/18 months through youth 9/10 and were sold in a variety of colors and collage style designs. The model number and date code are printed on the neck tag. The following model numbers and date codes are included in the recall:",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official",
@@ -3352,15 +3352,15 @@
       "url": "https://simon622.shop/item/cpsc-26727/",
       "type": "recall",
       "status": "active",
-      "company": "Shenzhenshixingchuangyiyimaoyouxiangongsi (Shenzhen Xingchuangyi Trading Co., Ltd.) dba Chillife Official, China.",
+      "company": "Sold Online At: Amazon.com from July 2023 through April 2026 for about $27.",
       "product": "Chillife 5-in-1 Montessori Baby Toy Sets",
       "summary": "This recall involves the Chillife 5-in-1 Montessori Baby Toy Sets. The set comes with a pull string teether toy, circular stacking blocks, a sensory toy, a shape sorting cube with blocks and a suction cup spinner. The violative pull string teething toy has an off-white disc shape with a blue ball in the middle and six long, silicone pull strings of various colors running through the ball. There are also three free-spinning rings and soft push buttons on the disc. “Model: CHILLIFE01” is printed on the side of the product packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by YERYORK",
@@ -3373,10 +3373,10 @@
       "summary": "This recall involves YERYORK-branded pressure washers. The recalled, 2.5 GPM electric pressure washers are green with black, and measure about 10.24 inches deep, 16.14 inches wide and 12.01 inches high. The pressure washers come with a 500 ml foam cannon, four quick disconnect nozzles, a 32.81-foot hose and four lockable wheels. Only power washers without a GFCI are included in this recall. The brand is printed at the front of the power washer and model number YE-006 on a label on top of the unit near the handle.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Steelite Pressure Washers Recalled Due to Risk of Serious Injury or Death from Shock and Electrocution Hazards; Sold on Amazon by Longer 3D",
@@ -3384,15 +3384,15 @@
       "url": "https://simon622.shop/item/cpsc-26723/",
       "type": "recall",
       "status": "active",
-      "company": "Longer Technology (Hong Kong) Limited, dba Longer 3D, of China",
+      "company": "Sold Online At: Amazon.com from April 2026 through June 2026 for between $45 and $92.",
       "product": "Steelite Electric Pressure Washers",
       "summary": "This recall involves Steelite-branded pressure washers. They are red and black and measure about 30 inches high, 10 inches wide and 12 inches deep. The 2.5 gpm, electric pressure washers have a foam cannon, four quick connect nozzles and a 20-foot hose. Model “AZ6041VC” is printed on a label on the back of the pressure washer.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Steelite-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-Longer-3D",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Steelite-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-Longer-3D",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Walmart Reannounces Recall of Mainstays Nine-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Walmart Distributed Recalled Dressers Post-Recall; Sold to Consumers Through Liquidators",
@@ -3405,10 +3405,10 @@
       "summary": "This recall involves Mainstays-branded dressers. The fabric dressers have a black metal frame and nine brown or black fabric drawers with handles. The dressers measure about 40 inches long, 13.75 inches wide and 45 inches tall and weigh 32 pounds and were manufactured from September 2023 through December 2025. The Tracking/Lot and the manufacture date in MM/YYYY format are printed on a label under the dresser’s top panel of the dresser. “Mainstays 9-Drawer Fabric Dresser” is printed on the product order receipt and packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
@@ -3421,10 +3421,10 @@
       "summary": "This recall involves California Cade Electronic Finger Lights which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have “California Cade Electronic” and “Finger Flashlights” printed on labels located on the front of the package.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Dual Fuel Ranges Recalled Due to Risk of Serious Injury or Death from Fire or Explosion Hazards; Manufactured by AGA Rangemaster",
@@ -3440,7 +3440,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
@@ -3453,10 +3453,10 @@
       "summary": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
@@ -3472,7 +3472,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
@@ -3488,7 +3488,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Prepared Hero Recalls Fire Spray Canisters Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
@@ -3501,10 +3501,10 @@
       "summary": "This recall involves the Hero Fire Spray Fire Canisters. The canisters are either red and blue or red and have the company's logo on them with the name HERO Fire Spray on the front panel of the spray. Each canister contains 20 fluid ounces. The circular canisters are about 2.6 inches in diameter and 11.4 inches tall and weigh about 1.8 pounds. There is a black plastic release tab on the top of the canister. The affected batch is clearly marked on the base of the canister with the numbers \"09/2024\" as the date code.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
@@ -3517,10 +3517,10 @@
       "summary": "This recall involves the Lontcs Busy Board toys. The toys consist of a wood board and metal handle with multiple attached components including a black plastic buckle with cream colored straps; a brown zipper; a metal latch; a caster wheel; a white doorbell; a lock with keys; a music box with crank; a zig zag duck puzzle; an abacus with three rows of white; red and tan beads; and a white fidget spinner.",
       "sourceAgency": "CPSC",
       "officialVerified": true,
-      "officialSourceUrl": "https://cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
+      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Sweet Cubby Recalls Children's Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children’s Sleepwear",
@@ -3536,7 +3536,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Triumph Motorcycles Recalls Closed Course Competition Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard",
@@ -3552,7 +3552,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
@@ -3568,7 +3568,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "ZMC Group Expands Recall of Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
@@ -3584,7 +3584,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-10T16:23:44.468Z"
+      "lastUpdated": "2026-09-11T04:39:41.320Z"
     },
     {
       "title": "A2batt Recalls EEMB Lithium Coin Battery Chargers Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries",

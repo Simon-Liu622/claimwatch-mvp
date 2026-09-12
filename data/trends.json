@@ -2,16 +2,16 @@
   {
     "rank": 36,
     "query": "salmonella",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "salmonella",
     "trendScore": 23,
-    "detectedAt": "2026-09-12T10:45:46.465Z"
+    "detectedAt": "2026-09-12T15:31:03.488Z"
   }
 ]

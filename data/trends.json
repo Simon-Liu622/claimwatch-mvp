@@ -1,8 +1,8 @@
 [
   {
-    "rank": 70,
+    "rank": 36,
     "query": "salmonella",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -12,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "salmonella",
     "trendScore": 23,
-    "detectedAt": "2026-09-12T04:33:32.057Z"
+    "detectedAt": "2026-09-12T10:45:46.465Z"
   }
 ]

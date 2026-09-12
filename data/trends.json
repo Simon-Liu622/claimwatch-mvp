@@ -1,17 +1,34 @@
 [
   {
-    "rank": 36,
+    "rank": 264,
+    "query": "playstation",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "sony digital game ownership lawsuit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "playstation sony digital game ownership lawsuit",
+    "trendScore": 10,
+    "detectedAt": "2026-09-12T20:32:38.382Z"
+  },
+  {
+    "rank": 168,
     "query": "salmonella",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-    "increasePercentage": 500,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "salmonella",
-    "trendScore": 23,
-    "detectedAt": "2026-09-12T15:31:03.488Z"
+    "trendScore": 8,
+    "detectedAt": "2026-09-12T20:32:38.382Z"
   }
 ]

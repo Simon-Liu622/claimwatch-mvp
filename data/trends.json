@@ -1,17 +1,17 @@
 [
   {
-    "rank": 538,
-    "query": "sony digital game ownership lawsuit",
+    "rank": 146,
+    "query": "sony playstation store credit settlement",
     "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+playstation+store+credit+settlement&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "sony digital game ownership lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-09-13T11:51:26.495Z"
+    "text": "sony playstation store credit settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-09-13T16:16:08.777Z"
   }
 ]

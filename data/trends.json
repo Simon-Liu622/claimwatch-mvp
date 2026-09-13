@@ -1,19 +1,17 @@
 [
   {
-    "rank": 371,
-    "query": "playstation",
-    "searchVolume": 5000,
+    "rank": 538,
+    "query": "sony digital game ownership lawsuit",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "sony digital game ownership lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=playstation&tz=420",
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+digital+game+ownership+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "playstation sony digital game ownership lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-09-13T04:46:44.905Z"
+    "text": "sony digital game ownership lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-09-13T11:51:26.495Z"
   }
 ]

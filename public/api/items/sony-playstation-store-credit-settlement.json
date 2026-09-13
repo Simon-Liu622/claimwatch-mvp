@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:16:11.768Z",
+  "updatedAt": "2026-09-13T20:49:43.376Z",
   "item": {
     "id": "sony-playstation-store-credit-settlement",
     "slug": "sony-playstation-store-credit-settlement",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+playstation+store+credit+settlement&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 33,
     "matchedQueries": [
-      "sony playstation store credit settlement"
+      "sony playstation store credit settlement",
+      "sony lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-13T16:16:08.777Z",
+    "lastUpdated": "2026-09-13T20:49:30.830Z",
     "url": "https://simon622.shop/item/sony-playstation-store-credit-settlement/"
   }
 }

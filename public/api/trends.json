@@ -1,21 +1,23 @@
 {
-  "updatedAt": "2026-09-13T16:16:11.768Z",
+  "updatedAt": "2026-09-13T20:49:43.376Z",
   "count": 1,
   "trends": [
     {
-      "rank": 146,
+      "rank": 74,
       "query": "sony playstation store credit settlement",
-      "searchVolume": 500,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "sony lawsuit"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+playstation+store+credit+settlement&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "sony playstation store credit settlement",
-      "trendScore": 23,
-      "detectedAt": "2026-09-13T16:16:08.777Z"
+      "text": "sony playstation store credit settlement sony lawsuit",
+      "trendScore": 33,
+      "detectedAt": "2026-09-13T20:49:30.830Z"
     }
   ]
 }

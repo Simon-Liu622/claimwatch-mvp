@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-14T12:45:50.359Z",
+  "updatedAt": "2026-09-14T21:48:50.143Z",
   "count": 1,
   "items": [
     {
-      "id": "sony-playstation-store-credit-settlement",
-      "slug": "sony-playstation-store-credit-settlement",
-      "title": "Sony Playstation Store Credit Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "ford-vehicle-recall-fuel-tank",
+      "slug": "ford-vehicle-recall-fuel-tank",
+      "title": "Ford Vehicle Recall Fuel Tank: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "sony playstation store credit settlement",
-      "category": "Consumer monitoring",
+      "product": "ford vehicle recall fuel tank",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,18 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+playstation+store+credit+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+fuel+tank&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 36,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "sony playstation store credit settlement",
-        "sony lawsuit",
-        "sony playstation"
+        "ford vehicle recall fuel tank"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-14T12:45:47.817Z"
+      "lastUpdated": "2026-09-14T21:48:47.768Z"
     }
   ]
 }

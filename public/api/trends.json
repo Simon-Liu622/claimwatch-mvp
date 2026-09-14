@@ -1,24 +1,21 @@
 {
-  "updatedAt": "2026-09-14T12:45:50.359Z",
+  "updatedAt": "2026-09-14T21:48:50.143Z",
   "count": 1,
   "trends": [
     {
-      "rank": 24,
-      "query": "sony playstation store credit settlement",
-      "searchVolume": 20000,
+      "rank": 20,
+      "query": "ford vehicle recall fuel tank",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "sony playstation",
-        "sony lawsuit"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sony+playstation+store+credit+settlement&tz=420",
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+fuel+tank&tz=420",
       "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "sony playstation store credit settlement sony playstation sony lawsuit",
-      "trendScore": 36,
-      "detectedAt": "2026-09-14T12:45:47.817Z"
+      "text": "ford vehicle recall fuel tank",
+      "trendScore": 23,
+      "detectedAt": "2026-09-14T21:48:47.768Z"
     }
   ]
 }

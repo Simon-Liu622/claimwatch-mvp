@@ -1,17 +1,32 @@
 [
   {
-    "rank": 20,
-    "query": "ford vehicle recall fuel tank",
-    "searchVolume": 5000,
+    "rank": 220,
+    "query": "whole foods cheese allergen recall",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whole+foods+cheese+allergen+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "whole foods cheese allergen recall",
+    "trendScore": 16,
+    "detectedAt": "2026-09-15T04:53:42.927Z"
+  },
+  {
+    "rank": 103,
+    "query": "ford vehicle recall fuel tank",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+fuel+tank&tz=420",
-    "increasePercentage": 700,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "ford vehicle recall fuel tank",
-    "trendScore": 23,
-    "detectedAt": "2026-09-14T21:48:47.768Z"
+    "trendScore": 8,
+    "detectedAt": "2026-09-15T04:53:42.927Z"
   }
 ]

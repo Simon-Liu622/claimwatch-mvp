@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:48:50.143Z",
+  "updatedAt": "2026-09-15T04:53:45.992Z",
   "item": {
     "id": "ford-vehicle-recall-fuel-tank",
     "slug": "ford-vehicle-recall-fuel-tank",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+vehicle+recall+fuel+tank&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 10000,
+    "trendScore": 8,
     "matchedQueries": [
       "ford vehicle recall fuel tank"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-14T21:48:47.768Z",
+    "lastUpdated": "2026-09-15T04:53:42.927Z",
     "url": "https://simon622.shop/item/ford-vehicle-recall-fuel-tank/"
   }
 }

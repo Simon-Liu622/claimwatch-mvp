@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T04:53:45.992Z",
+  "updatedAt": "2026-09-15T11:43:34.683Z",
   "items": [
     {
       "title": "Heated Sherpa Throws and Blankets Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon by OCTROT",
@@ -159,7 +159,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -175,7 +175,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -191,7 +191,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -322,6 +322,22 @@
       "lastUpdated": "2026-09-14T12:45:47.817Z"
     },
     {
+      "title": "Marina Del Rey Foods inc.: Frankie's Organic Plant-Based Puffs Vegan Cheddar, NET WT. 4 oz. (113 g). Product is packaged into flexible plastic bag, Recall",
+      "slug": "marina-del-rey-foods-inc-frankie-s-organic-plant-based-puffs-vegan-cheddar-net-wt-4-oz-113",
+      "url": "https://simon622.shop/item/marina-del-rey-foods-inc-frankie-s-organic-plant-based-puffs-vegan-cheddar-net-wt-4-oz-113/",
+      "type": "recall",
+      "status": "active",
+      "company": "Marina Del Rey Foods inc.",
+      "product": "Frankie's Organic Plant-Based Puffs Vegan Cheddar, NET WT. 4 oz. (113 g). Product is packaged into flexible plastic bag,",
+      "summary": "Product tested positive for undeclared milk. Product details: Frankie's Organic Plant-Based Puffs Vegan Cheddar, NET WT. 4 oz. (113 g). Product is packaged into flexible plastic bag, UPC 816929000119. Sold wholesale: 12 retail units/ case",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
+    },
+    {
       "title": "Ford Motor Company: POWER TRAIN:AUTOMATIC TRANSMISSION:FLUID/LUBRICANT:VALVES/VALVE BODY Recall (2024 ford f-150)",
       "slug": "nhtsa-25v164000",
       "url": "https://simon622.shop/item/nhtsa-25v164000/",
@@ -335,7 +351,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -351,7 +367,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -575,7 +591,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported; Imported by Shenzhen Street Cat Technology",
@@ -639,7 +655,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-09-15T04:53:42.927Z"
+      "lastUpdated": "2026-09-15T11:43:32.256Z"
     },
     {
       "title": "FACTORY6, INC.: Zen Principle Naturals Moringa Leaf Powder dietary supplement, 900mg capsules, 180 capsules per PET white bottle. Intended Use: take 2 capsu Recall",
@@ -778,22 +794,6 @@
       "company": "Trafa Pharmaceutical Inc.",
       "product": "Trafa Pharmaceuticals Inc. brand ORGANIC MORINGA LEAF POWDER; NET WEIGHT: 15 KGS; packaged in brown paper bags with a white label",
       "summary": "Potential contamination with Salmonella Product details: Trafa Pharmaceuticals Inc. brand ORGANIC MORINGA LEAF POWDER; NET WEIGHT: 15 KGS; packaged in brown paper bags with a white label",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-07-27T15:12:42.734Z"
-    },
-    {
-      "title": "Fresh & Ready Foods LLC: Fresh to You Burger Chicken Fillet, SKU 10150, Net wt. 5oz. Product is refrigerated. Recall",
-      "slug": "fresh-and-ready-foods-llc-fresh-to-you-burger-chicken-fillet-sku-10150-net-wt-5oz-product-",
-      "url": "https://simon622.shop/item/fresh-and-ready-foods-llc-fresh-to-you-burger-chicken-fillet-sku-10150-net-wt-5oz-product-/",
-      "type": "recall",
-      "status": "active",
-      "company": "Fresh & Ready Foods LLC",
-      "product": "Fresh to You Burger Chicken Fillet, SKU 10150, Net wt. 5oz. Product is refrigerated.",
-      "summary": "Raw breaded chicken patties were inadvertently used in the ready to eat Burger Chicken Fillet sandwich. Raw breaded chicken patties pose a risk of foodborne illness due to the potential presence of Salmonella. Product details: Fresh to You Burger Chicken Fillet, SKU 10150, Net wt. 5oz. Product is refrigerated. UPC 1 00000 01015 0. Manufactured By LPK1 Renton, WA. Product was not sold at retail stores and sold only to employees at certain business' breakroom.",
       "sourceAgency": "FDA",
       "officialVerified": true,
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",

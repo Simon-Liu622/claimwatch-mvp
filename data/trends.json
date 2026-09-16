@@ -1,6 +1,24 @@
 [
   {
-    "rank": 23,
+    "rank": 13,
+    "query": "intercon chemical co hand soap recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "hand soap recall",
+      "hand soap"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+co+hand+soap+recall&tz=420",
+    "increasePercentage": 900,
+    "source": "serpapi-google-trends",
+    "text": "intercon chemical co hand soap recall hand soap recall hand soap",
+    "trendScore": 28,
+    "detectedAt": "2026-09-16T21:17:29.226Z"
+  },
+  {
+    "rank": 34,
     "query": "david streever ice lawsuit ruling",
     "searchVolume": 5000,
     "startedAt": "",
@@ -11,27 +29,10 @@
       "united states immigration and customs enforcement"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit+ruling&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "david streever ice lawsuit ruling david streever first amendment case united states immigration and customs enforcement",
     "trendScore": 27,
-    "detectedAt": "2026-09-16T16:54:33.658Z"
-  },
-  {
-    "rank": 6,
-    "query": "intercon chemical co hand soap recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "hand soap"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+co+hand+soap+recall&tz=420",
-    "increasePercentage": 900,
-    "source": "serpapi-google-trends",
-    "text": "intercon chemical co hand soap recall hand soap",
-    "trendScore": 26,
-    "detectedAt": "2026-09-16T16:54:33.658Z"
+    "detectedAt": "2026-09-16T21:17:29.226Z"
   }
 ]

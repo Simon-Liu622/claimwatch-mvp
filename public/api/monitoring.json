@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-16T21:17:32.350Z",
-  "count": 1,
+  "updatedAt": "2026-09-17T04:51:57.959Z",
+  "count": 2,
   "items": [
     {
-      "id": "intercon-chemical-co-hand-soap-recall",
-      "slug": "intercon-chemical-co-hand-soap-recall",
-      "title": "Intercon Chemical Co Hand Soap Recall: Consumer Alert Monitoring",
+      "id": "intercon-chemical-hand-soap-recall",
+      "slug": "intercon-chemical-hand-soap-recall",
+      "title": "Intercon Chemical Hand Soap Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "intercon chemical co hand soap recall",
+      "product": "intercon chemical hand soap recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,18 +20,47 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+co+hand+soap+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+hand+soap+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "intercon chemical hand soap recall",
+        "hand soap recall",
+        "hand soap"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-17T04:51:55.231Z"
+    },
+    {
+      "id": "so-delicious-dessert-recall",
+      "slug": "so-delicious-dessert-recall",
+      "title": "So Delicious Dessert Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "so delicious dessert recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=so+delicious+dessert+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 28,
+      "trendScore": 24,
       "matchedQueries": [
-        "intercon chemical co hand soap recall",
-        "hand soap",
-        "hand soap recall"
+        "so delicious dessert recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-16T21:17:29.226Z"
+      "lastUpdated": "2026-09-17T04:51:55.231Z"
     }
   ]
 }

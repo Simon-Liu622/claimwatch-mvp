@@ -1,8 +1,8 @@
 [
   {
-    "rank": 13,
-    "query": "intercon chemical co hand soap recall",
-    "searchVolume": 20000,
+    "rank": 50,
+    "query": "intercon chemical hand soap recall",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -10,29 +10,44 @@
       "hand soap recall",
       "hand soap"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+co+hand+soap+recall&tz=420",
-    "increasePercentage": 900,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+hand+soap+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "intercon chemical co hand soap recall hand soap recall hand soap",
-    "trendScore": 28,
-    "detectedAt": "2026-09-16T21:17:29.226Z"
+    "text": "intercon chemical hand soap recall hand soap recall hand soap",
+    "trendScore": 27,
+    "detectedAt": "2026-09-17T04:51:55.231Z"
   },
   {
-    "rank": 34,
-    "query": "david streever ice lawsuit ruling",
-    "searchVolume": 5000,
+    "rank": 9,
+    "query": "so delicious dessert recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=so+delicious+dessert+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "so delicious dessert recall",
+    "trendScore": 24,
+    "detectedAt": "2026-09-17T04:51:55.231Z"
+  },
+  {
+    "rank": 109,
+    "query": "david streever ice lawsuit ruling",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
     "breakdown": [
       "david streever first amendment case",
       "united states immigration and customs enforcement"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+streever+ice+lawsuit+ruling&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
     "text": "david streever ice lawsuit ruling david streever first amendment case united states immigration and customs enforcement",
-    "trendScore": 27,
-    "detectedAt": "2026-09-16T21:17:29.226Z"
+    "trendScore": 12,
+    "detectedAt": "2026-09-17T04:51:55.231Z"
   }
 ]

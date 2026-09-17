@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-17T16:59:39.208Z",
+  "updatedAt": "2026-09-17T21:21:40.701Z",
   "count": 2,
   "items": [
     {
-      "id": "intercon-chemical-hand-soap-recall",
-      "slug": "intercon-chemical-hand-soap-recall",
-      "title": "Intercon Chemical Hand Soap Recall: Consumer Alert Monitoring",
+      "id": "intercon-chemical-bacteria-contamination-recall",
+      "slug": "intercon-chemical-bacteria-contamination-recall",
+      "title": "Intercon Chemical Bacteria Contamination Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "intercon chemical hand soap recall",
+      "product": "intercon chemical bacteria contamination recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,18 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+hand+soap+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 5000,
+      "trendScore": 33,
       "matchedQueries": [
-        "intercon chemical hand soap recall",
-        "hand soap recall",
-        "hand soap"
+        "intercon chemical bacteria contamination recall",
+        "intercon chemical hand soap recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-17T16:59:36.622Z"
+      "lastUpdated": "2026-09-17T21:21:38.283Z"
     },
     {
       "id": "so-delicious-dessert-recall",
@@ -60,7 +59,7 @@
         "so delicious dessert recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-17T16:59:36.622Z"
+      "lastUpdated": "2026-09-17T21:21:38.283Z"
     }
   ]
 }

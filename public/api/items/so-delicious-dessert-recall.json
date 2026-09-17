@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:40:36.540Z",
+  "updatedAt": "2026-09-17T16:59:39.208Z",
   "item": {
     "id": "so-delicious-dessert-recall",
     "slug": "so-delicious-dessert-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=so+delicious+dessert+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 24,
     "matchedQueries": [
       "so delicious dessert recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-17T11:40:34.304Z",
+    "lastUpdated": "2026-09-17T16:59:36.622Z",
     "url": "https://simon622.shop/item/so-delicious-dessert-recall/"
   }
 }

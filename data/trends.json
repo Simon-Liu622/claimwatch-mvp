@@ -1,26 +1,25 @@
 [
   {
-    "rank": 27,
+    "rank": 25,
     "query": "intercon chemical hand soap recall",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "hand soap recall",
-      "hand soap"
+      "hand soap recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+hand+soap+recall&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "intercon chemical hand soap recall hand soap recall hand soap",
-    "trendScore": 27,
-    "detectedAt": "2026-09-17T11:40:34.304Z"
+    "text": "intercon chemical hand soap recall hand soap recall",
+    "trendScore": 25,
+    "detectedAt": "2026-09-17T16:59:36.622Z"
   },
   {
-    "rank": 2,
+    "rank": 1,
     "query": "so delicious dessert recall",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -30,6 +29,6 @@
     "source": "serpapi-google-trends",
     "text": "so delicious dessert recall",
     "trendScore": 24,
-    "detectedAt": "2026-09-17T11:40:34.304Z"
+    "detectedAt": "2026-09-17T16:59:36.622Z"
   }
 ]

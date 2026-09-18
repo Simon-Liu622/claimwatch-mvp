@@ -1,6 +1,23 @@
 [
   {
-    "rank": 122,
+    "rank": 14,
+    "query": "amazon settlement",
+    "searchVolume": 50000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "amazon prime"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+settlement&tz=420",
+    "increasePercentage": 700,
+    "source": "serpapi-google-trends",
+    "text": "amazon settlement amazon prime",
+    "trendScore": 26,
+    "detectedAt": "2026-09-18T16:23:33.302Z"
+  },
+  {
+    "rank": 141,
     "query": "intercon chemical bacteria contamination recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -14,10 +31,25 @@
     "source": "serpapi-google-trends",
     "text": "intercon chemical bacteria contamination recall hand soap",
     "trendScore": 18,
-    "detectedAt": "2026-09-18T11:13:37.538Z"
+    "detectedAt": "2026-09-18T16:23:33.302Z"
   },
   {
-    "rank": 225,
+    "rank": 186,
+    "query": "danone ice cream recall target walmart",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=danone+ice+cream+recall+target+walmart&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "danone ice cream recall target walmart",
+    "trendScore": 8,
+    "detectedAt": "2026-09-18T16:23:33.302Z"
+  },
+  {
+    "rank": 258,
     "query": "selena quintanilla estate lawsuit ab suzette",
     "searchVolume": 1000,
     "startedAt": "",
@@ -29,6 +61,6 @@
     "source": "serpapi-google-trends",
     "text": "selena quintanilla estate lawsuit ab suzette",
     "trendScore": 8,
-    "detectedAt": "2026-09-18T11:13:37.538Z"
+    "detectedAt": "2026-09-18T16:23:33.302Z"
   }
 ]

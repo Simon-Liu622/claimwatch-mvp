@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:13:40.921Z",
+  "updatedAt": "2026-09-18T16:23:36.616Z",
   "item": {
     "id": "cpsc-26715",
     "slug": "cpsc-26715",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Workbless-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "danone ice cream recall target walmart"
+    ],
     "officialVerified": true,
     "officialRecordId": "26715",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T11:13:37.538Z",
+    "lastUpdated": "2026-09-18T16:23:33.302Z",
     "url": "https://simon622.shop/item/cpsc-26715/"
   }
 }

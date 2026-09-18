@@ -257,7 +257,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -416,14 +416,14 @@
     "lastUpdated": "2026-06-12T20:25:53.438Z"
   },
   {
-    "id": "intercon-chemical-bacteria-contamination-recall",
-    "slug": "intercon-chemical-bacteria-contamination-recall",
-    "title": "Intercon Chemical Bacteria Contamination Recall: Consumer Alert Monitoring",
+    "id": "hand-soap",
+    "slug": "hand-soap",
+    "title": "Hand Soap: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "intercon chemical bacteria contamination recall",
+    "product": "hand soap",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -433,17 +433,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hand+soap&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
     "trendScore": 33,
     "matchedQueries": [
-      "intercon chemical bacteria contamination recall",
-      "intercon chemical hand soap recall"
+      "hand soap",
+      "intercon chemical bacteria contamination recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "sirna-and-sons-produce-inc-sirna-and-sons-produce-pepper-jalapeno-break-1lb-repackaged-int",
@@ -573,7 +573,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1328-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v164000",
@@ -599,7 +599,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -625,7 +625,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -995,7 +995,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26659",
@@ -1099,36 +1099,7 @@
     "officialVerified": true,
     "officialRecordId": "26748",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
-  },
-  {
-    "id": "so-delicious-dessert-recall",
-    "slug": "so-delicious-dessert-recall",
-    "title": "So Delicious Dessert Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "so delicious dessert recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=so+delicious+dessert+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 24,
-    "matchedQueries": [
-      "so delicious dessert recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "factory6-inc-zen-principle-naturals-moringa-leaf-powder-dietary-supplement-900mg-capsules-",
@@ -2337,6 +2308,35 @@
     "lastUpdated": "2026-05-11T20:03:56.394Z"
   },
   {
+    "id": "selena-quintanilla-estate-lawsuit-ab-suzette",
+    "slug": "selena-quintanilla-estate-lawsuit-ab-suzette",
+    "title": "Selena Quintanilla Estate Lawsuit Ab Suzette: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "selena quintanilla estate lawsuit ab suzette",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+quintanilla+estate+lawsuit+ab+suzette&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "selena quintanilla estate lawsuit ab suzette"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
+  },
+  {
     "id": "cpsc-26649",
     "slug": "cpsc-26649",
     "title": "Galanz Americas Recalls Retro Refrigerators Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death Reported",
@@ -2462,7 +2462,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2486,7 +2486,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2510,7 +2510,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2534,7 +2534,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "find-refund-cases",
@@ -2558,7 +2558,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "consumer-advice",
@@ -2582,7 +2582,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2606,7 +2606,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2630,7 +2630,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2654,7 +2654,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "military-consumer",
@@ -2678,7 +2678,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "consumer-gov",
@@ -2702,7 +2702,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -2728,7 +2728,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2754,7 +2754,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2780,7 +2780,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2806,7 +2806,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2832,7 +2832,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2858,7 +2858,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2884,7 +2884,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2910,7 +2910,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -2936,7 +2936,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -2962,7 +2962,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -2988,7 +2988,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -3014,7 +3014,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -3040,7 +3040,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "h-and-u-inc-dba-sun-noodle-sura-tanmen-hot-and-sour-flavor-premium-japanese-noodles-and-so",
@@ -3066,7 +3066,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1258-2026",
     "recallInitiationDate": "20260804",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "khong-guan-hq-glutinous-rice-balls-with-black-sesame-filling-net-wt-14-1-oz-400-g-product-",
@@ -3092,7 +3092,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1259-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "byron-white-formulas-inc-byron-white-formulas-a-fng-herbal-supplement-1-0-fl-oz-30-ml-may-",
@@ -3118,7 +3118,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1278-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "dreyer-s-grand-ice-cream-inc-outshine-fruit-bar-watermelon-6-count-2-5-ounce-with",
@@ -3144,7 +3144,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1265-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "dreyer-s-grand-ice-cream-inc-outshine-fruit-bars-grape-6-count-2-5-ounce-with",
@@ -3170,7 +3170,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1266-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26716",
@@ -3196,7 +3196,7 @@
     "officialVerified": true,
     "officialRecordId": "26716",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26712",
@@ -3222,7 +3222,7 @@
     "officialVerified": true,
     "officialRecordId": "26712",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26713",
@@ -3248,7 +3248,7 @@
     "officialVerified": true,
     "officialRecordId": "26713",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26714",
@@ -3274,7 +3274,7 @@
     "officialVerified": true,
     "officialRecordId": "26714",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26710",
@@ -3300,7 +3300,7 @@
     "officialVerified": true,
     "officialRecordId": "26710",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26711",
@@ -3326,7 +3326,7 @@
     "officialVerified": true,
     "officialRecordId": "26711",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26715",
@@ -3352,7 +3352,7 @@
     "officialVerified": true,
     "officialRecordId": "26715",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26733",
@@ -3378,7 +3378,7 @@
     "officialVerified": true,
     "officialRecordId": "26733",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26731",
@@ -3404,7 +3404,7 @@
     "officialVerified": true,
     "officialRecordId": "26731",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26735",
@@ -3430,7 +3430,7 @@
     "officialVerified": true,
     "officialRecordId": "26735",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26741",
@@ -3456,7 +3456,7 @@
     "officialVerified": true,
     "officialRecordId": "26741",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26734",
@@ -3482,7 +3482,7 @@
     "officialVerified": true,
     "officialRecordId": "26734",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26738",
@@ -3508,7 +3508,7 @@
     "officialVerified": true,
     "officialRecordId": "26738",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26736",
@@ -3534,7 +3534,7 @@
     "officialVerified": true,
     "officialRecordId": "26736",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26746",
@@ -3560,7 +3560,7 @@
     "officialVerified": true,
     "officialRecordId": "26746",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26730",
@@ -3586,7 +3586,7 @@
     "officialVerified": true,
     "officialRecordId": "26730",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26737",
@@ -3612,7 +3612,7 @@
     "officialVerified": true,
     "officialRecordId": "26737",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26732",
@@ -3638,7 +3638,7 @@
     "officialVerified": true,
     "officialRecordId": "26732",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26739",
@@ -3664,7 +3664,7 @@
     "officialVerified": true,
     "officialRecordId": "26739",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26740",
@@ -3690,7 +3690,7 @@
     "officialVerified": true,
     "officialRecordId": "26740",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26720",
@@ -3716,7 +3716,7 @@
     "officialVerified": true,
     "officialRecordId": "26720",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26717",
@@ -3742,7 +3742,7 @@
     "officialVerified": true,
     "officialRecordId": "26717",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26718",
@@ -3768,7 +3768,7 @@
     "officialVerified": true,
     "officialRecordId": "26718",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26722",
@@ -3794,7 +3794,7 @@
     "officialVerified": true,
     "officialRecordId": "26722",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26719",
@@ -3820,7 +3820,7 @@
     "officialVerified": true,
     "officialRecordId": "26719",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26721",
@@ -3846,7 +3846,7 @@
     "officialVerified": true,
     "officialRecordId": "26721",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26724",
@@ -3872,7 +3872,7 @@
     "officialVerified": true,
     "officialRecordId": "26724",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26727",
@@ -3898,7 +3898,7 @@
     "officialVerified": true,
     "officialRecordId": "26727",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26725",
@@ -3924,7 +3924,7 @@
     "officialVerified": true,
     "officialRecordId": "26725",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26723",
@@ -3950,7 +3950,7 @@
     "officialVerified": true,
     "officialRecordId": "26723",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26726",
@@ -3976,7 +3976,7 @@
     "officialVerified": true,
     "officialRecordId": "26726",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26761",
@@ -4002,7 +4002,7 @@
     "officialVerified": true,
     "officialRecordId": "26761",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26756",
@@ -4028,7 +4028,7 @@
     "officialVerified": true,
     "officialRecordId": "26756",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26754",
@@ -4054,7 +4054,7 @@
     "officialVerified": true,
     "officialRecordId": "26754",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26764",
@@ -4080,7 +4080,7 @@
     "officialVerified": true,
     "officialRecordId": "26764",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26750",
@@ -4106,7 +4106,7 @@
     "officialVerified": true,
     "officialRecordId": "26750",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26755",
@@ -4132,7 +4132,7 @@
     "officialVerified": true,
     "officialRecordId": "26755",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26753",
@@ -4158,7 +4158,7 @@
     "officialVerified": true,
     "officialRecordId": "26753",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26752",
@@ -4184,7 +4184,7 @@
     "officialVerified": true,
     "officialRecordId": "26752",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26763",
@@ -4210,7 +4210,7 @@
     "officialVerified": true,
     "officialRecordId": "26763",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26749",
@@ -4236,7 +4236,7 @@
     "officialVerified": true,
     "officialRecordId": "26749",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26766",
@@ -4262,7 +4262,7 @@
     "officialVerified": true,
     "officialRecordId": "26766",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -4288,7 +4288,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "prince-bakery-inc-prince-italian-bread-sesame-italian-and-french-bread-large-net-weight-12",
@@ -4314,7 +4314,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1305-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ukrop-s-homestyle-foods-llc-bread-pudding-with-vanilla-sauce-kit-net-wt-4-lb-1-81kg",
@@ -4340,7 +4340,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1327-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-pan-fried-noodle-16-oz-and-5lb-packaged-in-clear-",
@@ -4366,7 +4366,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1320-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-cooked-noodle-16-oz-and-5-lb-packaged-in-clear-pl",
@@ -4392,7 +4392,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1325-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "fayus-inc-ola-ola-pounded-yam-iyan-iyaninstant-net-wt-2-lbs-4-lbs-5-lbs-10-lbs-packed-in-f",
@@ -4418,7 +4418,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1329-2026",
     "recallInitiationDate": "20260706",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "weis-markets-inc-weis-fresh-from-the-orchard-pasteurized-apple-cider-contains-100-juice-th",
@@ -4444,7 +4444,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1308-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "prince-bakery-inc-prince-italian-bread-sesame-net-weight-8-oz-227g",
@@ -4470,7 +4470,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1304-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ukrop-s-homestyle-foods-llc-bread-pudding-with-vanilla-sauce-net-wt-13-8-oz-39g",
@@ -4496,7 +4496,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1326-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "lexunder-inc-food-to-live-organic-supergrass-powder-6-oz-12-oz-1-lb-4-lb",
@@ -4522,7 +4522,7 @@
     "officialVerified": true,
     "officialRecordId": "N/A",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "the-hampton-grocer-the-hampton-grocer-brand-lacnola-small-batch-lactation-granola-8oz-stan",
@@ -4548,7 +4548,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1309-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "prince-bakery-inc-prince-pan-de-manteca-spanish-style-net-weight-8-oz-227g",
@@ -4574,7 +4574,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1307-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ron-s-home-style-foods-inc-item-dipsau0205rfs-salsa-autentica-5-lb-packaged-in-round-plast",
@@ -4600,7 +4600,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1303-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "prince-bakery-inc-prince-sesame-french-bread-long-french-net-wt-10-oz-284g",
@@ -4626,7 +4626,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1306-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-wonton-skin-16-oz-packaged-in-foam-tray-overwrapp",
@@ -4652,7 +4652,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1323-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-lo-mein-noodle-16-oz-packaged-in-clear-plastic-ba",
@@ -4678,7 +4678,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1322-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "savor-seasonings-llc-organic-cheddar-type-seasoning-net-wt-50-lbs-product-is-packaged-in-b",
@@ -4704,7 +4704,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1319-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-dumpling-skin-16-oz-packaged-in-foam-tray-overwra",
@@ -4730,7 +4730,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1324-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "ron-s-home-style-foods-inc-item-dippic0205rfs-pico-de-gallo-5-lb-packaged-in-round-plastic",
@@ -4756,7 +4756,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1302-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-wonton-noodle-12-oz-packaged-in-foam-tray-overwra",
@@ -4782,7 +4782,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1321-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-clindamycin-injection-usp-in-5-dextrose-900-mg-per-50-ml-12-",
@@ -4808,7 +4808,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0815-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-vasopressin-in-0-9-sodium-chloride-injection-20-units-per-10",
@@ -4834,7 +4834,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0811-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-daptomycin-in-0-9-sodium-chloride-injection-1-000-mg-per-100",
@@ -4860,7 +4860,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0821-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-cardene-iv-nicardipine-hydrochloride-in-0-83-sodium-chloride",
@@ -4886,7 +4886,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0813-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "supernus-pharmaceuticals-inc-trokendi-xr-topiramate-extended-release-capsules-50-mg-30-cap",
@@ -4912,7 +4912,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0833-2026",
     "recallInitiationDate": "20260831",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "teva-pharmaceuticals-usa-inc-trazodone-hydrochloride-tablets-usp-50-mg-rx-only-100-tablets",
@@ -4938,7 +4938,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0834-2026",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "allies-group-inc-the-one-spf-50-invisible-sunscreen-gel-avobenzone-3-homosalate-7-octocryl",
@@ -4964,7 +4964,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0824-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-pantoprazole-sodium-in-0-9-sodium-chloride-injection-80-mg-1",
@@ -4990,7 +4990,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0812-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "lexia-llc-broadway-joe-s-pain-cream-histamine-dihydrochloride-0-025-1500mg-cbd-isolate-100",
@@ -5016,7 +5016,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0828-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-daptomycin-in-0-9-sodium-chloride-injection-500-mg-per-50-ml",
@@ -5042,7 +5042,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0807-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-nexterone-amiodarone-hci-360-mg-200-ml-1-8-mg-ml-in-galaxy-s",
@@ -5068,7 +5068,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0814-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-clindamycin-injection-usp-in-5-dextrose-600-mg-per-50-ml-12-",
@@ -5094,7 +5094,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0808-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "baxter-healthcare-corporation-dexmedetomidine-hydrochloride-in-0-9-sodium-chloride-injecti",
@@ -5120,7 +5120,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0810-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-1-blood-culture-tray-pediatric-model-number",
@@ -5146,7 +5146,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3057-2026",
     "recallInitiationDate": "20260612",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "avid-medical-inc-halyard-medical-convenience-kits-labeled-as-1-a-p-pack-205936-model-item-",
@@ -5172,7 +5172,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3046-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "diagnostica-stago-inc-sta-staclot-protein-s-model-catalog-number-00746-reagent-lot-number-",
@@ -5198,7 +5198,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3047-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cardinal-health-200-llc-presource-packs-containing-cliniclean-pericare-wipes-within-bd-uri",
@@ -5224,7 +5224,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3103-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-5008x-hd-hdf-with-twister-blood-tubing-se",
@@ -5250,7 +5250,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3087-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "johnson-and-johnson-surgical-vision-inc-healon-endocoat-pro-ref-10300012-us-can-healon-due",
@@ -5276,7 +5276,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3064-2026",
     "recallInitiationDate": "20260731",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "boston-scientific-corporation-lux-dx-lux-dx-ii-lux-dx-ii-insertable-cardiac-monitor-system",
@@ -5302,7 +5302,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3081-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "philips-north-america-llc-philips-brilliance-ct-64-brilliance-ct-64-channel-product-code-7",
@@ -5328,7 +5328,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3043-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "avid-medical-inc-halyard-medical-convenience-kits-labeled-as-1-ent-model-item-number-kit-a",
@@ -5354,7 +5354,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3044-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-containing-bd-chloraprep-clear-1ml-applicat",
@@ -5380,7 +5380,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3073-2026",
     "recallInitiationDate": "20260720",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-5008x-standard-hd-pre-flush-standard-bloo",
@@ -5406,7 +5406,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3084-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "philips-north-america-llc-philips-ingenuity-ct-product-codes-ingenuity-ct-upgrades-728327-",
@@ -5432,7 +5432,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3042-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26774",
@@ -5458,7 +5458,7 @@
     "officialVerified": true,
     "officialRecordId": "26774",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26775",
@@ -5466,13 +5466,13 @@
     "title": "Esjay US Recalls Toddler Busy Board Montessori Toys Due to Risk of Serious Injury or Death from Choking; Violates Small Parts Ban",
     "type": "recall",
     "status": "active",
-    "company": "Shenzhen Yishijie Technology Co., Ltd., dba Esjay US, of China",
-    "brand": "Shenzhen Yishijie Technology Co., Ltd., dba Esjay US, of China",
-    "product": "Esjay Toddler Busy Board Montessori Toys",
+    "company": "SFactor, of China",
+    "brand": "SFactor, of China",
+    "product": "Tylö Halmstad and Kiruna Hybrid Saunas",
     "category": "Consumer product recall",
     "summary": "This recall involves Esjay Toddler Busy Board Montessori Toys. The busy boards are made of blue felt, have carrying handles, elastic cords and button closures. The front is printed with various cartoon dinosaurs, and the back is printed with 26 small squares, each corresponding to a letter of the alphabet. Each square contains the letter and a cartoon animal. The busy boards have five pages in total and the page with red knobs is the second page.",
-    "affectedPeople": "Consumers who purchased: Esjay Toddler Busy Board Montessori Toys.",
-    "remedy": "Consumers should take the recalled toy away from children, stop using it immediately and contact Esjay for instructions on the repair. Consumers will be asked to unzip the page with red knobs, write “RECALLED” on both sides of the page and throw it away. Send a photo of the disposed page to Esjay US at esjay-service@outlook.com to receive a replacement page.",
+    "affectedPeople": "Consumers who purchased: Tylö Halmstad and Kiruna Hybrid Saunas.",
+    "remedy": "Consumers should stop using the saunas immediately, even if they received the 2025 recall remedy and contact Sauna360 for another free repair. Sauna360 will provide a professional installer to retrofit the benches with additional hardware and supports.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5484,7 +5484,7 @@
     "officialVerified": true,
     "officialRecordId": "26775",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26778",
@@ -5510,7 +5510,7 @@
     "officialVerified": true,
     "officialRecordId": "26778",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26779",
@@ -5518,13 +5518,13 @@
     "title": "LANCHEZ Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
     "type": "recall",
     "status": "active",
-    "company": "Sold Online At: Amazon.com, Walmart.com and Temu.com from February 2026 through June 2026 for between $88 and $266.",
-    "brand": "Sold Online At: Amazon.com, Walmart.com and Temu.com from February 2026 through June 2026 for between $88 and $266.",
-    "product": "LANCHEZ Pressure Washers",
+    "company": "Sold At: Various third-party stores nationwide from June 2026 through July 2026 for about $3.",
+    "brand": "Sold At: Various third-party stores nationwide from June 2026 through July 2026 for about $3.",
+    "product": "Rainbow Mystery Squishy Bun Toys",
     "category": "Consumer product recall",
     "summary": "This recall involves LANCHEZ-branded pressure washers. The recalled, 3.2 GPM electric pressure washers were sold in blue-and-black or red-and-black, and measure about 12.2 inches deep, 16.9 inches wide and 16.5 inches high. The pressure washers came with a 500 ml soap tank, four quick disconnect nozzles and a 23-foot hose. Only power washers without a GFCI or adequate-length power cord are included in this recall. “LANCHEZ” is printed on the front of the power washer and model number “KLC-BULL135C” is printed on a label on top of the unit near the handle.",
-    "affectedPeople": "Consumers who purchased: LANCHEZ Pressure Washers.",
-    "remedy": "Consumers should stop using the recalled pressure washers immediately and contact LANCHEZ for a full refund. Consumers will be asked to unplug the pressure washer, destroy it by cutting the power cord in half and send a photo of the destroyed power washer, showing the model number, to service@lanchezpumps.com. Consumers should then dispose of the destroyed recalled product.",
+    "affectedPeople": "Consumers who purchased: Rainbow Mystery Squishy Bun Toys.",
+    "remedy": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away and email a photo of the disposed toy to toyworld16850@gmail.com.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5536,7 +5536,7 @@
     "officialVerified": true,
     "officialRecordId": "26779",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26780",
@@ -5548,7 +5548,7 @@
     "brand": "Sold Online At: Amazon.com from November 2024 through July 2026 for about $170.",
     "product": "Lights & Sounds Fire Truck Activity Board",
     "category": "Consumer product recall",
-    "summary": "The “Lights and Sound Fire Truck” is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, “Melissa & Doug” is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled units.",
+    "summary": "The \"Lights and Sound Fire Truck\" is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, \"Melissa & Doug\" is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled units.",
     "affectedPeople": "Consumers who purchased: Lights & Sounds Fire Truck Activity Board.",
     "remedy": "Consumers should stop using the fire truck activity board immediately and register at www.melissaanddoug.com/recall for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit. Consumers will be asked to remove the batteries, write in permanent marker the word “RECALL” on the front of the product along with a unique code provided during the online registration process, and to cut the black hose off from the toy. Consumers will then be directed to upload a photograph of the destroyed product to the registration page. Once their registration has been successfully confirmed, consumers should dispose of the product in their ordinary household trash.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
@@ -5562,7 +5562,7 @@
     "officialVerified": true,
     "officialRecordId": "26780",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26781",
@@ -5570,13 +5570,13 @@
     "title": "Regfear Recalls BedsPick Mattresses Due to Risk of Serious Injury or Death from Fire; Violate Mandatory Flammability Standard for Mattresses",
     "type": "recall",
     "status": "active",
-    "company": "Sold Online At: Amazon.com from February 2025 through May 2026 for between $140 to $200.",
-    "brand": "Sold Online At: Amazon.com from February 2025 through May 2026 for between $140 to $200.",
-    "product": "BedsPick Mattresses",
+    "company": "Sold Online At: Amazon.com from July 2024 through July 2026 for about $34.",
+    "brand": "Sold Online At: Amazon.com from July 2024 through July 2026 for about $34.",
+    "product": "Regfear Recalls BedsPick Mattresses Due to Risk of Serious Injury or Death from Fire; Violate Mandatory Flammability Standard for Mattresses",
     "category": "Consumer product recall",
-    "summary": "This recall involves two styles of BedsPick branded Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and purple sides or a white top and gray sides and were sold compressed in a box. Prototype ID “AMGSW066” or “AMGSW067” and model numbers “SME004” or “AMG005197_12_Q_GLT” are printed on a sewn-in white label located on one side of the mattress.",
-    "affectedPeople": "Consumers who purchased: BedsPick Mattresses.",
-    "remedy": "Consumers should stop using the recalled mattresses immediately and contact Regfear for a full refund. Consumers will be asked to destroy the mattress, write in permanent marker “Recalled,” on the mattress’ top surface and email a photo of the destroyed mattress to BedsPickRecall@outlook.com. Consumers should then dispose of the recalled product. The refund will be issued after Regfear receives photos and written confirmation of disposal.",
+    "summary": "This recall involves two styles of BedsPick branded Mattresses. The mattresses are 12 inches thick and sold in queen size. They have a white top and purple sides or a white top and gray sides and were sold compressed in a box. Prototype ID \"AMGSW066\" or \"AMGSW067\" and model numbers \"SME004\" or \"AMG005197_12_Q_GLT\" are printed on a sewn-in white label located on one side of the mattress.",
+    "affectedPeople": "Consumers who purchased the recalled product.",
+    "remedy": "Follow CPSC recall instructions.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5588,7 +5588,7 @@
     "officialVerified": true,
     "officialRecordId": "26781",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26783",
@@ -5596,13 +5596,13 @@
     "title": "Sauna360 Expands Recall of Tylö Halmstad and Kiruna Hybrid Saunas Due to Fall Hazard; New Remedy Provided",
     "type": "recall",
     "status": "active",
-    "company": "SFactor, of China",
-    "brand": "SFactor, of China",
-    "product": "Tylö Halmstad and Kiruna Hybrid Saunas",
+    "company": "Sold At: Target stores nationwide and online at Target.com from July 2025 through August 2026 for about $30.",
+    "brand": "Sold At: Target stores nationwide and online at Target.com from July 2025 through August 2026 for about $30.",
+    "product": "Sauna360 Expands Recall of Tylö Halmstad and Kiruna Hybrid Saunas Due to Fall Hazard; New Remedy Provided",
     "category": "Consumer product recall",
-    "summary": "This recall expansion involves bench seating in Sauna360’s Tylö branded Halmstad and Kiruna Hybrid sauna rooms. The serial number for each room can be found on both the packaging and the sauna rooms. The Halmstad 2, 3 and 4 sauna rooms have the serial number label located beneath the upper bench on the left side, directly above the electrical contactor box. The Kiruna Hybrid 2 and 3 rooms have the serial number label applied to the right wall, located beneath the right side of the upper bench. The model number is printed in the manual. The following models and serial numbers are included in this recall:",
-    "affectedPeople": "Consumers who purchased: Tylö Halmstad and Kiruna Hybrid Saunas.",
-    "remedy": "Consumers should stop using the saunas immediately, even if they received the 2025 recall remedy and contact Sauna360 for another free repair. Sauna360 will provide a professional installer to retrofit the benches with additional hardware and supports.",
+    "summary": "This recall expansion involves bench seating in Sauna360's Tylö branded Halmstad and Kiruna Hybrid sauna rooms. The serial number for each room can be found on both the packaging and the sauna rooms. The Halmstad 2, 3 and 4 sauna rooms have the serial number label located beneath the upper bench on the left side, directly above the electrical contactor box. The Kiruna Hybrid 2 and 3 rooms have the serial number label applied to the right wall, located beneath the right side of the upper bench. The model number is printed in the manual. The following models and serial numbers are included in this recall:",
+    "affectedPeople": "Consumers who purchased the recalled product.",
+    "remedy": "Follow CPSC recall instructions.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5614,7 +5614,7 @@
     "officialVerified": true,
     "officialRecordId": "26783",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26782",
@@ -5622,13 +5622,13 @@
     "title": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys",
     "type": "recall",
     "status": "active",
-    "company": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
-    "brand": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
-    "product": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys",
+    "company": "Hefei Hanchan Network Technology Co., Ltd., dba Colerinsec, of China",
+    "brand": "Hefei Hanchan Network Technology Co., Ltd., dba Colerinsec, of China",
+    "product": "Pull & Chew Montessori Teething Toys",
     "category": "Consumer product recall",
-    "summary": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with “BABY PRODUCTS” and “Crafted in Gentle Care” printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer’s name and address, product date, and batch code are printed on the front and back of the packaging.",
-    "affectedPeople": "Consumers who purchased the recalled product.",
-    "remedy": "Follow CPSC recall instructions.",
+    "summary": "This recall involves Pull & Chew Montessori Teething Toys. The silicone teething toys are green, pink, yellow or blue and have four strings in various colors. The recalled toys are packaged in a clear and white plastic pouch with \"BABY PRODUCTS\" and \"Crafted in Gentle Care\" printed on the front. The product SKU (sa25092843915310553, sa2404237092800828, or sa251115653050553503) is printed on the front of the packaging. The manufacturer's name and address, product date, and batch code are printed on the front and back of the packaging.",
+    "affectedPeople": "Consumers who purchased: Pull & Chew Montessori Teething Toys.",
+    "remedy": "Consumers should stop using the recalled teething toys immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to cut the teething toy’s silicone strings and send a photo of the destroyed toy to productrecall@shein.com. Consumers should then dispose of the destroyed product.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5640,7 +5640,7 @@
     "officialVerified": true,
     "officialRecordId": "26782",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26785",
@@ -5652,7 +5652,7 @@
     "brand": "Sold Online At: Amazon.com from September 2022 through July 2026 as both a one-pack or a two-pack.",
     "product": "Basecamp Bike Helmets",
     "category": "Consumer product recall",
-    "summary": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. “Basecamp” is printed on the sides of the helmet and “HT-10” on a label inside of the helmet.",
+    "summary": "This recall involves Basecamp-branded bicycle helmets, model HT-10. The helmets were sold in green and black and in size medium/large (M/L), fitting a head circumference of about 22.44 to 24.41 inches. The helmets have red padding, black and red straps, a black and red buckle and a black and red fit-adjusting knob at the back. \"Basecamp\" is printed on the sides of the helmet and “\"HT-10\" on a label inside of the helmet.",
     "affectedPeople": "Consumers who purchased: Basecamp Bike Helmets.",
     "remedy": "Consumers should stop using the helmets immediately and contact Tongyang Cycling for a full refund. Consumers will be asked to destroy the recalled helmet by cutting the straps and send a photo of the destroyed helmet to tongyangshangwuus@hotmail.com. Consumers should then dispose of the recalled product. Note: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
@@ -5666,7 +5666,7 @@
     "officialVerified": true,
     "officialRecordId": "26785",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26786",
@@ -5674,13 +5674,13 @@
     "title": "Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
     "type": "recall",
     "status": "active",
-    "company": "Sold At: Various third-party stores nationwide from June 2026 through July 2026 for about $3.",
-    "brand": "Sold At: Various third-party stores nationwide from June 2026 through July 2026 for about $3.",
-    "product": "Rainbow Mystery Squishy Bun Toys",
+    "company": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
+    "brand": "Sold Online At: SHEIN.com from December 2025 through April 2026 for about $10.",
+    "product": "Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
     "category": "Consumer product recall",
-    "summary": "This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. “Rainbow MYSTERY” and “SUGAR EDITION” are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
-    "affectedPeople": "Consumers who purchased: Rainbow Mystery Squishy Bun Toys.",
-    "remedy": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw the toy away and email a photo of the disposed toy to toyworld16850@gmail.com.",
+    "summary": "This recall involves Rainbow Mystery Squishy Bun Toys. The squishy bun toys are a translucent green color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"Rainbow MYSTERY\" and \"SUGAR EDITION\" are printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+    "affectedPeople": "Consumers who purchased the recalled product.",
+    "remedy": "Follow CPSC recall instructions.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5692,31 +5692,7 @@
     "officialVerified": true,
     "officialRecordId": "26786",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
-  },
-  {
-    "id": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
-    "slug": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
-    "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
-    "type": "settlement",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
-    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "consumer-protection-and-older-adults-roundtable-healthcare-related-scams-before-during-and",
@@ -5740,7 +5716,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26773",
@@ -5748,17 +5724,17 @@
     "title": "Char-Broil Recalls Bistro Pro Electric Grills Due to Risk of Electric Shock",
     "type": "recall",
     "status": "active",
-    "company": "Sold At: Ace Hardware, Lowe’s, Walmart, Wayfair, QVC and other hardware stores nationwide online at Amazon.com, Charbroil.com, Ace Hardware.com, Lowes.com, Walmart.com, Wayfair.com, QVC.com and other online retailers from October 2025 through June 2026 for between $150 and $250.",
-    "brand": "Sold At: Ace Hardware, Lowe’s, Walmart, Wayfair, QVC and other hardware stores nationwide online at Amazon.com, Charbroil.com, Ace Hardware.com, Lowes.com, Walmart.com, Wayfair.com, QVC.com and other online retailers from October 2025 through June 2026 for between $150 and $250.",
-    "product": "Charbroil Bistro Pro Electric Grills",
+    "company": "Sold Online At: Amazon.com, Walmart.com and Temu.com from February 2026 through June 2026 for between $88 and $266.",
+    "brand": "Sold Online At: Amazon.com, Walmart.com and Temu.com from February 2026 through June 2026 for between $88 and $266.",
+    "product": "LANCHEZ Pressure Washers",
     "category": "Consumer product recall",
-    "summary": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a “CB” logo plate on the front of the lid and “CHARBROIL” printed on the front control panel. The product label listing the model and serial number, including a four‑digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
-    "affectedPeople": "Consumers who purchased: Charbroil Bistro Pro Electric Grills.",
-    "remedy": "Consumers should stop using the recalled electric grills immediately and contact Char-Broil for a free repair kit. Consumers will be asked to register at www.charbroil.com/BistroProFix to receive repair instructions, a screwdriver, a wrench, screws and a label to affix to the grill after repair. Char-Broil is offering a digital $25 gift card, valid at participating retailers, to consumers who provide photo documentation of the completed repair.",
+    "summary": "This recall involves the Charbroil Bistro Pro Electric Grills with model descriptions Bistro Pro Electric Grill & Griddle + Charcoal, Bistro Electric Grill + Charcoal and Bistro Pro Tabletop Electric Grill. The grills were sold in full-size and tabletop configurations in Black (black and gray), Red, Blackout (all black) and Emerald (green). The units have a \"CB\" logo plate on the front of the lid and \"CHARBROIL\" printed on the front control panel. The product label listing the model and serial number, including a four-digit manufacturing date code in year and month (YYMM) format, is located on the bottom shelf of full-size grills and on the side bar of tabletop models. Only Bistro Pro Electric Grills with date codes of 2510 (Oct-2025), 2511 (Nov-2025) and 2512 (Dec-2025) are included in this recall.",
+    "affectedPeople": "Consumers who purchased: LANCHEZ Pressure Washers.",
+    "remedy": "Consumers should stop using the recalled pressure washers immediately and contact LANCHEZ for a full refund. Consumers will be asked to unplug the pressure washer, destroy it by cutting the power cord in half and send a photo of the destroyed power washer, showing the model number, to service@lanchezpumps.com. Consumers should then dispose of the destroyed recalled product.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Char-Broil-Recalls-Bistro-Pro-Electric-Grills-Due-to-Risk-of-Electric-Shock",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -5766,7 +5742,7 @@
     "officialVerified": true,
     "officialRecordId": "26773",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26776",
@@ -5792,7 +5768,7 @@
     "officialVerified": true,
     "officialRecordId": "26776",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26777",
@@ -5800,17 +5776,17 @@
     "title": "Hayward Industries Recalls Universal Pool Heaters Due to Risk of Serious Injury or Death from Carbon Monoxide Poisoning Hazard",
     "type": "recall",
     "status": "active",
-    "company": "Hayward Industries, Inc., of Charlotte, North Carolina",
-    "brand": "Hayward Industries, Inc., of Charlotte, North Carolina",
-    "product": "400,000 BTU Universal-HC Series Pool Heaters",
+    "company": "Sold At: Costco stores and pool and spa dealerships nationwide and online at Costco.com and other online sites from May 2013 through July 2026 for between $6000 and $13,000.",
+    "brand": "Sold At: Costco stores and pool and spa dealerships nationwide and online at Costco.com and other online sites from May 2013 through July 2026 for between $6000 and $13,000.",
+    "product": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits",
     "category": "Consumer product recall",
-    "summary": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater’s name plate is below the vent with the word “Hayward” appearing at the bottom of the name plate and the model number “HDFS400” appears at the top of the name plate.",
-    "affectedPeople": "Consumers who purchased: 400,000 BTU Universal-HC Series Pool Heaters.",
-    "remedy": "Consumers should stop using the pool heater immediately and contact Hayward Industries to schedule a free in-home inspection and repair by a qualified technician.",
+    "summary": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
+    "affectedPeople": "Consumers who purchased: Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits.",
+    "remedy": "Consumers should stop using the infrared and hybrid saunas immediately and contact Sauna360 to schedule a free in-home repair from a professional installer.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard-0",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -5818,7 +5794,7 @@
     "officialVerified": true,
     "officialRecordId": "26777",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "cpsc-26784",
@@ -5826,13 +5802,13 @@
     "title": "Sauna360 Recalls Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
     "type": "recall",
     "status": "active",
-    "company": "Sold At: Costco stores and pool and spa dealerships nationwide and online at Costco.com and other online sites from May 2013 through July 2026 for between $6000 and $13,000.",
-    "brand": "Sold At: Costco stores and pool and spa dealerships nationwide and online at Costco.com and other online sites from May 2013 through July 2026 for between $6000 and $13,000.",
-    "product": "Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits",
+    "company": "Sold Online At: Amazon.com from February 2025 through May 2026 for between $140 to $200.",
+    "brand": "Sold Online At: Amazon.com from February 2025 through May 2026 for between $140 to $200.",
+    "product": "BedsPick Mattresses",
     "category": "Consumer product recall",
-    "summary": "This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words “Saunalogic,” “Infralogic,” “Carbonflex,” or “Tylö” on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
-    "affectedPeople": "Consumers who purchased: Infrared Saunas, Hybrid Infrared Saunas and Infrared Kits.",
-    "remedy": "Consumers should stop using the infrared and hybrid saunas immediately and contact Sauna360 to schedule a free in-home repair from a professional installer.",
+    "summary": "This recall involves various infrared and hybrid sauna models and infrared (IR) kits. Customers who purchased custom rooms built with IR panels can check for the words \"Saunalogic,\" \"Infralogic,\" \"Carbonflex,\" or \"Tylö\" on their control panel or locate their product manual. Customers who purchased pre-configured infrared sauna rooms can identify their product by the brand badge on the front frame panel, the control panel, the manual or the logo handle. Consumers can also find the serial number located under the lower bench or on the wall under the upper bench depending on the unit and provide Sauna360 the serial number to determine if they have a recalled sauna. The IR sauna kits with panels, along with the following sauna model numbers, are included in this recall:",
+    "affectedPeople": "Consumers who purchased: BedsPick Mattresses.",
+    "remedy": "Consumers should stop using the recalled mattresses immediately and contact Regfear for a full refund. Consumers will be asked to destroy the mattress, write in permanent marker “Recalled,” on the mattress’ top surface and email a photo of the destroyed mattress to BedsPickRecall@outlook.com. Consumers should then dispose of the recalled product. The refund will be issued after Regfear receives photos and written confirmation of disposal.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -5844,7 +5820,7 @@
     "officialVerified": true,
     "officialRecordId": "26784",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -5868,7 +5844,31 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T16:59:36.622Z"
+    "lastUpdated": "2026-09-18T04:42:56.909Z"
+  },
+  {
+    "id": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
+    "slug": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
+    "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-09-17T21:21:38.283Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",

@@ -1,40 +1,40 @@
 [
   {
-    "rank": 14,
+    "rank": 4,
     "query": "amazon settlement",
-    "searchVolume": 50000,
+    "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "amazon prime"
+      "ftc amazon settlement redress payments",
+      "amazon prime",
+      "prime"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+settlement&tz=420",
-    "increasePercentage": 700,
+    "increasePercentage": 900,
     "source": "serpapi-google-trends",
-    "text": "amazon settlement amazon prime",
-    "trendScore": 26,
-    "detectedAt": "2026-09-18T16:23:33.302Z"
+    "text": "amazon settlement ftc amazon settlement redress payments amazon prime prime",
+    "trendScore": 32,
+    "detectedAt": "2026-09-18T20:53:54.719Z"
   },
   {
-    "rank": 141,
-    "query": "intercon chemical bacteria contamination recall",
-    "searchVolume": 5000,
+    "rank": 103,
+    "query": "leonie brinkema anti weaponization fund lawsuit",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "hand soap"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
-    "increasePercentage": 300,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=leonie+brinkema+anti+weaponization+fund+lawsuit&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "intercon chemical bacteria contamination recall hand soap",
-    "trendScore": 18,
-    "detectedAt": "2026-09-18T16:23:33.302Z"
+    "text": "leonie brinkema anti weaponization fund lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-09-18T20:53:54.719Z"
   },
   {
-    "rank": 186,
+    "rank": 225,
     "query": "danone ice cream recall target walmart",
     "searchVolume": 500,
     "startedAt": "",
@@ -46,10 +46,10 @@
     "source": "serpapi-google-trends",
     "text": "danone ice cream recall target walmart",
     "trendScore": 8,
-    "detectedAt": "2026-09-18T16:23:33.302Z"
+    "detectedAt": "2026-09-18T20:53:54.719Z"
   },
   {
-    "rank": 258,
+    "rank": 259,
     "query": "selena quintanilla estate lawsuit ab suzette",
     "searchVolume": 1000,
     "startedAt": "",
@@ -61,6 +61,6 @@
     "source": "serpapi-google-trends",
     "text": "selena quintanilla estate lawsuit ab suzette",
     "trendScore": 8,
-    "detectedAt": "2026-09-18T16:23:33.302Z"
+    "detectedAt": "2026-09-18T20:53:54.719Z"
   }
 ]

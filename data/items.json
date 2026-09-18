@@ -257,7 +257,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -520,6 +520,35 @@
     "lastUpdated": "2026-09-14T12:45:47.817Z"
   },
   {
+    "id": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
+    "slug": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
+    "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
+    "type": "settlement",
+    "status": "active",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+    "sourceAgency": "FTC",
+    "searchVolume": 100000,
+    "trendScore": 32,
+    "matchedQueries": [
+      "amazon settlement",
+      "ftc amazon settlement redress payments",
+      "amazon prime",
+      "prime"
+    ],
+    "officialVerified": true,
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
+  },
+  {
     "id": "marina-del-rey-foods-inc-frankie-s-organic-plant-based-puffs-vegan-cheddar-net-wt-4-oz-113",
     "slug": "marina-del-rey-foods-inc-frankie-s-organic-plant-based-puffs-vegan-cheddar-net-wt-4-oz-113",
     "title": "Marina Del Rey Foods inc.: Frankie's Organic Plant-Based Puffs Vegan Cheddar, NET WT. 4 oz. (113 g). Product is packaged into flexible plastic bag, Recall",
@@ -543,7 +572,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1328-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v164000",
@@ -569,7 +598,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -595,7 +624,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -965,7 +994,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26659",
@@ -1051,8 +1080,8 @@
     "title": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
     "type": "recall",
     "status": "active",
-    "company": "",
-    "brand": "",
+    "company": "Sold At: H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
+    "brand": "Sold At: H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
     "product": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
     "category": "Consumer product recall",
     "summary": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle's rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, \"EXTREME SOUR\", \"SOUR CRUSH\" and the flavor name are printed on the front of the bottle, along with the image of a green monster.",
@@ -1061,7 +1090,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": 50000,
     "trendScore": 24,
@@ -1069,7 +1098,7 @@
     "officialVerified": true,
     "officialRecordId": "26748",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "factory6-inc-zen-principle-naturals-moringa-leaf-powder-dietary-supplement-900mg-capsules-",
@@ -1702,36 +1731,6 @@
     "lastUpdated": "2026-05-27T20:29:01.709Z"
   },
   {
-    "id": "intercon-chemical-bacteria-contamination-recall",
-    "slug": "intercon-chemical-bacteria-contamination-recall",
-    "title": "Intercon Chemical Bacteria Contamination Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "intercon chemical bacteria contamination recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 18,
-    "matchedQueries": [
-      "intercon chemical bacteria contamination recall",
-      "hand soap"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
-  },
-  {
     "id": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
     "slug": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
     "title": "Green Jeeva LLC: Organic Moringa Powder; 15kg/bag (bulk); Product code: GJ96 Recall",
@@ -2334,7 +2333,7 @@
       "selena quintanilla estate lawsuit ab suzette"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26715",
@@ -2362,7 +2361,7 @@
     "officialVerified": true,
     "officialRecordId": "26715",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26753",
@@ -2370,8 +2369,8 @@
     "title": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
     "type": "recall",
     "status": "active",
-    "company": "H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
-    "brand": "H-E-B, Forman Mill and other candy stores nationwide and online at Walmart.com, CandyFunHouse.com, RickyJoy.com and other online retailers from January 2023 through May 2026 for about $3 for the bottle and for between $13 and $32 for the pack.",
+    "company": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
+    "brand": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
     "product": "Lontcs Busy Board",
     "category": "Consumer product recall",
     "summary": "This recall involves the Lontcs Busy Board toys. The toys consist of a wood board and metal handle with multiple attached components including a black plastic buckle with cream colored straps; a brown zipper; a metal latch; a caster wheel; a white doorbell; a lock with keys; a music box with crank; a zig zag duck puzzle; an abacus with three rows of white; red and tan beads; and a white fidget spinner.",
@@ -2380,17 +2379,44 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
     "sourceAgency": "CPSC",
     "searchVolume": 500,
     "trendScore": 8,
-    "matchedQueries": [
-      "danone ice cream recall target walmart"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "26753",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
+  },
+  {
+    "id": "leonie-brinkema-anti-weaponization-fund-lawsuit",
+    "slug": "leonie-brinkema-anti-weaponization-fund-lawsuit",
+    "title": "Leonie Brinkema Anti Weaponization Fund Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "leonie brinkema anti weaponization fund lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=leonie+brinkema+anti+weaponization+fund+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "leonie brinkema anti weaponization fund lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26649",
@@ -2520,7 +2546,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2546,7 +2572,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2572,7 +2598,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2598,7 +2624,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2624,7 +2650,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2650,7 +2676,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2676,7 +2702,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2702,7 +2728,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -2728,7 +2754,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -2754,7 +2780,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -2780,7 +2806,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -2806,7 +2832,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -2832,7 +2858,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "h-and-u-inc-dba-sun-noodle-sura-tanmen-hot-and-sour-flavor-premium-japanese-noodles-and-so",
@@ -2858,7 +2884,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1258-2026",
     "recallInitiationDate": "20260804",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "khong-guan-hq-glutinous-rice-balls-with-black-sesame-filling-net-wt-14-1-oz-400-g-product-",
@@ -2884,7 +2910,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1259-2026",
     "recallInitiationDate": "20260713",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "byron-white-formulas-inc-byron-white-formulas-a-fng-herbal-supplement-1-0-fl-oz-30-ml-may-",
@@ -2910,7 +2936,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1278-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "dreyer-s-grand-ice-cream-inc-outshine-fruit-bar-watermelon-6-count-2-5-ounce-with",
@@ -2936,7 +2962,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1265-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "dreyer-s-grand-ice-cream-inc-outshine-fruit-bars-grape-6-count-2-5-ounce-with",
@@ -2962,7 +2988,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1266-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26716",
@@ -2988,7 +3014,7 @@
     "officialVerified": true,
     "officialRecordId": "26716",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26712",
@@ -3014,7 +3040,7 @@
     "officialVerified": true,
     "officialRecordId": "26712",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26713",
@@ -3040,7 +3066,7 @@
     "officialVerified": true,
     "officialRecordId": "26713",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26714",
@@ -3066,7 +3092,7 @@
     "officialVerified": true,
     "officialRecordId": "26714",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26710",
@@ -3092,7 +3118,7 @@
     "officialVerified": true,
     "officialRecordId": "26710",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26711",
@@ -3118,7 +3144,7 @@
     "officialVerified": true,
     "officialRecordId": "26711",
     "recallInitiationDate": "2026-08-20T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26733",
@@ -3136,7 +3162,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3144,7 +3170,7 @@
     "officialVerified": true,
     "officialRecordId": "26733",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26731",
@@ -3162,7 +3188,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3170,7 +3196,7 @@
     "officialVerified": true,
     "officialRecordId": "26731",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26735",
@@ -3188,7 +3214,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3196,7 +3222,7 @@
     "officialVerified": true,
     "officialRecordId": "26735",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26741",
@@ -3214,7 +3240,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3222,7 +3248,7 @@
     "officialVerified": true,
     "officialRecordId": "26741",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26734",
@@ -3240,7 +3266,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3248,7 +3274,7 @@
     "officialVerified": true,
     "officialRecordId": "26734",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26738",
@@ -3266,7 +3292,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3274,7 +3300,7 @@
     "officialVerified": true,
     "officialRecordId": "26738",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26736",
@@ -3292,7 +3318,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3300,7 +3326,7 @@
     "officialVerified": true,
     "officialRecordId": "26736",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26746",
@@ -3318,7 +3344,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3326,7 +3352,7 @@
     "officialVerified": true,
     "officialRecordId": "26746",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26730",
@@ -3344,7 +3370,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3352,7 +3378,7 @@
     "officialVerified": true,
     "officialRecordId": "26730",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26737",
@@ -3370,7 +3396,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3378,7 +3404,7 @@
     "officialVerified": true,
     "officialRecordId": "26737",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26732",
@@ -3396,7 +3422,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3404,7 +3430,7 @@
     "officialVerified": true,
     "officialRecordId": "26732",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26739",
@@ -3422,7 +3448,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3430,7 +3456,7 @@
     "officialVerified": true,
     "officialRecordId": "26739",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26740",
@@ -3442,13 +3468,13 @@
     "brand": "Sold At: TJX and Marshalls stores nationwide from April 2025 through March 2026 for about $15",
     "product": "XO Poppy Power Trip Magnetic Wireless Power Banks",
     "category": "Consumer product recall",
-    "summary": "This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-PBK5M-TB2). Specific model numbers can be found printed on the bottom of the original packaging, directly above the barcode.",
+    "summary": "This recall involves XO Poppy Power Trip Magnetic Wireless Power Banks with model number PYPBK5M. The power banks come in three colors and can be identified by their appearance and packaging: cream colored (PY-PBK5M-CR2); cream with pink bow print (PY-PBK5M-BW8); and black with teddy bear print (PY-PBK5M-TB2). Specific model numbers can be found printed on the bottom of the original packaging, directly above the barcode. Note: Do not throw this recalled lithium-ion battery or device in the trash, in the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
     "affectedPeople": "Consumers who purchased: XO Poppy Power Trip Magnetic Wireless Power Banks.",
     "remedy": "Consumers should stop using the recalled power banks immediately and contact Truststone Group for a full refund in the form of a virtual gift card. The virtual gift card can be used at any establishment that accepts Mastercard.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3456,7 +3482,7 @@
     "officialVerified": true,
     "officialRecordId": "26740",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26720",
@@ -3474,7 +3500,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3482,7 +3508,7 @@
     "officialVerified": true,
     "officialRecordId": "26720",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26717",
@@ -3500,7 +3526,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3508,7 +3534,7 @@
     "officialVerified": true,
     "officialRecordId": "26717",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26718",
@@ -3526,7 +3552,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3534,7 +3560,7 @@
     "officialVerified": true,
     "officialRecordId": "26718",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26722",
@@ -3560,7 +3586,7 @@
     "officialVerified": true,
     "officialRecordId": "26722",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26719",
@@ -3578,7 +3604,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3586,7 +3612,7 @@
     "officialVerified": true,
     "officialRecordId": "26719",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26721",
@@ -3604,7 +3630,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3612,7 +3638,7 @@
     "officialVerified": true,
     "officialRecordId": "26721",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26724",
@@ -3638,7 +3664,7 @@
     "officialVerified": true,
     "officialRecordId": "26724",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26727",
@@ -3664,7 +3690,7 @@
     "officialVerified": true,
     "officialRecordId": "26727",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26725",
@@ -3690,7 +3716,7 @@
     "officialVerified": true,
     "officialRecordId": "26725",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26723",
@@ -3716,7 +3742,7 @@
     "officialVerified": true,
     "officialRecordId": "26723",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26726",
@@ -3742,7 +3768,7 @@
     "officialVerified": true,
     "officialRecordId": "26726",
     "recallInitiationDate": "2026-08-27T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26761",
@@ -3750,8 +3776,8 @@
     "title": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
     "type": "recall",
     "status": "active",
-    "company": "",
-    "brand": "",
+    "company": "Sold At: Amazon.com from March 2015 through July 2026 for between $5 and $16.",
+    "brand": "Sold At: Amazon.com from March 2015 through July 2026 for between $5 and $16.",
     "product": "Cade California Electronic Projecting Finger Light Toys",
     "category": "Consumer product recall",
     "summary": "This recall involves California Cade Electronic Finger Lights, which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have \"California Cade Electronic\" and \"Finger Flashlights\" printed on labels located on the front of the package.",
@@ -3760,7 +3786,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3768,7 +3794,7 @@
     "officialVerified": true,
     "officialRecordId": "26761",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26756",
@@ -3776,8 +3802,8 @@
     "title": "Dual Fuel Ranges Recalled Due to Risk of Serious Injury or Death from Fire or Explosion Hazards; Manufactured by AGA Rangemaster",
     "type": "recall",
     "status": "active",
-    "company": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
-    "brand": "Xianyouxianlichengshaungqiaotouqichemeirongdian (Xianyou County Licheng Shuangqiaotou Auto Beauty Shop), dba SQT LLC, of China",
+    "company": "AGA Rangemaster Limited, of United Kingdom",
+    "brand": "AGA Rangemaster Limited, of United Kingdom",
     "product": "AGA Elise and Mercury Series Freestanding Dual Fuel Ranges and La Cornue CornuFé 90 and CornuFé 110 Series Freestanding Dual Fuel Ranges",
     "category": "Consumer product recall",
     "summary": "This recall involves freestanding AGA Elise and Mercury Series Dual Fuel Ranges, in 36- and 48-inch widths and freestanding La Cornue CornuFé Series Dual Fuel Ranges in 36- and 43-inch widths manufactured between March 19, 2025 and July 24, 2026. All units have gas surface burners, set for Natural or LP gas, with one to three electric ovens depending on size. The products are sold in stainless steel, white and 13 other colors, which can be found at www.agarangeusa.com and www.lacornueusa.com. All colors, trim options and gas types (Natural or LP) are included. The serial number is on the rating plate, which is located on the bottom panel of the unit under the storage drawer.",
@@ -3786,7 +3812,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3794,7 +3820,7 @@
     "officialVerified": true,
     "officialRecordId": "26756",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26754",
@@ -3802,8 +3828,8 @@
     "title": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
     "type": "recall",
     "status": "active",
-    "company": "California Cade Electronic, LLC, of Hacienda Heights, California",
-    "brand": "California Cade Electronic, LLC, of Hacienda Heights, California",
+    "company": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
+    "brand": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
     "product": "Wantefully Hair Dryer Brushes",
     "category": "Consumer product recall",
     "summary": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
@@ -3812,7 +3838,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3820,7 +3846,7 @@
     "officialVerified": true,
     "officialRecordId": "26754",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26764",
@@ -3828,8 +3854,8 @@
     "title": "FJTJBSI Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
     "type": "recall",
     "status": "active",
-    "company": "Sold At: Diva at Heart, primarily in California, Texas, Oregon, Mississippi, and Arizona, and various distributors and retail stores and online at https://www.divaatheartsj.com/ from October 2018 through July 2026.",
-    "brand": "Sold At: Diva at Heart, primarily in California, Texas, Oregon, Mississippi, and Arizona, and various distributors and retail stores and online at https://www.divaatheartsj.com/ from October 2018 through July 2026.",
+    "company": "Sold Online At: Amazon.com from November 2024 through July 2026 for about $170.",
+    "brand": "Sold Online At: Amazon.com from November 2024 through July 2026 for about $170.",
     "product": "FJTJBSI Six-drawer Dressers",
     "category": "Consumer product recall",
     "summary": "This recall involves the FJTJBSI-branded wood dressers. The black or white dressers measure about 15.1 inches long, 27.6 inches wide and 42.2 inches high, and weigh 68 pounds. The dressers have six drawers with silver or black handles. \"LBS-XD-4-2-BLK-023\" or \"LBS-XD-4-2-WIT-024\" is printed on a label on the product packaging.",
@@ -3838,7 +3864,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3846,7 +3872,7 @@
     "officialVerified": true,
     "officialRecordId": "26764",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26750",
@@ -3854,8 +3880,8 @@
     "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
     "type": "recall",
     "status": "active",
-    "company": "AGA Rangemaster Limited, of United Kingdom",
-    "brand": "AGA Rangemaster Limited, of United Kingdom",
+    "company": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
+    "brand": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
     "product": "DHASUWT Hair Dryer and Blow Dryer Brushes",
     "category": "Consumer product recall",
     "summary": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
@@ -3864,7 +3890,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3872,7 +3898,7 @@
     "officialVerified": true,
     "officialRecordId": "26750",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26755",
@@ -3880,8 +3906,8 @@
     "title": "Prepared Hero Recalls Fire Spray Canisters Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
     "type": "recall",
     "status": "active",
-    "company": "",
-    "brand": "",
+    "company": "Sold Online At: PreparedHero.com and Amazon.com from October 2024 through January 2026 for between $18 to $30.",
+    "brand": "Sold Online At: PreparedHero.com and Amazon.com from October 2024 through January 2026 for between $18 to $30.",
     "product": "Hero Fire Spray Canisters",
     "category": "Consumer product recall",
     "summary": "This recall involves the Hero Fire Spray Fire Canisters. The canisters are either red and blue or red and have the company's logo on them with the name HERO Fire Spray on the front panel of the spray. Each canister contains 20 fluid ounces. The circular canisters are about 2.6 inches in diameter and 11.4 inches tall and weigh about 1.8 pounds. There is a black plastic release tab on the top of the canister. The affected batch is clearly marked on the base of the canister with the numbers \"09/2024\" as the date code.",
@@ -3890,7 +3916,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3898,7 +3924,7 @@
     "officialVerified": true,
     "officialRecordId": "26755",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26752",
@@ -3906,8 +3932,8 @@
     "title": "Sweet Cubby Recalls Children's Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children's Sleepwear",
     "type": "recall",
     "status": "active",
-    "company": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
-    "brand": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
+    "company": "Sold Online At: SHEIN.com from June 2025 through May 2026 for between $8 and $12.",
+    "brand": "Sold Online At: SHEIN.com from June 2025 through May 2026 for between $8 and $12.",
     "product": "Sweet Cubby Children’s Loungewear Sets",
     "category": "Consumer product recall",
     "summary": "This recall involves all Sweet Cubby children's loungewear sets. The recalled two-piece loungewear sets consist of a short-sleeved shirt and matching shorts. The sets were sold in various colors and in children's sizes 5-6Y through 13-14Y. \"Batch No.: 272779\" and the size are printed on the sewn-in neck label and on the seam label.",
@@ -3916,7 +3942,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3924,7 +3950,7 @@
     "officialVerified": true,
     "officialRecordId": "26752",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26763",
@@ -3932,8 +3958,8 @@
     "title": "Triumph Motorcycles Recalls Closed Course Competition Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard",
     "type": "recall",
     "status": "active",
-    "company": "Sold Online At: PreparedHero.com and Amazon.com from October 2024 through January 2026 for between $18 to $30.",
-    "brand": "Sold Online At: PreparedHero.com and Amazon.com from October 2024 through January 2026 for between $18 to $30.",
+    "company": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
+    "brand": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
     "product": "2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles",
     "category": "Consumer product recall",
     "summary": "This recall involves 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles. The motorcycles have a Jet Black/Pure White color scheme. Affected models are TF450-C, TF450-E, TF450-X and TF450RC Edition. The range of affected Vehicle Identification Numbers (VIN) is XXXXXXXXXXXCD4981 to and including XXXXXXXXXXXCP1597. The VIN is located on the vehicle identification plate on the left side of the steering head. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls.",
@@ -3942,7 +3968,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3950,7 +3976,7 @@
     "officialVerified": true,
     "officialRecordId": "26763",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26749",
@@ -3958,8 +3984,8 @@
     "title": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
     "type": "recall",
     "status": "active",
-    "company": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
-    "brand": "Sold At: Authorized Triumph Motorcycle Dealers from January 2025 through July 2026 for between $10,000 and $15,000.",
+    "company": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
+    "brand": "Dongguan Hongtu Sports Goods Co. Ltd., of China",
     "product": "Victgoal Children’s Bike Helmets",
     "category": "Consumer product recall",
     "summary": "This recall involves Victgoal-branded bicycle helmets. The red helmets were sold in size small (S), fitting a head circumference of about 19.68 to 21.25 inches. The helmets have red padding, black straps with a silver reflective pattern in the center, a black and red buckle and a black fit-adjusting knob at the back. Only helmets manufactured in November 2025 are included in this recall. \"Model HT-006,\" \"Production: 2025/11\" and \"Ref/Lot# 2025A1101\" are printed on a label on the inside of the helmet. \"Victgoal\" is printed on the product packing bag.",
@@ -3968,7 +3994,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -3976,7 +4002,7 @@
     "officialVerified": true,
     "officialRecordId": "26749",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26766",
@@ -3984,8 +4010,8 @@
     "title": "ZMC Group Expands Recall of Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
     "type": "recall",
     "status": "active",
-    "company": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
-    "brand": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
+    "company": "Sold At: Diva at Heart, primarily in California, Texas, Oregon, Mississippi, and Arizona, and various distributors and retail stores and online at https://www.divaatheartsj.com/ from October 2018 through July 2026.",
+    "brand": "Sold At: Diva at Heart, primarily in California, Texas, Oregon, Mississippi, and Arizona, and various distributors and retail stores and online at https://www.divaatheartsj.com/ from October 2018 through July 2026.",
     "product": "Light-Up Children’s Toys",
     "category": "Consumer product recall",
     "summary": "This recall expansion involves ZMC Group battery-operated light-up toys including a Mexican flag theme foam stick, a Unicorn headband, assorted colors and transparent jelly rings and heart shaped balloon flowers. Product Name Item # 19.4\" Mexican Flag Theme Light Up Stick SS041-M Light-Up Unicorn Headband G02-UN Light-Up Assorted Colors Jelly Rings PS270 Light-Up Transparent Jelly Rings PS271 Light-Up Heart Balloon Flower 777-1 Packaging for the products has a label with the item number, identification of the distributor, place of manufacture, production date and batch number.",
@@ -3994,7 +4020,7 @@
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
-    "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
     "sourceAgency": "CPSC",
     "searchVolume": "",
     "trendScore": 0,
@@ -4002,7 +4028,7 @@
     "officialVerified": true,
     "officialRecordId": "26766",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -4028,7 +4054,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "prince-bakery-inc-prince-italian-bread-sesame-italian-and-french-bread-large-net-weight-12",
@@ -4054,7 +4080,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1305-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ukrop-s-homestyle-foods-llc-bread-pudding-with-vanilla-sauce-kit-net-wt-4-lb-1-81kg",
@@ -4080,7 +4106,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1327-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-pan-fried-noodle-16-oz-and-5lb-packaged-in-clear-",
@@ -4106,7 +4132,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1320-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-cooked-noodle-16-oz-and-5-lb-packaged-in-clear-pl",
@@ -4132,7 +4158,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1325-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "fayus-inc-ola-ola-pounded-yam-iyan-iyaninstant-net-wt-2-lbs-4-lbs-5-lbs-10-lbs-packed-in-f",
@@ -4158,7 +4184,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1329-2026",
     "recallInitiationDate": "20260706",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "weis-markets-inc-weis-fresh-from-the-orchard-pasteurized-apple-cider-contains-100-juice-th",
@@ -4184,7 +4210,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1308-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "prince-bakery-inc-prince-italian-bread-sesame-net-weight-8-oz-227g",
@@ -4210,7 +4236,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1304-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ukrop-s-homestyle-foods-llc-bread-pudding-with-vanilla-sauce-net-wt-13-8-oz-39g",
@@ -4236,7 +4262,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1326-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "lexunder-inc-food-to-live-organic-supergrass-powder-6-oz-12-oz-1-lb-4-lb",
@@ -4262,7 +4288,7 @@
     "officialVerified": true,
     "officialRecordId": "N/A",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "the-hampton-grocer-the-hampton-grocer-brand-lacnola-small-batch-lactation-granola-8oz-stan",
@@ -4288,7 +4314,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1309-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "prince-bakery-inc-prince-pan-de-manteca-spanish-style-net-weight-8-oz-227g",
@@ -4314,7 +4340,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1307-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ron-s-home-style-foods-inc-item-dipsau0205rfs-salsa-autentica-5-lb-packaged-in-round-plast",
@@ -4340,7 +4366,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1303-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "prince-bakery-inc-prince-sesame-french-bread-long-french-net-wt-10-oz-284g",
@@ -4366,7 +4392,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1306-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-wonton-skin-16-oz-packaged-in-foam-tray-overwrapp",
@@ -4392,7 +4418,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1323-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-lo-mein-noodle-16-oz-packaged-in-clear-plastic-ba",
@@ -4418,7 +4444,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1322-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "savor-seasonings-llc-organic-cheddar-type-seasoning-net-wt-50-lbs-product-is-packaged-in-b",
@@ -4444,7 +4470,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1319-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-dumpling-skin-16-oz-packaged-in-foam-tray-overwra",
@@ -4470,7 +4496,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1324-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ron-s-home-style-foods-inc-item-dippic0205rfs-pico-de-gallo-5-lb-packaged-in-round-plastic",
@@ -4496,7 +4522,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1302-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "wonton-specialists-wonton-specialist-inc-wonton-noodle-12-oz-packaged-in-foam-tray-overwra",
@@ -4522,7 +4548,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1321-2026",
     "recallInitiationDate": "20260728",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-clindamycin-injection-usp-in-5-dextrose-900-mg-per-50-ml-12-",
@@ -4548,7 +4574,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0815-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-vasopressin-in-0-9-sodium-chloride-injection-20-units-per-10",
@@ -4574,7 +4600,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0811-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-daptomycin-in-0-9-sodium-chloride-injection-1-000-mg-per-100",
@@ -4600,7 +4626,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0821-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-cardene-iv-nicardipine-hydrochloride-in-0-83-sodium-chloride",
@@ -4626,7 +4652,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0813-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "supernus-pharmaceuticals-inc-trokendi-xr-topiramate-extended-release-capsules-50-mg-30-cap",
@@ -4652,7 +4678,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0833-2026",
     "recallInitiationDate": "20260831",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "teva-pharmaceuticals-usa-inc-trazodone-hydrochloride-tablets-usp-50-mg-rx-only-100-tablets",
@@ -4678,7 +4704,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0834-2026",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "allies-group-inc-the-one-spf-50-invisible-sunscreen-gel-avobenzone-3-homosalate-7-octocryl",
@@ -4704,7 +4730,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0824-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-pantoprazole-sodium-in-0-9-sodium-chloride-injection-80-mg-1",
@@ -4730,7 +4756,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0812-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "lexia-llc-broadway-joe-s-pain-cream-histamine-dihydrochloride-0-025-1500mg-cbd-isolate-100",
@@ -4756,7 +4782,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0828-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-daptomycin-in-0-9-sodium-chloride-injection-500-mg-per-50-ml",
@@ -4782,7 +4808,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0807-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-nexterone-amiodarone-hci-360-mg-200-ml-1-8-mg-ml-in-galaxy-s",
@@ -4808,7 +4834,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0814-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-clindamycin-injection-usp-in-5-dextrose-600-mg-per-50-ml-12-",
@@ -4834,7 +4860,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0808-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "baxter-healthcare-corporation-dexmedetomidine-hydrochloride-in-0-9-sodium-chloride-injecti",
@@ -4860,7 +4886,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0810-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-1-blood-culture-tray-pediatric-model-number",
@@ -4886,7 +4912,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3057-2026",
     "recallInitiationDate": "20260612",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "avid-medical-inc-halyard-medical-convenience-kits-labeled-as-1-a-p-pack-205936-model-item-",
@@ -4912,7 +4938,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3046-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "diagnostica-stago-inc-sta-staclot-protein-s-model-catalog-number-00746-reagent-lot-number-",
@@ -4938,7 +4964,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3047-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cardinal-health-200-llc-presource-packs-containing-cliniclean-pericare-wipes-within-bd-uri",
@@ -4964,7 +4990,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3103-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-5008x-hd-hdf-with-twister-blood-tubing-se",
@@ -4990,7 +5016,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3087-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "johnson-and-johnson-surgical-vision-inc-healon-endocoat-pro-ref-10300012-us-can-healon-due",
@@ -5016,7 +5042,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3064-2026",
     "recallInitiationDate": "20260731",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "boston-scientific-corporation-lux-dx-lux-dx-ii-lux-dx-ii-insertable-cardiac-monitor-system",
@@ -5042,7 +5068,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3081-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "philips-north-america-llc-philips-brilliance-ct-64-brilliance-ct-64-channel-product-code-7",
@@ -5068,7 +5094,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3043-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "avid-medical-inc-halyard-medical-convenience-kits-labeled-as-1-ent-model-item-number-kit-a",
@@ -5094,7 +5120,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3044-2026",
     "recallInitiationDate": "20260519",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-containing-bd-chloraprep-clear-1ml-applicat",
@@ -5120,7 +5146,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3073-2026",
     "recallInitiationDate": "20260720",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-5008x-standard-hd-pre-flush-standard-bloo",
@@ -5146,7 +5172,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3084-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "philips-north-america-llc-philips-ingenuity-ct-product-codes-ingenuity-ct-upgrades-728327-",
@@ -5172,7 +5198,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3042-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26774",
@@ -5198,7 +5224,7 @@
     "officialVerified": true,
     "officialRecordId": "26774",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26775",
@@ -5224,7 +5250,7 @@
     "officialVerified": true,
     "officialRecordId": "26775",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26778",
@@ -5250,7 +5276,7 @@
     "officialVerified": true,
     "officialRecordId": "26778",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26779",
@@ -5276,7 +5302,7 @@
     "officialVerified": true,
     "officialRecordId": "26779",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26780",
@@ -5302,7 +5328,7 @@
     "officialVerified": true,
     "officialRecordId": "26780",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26781",
@@ -5328,7 +5354,7 @@
     "officialVerified": true,
     "officialRecordId": "26781",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26783",
@@ -5354,7 +5380,7 @@
     "officialVerified": true,
     "officialRecordId": "26783",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26782",
@@ -5380,7 +5406,7 @@
     "officialVerified": true,
     "officialRecordId": "26782",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26785",
@@ -5406,7 +5432,7 @@
     "officialVerified": true,
     "officialRecordId": "26785",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26786",
@@ -5432,7 +5458,7 @@
     "officialVerified": true,
     "officialRecordId": "26786",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26773",
@@ -5458,7 +5484,7 @@
     "officialVerified": true,
     "officialRecordId": "26773",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26776",
@@ -5484,7 +5510,7 @@
     "officialVerified": true,
     "officialRecordId": "26776",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26777",
@@ -5510,7 +5536,7 @@
     "officialVerified": true,
     "officialRecordId": "26777",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26784",
@@ -5536,7 +5562,7 @@
     "officialVerified": true,
     "officialRecordId": "26784",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -5560,7 +5586,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -5584,7 +5610,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -5608,7 +5634,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -5632,7 +5658,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "find-refund-cases",
@@ -5656,7 +5682,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "consumer-advice",
@@ -5680,7 +5706,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -5704,7 +5730,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -5728,7 +5754,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -5752,7 +5778,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "military-consumer",
@@ -5776,7 +5802,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "consumer-gov",
@@ -5800,7 +5826,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "consumer-protection-and-older-adults-roundtable-healthcare-related-scams-before-during-and",
@@ -5824,31 +5850,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
-  },
-  {
-    "id": "data-on-refunds-to-consumers",
-    "slug": "data-on-refunds-to-consumers",
-    "title": "Data on Refunds to Consumers",
-    "type": "refund",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: Data on Refunds to Consumers.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
-    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26692",
@@ -5874,7 +5876,7 @@
     "officialVerified": true,
     "officialRecordId": "26692",
     "recallInitiationDate": "2026-08-13T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26685",
@@ -5900,7 +5902,7 @@
     "officialVerified": true,
     "officialRecordId": "26685",
     "recallInitiationDate": "2026-08-13T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
     "id": "cpsc-26698",
@@ -5926,31 +5928,31 @@
     "officialVerified": true,
     "officialRecordId": "26698",
     "recallInitiationDate": "2026-08-13T00:00:00",
-    "lastUpdated": "2026-09-18T16:23:33.302Z"
+    "lastUpdated": "2026-09-18T20:53:54.719Z"
   },
   {
-    "id": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
-    "slug": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
-    "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
-    "type": "settlement",
+    "id": "data-on-refunds-to-consumers",
+    "slug": "data-on-refunds-to-consumers",
+    "title": "Data on Refunds to Consumers",
+    "type": "refund",
     "status": "monitoring",
     "company": "",
     "brand": "",
     "product": "FTC refund program",
     "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement.",
+    "summary": "FTC refund or consumer payment program: Data on Refunds to Consumers.",
     "affectedPeople": "Consumers covered by the FTC refund program.",
     "remedy": "Refund or payment if eligible under official FTC terms.",
     "payoutAmount": "Varies",
     "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
-    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement",
+    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
+    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
     "sourceAgency": "FTC",
     "searchVolume": "",
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-17T21:21:38.283Z"
+    "lastUpdated": "2026-09-18T16:23:33.302Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",

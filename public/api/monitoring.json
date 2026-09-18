@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-09-18T16:23:36.616Z",
+  "updatedAt": "2026-09-18T20:53:57.689Z",
   "count": 2,
   "items": [
-    {
-      "id": "intercon-chemical-bacteria-contamination-recall",
-      "slug": "intercon-chemical-bacteria-contamination-recall",
-      "title": "Intercon Chemical Bacteria Contamination Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "intercon chemical bacteria contamination recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 18,
-      "matchedQueries": [
-        "intercon chemical bacteria contamination recall",
-        "hand soap"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-18T16:23:33.302Z"
-    },
     {
       "id": "selena-quintanilla-estate-lawsuit-ab-suzette",
       "slug": "selena-quintanilla-estate-lawsuit-ab-suzette",
@@ -59,7 +29,36 @@
         "selena quintanilla estate lawsuit ab suzette"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-18T16:23:33.302Z"
+      "lastUpdated": "2026-09-18T20:53:54.719Z"
+    },
+    {
+      "id": "leonie-brinkema-anti-weaponization-fund-lawsuit",
+      "slug": "leonie-brinkema-anti-weaponization-fund-lawsuit",
+      "title": "Leonie Brinkema Anti Weaponization Fund Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "leonie brinkema anti weaponization fund lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=leonie+brinkema+anti+weaponization+fund+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "leonie brinkema anti weaponization fund lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-18T20:53:54.719Z"
     }
   ]
 }

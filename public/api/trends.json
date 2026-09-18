@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-18T04:42:58.572Z",
+  "updatedAt": "2026-09-18T11:13:40.921Z",
   "count": 2,
   "trends": [
     {
-      "rank": 78,
-      "query": "hand soap",
+      "rank": 122,
+      "query": "intercon chemical bacteria contamination recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "intercon chemical bacteria contamination recall"
+        "hand soap"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hand+soap&tz=420",
-      "increasePercentage": 200,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "hand soap intercon chemical bacteria contamination recall",
-      "trendScore": 33,
-      "detectedAt": "2026-09-18T04:42:56.909Z"
+      "text": "intercon chemical bacteria contamination recall hand soap",
+      "trendScore": 18,
+      "detectedAt": "2026-09-18T11:13:37.538Z"
     },
     {
-      "rank": 211,
+      "rank": 225,
       "query": "selena quintanilla estate lawsuit ab suzette",
       "searchVolume": 1000,
       "startedAt": "",
@@ -32,7 +32,7 @@
       "source": "serpapi-google-trends",
       "text": "selena quintanilla estate lawsuit ab suzette",
       "trendScore": 8,
-      "detectedAt": "2026-09-18T04:42:56.909Z"
+      "detectedAt": "2026-09-18T11:13:37.538Z"
     }
   ]
 }

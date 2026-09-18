@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-09-18T04:42:56.909Z",
+  "updatedAt": "2026-09-18T11:13:37.538Z",
   "trends": 2,
-  "officialItems": 140,
+  "officialItems": 127,
   "totalItems": 1219,
   "trendSources": [
     "serpapi-google-trends"
   ],
   "officialSourceCounts": {
     "FDA": 50,
-    "FTC": 13,
     "CPSC": 57,
     "NHTSA": 20
   }

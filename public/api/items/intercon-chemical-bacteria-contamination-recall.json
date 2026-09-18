@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-18T04:42:58.572Z",
+  "updatedAt": "2026-09-18T11:13:40.921Z",
   "item": {
-    "id": "hand-soap",
-    "slug": "hand-soap",
-    "title": "Hand Soap: Consumer Alert Monitoring",
+    "id": "intercon-chemical-bacteria-contamination-recall",
+    "slug": "intercon-chemical-bacteria-contamination-recall",
+    "title": "Intercon Chemical Bacteria Contamination Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "hand soap",
+    "product": "intercon chemical bacteria contamination recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hand+soap&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intercon+chemical+bacteria+contamination+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
-    "trendScore": 33,
+    "trendScore": 18,
     "matchedQueries": [
-      "hand soap",
-      "intercon chemical bacteria contamination recall"
+      "intercon chemical bacteria contamination recall",
+      "hand soap"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-18T04:42:56.909Z",
-    "url": "https://simon622.shop/item/hand-soap/"
+    "lastUpdated": "2026-09-18T11:13:37.538Z",
+    "url": "https://simon622.shop/item/intercon-chemical-bacteria-contamination-recall/"
   }
 }

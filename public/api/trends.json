@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-09-19T10:58:28.716Z",
-  "count": 4,
+  "updatedAt": "2026-09-19T15:52:57.287Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 1,
-      "query": "amazon settlement",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+settlement&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "amazon settlement",
-      "trendScore": 24,
-      "detectedAt": "2026-09-19T10:58:22.312Z"
-    },
-    {
-      "rank": 99,
+      "rank": 79,
       "query": "maurene comey doj lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -30,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "maurene comey doj lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-09-19T10:58:22.312Z"
+      "detectedAt": "2026-09-19T15:52:54.480Z"
     },
     {
-      "rank": 304,
+      "rank": 321,
       "query": "leonie brinkema anti weaponization fund lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -45,22 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "leonie brinkema anti weaponization fund lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-09-19T10:58:22.312Z"
-    },
-    {
-      "rank": 330,
-      "query": "danone ice cream recall target walmart",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=danone+ice+cream+recall+target+walmart&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "danone ice cream recall target walmart",
-      "trendScore": 8,
-      "detectedAt": "2026-09-19T10:58:22.312Z"
+      "detectedAt": "2026-09-19T15:52:54.480Z"
     }
   ]
 }

@@ -1,28 +1,41 @@
 {
-  "updatedAt": "2026-09-18T20:53:57.689Z",
+  "updatedAt": "2026-09-19T04:36:53.671Z",
   "count": 4,
   "trends": [
     {
       "rank": 4,
       "query": "amazon settlement",
-      "searchVolume": 100000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "ftc amazon settlement redress payments",
-        "amazon prime",
-        "prime"
+        "ftc amazon settlement redress payments"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+settlement&tz=420",
       "increasePercentage": 900,
       "source": "serpapi-google-trends",
-      "text": "amazon settlement ftc amazon settlement redress payments amazon prime prime",
-      "trendScore": 32,
-      "detectedAt": "2026-09-18T20:53:54.719Z"
+      "text": "amazon settlement ftc amazon settlement redress payments",
+      "trendScore": 26,
+      "detectedAt": "2026-09-19T04:36:46.424Z"
     },
     {
-      "rank": 103,
+      "rank": 34,
+      "query": "maurene comey doj lawsuit",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "maurene comey doj lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-09-19T04:36:46.424Z"
+    },
+    {
+      "rank": 258,
       "query": "leonie brinkema anti weaponization fund lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -34,10 +47,10 @@
       "source": "serpapi-google-trends",
       "text": "leonie brinkema anti weaponization fund lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-09-18T20:53:54.719Z"
+      "detectedAt": "2026-09-19T04:36:46.424Z"
     },
     {
-      "rank": 225,
+      "rank": 282,
       "query": "danone ice cream recall target walmart",
       "searchVolume": 500,
       "startedAt": "",
@@ -49,22 +62,7 @@
       "source": "serpapi-google-trends",
       "text": "danone ice cream recall target walmart",
       "trendScore": 8,
-      "detectedAt": "2026-09-18T20:53:54.719Z"
-    },
-    {
-      "rank": 259,
-      "query": "selena quintanilla estate lawsuit ab suzette",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+quintanilla+estate+lawsuit+ab+suzette&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "selena quintanilla estate lawsuit ab suzette",
-      "trendScore": 8,
-      "detectedAt": "2026-09-18T20:53:54.719Z"
+      "detectedAt": "2026-09-19T04:36:46.424Z"
     }
   ]
 }

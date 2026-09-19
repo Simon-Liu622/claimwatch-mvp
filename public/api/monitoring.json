@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:36:53.671Z",
+  "updatedAt": "2026-09-19T10:58:28.716Z",
   "count": 3,
   "items": [
     {
@@ -24,13 +24,13 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 50000,
-      "trendScore": 26,
+      "trendScore": 24,
       "matchedQueries": [
         "amazon settlement",
         "ftc amazon settlement redress payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-19T04:36:46.424Z"
+      "lastUpdated": "2026-09-19T10:58:22.312Z"
     },
     {
       "id": "maurene-comey-doj-lawsuit",
@@ -54,12 +54,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "maurene comey doj lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-19T04:36:46.424Z"
+      "lastUpdated": "2026-09-19T10:58:22.312Z"
     },
     {
       "id": "leonie-brinkema-anti-weaponization-fund-lawsuit",
@@ -88,7 +88,7 @@
         "leonie brinkema anti weaponization fund lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-19T04:36:46.424Z"
+      "lastUpdated": "2026-09-19T10:58:22.312Z"
     }
   ]
 }

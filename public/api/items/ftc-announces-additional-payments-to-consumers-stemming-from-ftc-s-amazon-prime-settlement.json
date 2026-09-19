@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-19T04:36:53.671Z",
+  "updatedAt": "2026-09-19T10:58:28.716Z",
   "item": {
     "id": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
     "slug": "ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement",
     "title": "FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement",
     "type": "settlement",
-    "status": "active",
+    "status": "monitoring",
     "company": "",
     "brand": "",
     "product": "FTC refund program",
@@ -20,14 +20,9 @@
     "sourceAgency": "FTC",
     "searchVolume": 100000,
     "trendScore": 32,
-    "matchedQueries": [
-      "amazon settlement",
-      "ftc amazon settlement redress payments",
-      "amazon prime",
-      "prime"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-09-18T20:53:54.719Z",
+    "lastUpdated": "2026-09-19T10:58:22.312Z",
     "url": "https://simon622.shop/item/ftc-announces-additional-payments-to-consumers-stemming-from-ftc-s-amazon-prime-settlement/"
   }
 }

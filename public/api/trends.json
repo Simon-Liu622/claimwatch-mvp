@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:39:39.655Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 102,
-      "query": "maurene comey doj lawsuit",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "maurene comey doj lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-09-19T20:39:36.523Z"
-    }
-  ]
+  "updatedAt": "2026-09-20T04:53:55.936Z",
+  "count": 0,
+  "trends": []
 }

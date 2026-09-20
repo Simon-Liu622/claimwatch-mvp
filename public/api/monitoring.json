@@ -1,35 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:39:39.655Z",
-  "count": 1,
-  "items": [
-    {
-      "id": "maurene-comey-doj-lawsuit",
-      "slug": "maurene-comey-doj-lawsuit",
-      "title": "Maurene Comey Doj Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "maurene comey doj lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maurene+comey+doj+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "maurene comey doj lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-19T20:39:36.523Z"
-    }
-  ]
+  "updatedAt": "2026-09-20T04:53:55.936Z",
+  "count": 0,
+  "items": []
 }

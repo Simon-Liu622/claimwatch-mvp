@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-09-23T04:44:34.628Z",
+  "updatedAt": "2026-09-23T11:35:38.550Z",
   "count": 3,
   "items": [
-    {
-      "id": "walmart-pasta-listeria-recall",
-      "slug": "walmart-pasta-listeria-recall",
-      "title": "Walmart Pasta Listeria Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart pasta listeria recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+pasta+listeria+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 32,
-      "matchedQueries": [
-        "walmart pasta listeria recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-23T04:44:27.120Z"
-    },
     {
       "id": "amazon-ftc-prime-settlement-update",
       "slug": "amazon-ftc-prime-settlement-update",
@@ -52,14 +23,45 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+prime+settlement+update&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 26,
+      "searchVolume": 20000,
+      "trendScore": 27,
       "matchedQueries": [
         "amazon ftc prime settlement update",
         "amazon prime class action refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-23T04:44:27.120Z"
+      "lastUpdated": "2026-09-23T11:35:35.308Z"
+    },
+    {
+      "id": "dolly-parton-estate-lawsuit-bryan-seaver",
+      "slug": "dolly-parton-estate-lawsuit-bryan-seaver",
+      "title": "Dolly Parton Estate Lawsuit Bryan Seaver: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "dolly parton estate lawsuit bryan seaver",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+lawsuit+bryan+seaver&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 27,
+      "matchedQueries": [
+        "dolly parton estate lawsuit bryan seaver",
+        "dolly parton nephew",
+        "abc.com"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-23T11:35:35.308Z"
     },
     {
       "id": "iphone-settlement",
@@ -82,13 +84,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
         "iphone settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-23T04:44:27.120Z"
+      "lastUpdated": "2026-09-23T11:35:35.308Z"
     }
   ]
 }

@@ -1,26 +1,29 @@
 {
-  "updatedAt": "2026-09-23T04:44:34.628Z",
+  "updatedAt": "2026-09-23T11:35:38.550Z",
   "count": 3,
   "trends": [
     {
-      "rank": 20,
-      "query": "walmart pasta listeria recall",
-      "searchVolume": 20000,
+      "rank": 41,
+      "query": "dolly parton estate lawsuit bryan seaver",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+pasta+listeria+recall&tz=420",
-      "increasePercentage": 1000,
+      "breakdown": [
+        "dolly parton nephew",
+        "abc.com"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+lawsuit+bryan+seaver&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "walmart pasta listeria recall",
-      "trendScore": 32,
-      "detectedAt": "2026-09-23T04:44:27.120Z"
+      "text": "dolly parton estate lawsuit bryan seaver dolly parton nephew abc.com",
+      "trendScore": 27,
+      "detectedAt": "2026-09-23T11:35:35.308Z"
     },
     {
-      "rank": 64,
+      "rank": 51,
       "query": "amazon ftc prime settlement update",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
@@ -31,23 +34,23 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "amazon ftc prime settlement update amazon prime class action refund",
-      "trendScore": 26,
-      "detectedAt": "2026-09-23T04:44:27.120Z"
+      "trendScore": 27,
+      "detectedAt": "2026-09-23T11:35:35.308Z"
     },
     {
-      "rank": 229,
+      "rank": 198,
       "query": "iphone settlement",
-      "searchVolume": 100,
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+settlement&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
       "text": "iphone settlement",
       "trendScore": 8,
-      "detectedAt": "2026-09-23T04:44:27.120Z"
+      "detectedAt": "2026-09-23T11:35:35.308Z"
     }
   ]
 }

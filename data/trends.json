@@ -1,24 +1,42 @@
 [
   {
-    "rank": 41,
-    "query": "dolly parton estate lawsuit bryan seaver",
-    "searchVolume": 2000,
+    "rank": 34,
+    "query": "apple lawsuit claim",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "dolly parton nephew",
-      "abc.com"
+      "iphone settlement"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+lawsuit+bryan+seaver&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+lawsuit+claim&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "dolly parton estate lawsuit bryan seaver dolly parton nephew abc.com",
-    "trendScore": 27,
-    "detectedAt": "2026-09-23T11:35:35.308Z"
+    "text": "apple lawsuit claim iphone settlement",
+    "trendScore": 41,
+    "detectedAt": "2026-09-23T16:57:28.485Z"
   },
   {
-    "rank": 51,
+    "rank": 6,
+    "query": "uninspected beef pork goat recall",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "product recall",
+      "meat recall",
+      "usda meat recall fsis inspection"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uninspected+beef+pork+goat+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "uninspected beef pork goat recall product recall meat recall usda meat recall fsis inspection",
+    "trendScore": 30,
+    "detectedAt": "2026-09-23T16:57:28.485Z"
+  },
+  {
+    "rank": 56,
     "query": "amazon ftc prime settlement update",
     "searchVolume": 20000,
     "startedAt": "",
@@ -32,21 +50,23 @@
     "source": "serpapi-google-trends",
     "text": "amazon ftc prime settlement update amazon prime class action refund",
     "trendScore": 27,
-    "detectedAt": "2026-09-23T11:35:35.308Z"
+    "detectedAt": "2026-09-23T16:57:28.485Z"
   },
   {
-    "rank": 198,
-    "query": "iphone settlement",
-    "searchVolume": 500,
+    "rank": 55,
+    "query": "dolly parton estate lawsuit bryan seaver",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+settlement&tz=420",
-    "increasePercentage": 100,
+    "breakdown": [
+      "dolly parton nephew"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+lawsuit+bryan+seaver&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "iphone settlement",
-    "trendScore": 8,
-    "detectedAt": "2026-09-23T11:35:35.308Z"
+    "text": "dolly parton estate lawsuit bryan seaver dolly parton nephew",
+    "trendScore": 10,
+    "detectedAt": "2026-09-23T16:57:28.485Z"
   }
 ]

@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-09-23T11:35:38.550Z",
+  "updatedAt": "2026-09-23T16:57:35.751Z",
   "count": 3,
   "items": [
+    {
+      "id": "apple-lawsuit-claim",
+      "slug": "apple-lawsuit-claim",
+      "title": "Apple Lawsuit Claim: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "apple lawsuit claim",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+lawsuit+claim&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 41,
+      "matchedQueries": [
+        "apple lawsuit claim",
+        "iphone settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-23T16:57:28.485Z"
+    },
     {
       "id": "amazon-ftc-prime-settlement-update",
       "slug": "amazon-ftc-prime-settlement-update",
@@ -30,7 +60,7 @@
         "amazon prime class action refund"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-23T11:35:35.308Z"
+      "lastUpdated": "2026-09-23T16:57:28.485Z"
     },
     {
       "id": "dolly-parton-estate-lawsuit-bryan-seaver",
@@ -54,43 +84,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 27,
+      "trendScore": 10,
       "matchedQueries": [
         "dolly parton estate lawsuit bryan seaver",
         "dolly parton nephew",
         "abc.com"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-23T11:35:35.308Z"
-    },
-    {
-      "id": "iphone-settlement",
-      "slug": "iphone-settlement",
-      "title": "Iphone Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "iphone settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "iphone settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-23T11:35:35.308Z"
+      "lastUpdated": "2026-09-23T16:57:28.485Z"
     }
   ]
 }

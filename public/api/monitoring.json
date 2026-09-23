@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-09-22T21:18:00.368Z",
-  "count": 2,
+  "updatedAt": "2026-09-23T04:44:34.628Z",
+  "count": 3,
   "items": [
-    {
-      "id": "amazon-ftc-prime-settlement-update",
-      "slug": "amazon-ftc-prime-settlement-update",
-      "title": "Amazon Ftc Prime Settlement Update: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amazon ftc prime settlement update",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+prime+settlement+update&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 41,
-      "matchedQueries": [
-        "amazon ftc prime settlement update",
-        "amazon prime class action refund"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-22T21:17:57.915Z"
-    },
     {
       "id": "walmart-pasta-listeria-recall",
       "slug": "walmart-pasta-listeria-recall",
@@ -53,13 +23,72 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+pasta+listeria+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 31,
+      "searchVolume": 20000,
+      "trendScore": 32,
       "matchedQueries": [
         "walmart pasta listeria recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-22T21:17:57.915Z"
+      "lastUpdated": "2026-09-23T04:44:27.120Z"
+    },
+    {
+      "id": "amazon-ftc-prime-settlement-update",
+      "slug": "amazon-ftc-prime-settlement-update",
+      "title": "Amazon Ftc Prime Settlement Update: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amazon ftc prime settlement update",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+prime+settlement+update&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 26,
+      "matchedQueries": [
+        "amazon ftc prime settlement update",
+        "amazon prime class action refund"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-23T04:44:27.120Z"
+    },
+    {
+      "id": "iphone-settlement",
+      "slug": "iphone-settlement",
+      "title": "Iphone Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "iphone settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iphone+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 100,
+      "trendScore": 8,
+      "matchedQueries": [
+        "iphone settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-23T04:44:27.120Z"
     }
   ]
 }

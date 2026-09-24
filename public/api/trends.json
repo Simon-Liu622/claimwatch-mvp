@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T21:29:51.108Z",
+  "updatedAt": "2026-09-24T04:49:46.551Z",
   "count": 3,
   "trends": [
     {
-      "rank": 6,
+      "rank": 45,
       "query": "uninspected beef pork goat recall",
       "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "meat recall",
         "beef recalls",
@@ -19,28 +19,26 @@
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "uninspected beef pork goat recall meat recall beef recalls product recall usda meat recall fsis inspection",
-      "trendScore": 32,
-      "detectedAt": "2026-09-23T21:29:48.612Z"
+      "trendScore": 17,
+      "detectedAt": "2026-09-24T04:49:44.258Z"
     },
     {
-      "rank": 98,
+      "rank": 161,
       "query": "apple lawsuit claim",
-      "searchVolume": 2000,
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "iphone settlement"
-      ],
+      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=apple+lawsuit+claim&tz=420",
       "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "apple lawsuit claim iphone settlement",
-      "trendScore": 26,
-      "detectedAt": "2026-09-23T21:29:48.612Z"
+      "text": "apple lawsuit claim",
+      "trendScore": 16,
+      "detectedAt": "2026-09-24T04:49:44.258Z"
     },
     {
-      "rank": 68,
+      "rank": 98,
       "query": "dolly parton estate lawsuit bryan seaver",
       "searchVolume": 5000,
       "startedAt": "",
@@ -54,7 +52,7 @@
       "source": "serpapi-google-trends",
       "text": "dolly parton estate lawsuit bryan seaver dolly parton nephew",
       "trendScore": 10,
-      "detectedAt": "2026-09-23T21:29:48.612Z"
+      "detectedAt": "2026-09-24T04:49:44.258Z"
     }
   ]
 }

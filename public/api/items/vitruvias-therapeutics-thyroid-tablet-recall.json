@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T11:45:14.497Z",
+  "updatedAt": "2026-09-24T17:10:34.023Z",
   "item": {
-    "id": "thyroid-medication",
-    "slug": "thyroid-medication",
-    "title": "Thyroid Medication: Consumer Alert Monitoring",
+    "id": "vitruvias-therapeutics-thyroid-tablet-recall",
+    "slug": "vitruvias-therapeutics-thyroid-tablet-recall",
+    "title": "Vitruvias Therapeutics Thyroid Tablet Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "thyroid medication",
+    "product": "vitruvias therapeutics thyroid tablet recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,19 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thyroid+medication&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+tablet+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 25,
+    "searchVolume": 50000,
+    "trendScore": 30,
     "matchedQueries": [
+      "vitruvias therapeutics thyroid tablet recall",
+      "vitruvias therapeutics thyroid recall fda",
       "thyroid medication",
       "thyroid medication recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-24T11:45:11.419Z",
-    "url": "https://simon622.shop/item/thyroid-medication/"
+    "lastUpdated": "2026-09-24T17:10:20.293Z",
+    "url": "https://simon622.shop/item/vitruvias-therapeutics-thyroid-tablet-recall/"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-24T17:10:34.023Z",
+  "updatedAt": "2026-09-24T21:30:42.843Z",
   "count": 1,
   "items": [
     {
-      "id": "vitruvias-therapeutics-thyroid-tablet-recall",
-      "slug": "vitruvias-therapeutics-thyroid-tablet-recall",
-      "title": "Vitruvias Therapeutics Thyroid Tablet Recall: Consumer Alert Monitoring",
+      "id": "vitruvias-therapeutics-thyroid-recall-fda",
+      "slug": "vitruvias-therapeutics-thyroid-recall-fda",
+      "title": "Vitruvias Therapeutics Thyroid Recall Fda: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "vitruvias therapeutics thyroid tablet recall",
+      "product": "vitruvias therapeutics thyroid recall fda",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,19 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+tablet+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+recall+fda&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 30,
+      "searchVolume": 20000,
+      "trendScore": 28,
       "matchedQueries": [
-        "vitruvias therapeutics thyroid tablet recall",
         "vitruvias therapeutics thyroid recall fda",
         "thyroid medication",
         "thyroid medication recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-24T17:10:20.293Z"
+      "lastUpdated": "2026-09-24T21:30:29.598Z"
     }
   ]
 }

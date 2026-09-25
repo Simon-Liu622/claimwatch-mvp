@@ -1,6 +1,6 @@
 [
   {
-    "rank": 209,
+    "rank": 212,
     "query": "vitruvias therapeutics thyroid medication recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -14,23 +14,6 @@
     "source": "serpapi-google-trends",
     "text": "vitruvias therapeutics thyroid medication recall fda recalls",
     "trendScore": 10,
-    "detectedAt": "2026-09-25T17:10:30.194Z"
-  },
-  {
-    "rank": 238,
-    "query": "nintendo switch news",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "nintendo lawsuit james archbox williams"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+switch+news&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "nintendo switch news nintendo lawsuit james archbox williams",
-    "trendScore": 10,
-    "detectedAt": "2026-09-25T17:10:30.194Z"
+    "detectedAt": "2026-09-25T21:34:31.993Z"
   }
 ]

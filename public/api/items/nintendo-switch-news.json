@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T11:50:23.215Z",
+  "updatedAt": "2026-09-25T17:10:34.392Z",
   "item": {
-    "id": "star-meat-delivery-inc-recall",
-    "slug": "star-meat-delivery-inc-recall",
-    "title": "Star Meat Delivery Inc Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "nintendo-switch-news",
+    "slug": "nintendo-switch-news",
+    "title": "Nintendo Switch News: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "star meat delivery inc recall",
-    "category": "Recall monitoring",
+    "product": "nintendo switch news",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=star+meat+delivery+inc+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+switch+news&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 500,
+    "trendScore": 10,
     "matchedQueries": [
-      "star meat delivery inc recall"
+      "nintendo switch news",
+      "nintendo lawsuit james archbox williams"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-25T11:50:19.641Z",
-    "url": "https://simon622.shop/item/star-meat-delivery-inc-recall/"
+    "lastUpdated": "2026-09-25T17:10:30.194Z",
+    "url": "https://simon622.shop/item/nintendo-switch-news/"
   }
 }

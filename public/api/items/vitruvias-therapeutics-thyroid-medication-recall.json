@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T11:50:23.215Z",
+  "updatedAt": "2026-09-25T17:10:34.392Z",
   "item": {
-    "id": "vitruvias-therapeutics-thyroid-recall-fda",
-    "slug": "vitruvias-therapeutics-thyroid-recall-fda",
-    "title": "Vitruvias Therapeutics Thyroid Recall Fda: Consumer Alert Monitoring",
+    "id": "vitruvias-therapeutics-thyroid-medication-recall",
+    "slug": "vitruvias-therapeutics-thyroid-medication-recall",
+    "title": "Vitruvias Therapeutics Thyroid Medication Recall: Consumer Alert Monitoring",
     "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "vitruvias therapeutics thyroid recall fda",
+    "product": "vitruvias therapeutics thyroid medication recall",
     "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,20 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+recall+fda&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+medication+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 28,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "vitruvias therapeutics thyroid recall fda",
-      "thyroid medication",
-      "thyroid medication recall",
       "vitruvias therapeutics thyroid medication recall",
       "fda recalls"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-25T11:50:19.641Z",
-    "url": "https://simon622.shop/item/vitruvias-therapeutics-thyroid-recall-fda/"
+    "lastUpdated": "2026-09-25T17:10:30.194Z",
+    "url": "https://simon622.shop/item/vitruvias-therapeutics-thyroid-medication-recall/"
   }
 }

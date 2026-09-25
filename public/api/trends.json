@@ -1,56 +1,54 @@
 {
-  "updatedAt": "2026-09-25T04:57:07.805Z",
+  "updatedAt": "2026-09-25T11:50:23.215Z",
   "count": 3,
   "trends": [
     {
-      "rank": 78,
+      "rank": 40,
       "query": "vitruvias therapeutics thyroid recall fda",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "thyroid medication",
         "vitruvias therapeutics thyroid medication recall",
-        "fda recalls",
-        "thyroid medication recall"
+        "fda recalls"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+recall+fda&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "vitruvias therapeutics thyroid recall fda thyroid medication vitruvias therapeutics thyroid medication recall fda recalls thyroid medication recall",
-      "trendScore": 17,
-      "detectedAt": "2026-09-25T04:57:05.162Z"
+      "text": "vitruvias therapeutics thyroid recall fda vitruvias therapeutics thyroid medication recall fda recalls",
+      "trendScore": 28,
+      "detectedAt": "2026-09-25T11:50:19.641Z"
     },
     {
-      "rank": 105,
+      "rank": 31,
       "query": "star meat delivery inc recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=star+meat+delivery+inc+recall&tz=420",
-      "increasePercentage": 700,
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
       "text": "star meat delivery inc recall",
-      "trendScore": 8,
-      "detectedAt": "2026-09-25T04:57:05.162Z"
+      "trendScore": 24,
+      "detectedAt": "2026-09-25T11:50:19.641Z"
     },
     {
-      "rank": 241,
+      "rank": 263,
       "query": "nintendo lawsuit james archbox williams",
-      "searchVolume": 200,
+      "searchVolume": 500,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+lawsuit+james+archbox+williams&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "nintendo lawsuit james archbox williams",
       "trendScore": 8,
-      "detectedAt": "2026-09-25T04:57:05.162Z"
+      "detectedAt": "2026-09-25T11:50:19.641Z"
     }
   ]
 }

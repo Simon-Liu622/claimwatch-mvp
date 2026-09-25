@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-24T21:30:42.843Z",
-  "count": 1,
+  "updatedAt": "2026-09-25T04:57:07.805Z",
+  "count": 3,
   "items": [
     {
       "id": "vitruvias-therapeutics-thyroid-recall-fda",
@@ -24,14 +24,74 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 28,
+      "trendScore": 17,
       "matchedQueries": [
         "vitruvias therapeutics thyroid recall fda",
         "thyroid medication",
-        "thyroid medication recall"
+        "thyroid medication recall",
+        "vitruvias therapeutics thyroid medication recall",
+        "fda recalls"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-24T21:30:29.598Z"
+      "lastUpdated": "2026-09-25T04:57:05.162Z"
+    },
+    {
+      "id": "star-meat-delivery-inc-recall",
+      "slug": "star-meat-delivery-inc-recall",
+      "title": "Star Meat Delivery Inc Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "star meat delivery inc recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=star+meat+delivery+inc+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "star meat delivery inc recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-25T04:57:05.162Z"
+    },
+    {
+      "id": "nintendo-lawsuit-james-archbox-williams",
+      "slug": "nintendo-lawsuit-james-archbox-williams",
+      "title": "Nintendo Lawsuit James Archbox Williams: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "nintendo lawsuit james archbox williams",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nintendo+lawsuit+james+archbox+williams&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 8,
+      "matchedQueries": [
+        "nintendo lawsuit james archbox williams"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-25T04:57:05.162Z"
     }
   ]
 }

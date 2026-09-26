@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-09-26T04:57:24.597Z",
-  "count": 2,
+  "updatedAt": "2026-09-26T11:24:20.995Z",
+  "count": 3,
   "items": [
+    {
+      "id": "amazon-prime-ftc-settlement-refunds",
+      "slug": "amazon-prime-ftc-settlement-refunds",
+      "title": "Amazon Prime Ftc Settlement Refunds: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amazon prime ftc settlement refunds",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+ftc+settlement+refunds&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 31,
+      "matchedQueries": [
+        "amazon prime ftc settlement refunds"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-09-26T11:24:18.971Z"
+    },
     {
       "id": "crocs-five-below-lawsuit",
       "slug": "crocs-five-below-lawsuit",
@@ -29,7 +58,7 @@
         "crocs five below lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-26T04:57:22.210Z"
+      "lastUpdated": "2026-09-26T11:24:18.971Z"
     },
     {
       "id": "sugar-recall",
@@ -52,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sugar+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "trendScore": 23,
       "matchedQueries": [
         "sugar recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-26T04:57:22.210Z"
+      "lastUpdated": "2026-09-26T11:24:18.971Z"
     }
   ]
 }

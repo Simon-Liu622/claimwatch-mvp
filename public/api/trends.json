@@ -1,23 +1,36 @@
 {
-  "updatedAt": "2026-09-25T21:34:38.933Z",
-  "count": 1,
+  "updatedAt": "2026-09-26T04:57:24.597Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 212,
-      "query": "vitruvias therapeutics thyroid medication recall",
+      "rank": 53,
+      "query": "crocs five below lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "fda recalls"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vitruvias+therapeutics+thyroid+medication+recall&tz=420",
-      "increasePercentage": 200,
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=crocs+five+below+lawsuit&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "vitruvias therapeutics thyroid medication recall fda recalls",
-      "trendScore": 10,
-      "detectedAt": "2026-09-25T21:34:31.993Z"
+      "text": "crocs five below lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-09-26T04:57:22.210Z"
+    },
+    {
+      "rank": 54,
+      "query": "sugar recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sugar+recall&tz=420",
+      "increasePercentage": 400,
+      "source": "serpapi-google-trends",
+      "text": "sugar recall",
+      "trendScore": 23,
+      "detectedAt": "2026-09-26T04:57:22.210Z"
     }
   ]
 }

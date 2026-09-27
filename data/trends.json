@@ -1,17 +1,17 @@
 [
   {
-    "rank": 30,
+    "rank": 34,
     "query": "amazon prime settlement automatic refunds",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+automatic+refunds&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "amazon prime settlement automatic refunds",
     "trendScore": 31,
-    "detectedAt": "2026-09-27T12:01:47.201Z"
+    "detectedAt": "2026-09-27T16:57:38.134Z"
   }
 ]

@@ -1,45 +1,16 @@
 {
-  "updatedAt": "2026-09-26T21:10:05.451Z",
-  "count": 4,
+  "updatedAt": "2026-09-27T05:17:50.245Z",
+  "count": 2,
   "items": [
     {
-      "id": "sugar-recall",
-      "slug": "sugar-recall",
-      "title": "Sugar Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "sugar recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sugar+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 23,
-      "matchedQueries": [
-        "sugar recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-26T11:24:18.971Z"
-    },
-    {
-      "id": "amazon-prime-ftc-settlement-refunds",
-      "slug": "amazon-prime-ftc-settlement-refunds",
-      "title": "Amazon Prime Ftc Settlement Refunds: Consumer Alert Monitoring",
+      "id": "amazon-prime-settlement-automatic-refunds",
+      "slug": "amazon-prime-settlement-automatic-refunds",
+      "title": "Amazon Prime Settlement Automatic Refunds: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "amazon prime ftc settlement refunds",
+      "product": "amazon prime settlement automatic refunds",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -49,45 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+ftc+settlement+refunds&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+automatic+refunds&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 16,
+      "searchVolume": 10000,
+      "trendScore": 33,
       "matchedQueries": [
+        "amazon prime settlement automatic refunds",
         "amazon prime ftc settlement refunds"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-26T21:10:01.378Z"
-    },
-    {
-      "id": "crocs-five-below-lawsuit",
-      "slug": "crocs-five-below-lawsuit",
-      "title": "Crocs Five Below Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "crocs five below lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=crocs+five+below+lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "crocs five below lawsuit"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-09-26T21:10:01.378Z"
+      "lastUpdated": "2026-09-27T05:17:47.956Z"
     },
     {
       "id": "cinnamon-recall",
@@ -116,7 +59,7 @@
         "cinnamon recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-09-26T21:10:01.378Z"
+      "lastUpdated": "2026-09-27T05:17:47.956Z"
     }
   ]
 }

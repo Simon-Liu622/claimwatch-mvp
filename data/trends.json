@@ -1,34 +1,17 @@
 [
   {
-    "rank": 42,
+    "rank": 30,
     "query": "amazon prime settlement automatic refunds",
-    "searchVolume": 10000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "amazon prime ftc settlement refunds"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+automatic+refunds&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "amazon prime settlement automatic refunds amazon prime ftc settlement refunds",
-    "trendScore": 33,
-    "detectedAt": "2026-09-27T05:17:47.956Z"
-  },
-  {
-    "rank": 375,
-    "query": "cinnamon recall",
-    "searchVolume": 200,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cinnamon+recall&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+prime+settlement+automatic+refunds&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "cinnamon recall",
-    "trendScore": 8,
-    "detectedAt": "2026-09-27T05:17:47.956Z"
+    "text": "amazon prime settlement automatic refunds",
+    "trendScore": 31,
+    "detectedAt": "2026-09-27T12:01:47.201Z"
   }
 ]

@@ -1,31 +1,26 @@
 {
-  "updatedAt": "2026-09-29T12:51:51.914Z",
+  "updatedAt": "2026-09-29T22:14:42.906Z",
   "count": 2,
   "trends": [
     {
-      "rank": 2,
-      "query": "fda chlorthalidone dissolution testing recall",
-      "searchVolume": 500000,
+      "rank": 13,
+      "query": "blood pressure medication recall",
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "blood pressure medication recall",
-        "inventia healthcare chlorthalidone recall fda",
-        "chlorthalidone tablets fda recall",
-        "inventia healthcare chlorthalidone dissolution testing",
-        "chlorthalidone",
-        "blood pressure"
+        "chlorthalidone"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+chlorthalidone+dissolution+testing+recall&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recall&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "fda chlorthalidone dissolution testing recall blood pressure medication recall inventia healthcare chlorthalidone recall fda chlorthalidone tablets fda recall inventia healthcare chlorthalidone dissolution testing chlorthalidone blood pressure",
-      "trendScore": 46,
-      "detectedAt": "2026-09-29T12:51:49.401Z"
+      "text": "blood pressure medication recall chlorthalidone",
+      "trendScore": 26,
+      "detectedAt": "2026-09-29T22:14:29.488Z"
     },
     {
-      "rank": 94,
+      "rank": 182,
       "query": "zack gelof detroit tigers lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -37,7 +32,7 @@
       "source": "serpapi-google-trends",
       "text": "zack gelof detroit tigers lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-09-29T12:51:49.401Z"
+      "detectedAt": "2026-09-29T22:14:29.488Z"
     }
   ]
 }

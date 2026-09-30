@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T05:31:41.873Z",
+  "updatedAt": "2026-09-30T12:33:51.567Z",
   "item": {
-    "id": "zack-gelof-detroit-tigers-lawsuit",
-    "slug": "zack-gelof-detroit-tigers-lawsuit",
-    "title": "Zack Gelof Detroit Tigers Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "trump-aca-refund-checks",
+    "slug": "trump-aca-refund-checks",
+    "title": "Trump Aca Refund Checks: Consumer Alert Monitoring",
+    "type": "refund",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "zack gelof detroit tigers lawsuit",
+    "product": "trump aca refund checks",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zack+gelof+detroit+tigers+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+aca+refund+checks&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
-      "zack gelof detroit tigers lawsuit"
+      "trump aca refund checks",
+      "usa"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-30T05:31:39.578Z",
-    "url": "https://simon622.shop/item/zack-gelof-detroit-tigers-lawsuit/"
+    "lastUpdated": "2026-09-30T12:33:49.900Z",
+    "url": "https://simon622.shop/item/trump-aca-refund-checks/"
   }
 }

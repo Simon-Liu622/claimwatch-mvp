@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:33:51.567Z",
+  "updatedAt": "2026-09-30T22:15:21.021Z",
   "item": {
     "id": "trump-aca-refund-checks",
     "slug": "trump-aca-refund-checks",
@@ -21,14 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+aca+refund+checks&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 10,
+    "searchVolume": 200000,
+    "trendScore": 30,
     "matchedQueries": [
       "trump aca refund checks",
-      "usa"
+      "usa",
+      "trump administration obamacare refunds"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-30T12:33:49.900Z",
+    "lastUpdated": "2026-09-30T22:15:17.928Z",
     "url": "https://simon622.shop/item/trump-aca-refund-checks/"
   }
 }

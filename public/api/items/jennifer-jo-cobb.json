@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:33:51.567Z",
+  "updatedAt": "2026-09-30T22:15:21.021Z",
   "item": {
     "id": "jennifer-jo-cobb",
     "slug": "jennifer-jo-cobb",
@@ -21,14 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jennifer+jo+cobb&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "jennifer jo cobb",
-      "jennifer jo cobb lawsuit"
+      "jennifer jo cobb lawsuit",
+      "affair"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-30T12:33:49.900Z",
+    "lastUpdated": "2026-09-30T22:15:17.928Z",
     "url": "https://simon622.shop/item/jennifer-jo-cobb/"
   }
 }

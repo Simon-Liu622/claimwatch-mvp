@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:14:42.906Z",
+  "updatedAt": "2026-09-30T05:31:41.873Z",
   "item": {
     "id": "inventia-healthcare-limited-chlorthalidone-tablets-usp-25-mg-100-tablets-per-bottle-rx-onl",
     "slug": "inventia-healthcare-limited-chlorthalidone-tablets-usp-25-mg-100-tablets-per-bottle-rx-onl",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
     "sourceAgency": "FDA",
-    "searchVolume": 50000,
+    "searchVolume": 20000,
     "trendScore": 46,
     "matchedQueries": [
-      "blood pressure medication recall",
+      "inventia healthcare chlorthalidone tablet recall",
+      "product recall",
       "chlorthalidone"
     ],
     "officialVerified": true,
     "officialRecordId": "D-0852-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-09-29T22:14:29.488Z",
+    "lastUpdated": "2026-09-30T05:31:39.578Z",
     "url": "https://simon622.shop/item/inventia-healthcare-limited-chlorthalidone-tablets-usp-25-mg-100-tablets-per-bottle-rx-onl/"
   }
 }

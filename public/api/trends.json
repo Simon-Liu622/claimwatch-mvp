@@ -1,88 +1,58 @@
 {
-  "updatedAt": "2026-09-30T22:15:21.021Z",
-  "count": 5,
+  "updatedAt": "2026-10-01T05:52:32.987Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 2,
+      "rank": 3,
       "query": "trump aca refund checks",
       "searchVolume": 200000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
+        "trump $500",
+        "500 checks",
         "trump administration obamacare refunds"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+aca+refund+checks&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "trump aca refund checks trump administration obamacare refunds",
-      "trendScore": 30,
-      "detectedAt": "2026-09-30T22:15:17.928Z"
+      "text": "trump aca refund checks trump $500 500 checks trump administration obamacare refunds",
+      "trendScore": 34,
+      "detectedAt": "2026-10-01T05:52:30.383Z"
     },
     {
-      "rank": 29,
-      "query": "jennifer jo cobb",
+      "rank": 42,
+      "query": "cheese recall",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "affair",
-        "jennifer jo cobb lawsuit"
+        "sierra nevada cheese e coli recall",
+        "graziers raw milk cheese recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jennifer+jo+cobb&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cheese+recall&tz=420",
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "jennifer jo cobb affair jennifer jo cobb lawsuit",
-      "trendScore": 28,
-      "detectedAt": "2026-09-30T22:15:17.928Z"
+      "text": "cheese recall sierra nevada cheese e coli recall graziers raw milk cheese recall",
+      "trendScore": 13,
+      "detectedAt": "2026-10-01T05:52:30.383Z"
     },
     {
-      "rank": 24,
-      "query": "graziers raw milk cheese recall",
+      "rank": 73,
+      "query": "lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "product recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=graziers+raw+milk+cheese+recall&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "graziers raw milk cheese recall product recall",
-      "trendScore": 25,
-      "detectedAt": "2026-09-30T22:15:17.928Z"
-    },
-    {
-      "rank": 19,
-      "query": "lawsuit",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-09-30T22:15:17.928Z"
-    },
-    {
-      "rank": 56,
-      "query": "inventia healthcare chlorthalidone tablet recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=inventia+healthcare+chlorthalidone+tablet+recall&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "inventia healthcare chlorthalidone tablet recall",
-      "trendScore": 9,
-      "detectedAt": "2026-09-30T22:15:17.928Z"
+      "trendScore": 8,
+      "detectedAt": "2026-10-01T05:52:30.383Z"
     }
   ]
 }

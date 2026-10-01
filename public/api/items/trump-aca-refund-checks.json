@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:15:21.021Z",
+  "updatedAt": "2026-10-01T05:52:32.987Z",
   "item": {
     "id": "trump-aca-refund-checks",
     "slug": "trump-aca-refund-checks",
@@ -22,14 +22,16 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 200000,
-    "trendScore": 30,
+    "trendScore": 34,
     "matchedQueries": [
       "trump aca refund checks",
       "usa",
-      "trump administration obamacare refunds"
+      "trump administration obamacare refunds",
+      "trump $500",
+      "500 checks"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-09-30T22:15:17.928Z",
+    "lastUpdated": "2026-10-01T05:52:30.383Z",
     "url": "https://simon622.shop/item/trump-aca-refund-checks/"
   }
 }

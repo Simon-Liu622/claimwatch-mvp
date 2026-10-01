@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:13:35.848Z",
+  "updatedAt": "2026-10-01T22:40:50.023Z",
   "item": {
     "id": "cornell-7-case",
     "slug": "cornell-7-case",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cornell+7+case&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "trendScore": 26,
     "matchedQueries": [
       "cornell 7 case",
       "lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-01T13:13:31.829Z",
+    "lastUpdated": "2026-10-01T22:40:47.209Z",
     "url": "https://simon622.shop/item/cornell-7-case/"
   }
 }

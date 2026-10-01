@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-10-01T13:13:35.848Z",
-  "count": 1,
+  "updatedAt": "2026-10-01T22:40:50.023Z",
+  "count": 3,
   "items": [
+    {
+      "id": "amazon-ftc-settlement-payouts",
+      "slug": "amazon-ftc-settlement-payouts",
+      "title": "Amazon Ftc Settlement Payouts: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "amazon ftc settlement payouts",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+payouts&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 32,
+      "matchedQueries": [
+        "amazon ftc settlement payouts"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-01T22:40:47.209Z"
+    },
     {
       "id": "cornell-7-case",
       "slug": "cornell-7-case",
@@ -23,14 +52,43 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cornell+7+case&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
+      "searchVolume": 50000,
       "trendScore": 26,
       "matchedQueries": [
         "cornell 7 case",
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-01T13:13:31.829Z"
+      "lastUpdated": "2026-10-01T22:40:47.209Z"
+    },
+    {
+      "id": "roger-rogoff-us-attorney-lawsuit",
+      "slug": "roger-rogoff-us-attorney-lawsuit",
+      "title": "Roger Rogoff Us Attorney Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "roger rogoff us attorney lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roger+rogoff+us+attorney+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "roger rogoff us attorney lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-01T22:40:47.209Z"
     }
   ]
 }

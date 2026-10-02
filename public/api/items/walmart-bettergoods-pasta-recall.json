@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T12:33:59.678Z",
+  "updatedAt": "2026-10-02T22:13:36.828Z",
   "item": {
-    "id": "roger-rogoff-us-attorney-lawsuit",
-    "slug": "roger-rogoff-us-attorney-lawsuit",
-    "title": "Roger Rogoff Us Attorney Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "walmart-bettergoods-pasta-recall",
+    "slug": "walmart-bettergoods-pasta-recall",
+    "title": "Walmart Bettergoods Pasta Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "roger rogoff us attorney lawsuit",
-    "category": "Consumer monitoring",
+    "product": "walmart bettergoods pasta recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roger+rogoff+us+attorney+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pasta+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 500,
     "trendScore": 8,
     "matchedQueries": [
-      "roger rogoff us attorney lawsuit"
+      "walmart bettergoods pasta recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-02T12:33:57.370Z",
-    "url": "https://simon622.shop/item/roger-rogoff-us-attorney-lawsuit/"
+    "lastUpdated": "2026-10-02T22:13:32.379Z",
+    "url": "https://simon622.shop/item/walmart-bettergoods-pasta-recall/"
   }
 }

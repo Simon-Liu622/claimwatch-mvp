@@ -1,65 +1,7 @@
 {
-  "updatedAt": "2026-10-02T12:33:59.678Z",
-  "count": 5,
+  "updatedAt": "2026-10-02T22:13:36.828Z",
+  "count": 2,
   "items": [
-    {
-      "id": "amazon-ftc-settlement-payouts",
-      "slug": "amazon-ftc-settlement-payouts",
-      "title": "Amazon Ftc Settlement Payouts: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amazon ftc settlement payouts",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+payouts&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 32,
-      "matchedQueries": [
-        "amazon ftc settlement payouts"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-02T12:33:57.370Z"
-    },
-    {
-      "id": "capitol-police-plaque-lawsuit-dismissal",
-      "slug": "capitol-police-plaque-lawsuit-dismissal",
-      "title": "Capitol Police Plaque Lawsuit Dismissal: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "capitol police plaque lawsuit dismissal",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capitol+police+plaque+lawsuit+dismissal&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "capitol police plaque lawsuit dismissal"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-02T12:33:57.370Z"
-    },
     {
       "id": "maria-avila-chris-brown-settlement",
       "slug": "maria-avila-chris-brown-settlement",
@@ -82,23 +24,23 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "maria avila chris brown settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-02T12:33:57.370Z"
+      "lastUpdated": "2026-10-02T22:13:32.379Z"
     },
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "walmart-bettergoods-pasta-recall",
+      "slug": "walmart-bettergoods-pasta-recall",
+      "title": "Walmart Bettergoods Pasta Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
+      "product": "walmart bettergoods pasta recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -107,46 +49,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 11,
-      "matchedQueries": [
-        "lawsuit",
-        "renee good"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-02T12:33:57.370Z"
-    },
-    {
-      "id": "roger-rogoff-us-attorney-lawsuit",
-      "slug": "roger-rogoff-us-attorney-lawsuit",
-      "title": "Roger Rogoff Us Attorney Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "roger rogoff us attorney lawsuit",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roger+rogoff+us+attorney+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pasta+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "roger rogoff us attorney lawsuit"
+        "walmart bettergoods pasta recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-02T12:33:57.370Z"
+      "lastUpdated": "2026-10-02T22:13:32.379Z"
     }
   ]
 }

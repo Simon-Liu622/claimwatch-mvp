@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T22:40:50.023Z",
+  "updatedAt": "2026-10-02T05:36:29.344Z",
   "item": {
-    "id": "cornell-7-case",
-    "slug": "cornell-7-case",
-    "title": "Cornell 7 Case: Consumer Alert Monitoring",
+    "id": "capitol-police-plaque-lawsuit-dismissal",
+    "slug": "capitol-police-plaque-lawsuit-dismissal",
+    "title": "Capitol Police Plaque Lawsuit Dismissal: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "cornell 7 case",
+    "product": "capitol police plaque lawsuit dismissal",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cornell+7+case&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capitol+police+plaque+lawsuit+dismissal&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 50000,
-    "trendScore": 26,
+    "trendScore": 24,
     "matchedQueries": [
-      "cornell 7 case",
-      "lawsuit"
+      "capitol police plaque lawsuit dismissal"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-01T22:40:47.209Z",
-    "url": "https://simon622.shop/item/cornell-7-case/"
+    "lastUpdated": "2026-10-02T05:36:15.972Z",
+    "url": "https://simon622.shop/item/capitol-police-plaque-lawsuit-dismissal/"
   }
 }

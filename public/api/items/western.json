@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T22:40:50.023Z",
+  "updatedAt": "2026-10-02T05:36:29.344Z",
   "item": {
-    "id": "roger-rogoff-us-attorney-lawsuit",
-    "slug": "roger-rogoff-us-attorney-lawsuit",
-    "title": "Roger Rogoff Us Attorney Lawsuit: Consumer Alert Monitoring",
+    "id": "western",
+    "slug": "western",
+    "title": "Western: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "roger rogoff us attorney lawsuit",
+    "product": "western",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roger+rogoff+us+attorney+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=western&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 500,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 10,
     "matchedQueries": [
+      "western",
       "roger rogoff us attorney lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-01T22:40:47.209Z",
-    "url": "https://simon622.shop/item/roger-rogoff-us-attorney-lawsuit/"
+    "lastUpdated": "2026-10-02T05:36:15.972Z",
+    "url": "https://simon622.shop/item/western/"
   }
 }

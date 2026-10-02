@@ -1,6 +1,6 @@
 [
   {
-    "rank": 12,
+    "rank": 8,
     "query": "amazon ftc settlement payouts",
     "searchVolume": 20000,
     "startedAt": "",
@@ -12,10 +12,10 @@
     "source": "serpapi-google-trends",
     "text": "amazon ftc settlement payouts",
     "trendScore": 32,
-    "detectedAt": "2026-10-02T05:36:15.972Z"
+    "detectedAt": "2026-10-02T12:33:57.370Z"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "query": "capitol police plaque lawsuit dismissal",
     "searchVolume": 50000,
     "startedAt": "",
@@ -27,10 +27,25 @@
     "source": "serpapi-google-trends",
     "text": "capitol police plaque lawsuit dismissal",
     "trendScore": 24,
-    "detectedAt": "2026-10-02T05:36:15.972Z"
+    "detectedAt": "2026-10-02T12:33:57.370Z"
   },
   {
-    "rank": 95,
+    "rank": 68,
+    "query": "maria avila chris brown settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maria+avila+chris+brown+settlement&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "maria avila chris brown settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-10-02T12:33:57.370Z"
+  },
+  {
+    "rank": 97,
     "query": "lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -44,38 +59,21 @@
     "source": "serpapi-google-trends",
     "text": "lawsuit renee good",
     "trendScore": 11,
-    "detectedAt": "2026-10-02T05:36:15.972Z"
+    "detectedAt": "2026-10-02T12:33:57.370Z"
   },
   {
-    "rank": 224,
-    "query": "western",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "roger rogoff us attorney lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=western&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "western roger rogoff us attorney lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-10-02T05:36:15.972Z"
-  },
-  {
-    "rank": 258,
-    "query": "maria avila chris brown settlement",
+    "rank": 280,
+    "query": "roger rogoff us attorney lawsuit",
     "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maria+avila+chris+brown+settlement&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=roger+rogoff+us+attorney+lawsuit&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "maria avila chris brown settlement",
+    "text": "roger rogoff us attorney lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-02T05:36:15.972Z"
+    "detectedAt": "2026-10-02T12:33:57.370Z"
   }
 ]

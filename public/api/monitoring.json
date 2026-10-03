@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-10-03T11:38:56.895Z",
+  "updatedAt": "2026-10-03T16:17:12.471Z",
   "count": 2,
   "items": [
-    {
-      "id": "walmart-bettergoods-pasta-recall",
-      "slug": "walmart-bettergoods-pasta-recall",
-      "title": "Walmart Bettergoods Pasta Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "walmart bettergoods pasta recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+bettergoods+pasta+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "walmart bettergoods pasta recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-03T11:38:54.792Z"
-    },
     {
       "id": "ftc-prime-subscription-settlement",
       "slug": "ftc-prime-subscription-settlement",
@@ -58,7 +29,36 @@
         "ftc prime subscription settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-03T11:38:54.792Z"
+      "lastUpdated": "2026-10-03T16:17:09.055Z"
+    },
+    {
+      "id": "aca-refund-checks",
+      "slug": "aca-refund-checks",
+      "title": "Aca Refund Checks: Consumer Alert Monitoring",
+      "type": "refund",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "aca refund checks",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aca+refund+checks&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "aca refund checks"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-03T16:17:09.055Z"
     }
   ]
 }

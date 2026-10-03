@@ -23,7 +23,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0852-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "cpsc-26652",
@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -335,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -619,7 +619,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -645,7 +645,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -1015,7 +1015,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "cpsc-26659",
@@ -2328,35 +2328,6 @@
     "lastUpdated": "2026-05-11T20:03:56.394Z"
   },
   {
-    "id": "maria-avila-chris-brown-settlement",
-    "slug": "maria-avila-chris-brown-settlement",
-    "title": "Maria Avila Chris Brown Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "maria avila chris brown settlement",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maria+avila+chris+brown+settlement&tz=420",
-    "sourceAgency": "COURT",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
-    "matchedQueries": [
-      "maria avila chris brown settlement"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
-  },
-  {
     "id": "walmart-bettergoods-pasta-recall",
     "slug": "walmart-bettergoods-pasta-recall",
     "title": "Walmart Bettergoods Pasta Recall: Consumer Alert Monitoring",
@@ -2383,7 +2354,36 @@
       "walmart bettergoods pasta recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
+  },
+  {
+    "id": "ftc-prime-subscription-settlement",
+    "slug": "ftc-prime-subscription-settlement",
+    "title": "Ftc Prime Subscription Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "ftc prime subscription settlement",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
+    "sourceAgency": "COURT",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 1000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "ftc prime subscription settlement"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "cpsc-26753",
@@ -2565,7 +2565,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2591,7 +2591,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2617,7 +2617,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2643,7 +2643,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2669,7 +2669,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2695,7 +2695,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2721,7 +2721,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2747,7 +2747,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -2773,7 +2773,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -2797,7 +2797,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2821,7 +2821,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2845,7 +2845,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2869,7 +2869,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "find-refund-cases",
@@ -2893,7 +2893,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "consumer-advice",
@@ -2917,7 +2917,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2941,7 +2941,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2965,7 +2965,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2989,7 +2989,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "military-consumer",
@@ -3013,7 +3013,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "consumer-gov",
@@ -3037,7 +3037,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -3061,7 +3061,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "imprimisrx-nj-llc-povidone-iodine-1-25-proparacaine-hcl-0-5-ophthalmic-solution-10-ml-per-",
@@ -3087,7 +3087,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0835-2026",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ourpharma-llc-fentanyl-citrate-1-000-mcg-100-ml-10mcg-ml-injection-solution-in-100-ml-0-9-",
@@ -3113,7 +3113,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0864-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ajanta-pharma-usa-inc-fluphenazine-hydrochloride-tablets-usp-1mg-100-count-bottles-rx-only",
@@ -3139,7 +3139,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0836-2026",
     "recallInitiationDate": "20260825",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "abiomed-inc-automated-impella-controller-aic-with-the-below-product-descriptions-and-corre",
@@ -3165,7 +3165,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3148-2026",
     "recallInitiationDate": "20260812",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "everything-sprouts-llc-everything-sprouts-crunchy-protein-sprout-mix-containing-alfalfa-fe",
@@ -3191,7 +3191,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1339-2026",
     "recallInitiationDate": "20260822",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-tomato-salsa-fresca",
@@ -3217,7 +3217,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1364-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-pico-de-gallo-hot-6-9oz-heb-pico-hot-12-14oz",
@@ -3243,7 +3243,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1379-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "tiffany-food-corp-hexing-haw-balls-candy-packaged-in-200g-0-44-lb-7-05-oz-clear-plastic-ba",
@@ -3269,7 +3269,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1387-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pico-de-gallo",
@@ -3295,7 +3295,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1355-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pineapple-mango-salsa-mild",
@@ -3321,7 +3321,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1354-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-heb-pico-medium-12-14oz-pico-de-gallo-medium-6-14oz-pic",
@@ -3347,7 +3347,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1378-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-guacamole",
@@ -3373,7 +3373,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1351-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "panorama-produce-sales-inc-martina-brand-fresh-whole-mangoes-individual-whole-mangoes-vari",
@@ -3399,7 +3399,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1342-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-taco-dip",
@@ -3425,7 +3425,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1349-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-pimento-cheese-dip",
@@ -3451,7 +3451,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1348-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "buckhead-meat-company-d-b-a-trinity-seafood-buckhead-tuna-10lb-cs-12lb-cs-15lb-cs-3-5lb-cs",
@@ -3477,7 +3477,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1382-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "best-friends-bakery-llc-pumpkin-spice-no-bake-cookie-net-wt-3-5-oz",
@@ -3503,7 +3503,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1386-2026",
     "recallInitiationDate": "20260817",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "elegant-foods-llc-elegant-foods-carrot-cake-9-14-servings-keep-refrigerated-frozen-537-atl",
@@ -3529,7 +3529,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1385-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-bh-bold-chef-salad-kit",
@@ -3555,7 +3555,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1368-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-naturebest-mild-cheddar-and-jalapeno-stuffed-mushrooms-",
@@ -3581,7 +3581,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1376-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-soup-mix-6-58oz-tray-pps971-clr-pet-900-cs-32cs-pal-fil",
@@ -3607,7 +3607,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1373-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-salsa-verde-mild",
@@ -3633,7 +3633,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1362-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-heb-guac-kit-mild-3-57-5oz",
@@ -3659,7 +3659,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1377-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-mild-pico-de-gallo",
@@ -3685,7 +3685,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1357-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "elegant-foods-llc-elegant-foods-golden-raisins-5-pound-537-atlas-ave-madison-wi-53714",
@@ -3711,7 +3711,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1384-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-hot-pico-de-gallo",
@@ -3737,7 +3737,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1358-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-pico-de-gallo-mild-4oz-pico-de-gallo-mild-6-14oz-pico-d",
@@ -3763,7 +3763,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1372-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "taylor-fresh-foods-inc-salsa-fresca-medium",
@@ -3789,7 +3789,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1363-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-15-mg-per-3-ml-delivers-10-ml-oral-elixir-p",
@@ -3815,7 +3815,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0845-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-20-mg-per-4-ml-delivers-10-ml-oral-elixir-p",
@@ -3841,7 +3841,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0846-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-10-mg-per-2-ml-delivers-10-ml-oral-elixir-p",
@@ -3867,7 +3867,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0844-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "vitruvias-therapeutics-inc-thyroid-tablets-usp-1-2-grain-30-mg-each-tablet-contains-levoth",
@@ -3893,7 +3893,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0866-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-5-mg-per-10-ml-delivers-10-ml-oral-elixir-p",
@@ -3919,7 +3919,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0843-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-5-mg-per-1-ml-delivers-10-ml-oral-elixir-pa",
@@ -3945,7 +3945,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0842-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "safecor-health-llc-fluphenazine-hcl-elixir-usp-2-5-mg-per-5-ml-delivers-5-ml-oral-elixir-p",
@@ -3971,7 +3971,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0841-2026",
     "recallInitiationDate": "20260813",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "sun-pharma-taro-lidocaine-ointment-usp-5-speermint-flavor-50-g-jar-rx-only-mfd-by-taro-pha",
@@ -3997,7 +3997,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0848-2026",
     "recallInitiationDate": "20260831",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "sun-pharmaceutical-industries-inc-nystatin-cream-usp-15-g-per-tube-rx-only-mfd-by-taro-pha",
@@ -4023,7 +4023,7 @@
     "officialVerified": true,
     "officialRecordId": "N/A",
     "recallInitiationDate": "20260914",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "pfizer-dopamine-hcl-inj-usp-200-mg-5-ml-40-mg-ml-5-ml-single-dose-25-vials-per-tray-rx-onl",
@@ -4049,7 +4049,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0853-2026",
     "recallInitiationDate": "20260904",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "american-regent-inc-epinephrine-injection-usp-30-mg-30-ml-1mg-ml-30-ml-multiple-dose-vial-",
@@ -4075,7 +4075,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0865-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "stryker-sustainability-solutions-ref-2b5st-ethicon-endo-surgery-inc-xcel-bladeless-trocar-",
@@ -4101,7 +4101,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3183-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "datex-ohmeda-inc-aisys-cs2-with-et-control-datex-ohmeda-anesthesia-system-part-number-1011",
@@ -4127,7 +4127,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3191-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "datex-ohmeda-inc-et-control-software-option-for-anesthesia-gas-machine-to-achieve-and-main",
@@ -4153,7 +4153,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3192-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "avid-medical-inc-haylard-18g-single-shot-epi-tray-model-item-number-kit-dpge002-02",
@@ -4179,7 +4179,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3151-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-1-dykm1000b-catalog-number-dykm1000b-2-dykm",
@@ -4205,7 +4205,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3125-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ge-medical-systems-information-technologies-inc-carescape-central-station-cscs-v3-mas800-d",
@@ -4231,7 +4231,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3143-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nova-biomedical-corporation-statstrip-glucose-and-b-ketone-meter-model-no-63910-glucose-te",
@@ -4257,7 +4257,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3131-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "icu-medical-inc-oncology-sets-with-drip-chambers",
@@ -4283,7 +4283,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3159-2026",
     "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "datex-ohmeda-inc-aisys-cs2-datex-ohmeda-anesthesia-system-part-number-1011-9055-000",
@@ -4309,7 +4309,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3190-2026",
     "recallInitiationDate": "20260730",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kit-open-heart-a-pack-product-number-dynj43008n",
@@ -4335,7 +4335,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3137-2026",
     "recallInitiationDate": "20260723",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "icu-medical-inc-iv-sets-with-drip-chambers",
@@ -4361,7 +4361,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3160-2026",
     "recallInitiationDate": "20260512",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "happiest-baby-inc-happiest-baby-inc-snoo-sleep-sack-x-small-model-catalog-number-s2101-101",
@@ -4387,7 +4387,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3175-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "ge-healthcare-centricity-pacs-server-v7-intended-for-managing-digital-medical-images-and-a",
@@ -4413,7 +4413,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3169-2026",
     "recallInitiationDate": "20260731",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",
@@ -4437,7 +4437,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -4463,7 +4463,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -4489,7 +4489,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -4515,7 +4515,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -4541,7 +4541,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -4567,7 +4567,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-10-02T22:13:32.379Z"
+    "lastUpdated": "2026-10-03T05:18:34.561Z"
   },
   {
     "id": "cpsc-26733",

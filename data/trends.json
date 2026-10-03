@@ -1,21 +1,21 @@
 [
   {
-    "rank": 130,
-    "query": "maria avila chris brown settlement",
-    "searchVolume": 2000,
+    "rank": 93,
+    "query": "ftc prime subscription settlement",
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maria+avila+chris+brown+settlement&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
     "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "maria avila chris brown settlement",
+    "text": "ftc prime subscription settlement",
     "trendScore": 8,
-    "detectedAt": "2026-10-02T22:13:32.379Z"
+    "detectedAt": "2026-10-03T05:18:34.561Z"
   },
   {
-    "rank": 227,
+    "rank": 221,
     "query": "walmart bettergoods pasta recall",
     "searchVolume": 500,
     "startedAt": "",
@@ -27,6 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "walmart bettergoods pasta recall",
     "trendScore": 8,
-    "detectedAt": "2026-10-02T22:13:32.379Z"
+    "detectedAt": "2026-10-03T05:18:34.561Z"
   }
 ]

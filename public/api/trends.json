@@ -1,24 +1,26 @@
 {
-  "updatedAt": "2026-10-03T16:17:12.471Z",
+  "updatedAt": "2026-10-03T21:13:53.021Z",
   "count": 3,
   "trends": [
     {
-      "rank": 52,
-      "query": "product recall",
-      "searchVolume": 1000,
+      "rank": 130,
+      "query": "eye drops recalled",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 800,
+      "active": false,
+      "breakdown": [
+        "product recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drops+recalled&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 23,
-      "detectedAt": "2026-10-03T16:17:09.055Z"
+      "text": "eye drops recalled product recall",
+      "trendScore": 10,
+      "detectedAt": "2026-10-03T21:13:50.126Z"
     },
     {
-      "rank": 179,
+      "rank": 285,
       "query": "aca refund checks",
       "searchVolume": 500,
       "startedAt": "",
@@ -30,10 +32,10 @@
       "source": "serpapi-google-trends",
       "text": "aca refund checks",
       "trendScore": 8,
-      "detectedAt": "2026-10-03T16:17:09.055Z"
+      "detectedAt": "2026-10-03T21:13:50.126Z"
     },
     {
-      "rank": 210,
+      "rank": 291,
       "query": "ftc prime subscription settlement",
       "searchVolume": 1000,
       "startedAt": "",
@@ -45,7 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "ftc prime subscription settlement",
       "trendScore": 8,
-      "detectedAt": "2026-10-03T16:17:09.055Z"
+      "detectedAt": "2026-10-03T21:13:50.126Z"
     }
   ]
 }

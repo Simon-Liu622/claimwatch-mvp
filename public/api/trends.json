@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-10-03T21:13:53.021Z",
-  "count": 3,
+  "updatedAt": "2026-10-04T05:51:49.841Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 130,
+      "rank": 45,
+      "query": "salad dressing recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad+dressing+recall&tz=420",
+      "increasePercentage": 800,
+      "source": "serpapi-google-trends",
+      "text": "salad dressing recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-04T05:51:45.945Z"
+    },
+    {
+      "rank": 159,
       "query": "eye drops recalled",
       "searchVolume": 10000,
       "startedAt": "",
@@ -17,10 +32,25 @@
       "source": "serpapi-google-trends",
       "text": "eye drops recalled product recall",
       "trendScore": 10,
-      "detectedAt": "2026-10-03T21:13:50.126Z"
+      "detectedAt": "2026-10-04T05:51:45.945Z"
     },
     {
-      "rank": 285,
+      "rank": 326,
+      "query": "travis kelce patrick mahomes restaurant lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+restaurant+lawsuit&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "travis kelce patrick mahomes restaurant lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-10-04T05:51:45.945Z"
+    },
+    {
+      "rank": 417,
       "query": "aca refund checks",
       "searchVolume": 500,
       "startedAt": "",
@@ -32,22 +62,7 @@
       "source": "serpapi-google-trends",
       "text": "aca refund checks",
       "trendScore": 8,
-      "detectedAt": "2026-10-03T21:13:50.126Z"
-    },
-    {
-      "rank": 291,
-      "query": "ftc prime subscription settlement",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "ftc prime subscription settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-10-03T21:13:50.126Z"
+      "detectedAt": "2026-10-04T05:51:45.945Z"
     }
   ]
 }

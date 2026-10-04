@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-10-04T05:51:49.841Z",
+  "item": {
+    "id": "salad-dressing-recall",
+    "slug": "salad-dressing-recall",
+    "title": "Salad Dressing Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "salad dressing recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad+dressing+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 5000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "salad dressing recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-04T05:51:45.945Z",
+    "url": "https://simon622.shop/item/salad-dressing-recall/"
+  }
+}

@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-03T21:13:53.021Z",
-  "count": 2,
+  "updatedAt": "2026-10-04T05:51:49.841Z",
+  "count": 3,
   "items": [
     {
-      "id": "ftc-prime-subscription-settlement",
-      "slug": "ftc-prime-subscription-settlement",
-      "title": "Ftc Prime Subscription Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "salad-dressing-recall",
+      "slug": "salad-dressing-recall",
+      "title": "Salad Dressing Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "ftc prime subscription settlement",
-      "category": "Consumer monitoring",
+      "product": "salad dressing recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,16 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
-      "sourceAgency": "COURT",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad+dressing+recall&tz=420",
+      "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "ftc prime subscription settlement"
+        "salad dressing recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-03T21:13:50.126Z"
+      "lastUpdated": "2026-10-04T05:51:45.945Z"
     },
     {
       "id": "aca-refund-checks",
@@ -58,7 +58,36 @@
         "aca refund checks"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-03T21:13:50.126Z"
+      "lastUpdated": "2026-10-04T05:51:45.945Z"
+    },
+    {
+      "id": "travis-kelce-patrick-mahomes-restaurant-lawsuit",
+      "slug": "travis-kelce-patrick-mahomes-restaurant-lawsuit",
+      "title": "Travis Kelce Patrick Mahomes Restaurant Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "travis kelce patrick mahomes restaurant lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travis+kelce+patrick+mahomes+restaurant+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "travis kelce patrick mahomes restaurant lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-04T05:51:45.945Z"
     }
   ]
 }

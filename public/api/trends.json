@@ -1,26 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:20:57.933Z",
-  "count": 3,
+  "updatedAt": "2026-10-04T21:24:24.970Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 125,
-      "query": "eye drop",
-      "searchVolume": 5000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "product recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eye+drop&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "eye drop product recall",
-      "trendScore": 25,
-      "detectedAt": "2026-10-04T12:20:53.391Z"
-    },
-    {
-      "rank": 117,
+      "rank": 239,
       "query": "salad dressing recall",
       "searchVolume": 5000,
       "startedAt": "",
@@ -32,22 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "salad dressing recall",
       "trendScore": 8,
-      "detectedAt": "2026-10-04T12:20:53.391Z"
-    },
-    {
-      "rank": 414,
-      "query": "aca refund checks",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aca+refund+checks&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "aca refund checks",
-      "trendScore": 8,
-      "detectedAt": "2026-10-04T12:20:53.391Z"
+      "detectedAt": "2026-10-04T21:24:22.016Z"
     }
   ]
 }

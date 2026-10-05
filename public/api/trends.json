@@ -1,5 +1,36 @@
 {
-  "updatedAt": "2026-10-05T05:38:49.822Z",
-  "count": 0,
-  "trends": []
+  "updatedAt": "2026-10-05T14:37:04.055Z",
+  "count": 2,
+  "trends": [
+    {
+      "rank": 30,
+      "query": "product recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "product recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-05T14:36:59.412Z"
+    },
+    {
+      "rank": 38,
+      "query": "gatorade recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gatorade+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "gatorade recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-05T14:36:59.412Z"
+    }
+  ]
 }

@@ -1,17 +1,1 @@
-[
-  {
-    "rank": 239,
-    "query": "salad dressing recall",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salad+dressing+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "salad dressing recall",
-    "trendScore": 8,
-    "detectedAt": "2026-10-04T21:24:22.016Z"
-  }
-]
+[]

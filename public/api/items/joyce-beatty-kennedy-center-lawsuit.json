@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T18:21:22.446Z",
+  "updatedAt": "2026-10-07T05:58:36.193Z",
   "item": {
-    "id": "ftc-prime-subscription-settlement",
-    "slug": "ftc-prime-subscription-settlement",
-    "title": "Ftc Prime Subscription Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
+    "id": "joyce-beatty-kennedy-center-lawsuit",
+    "slug": "joyce-beatty-kennedy-center-lawsuit",
+    "title": "Joyce Beatty Kennedy Center Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "ftc prime subscription settlement",
+    "product": "joyce beatty kennedy center lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
-    "sourceAgency": "COURT",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 1000,
     "trendScore": 8,
     "matchedQueries": [
-      "ftc prime subscription settlement"
+      "joyce beatty kennedy center lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-06T18:21:20.242Z",
-    "url": "https://simon622.shop/item/ftc-prime-subscription-settlement/"
+    "lastUpdated": "2026-10-07T05:58:34.172Z",
+    "url": "https://simon622.shop/item/joyce-beatty-kennedy-center-lawsuit/"
   }
 }

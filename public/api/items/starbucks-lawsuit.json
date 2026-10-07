@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-10-07T05:58:36.193Z",
+  "item": {
+    "id": "starbucks-lawsuit",
+    "slug": "starbucks-lawsuit",
+    "title": "Starbucks Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "starbucks lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 500,
+    "trendScore": 8,
+    "matchedQueries": [
+      "starbucks lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-07T05:58:34.172Z",
+    "url": "https://simon622.shop/item/starbucks-lawsuit/"
+  }
+}

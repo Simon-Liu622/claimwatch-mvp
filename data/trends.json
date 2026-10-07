@@ -1,17 +1,64 @@
 [
   {
-    "rank": 132,
-    "query": "ftc prime subscription settlement",
+    "rank": 24,
+    "query": "dolly parton estate bryan seaver lawsuit",
+    "searchVolume": 20000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "dolly parton"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+bryan+seaver+lawsuit&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "dolly parton estate bryan seaver lawsuit dolly parton",
+    "trendScore": 26,
+    "detectedAt": "2026-10-07T05:58:34.172Z"
+  },
+  {
+    "rank": 140,
+    "query": "jennifer lundy universal orlando lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jennifer+lundy+universal+orlando+lawsuit&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "ftc prime subscription settlement",
+    "text": "jennifer lundy universal orlando lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-06T18:21:20.242Z"
+    "detectedAt": "2026-10-07T05:58:34.172Z"
+  },
+  {
+    "rank": 262,
+    "query": "joyce beatty kennedy center lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "joyce beatty kennedy center lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-07T05:58:34.172Z"
+  },
+  {
+    "rank": 404,
+    "query": "starbucks lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "starbucks lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-07T05:58:34.172Z"
   }
 ]

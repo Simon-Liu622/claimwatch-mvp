@@ -1,51 +1,36 @@
 [
   {
-    "rank": 17,
-    "query": "dolly parton estate bryan seaver lawsuit",
-    "searchVolume": 20000,
+    "rank": 19,
+    "query": "trump administration green card policy lawsuit",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton+estate+bryan+seaver+lawsuit&tz=420",
-    "increasePercentage": 1000,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+green+card+policy+lawsuit&tz=420",
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "dolly parton estate bryan seaver lawsuit",
-    "trendScore": 24,
-    "detectedAt": "2026-10-07T13:22:19.785Z"
+    "text": "trump administration green card policy lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-10-07T23:04:48.603Z"
   },
   {
-    "rank": 35,
-    "query": "jennifer lundy universal orlando lawsuit",
+    "rank": 163,
+    "query": "joyce beatty kennedy center lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jennifer+lundy+universal+orlando+lawsuit&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "jennifer lundy universal orlando lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-10-07T13:22:19.785Z"
-  },
-  {
-    "rank": 94,
-    "query": "joyce beatty kennedy center lawsuit",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "joyce beatty kennedy center lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-10-07T13:22:19.785Z"
+    "trendScore": 8,
+    "detectedAt": "2026-10-07T23:04:48.603Z"
   },
   {
-    "rank": 201,
+    "rank": 350,
     "query": "ftc prime subscription settlement venmo",
     "searchVolume": 500,
     "startedAt": "",
@@ -57,21 +42,6 @@
     "source": "serpapi-google-trends",
     "text": "ftc prime subscription settlement venmo",
     "trendScore": 8,
-    "detectedAt": "2026-10-07T13:22:19.785Z"
-  },
-  {
-    "rank": 448,
-    "query": "starbucks lawsuit",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+lawsuit&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "starbucks lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-10-07T13:22:19.785Z"
+    "detectedAt": "2026-10-07T23:04:48.603Z"
   }
 ]

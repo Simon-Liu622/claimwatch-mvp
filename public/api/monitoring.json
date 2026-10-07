@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T05:58:36.193Z",
-  "count": 4,
+  "updatedAt": "2026-10-07T13:22:22.079Z",
+  "count": 5,
   "items": [
     {
       "id": "dolly-parton-estate-bryan-seaver-lawsuit",
@@ -24,13 +24,13 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 26,
+      "trendScore": 24,
       "matchedQueries": [
         "dolly parton estate bryan seaver lawsuit",
         "dolly parton"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-07T05:58:34.172Z"
+      "lastUpdated": "2026-10-07T13:22:19.785Z"
     },
     {
       "id": "jennifer-lundy-universal-orlando-lawsuit",
@@ -54,12 +54,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 8,
+      "trendScore": 23,
       "matchedQueries": [
         "jennifer lundy universal orlando lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-07T05:58:34.172Z"
+      "lastUpdated": "2026-10-07T13:22:19.785Z"
     },
     {
       "id": "joyce-beatty-kennedy-center-lawsuit",
@@ -82,13 +82,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
         "joyce beatty kennedy center lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-07T05:58:34.172Z"
+      "lastUpdated": "2026-10-07T13:22:19.785Z"
     },
     {
       "id": "starbucks-lawsuit",
@@ -117,7 +117,36 @@
         "starbucks lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-07T05:58:34.172Z"
+      "lastUpdated": "2026-10-07T13:22:19.785Z"
+    },
+    {
+      "id": "ftc-prime-subscription-settlement-venmo",
+      "slug": "ftc-prime-subscription-settlement-venmo",
+      "title": "Ftc Prime Subscription Settlement Venmo: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ftc prime subscription settlement venmo",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement+venmo&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "ftc prime subscription settlement venmo"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-07T13:22:19.785Z"
     }
   ]
 }

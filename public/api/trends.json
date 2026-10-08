@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T06:03:11.314Z",
-  "count": 3,
+  "updatedAt": "2026-10-08T13:28:23.874Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 125,
+      "rank": 143,
       "query": "trump administration green card policy lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
@@ -15,10 +15,10 @@
       "source": "serpapi-google-trends",
       "text": "trump administration green card policy lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-08T06:03:07.758Z"
+      "detectedAt": "2026-10-08T13:28:15.771Z"
     },
     {
-      "rank": 162,
+      "rank": 230,
       "query": "state farm settlement",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,22 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "state farm settlement",
       "trendScore": 8,
-      "detectedAt": "2026-10-08T06:03:07.758Z"
-    },
-    {
-      "rank": 409,
-      "query": "ftc prime subscription settlement venmo",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+prime+subscription+settlement+venmo&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "ftc prime subscription settlement venmo",
-      "trendScore": 8,
-      "detectedAt": "2026-10-08T06:03:07.758Z"
+      "detectedAt": "2026-10-08T13:28:15.771Z"
     }
   ]
 }

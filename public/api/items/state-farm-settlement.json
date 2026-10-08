@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T23:04:52.107Z",
+  "updatedAt": "2026-10-08T06:03:11.314Z",
   "item": {
-    "id": "joyce-beatty-kennedy-center-lawsuit",
-    "slug": "joyce-beatty-kennedy-center-lawsuit",
-    "title": "Joyce Beatty Kennedy Center Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "state-farm-settlement",
+    "slug": "state-farm-settlement",
+    "title": "State Farm Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "joyce beatty kennedy center lawsuit",
+    "product": "state farm settlement",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+settlement&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 2000,
     "trendScore": 8,
     "matchedQueries": [
-      "joyce beatty kennedy center lawsuit"
+      "state farm settlement"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-07T23:04:48.603Z",
-    "url": "https://simon622.shop/item/joyce-beatty-kennedy-center-lawsuit/"
+    "lastUpdated": "2026-10-08T06:03:07.758Z",
+    "url": "https://simon622.shop/item/state-farm-settlement/"
   }
 }

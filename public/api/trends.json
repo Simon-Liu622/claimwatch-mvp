@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-10-07T23:04:52.107Z",
+  "updatedAt": "2026-10-08T06:03:11.314Z",
   "count": 3,
   "trends": [
     {
-      "rank": 19,
+      "rank": 125,
       "query": "trump administration green card policy lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+green+card+policy+lawsuit&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "trump administration green card policy lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-10-07T23:04:48.603Z"
+      "trendScore": 8,
+      "detectedAt": "2026-10-08T06:03:07.758Z"
     },
     {
-      "rank": 163,
-      "query": "joyce beatty kennedy center lawsuit",
-      "searchVolume": 5000,
+      "rank": 162,
+      "query": "state farm settlement",
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joyce+beatty+kennedy+center+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+settlement&tz=420",
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "joyce beatty kennedy center lawsuit",
+      "text": "state farm settlement",
       "trendScore": 8,
-      "detectedAt": "2026-10-07T23:04:48.603Z"
+      "detectedAt": "2026-10-08T06:03:07.758Z"
     },
     {
-      "rank": 350,
+      "rank": 409,
       "query": "ftc prime subscription settlement venmo",
       "searchVolume": 500,
       "startedAt": "",
@@ -45,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "ftc prime subscription settlement venmo",
       "trendScore": 8,
-      "detectedAt": "2026-10-07T23:04:48.603Z"
+      "detectedAt": "2026-10-08T06:03:07.758Z"
     }
   ]
 }

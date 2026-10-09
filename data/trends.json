@@ -1,6 +1,6 @@
 [
   {
-    "rank": 85,
+    "rank": 43,
     "query": "starbucks sugar free drink lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,23 +12,21 @@
     "source": "serpapi-google-trends",
     "text": "starbucks sugar free drink lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-10-09T06:07:48.381Z"
+    "detectedAt": "2026-10-09T13:16:08.038Z"
   },
   {
-    "rank": 231,
-    "query": "cash app security settlement",
-    "searchVolume": 5000,
+    "rank": 426,
+    "query": "cash app settlement payments",
+    "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "cash app settlement payments"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+security+settlement&tz=420",
-    "increasePercentage": 200,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+settlement+payments&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "cash app security settlement cash app settlement payments",
-    "trendScore": 10,
-    "detectedAt": "2026-10-09T06:07:48.381Z"
+    "text": "cash app settlement payments",
+    "trendScore": 8,
+    "detectedAt": "2026-10-09T13:16:08.038Z"
   }
 ]

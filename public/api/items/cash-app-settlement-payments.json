@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T06:07:51.441Z",
+  "updatedAt": "2026-10-09T13:16:10.378Z",
   "item": {
-    "id": "cash-app-security-settlement",
-    "slug": "cash-app-security-settlement",
-    "title": "Cash App Security Settlement: Consumer Alert Monitoring",
+    "id": "cash-app-settlement-payments",
+    "slug": "cash-app-settlement-payments",
+    "title": "Cash App Settlement Payments: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "cash app security settlement",
+    "product": "cash app settlement payments",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+security+settlement&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+settlement+payments&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 10,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
-      "cash app security settlement",
       "cash app settlement payments"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-09T06:07:48.381Z",
-    "url": "https://simon622.shop/item/cash-app-security-settlement/"
+    "lastUpdated": "2026-10-09T13:16:08.038Z",
+    "url": "https://simon622.shop/item/cash-app-settlement-payments/"
   }
 }

@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-09T13:16:10.378Z",
+  "updatedAt": "2026-10-09T22:37:47.994Z",
   "count": 2,
   "trends": [
     {
-      "rank": 43,
-      "query": "starbucks sugar free drink lawsuit",
+      "rank": 48,
+      "query": "kennedy center lawsuit joyce beatty",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+sugar+free+drink+lawsuit&tz=420",
-      "increasePercentage": 100,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+joyce+beatty&tz=420",
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "starbucks sugar free drink lawsuit",
+      "text": "kennedy center lawsuit joyce beatty",
       "trendScore": 23,
-      "detectedAt": "2026-10-09T13:16:08.038Z"
+      "detectedAt": "2026-10-09T22:37:46.092Z"
     },
     {
-      "rank": 426,
-      "query": "cash app settlement payments",
-      "searchVolume": 500,
+      "rank": 151,
+      "query": "starbucks sugar free drink lawsuit",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+settlement+payments&tz=420",
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+sugar+free+drink+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "cash app settlement payments",
+      "text": "starbucks sugar free drink lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-09T13:16:08.038Z"
+      "detectedAt": "2026-10-09T22:37:46.092Z"
     }
   ]
 }

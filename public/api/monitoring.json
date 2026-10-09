@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-08T23:20:24.201Z",
+  "updatedAt": "2026-10-09T06:07:51.441Z",
   "count": 2,
   "items": [
     {
-      "id": "cash-app-15-million-security-settlement",
-      "slug": "cash-app-15-million-security-settlement",
-      "title": "Cash App 15 Million Security Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "starbucks-sugar-free-drink-lawsuit",
+      "slug": "starbucks-sugar-free-drink-lawsuit",
+      "title": "Starbucks Sugar Free Drink Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "cash app 15 million security settlement",
+      "product": "starbucks sugar free drink lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,47 +20,46 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+15+million+security+settlement&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+sugar+free+drink+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "starbucks sugar free drink lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-09T06:07:48.381Z"
+    },
+    {
+      "id": "cash-app-security-settlement",
+      "slug": "cash-app-security-settlement",
+      "title": "Cash App Security Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "cash app security settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+security+settlement&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 28,
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
-        "cash app 15 million security settlement",
         "cash app security settlement",
         "cash app settlement payments"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-08T23:20:19.097Z"
-    },
-    {
-      "id": "state-farm-settlement",
-      "slug": "state-farm-settlement",
-      "title": "State Farm Settlement: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "state farm settlement",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+settlement&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "state farm settlement"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-08T23:20:19.097Z"
+      "lastUpdated": "2026-10-09T06:07:48.381Z"
     }
   ]
 }

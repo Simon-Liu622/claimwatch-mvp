@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -335,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -619,7 +619,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -645,7 +645,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -960,37 +960,6 @@
     "lastUpdated": "2026-06-04T15:43:35.694Z"
   },
   {
-    "id": "cash-app-15-million-security-settlement",
-    "slug": "cash-app-15-million-security-settlement",
-    "title": "Cash App 15 Million Security Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "cash app 15 million security settlement",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+15+million+security+settlement&tz=420",
-    "sourceAgency": "COURT",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 50000,
-    "trendScore": 28,
-    "matchedQueries": [
-      "cash app 15 million security settlement",
-      "cash app security settlement",
-      "cash app settlement payments"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
-  },
-  {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -1046,7 +1015,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26659",
@@ -1150,7 +1119,7 @@
     "officialVerified": true,
     "officialRecordId": "26748",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "factory6-inc-zen-principle-naturals-moringa-leaf-powder-dietary-supplement-900mg-capsules-",
@@ -1337,6 +1306,35 @@
     "officialRecordId": "24V744000",
     "recallInitiationDate": "03/10/2024",
     "lastUpdated": "2026-06-19T20:03:11.794Z"
+  },
+  {
+    "id": "starbucks-sugar-free-drink-lawsuit",
+    "slug": "starbucks-sugar-free-drink-lawsuit",
+    "title": "Starbucks Sugar Free Drink Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "starbucks sugar free drink lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+sugar+free+drink+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 2000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "starbucks sugar free drink lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "mogo-moringa-llc-mogo-pure-moringa-oleifera-capsules-herbal-supplement-180-quick-release-v",
@@ -1887,6 +1885,36 @@
     "lastUpdated": "2026-06-22T21:13:18.559Z"
   },
   {
+    "id": "cash-app-security-settlement",
+    "slug": "cash-app-security-settlement",
+    "title": "Cash App Security Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "cash app security settlement",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cash+app+security+settlement&tz=420",
+    "sourceAgency": "COURT",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 5000,
+    "trendScore": 10,
+    "matchedQueries": [
+      "cash app security settlement",
+      "cash app settlement payments"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
     "id": "cpsc-26506",
     "slug": "cpsc-26506",
     "title": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
@@ -2382,36 +2410,7 @@
     "officialVerified": true,
     "officialRecordId": "26753",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
-  },
-  {
-    "id": "state-farm-settlement",
-    "slug": "state-farm-settlement",
-    "title": "State Farm Settlement: Consumer Alert Monitoring",
-    "type": "settlement",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "state farm settlement",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=state+farm+settlement&tz=420",
-    "sourceAgency": "COURT",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 8,
-    "matchedQueries": [
-      "state farm settlement"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26715",
@@ -2567,7 +2566,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2593,7 +2592,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2619,7 +2618,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2645,7 +2644,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2671,7 +2670,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2697,7 +2696,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2723,7 +2722,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2749,7 +2748,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -2775,7 +2774,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -2799,7 +2798,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2823,7 +2822,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2847,7 +2846,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2871,7 +2870,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "find-refund-cases",
@@ -2895,7 +2894,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "consumer-advice",
@@ -2919,7 +2918,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2943,7 +2942,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2967,7 +2966,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2991,7 +2990,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "military-consumer",
@@ -3015,7 +3014,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "consumer-gov",
@@ -3039,7 +3038,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -3063,7 +3062,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "abiomed-inc-automated-impella-controller-aic-with-the-below-product-descriptions-and-corre",
@@ -3089,7 +3088,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3251-2026",
     "recallInitiationDate": "20190219",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "everything-sprouts-llc-everything-sprouts-crunchy-protein-sprout-mix-containing-alfalfa-fe",
@@ -3115,7 +3114,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1339-2026",
     "recallInitiationDate": "20260822",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-tomato-salsa-fresca",
@@ -3141,7 +3140,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1364-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-pico-de-gallo-hot-6-9oz-heb-pico-hot-12-14oz",
@@ -3167,7 +3166,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1379-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "tiffany-food-corp-hexing-haw-balls-candy-packaged-in-200g-0-44-lb-7-05-oz-clear-plastic-ba",
@@ -3193,7 +3192,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1387-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pico-de-gallo",
@@ -3219,7 +3218,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1355-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pineapple-mango-salsa-mild",
@@ -3245,7 +3244,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1354-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-heb-pico-medium-12-14oz-pico-de-gallo-medium-6-14oz-pic",
@@ -3271,7 +3270,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1378-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-guacamole",
@@ -3297,7 +3296,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1351-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "panorama-produce-sales-inc-martina-brand-fresh-whole-mangoes-individual-whole-mangoes-vari",
@@ -3323,7 +3322,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1342-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-taco-dip",
@@ -3349,7 +3348,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1349-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-pimento-cheese-dip",
@@ -3375,7 +3374,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1348-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "buckhead-meat-company-d-b-a-trinity-seafood-buckhead-tuna-10lb-cs-12lb-cs-15lb-cs-3-5lb-cs",
@@ -3401,7 +3400,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1382-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "best-friends-bakery-llc-pumpkin-spice-no-bake-cookie-net-wt-3-5-oz",
@@ -3427,7 +3426,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1386-2026",
     "recallInitiationDate": "20260817",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "elegant-foods-llc-elegant-foods-carrot-cake-9-14-servings-keep-refrigerated-frozen-537-atl",
@@ -3453,7 +3452,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1385-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "taylor-fresh-foods-inc-bh-bold-chef-salad-kit",
@@ -3479,7 +3478,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1368-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -3505,7 +3504,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -3531,7 +3530,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -3557,7 +3556,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -3583,7 +3582,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -3609,7 +3608,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26733",
@@ -3635,7 +3634,7 @@
     "officialVerified": true,
     "officialRecordId": "26733",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26731",
@@ -3661,7 +3660,7 @@
     "officialVerified": true,
     "officialRecordId": "26731",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26735",
@@ -3687,7 +3686,7 @@
     "officialVerified": true,
     "officialRecordId": "26735",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26761",
@@ -3713,7 +3712,7 @@
     "officialVerified": true,
     "officialRecordId": "26761",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26756",
@@ -3739,7 +3738,7 @@
     "officialVerified": true,
     "officialRecordId": "26756",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26754",
@@ -3765,7 +3764,7 @@
     "officialVerified": true,
     "officialRecordId": "26754",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26764",
@@ -3791,7 +3790,7 @@
     "officialVerified": true,
     "officialRecordId": "26764",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26750",
@@ -3817,7 +3816,7 @@
     "officialVerified": true,
     "officialRecordId": "26750",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26755",
@@ -3843,7 +3842,7 @@
     "officialVerified": true,
     "officialRecordId": "26755",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26752",
@@ -3869,7 +3868,7 @@
     "officialVerified": true,
     "officialRecordId": "26752",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26763",
@@ -3895,7 +3894,7 @@
     "officialVerified": true,
     "officialRecordId": "26763",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26749",
@@ -3921,7 +3920,7 @@
     "officialVerified": true,
     "officialRecordId": "26749",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26766",
@@ -3947,7 +3946,7 @@
     "officialVerified": true,
     "officialRecordId": "26766",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26774",
@@ -3973,7 +3972,7 @@
     "officialVerified": true,
     "officialRecordId": "26774",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26775",
@@ -3999,7 +3998,7 @@
     "officialVerified": true,
     "officialRecordId": "26775",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26778",
@@ -4025,7 +4024,7 @@
     "officialVerified": true,
     "officialRecordId": "26778",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26779",
@@ -4051,7 +4050,7 @@
     "officialVerified": true,
     "officialRecordId": "26779",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26780",
@@ -4077,7 +4076,7 @@
     "officialVerified": true,
     "officialRecordId": "26780",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26781",
@@ -4103,7 +4102,7 @@
     "officialVerified": true,
     "officialRecordId": "26781",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26783",
@@ -4129,7 +4128,7 @@
     "officialVerified": true,
     "officialRecordId": "26783",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26782",
@@ -4155,7 +4154,7 @@
     "officialVerified": true,
     "officialRecordId": "26782",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26785",
@@ -4181,7 +4180,7 @@
     "officialVerified": true,
     "officialRecordId": "26785",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26786",
@@ -4207,7 +4206,7 @@
     "officialVerified": true,
     "officialRecordId": "26786",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26773",
@@ -4233,7 +4232,7 @@
     "officialVerified": true,
     "officialRecordId": "26773",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26776",
@@ -4259,7 +4258,7 @@
     "officialVerified": true,
     "officialRecordId": "26776",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26777",
@@ -4285,7 +4284,7 @@
     "officialVerified": true,
     "officialRecordId": "26777",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26784",
@@ -4311,7 +4310,7 @@
     "officialVerified": true,
     "officialRecordId": "26784",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26789",
@@ -4337,7 +4336,7 @@
     "officialVerified": true,
     "officialRecordId": "26789",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26799",
@@ -4363,7 +4362,7 @@
     "officialVerified": true,
     "officialRecordId": "26799",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26790",
@@ -4389,7 +4388,7 @@
     "officialVerified": true,
     "officialRecordId": "26790",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26797",
@@ -4415,7 +4414,7 @@
     "officialVerified": true,
     "officialRecordId": "26797",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26798",
@@ -4441,7 +4440,7 @@
     "officialVerified": true,
     "officialRecordId": "26798",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26792",
@@ -4467,7 +4466,7 @@
     "officialVerified": true,
     "officialRecordId": "26792",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26796",
@@ -4493,7 +4492,7 @@
     "officialVerified": true,
     "officialRecordId": "26796",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26791",
@@ -4519,7 +4518,7 @@
     "officialVerified": true,
     "officialRecordId": "26791",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26793",
@@ -4545,7 +4544,7 @@
     "officialVerified": true,
     "officialRecordId": "26793",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26794",
@@ -4571,7 +4570,7 @@
     "officialVerified": true,
     "officialRecordId": "26794",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-26788",
@@ -4597,7 +4596,7 @@
     "officialVerified": true,
     "officialRecordId": "26788",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27003",
@@ -4623,7 +4622,7 @@
     "officialVerified": true,
     "officialRecordId": "27003",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27014",
@@ -4649,7 +4648,7 @@
     "officialVerified": true,
     "officialRecordId": "27014",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27007",
@@ -4675,7 +4674,7 @@
     "officialVerified": true,
     "officialRecordId": "27007",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27012",
@@ -4701,7 +4700,7 @@
     "officialVerified": true,
     "officialRecordId": "27012",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27004",
@@ -4727,7 +4726,7 @@
     "officialVerified": true,
     "officialRecordId": "27004",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27008",
@@ -4753,7 +4752,7 @@
     "officialVerified": true,
     "officialRecordId": "27008",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27009",
@@ -4767,7 +4766,7 @@
     "category": "Consumer product recall",
     "summary": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard. \"Gobi Heat\" is printed on the top of the hand warmers and on the product packaging, and model number \"UT3053\" on the underside.",
     "affectedPeople": "Consumers who purchased: Gobi Heat Rechargeable Hand Warmers.",
-    "remedy": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker “Recalled” on the product and send a photo, showing the marked hand warmer and the product’s model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+    "remedy": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker \"Recalled\" on the product and send a photo, showing the marked hand warmer and the product's model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
     "deadline": null,
     "officialClaimUrl": "",
@@ -4779,7 +4778,7 @@
     "officialVerified": true,
     "officialRecordId": "27009",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27013",
@@ -4805,7 +4804,7 @@
     "officialVerified": true,
     "officialRecordId": "27013",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27011",
@@ -4831,7 +4830,7 @@
     "officialVerified": true,
     "officialRecordId": "27011",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27006",
@@ -4857,7 +4856,7 @@
     "officialVerified": true,
     "officialRecordId": "27006",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27010",
@@ -4869,7 +4868,7 @@
     "brand": "Sold At: Walmart and online including Walmart.com from January 2021 through August 2026 for between $1 and $28.",
     "product": "Metal Wire Bristle Grill Brushes",
     "category": "Consumer product recall",
-    "summary": "This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush:",
+    "summary": "This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush: Model No. Brush Description Distribution Dates EX5607031616002 Expert Grill 16-inch Steel Fiber Scrub Brush and Scraper for Grills January 2025-August 2026 EX5607031616003 Expert Grill Handheld Steel Fiber Scrub Brush with Ergonomic Handle for Grill Cleaning January 2025-August 2026 XG1310700206 Expert Grill 21\" 3-head Grill Brush with Stainless Steel Bristles and Soft-Grip Handle January 2022 to August 2026 XG1136178597003 Expert Grill Long Handle Grill Brush with Scraper, 17.7\" January 2021 to August 2026 XG1410700124 Expert Grill Grilling Accessories BBQ Grill Tools Set, 10 Pieces Stainless Steel Grill Kit December 2023 to August 2026",
     "affectedPeople": "Consumers who purchased: Metal Wire Bristle Grill Brushes.",
     "remedy": "Consumers should stop using the recalled grill brushes immediately and contact Walmart for a full refund or a credit for use at any Walmart store or Walmart.com. Consumers will be asked to return their recalled brushes to Walmart or discard them.",
     "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
@@ -4883,7 +4882,7 @@
     "officialVerified": true,
     "officialRecordId": "27010",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27005",
@@ -4909,7 +4908,7 @@
     "officialVerified": true,
     "officialRecordId": "27005",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "wfm-purchasing-lp-fromagerie-coop-de-mean-cabricharme-and-belgium-cabricharme-shelf-life-3",
@@ -4935,7 +4934,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1395-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "gias-food-inc-lemon-alfredo-fettuccine-packed-in-a-yellow-plastic-sealed-bag-with-pink-and",
@@ -4961,7 +4960,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1396-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "kwok-shing-inc-american-ginsengs-product-of-wisconsin-net-wt-4-oz-net-wt-8-oz",
@@ -4987,7 +4986,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1393-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-light-brown-sugar-packaged-in-he-follow-configurations",
@@ -5013,7 +5012,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1391-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "unilever-north-america-supply-chain-company-llc-almond-joy-ice-cream-bar-2-0-fl-oz-ice-cre",
@@ -5039,7 +5038,7 @@
     "officialVerified": true,
     "officialRecordId": "99757",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-powdered-sugar-packaged-in-the-following-configuration",
@@ -5065,7 +5064,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1392-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "wwf-operating-company-so-delicious-dairy-free-salted-caramel-cluster-cashewmilk-non-dairy-",
@@ -5091,7 +5090,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1394-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "evergreen-fresh-sprouts-llc-evergreen-fresh-sprouts-llc-broccoli-sprouts-packaged-in-clear",
@@ -5117,7 +5116,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1390-2026",
     "recallInitiationDate": "20260904",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "elegant-foods-llc-pecorino-toscano-d-o-p-stagionato-cheese-wheels-product-of-italy-each-ch",
@@ -5143,7 +5142,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1389-2026",
     "recallInitiationDate": "20260727",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "olympus-corporation-of-the-americas-olympus-bicoag-hemostasis-probe-7fr-fixed-pin-connecto",
@@ -5169,7 +5168,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3247-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-containing-healthmark-instrument-channel-br",
@@ -5195,7 +5194,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3229-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "midmark-corporation-midmark-iqvitals-zone-automatically-and-noninvasively-measures-systoli",
@@ -5221,7 +5220,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3218-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "philips-north-america-llc-achieva-3-0t-model-numbers-ref-1-781177-2-781277-3-781278-4-7813",
@@ -5247,7 +5246,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3233-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "coopersurgical-inc-inca-infant-nasal-cannulae-assy-neonatal-nasal-cpap-replacement-set-sta",
@@ -5273,7 +5272,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3140-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-combiset-hemodialysis-blood-tubing-set-wi",
@@ -5299,7 +5298,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3225-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "philips-north-america-llc-ingenia-elition-s-and-ingenia-elition-x-model-numbers-ref-1-7813",
@@ -5325,7 +5324,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3239-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "criticare-technologies-inc-ngenuity-patient-monitor-with-capnography-etco2-cat-8100e1-st-u",
@@ -5351,7 +5350,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3253-2026",
     "recallInitiationDate": "20260506",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "biomerieux-inc-vitek-2-ast-n461-test-kit-gram-negative-susceptibility-testing-automated-re",
@@ -5377,7 +5376,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3231-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "philips-north-america-llc-mr-7700-and-upgrade-to-mr-7700-model-number-ref-1-782120-2-78215",
@@ -5403,7 +5402,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3242-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "philips-north-america-llc-mr-5300-model-number-ref-1-782110-2-782152",
@@ -5429,7 +5428,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3241-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "intervascular-sas-cardioroot-woven-collagen-coated-vascular-graft-model-numbers-1-hewroot0",
@@ -5455,31 +5454,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3258-2026",
     "recallInitiationDate": "20260812",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
-  },
-  {
-    "id": "how-the-ftc-provides-refunds",
-    "slug": "how-the-ftc-provides-refunds",
-    "title": "How the FTC Provides Refunds",
-    "type": "refund",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: How the FTC Provides Refunds.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
-    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27017",
@@ -5505,7 +5480,7 @@
     "officialVerified": true,
     "officialRecordId": "27017",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27016",
@@ -5531,7 +5506,7 @@
     "officialVerified": true,
     "officialRecordId": "27016",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27015",
@@ -5557,7 +5532,7 @@
     "officialVerified": true,
     "officialRecordId": "27015",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27018",
@@ -5583,7 +5558,7 @@
     "officialVerified": true,
     "officialRecordId": "27018",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27019",
@@ -5609,7 +5584,7 @@
     "officialVerified": true,
     "officialRecordId": "27019",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27020",
@@ -5635,7 +5610,7 @@
     "officialVerified": true,
     "officialRecordId": "27020",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27021",
@@ -5661,7 +5636,7 @@
     "officialVerified": true,
     "officialRecordId": "27021",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-08T23:20:19.097Z"
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
   },
   {
     "id": "cpsc-27022",
@@ -5687,6 +5662,392 @@
     "officialVerified": true,
     "officialRecordId": "27022",
     "recallInitiationDate": "2026-10-08T00:00:00",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
+    "slug": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
+    "title": "Sterling Pharmaceutical Services LLC: TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles,  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles, ",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles, Manufactured exclusively for TRP Company, Inc. 1575 Delucci Ln, Reno, NV 89502, NDC 17312-430-15.",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 14538 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0860-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
+    "slug": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
+    "title": "Sterling Pharmaceutical Services LLC: AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Distributed by: AVKARE, Pulaski, TN, 38478, NDC 50268-068-02 (carton)",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 107,377 packs",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0863-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
+    "slug": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
+    "title": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company: Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company",
+    "brand": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company",
+    "product": "Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz ",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz (15mL) per dropper bottle, STERILE, Dist. by Medtech Products Inc., Tarrytown, NY 10591. NDC: 67172-797-15",
+    "affectedPeople": "Nationwide in the USA.",
+    "remedy": "Follow official recall instructions.",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0871-2026",
+    "recallInitiationDate": "20260915",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
+    "slug": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
+    "title": "Sterling Pharmaceutical Services LLC: Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles, Distributed by Cameron Pharmaceuticals, LLC, Louisville, KY, 40245, NDC 42494-448-05",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 19284 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0862-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
+    "slug": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
+    "title": "Sterling Pharmaceutical Services LLC: Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles, Distributed by: Reliable-1 Laboratories LLC, Valley Stream, NY, 11580, NDC 69618-077-55.",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 11083 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0856-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-0-5-fl-oz-15-ml-1-0-fl-",
+    "slug": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-0-5-fl-oz-15-ml-1-0-fl-",
+    "title": "Sterling Pharmaceutical Services LLC: Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Distributed by Walgreens Co., 200 Wilmot Road, Deerfield, IL 60015, NDC 0363-8833-15.",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 199600 packs",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0858-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "amneal-pharmaceuticals-of-new-york-llc-exenatide-injection-usp-250-mcg-ml-1-2-ml-per-prefi",
+    "slug": "amneal-pharmaceuticals-of-new-york-llc-exenatide-injection-usp-250-mcg-ml-1-2-ml-per-prefi",
+    "title": "Amneal Pharmaceuticals of New York, LLC: Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Amneal Pharmaceuticals of New York, LLC",
+    "brand": "Amneal Pharmaceuticals of New York, LLC",
+    "product": "Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only,",
+    "category": "Recall",
+    "summary": "Defective Delivery System: Possibility of no medication in the prefilled pen. Product details: Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only, Manufactured by: Amneal Pharmaceuticals Pvt. Ltd., Ahmedabad 382213, India; Distributed by: Amneal Pharmaceuticals LLC, Bridgewater, NJ...",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 5,694 pens",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0868-2026",
+    "recallInitiationDate": "20260828",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "otsuka-icu-medical-llc-0-9-sodium-chloride-injection-100-ml-usp-icu-medical-inc-lake-fores",
+    "slug": "otsuka-icu-medical-llc-0-9-sodium-chloride-injection-100-ml-usp-icu-medical-inc-lake-fores",
+    "title": "Otsuka ICU Medical LLC: 0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Otsuka ICU Medical LLC",
+    "brand": "Otsuka ICU Medical LLC",
+    "product": "0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA,",
+    "category": "Recall",
+    "summary": "Product Mix-up: 0.9% SODIUM CHLORIDE Injection, USP may potentially contain the overwrap with labeling indicating it to be 0.9% SODIUM CHLORIDE Injection, USP but the actual product within the overwrap may be POTASSIUM CHLORIDE Inj.10 mEq Product details: 0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA, NDC 0990-7984-23.",
+    "affectedPeople": "Natinowide within the United States",
+    "remedy": "Affected quantity: 258480 bags",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "99892",
+    "recallInitiationDate": "20260911",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "macleods-pharmaceuticals-limited-olanzapine-tablets-usp-5-mg-30-count-bottle-rx-only-manuf",
+    "slug": "macleods-pharmaceuticals-limited-olanzapine-tablets-usp-5-mg-30-count-bottle-rx-only-manuf",
+    "title": "Macleods Pharmaceuticals Limited: Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540; Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Macleods Pharmaceuticals Limited",
+    "brand": "Macleods Pharmaceuticals Limited",
+    "product": "Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540;",
+    "category": "Recall",
+    "summary": "Failed Impurities/Degradation Specifications:Organic and unspecified impurities above specification. Product details: Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540; Manufactured by: Macleods Pharmaceuticals, Ltd, Baddi, Himachal Pradesh, INDIA, NDC 33342-068-07.",
+    "affectedPeople": "Nationwide in the USA",
+    "remedy": "Affected quantity: 22,032 30-count bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0867-2026",
+    "recallInitiationDate": "20260827",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-major-lubrifresh-p-m-nighttime-ointment-net-wt-0-125-",
+    "slug": "sterling-pharmaceutical-services-llc-major-lubrifresh-p-m-nighttime-ointment-net-wt-0-125-",
+    "title": "Sterling Pharmaceutical Services LLC: Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes, Distributed by: Major Pharmaceuticals, 17177 N Laurel Park Drive, Suite 233, Livonia, MI 48152, NDC 0904-6488-38",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 34368 tubes",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0861-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-carboxymethylcellulose-",
+    "slug": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-carboxymethylcellulose-",
+    "title": "Sterling Pharmaceutical Services LLC: Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles, Distributed by Walgreen Co., 200 Wilmot Rd., Deerfield, IL 60015, NDC 0363-8833-15.",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 301114 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0857-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-lubricating-tears-sterile-0-5",
+    "slug": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-lubricating-tears-sterile-0-5",
+    "title": "Sterling Pharmaceutical Services LLC: Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Sterling Pharmaceutical Services LLC",
+    "brand": "Sterling Pharmaceutical Services LLC",
+    "product": "Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles,",
+    "category": "Recall",
+    "summary": "Lack of Assurance of Sterility Product details: Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles, Distributed by: Reliable-1 Laboratories LLC, Valley Stream, NY, 11580, www.reliable1labs.com, NDC 69618-076-55.",
+    "affectedPeople": "USA Nationwide",
+    "remedy": "Affected quantity: 47616 bottles",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0859-2026",
+    "recallInitiationDate": "20260820",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "shantou-qiwei-industrial-co-ltd-menow-sunscreen-pressed-powder-spf35-pa-net-content-9g-0-3",
+    "slug": "shantou-qiwei-industrial-co-ltd-menow-sunscreen-pressed-powder-spf35-pa-net-content-9g-0-3",
+    "title": "SHANTOU Qiwei industrial Co., Ltd: MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz, Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "SHANTOU Qiwei industrial Co., Ltd",
+    "brand": "SHANTOU Qiwei industrial Co., Ltd",
+    "product": "MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz,",
+    "category": "Recall",
+    "summary": "cGMP Deviations Product details: MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz, Manufactured by: Shantzu Qiwei Industry Co. Ltd, Add: Quiwei Building, Yingloinguan, Xiashan, Chaonan district, Shantou City, Guangdong Province, China",
+    "affectedPeople": "CA only",
+    "remedy": "Affected quantity: 2970 units",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "D-0854-2026",
+    "recallInitiationDate": "20260808",
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
+    "slug": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
+    "title": "FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI",
+    "type": "safety-alert",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-10-09T06:07:48.381Z"
+  },
+  {
+    "id": "how-the-ftc-provides-refunds",
+    "slug": "how-the-ftc-provides-refunds",
+    "title": "How the FTC Provides Refunds",
+    "type": "refund",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: How the FTC Provides Refunds.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
+    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
     "lastUpdated": "2026-10-08T23:20:19.097Z"
   },
   {
@@ -5895,344 +6256,6 @@
     "officialVerified": true,
     "officialRecordId": "26732",
     "recallInitiationDate": "2026-09-03T00:00:00",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
-    "slug": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
-    "title": "Sterling Pharmaceutical Services LLC: TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles,  Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles, ",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: TRP The Relief Products* Gentle Eyes Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Sterile Eye Drops, 0.5 FL OZ (15 mL) bottles, Manufactured exclusively for TRP Company, Inc. 1575 Delucci Ln, Reno, NV 89502, NDC 17312-430-15.",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 14538 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0860-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
-    "slug": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
-    "title": "Sterling Pharmaceutical Services LLC: AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: AvKare Carboxymethylcellulose Sodium Ophthalmic Solution 0.5%, Lubricant Eye Drops, Sterile, 0.5 FL OZ (15 mL) EACH, 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Distributed by: AVKARE, Pulaski, TN, 38478, NDC 50268-068-02 (carton)",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 107,377 packs",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0863-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
-    "slug": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
-    "title": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company: Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz  Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company",
-    "brand": "Insight Pharmaceuticals LLC, a Prestige Consumer Healthcare company",
-    "product": "Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz ",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Clear Eyes Redness Relief, Lubricant/Redness Reliever Eye Drops (glycerin 0.25%, naphazoline hydrochloride 0.012%) with Hang Tag, 0.5 fl oz (15mL) per dropper bottle, STERILE, Dist. by Medtech Products Inc., Tarrytown, NY 10591. NDC: 67172-797-15",
-    "affectedPeople": "Nationwide in the USA.",
-    "remedy": "Follow official recall instructions.",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0871-2026",
-    "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
-    "slug": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
-    "title": "Sterling Pharmaceutical Services LLC: Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Lubricant Eye Drops-Cameron Pharmaceuticals, Carboxymethylcellulose Sodium 0.5%, Eye Lubricant, 0.5 FL OZ (15 mL) bottles, Distributed by Cameron Pharmaceuticals, LLC, Louisville, KY, 40245, NDC 42494-448-05",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 19284 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0862-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
-    "slug": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
-    "title": "Sterling Pharmaceutical Services LLC: Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Reliable -1 Laboratories, Sodium Chloride Hypertonicity Ophthalmic Solution, 5%, Sterile, 0.5 FL OZ (15 mL) bottles, Distributed by: Reliable-1 Laboratories LLC, Valley Stream, NY, 11580, NDC 69618-077-55.",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 11083 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0856-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-0-5-fl-oz-15-ml-1-0-fl-",
-    "slug": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-0-5-fl-oz-15-ml-1-0-fl-",
-    "title": "Sterling Pharmaceutical Services LLC: Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Walgreens Lubricant Eye Drops, 0.5 FL OZ (15 mL) 1.0 FL OZ (30 mL) TOTAL, 2 count Twin Pack, Distributed by Walgreens Co., 200 Wilmot Road, Deerfield, IL 60015, NDC 0363-8833-15.",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 199600 packs",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0858-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "amneal-pharmaceuticals-of-new-york-llc-exenatide-injection-usp-250-mcg-ml-1-2-ml-per-prefi",
-    "slug": "amneal-pharmaceuticals-of-new-york-llc-exenatide-injection-usp-250-mcg-ml-1-2-ml-per-prefi",
-    "title": "Amneal Pharmaceuticals of New York, LLC: Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Amneal Pharmaceuticals of New York, LLC",
-    "brand": "Amneal Pharmaceuticals of New York, LLC",
-    "product": "Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only,",
-    "category": "Recall",
-    "summary": "Defective Delivery System: Possibility of no medication in the prefilled pen. Product details: Exenatide Injection, USP, 250 mcg/mL, 1.2 mL per prefilled pen, Rx Only, Subcutaneous Use Only, For Single Patient Use Only, Manufactured by: Amneal Pharmaceuticals Pvt. Ltd., Ahmedabad 382213, India; Distributed by: Amneal Pharmaceuticals LLC, Bridgewater, NJ...",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 5,694 pens",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0868-2026",
-    "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "otsuka-icu-medical-llc-0-9-sodium-chloride-injection-100-ml-usp-icu-medical-inc-lake-fores",
-    "slug": "otsuka-icu-medical-llc-0-9-sodium-chloride-injection-100-ml-usp-icu-medical-inc-lake-fores",
-    "title": "Otsuka ICU Medical LLC: 0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Otsuka ICU Medical LLC",
-    "brand": "Otsuka ICU Medical LLC",
-    "product": "0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA,",
-    "category": "Recall",
-    "summary": "Product Mix-up: 0.9% SODIUM CHLORIDE Injection, USP may potentially contain the overwrap with labeling indicating it to be 0.9% SODIUM CHLORIDE Injection, USP but the actual product within the overwrap may be POTASSIUM CHLORIDE Inj.10 mEq Product details: 0.9% Sodium Chloride Injection, 100 mL, USP, ICU Medical, Inc., Lake Forest, Illinois 60045, USA, NDC 0990-7984-23.",
-    "affectedPeople": "Natinowide within the United States",
-    "remedy": "Affected quantity: 258480 bags",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "99892",
-    "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "macleods-pharmaceuticals-limited-olanzapine-tablets-usp-5-mg-30-count-bottle-rx-only-manuf",
-    "slug": "macleods-pharmaceuticals-limited-olanzapine-tablets-usp-5-mg-30-count-bottle-rx-only-manuf",
-    "title": "Macleods Pharmaceuticals Limited: Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540; Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Macleods Pharmaceuticals Limited",
-    "brand": "Macleods Pharmaceuticals Limited",
-    "product": "Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540;",
-    "category": "Recall",
-    "summary": "Failed Impurities/Degradation Specifications:Organic and unspecified impurities above specification. Product details: Olanzapine Tablets, USP 5 mg, 30-count bottle, Rx Only, Manufactured For: Macleods Pharma USA, Inc. Princeton, NJ, 08540; Manufactured by: Macleods Pharmaceuticals, Ltd, Baddi, Himachal Pradesh, INDIA, NDC 33342-068-07.",
-    "affectedPeople": "Nationwide in the USA",
-    "remedy": "Affected quantity: 22,032 30-count bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0867-2026",
-    "recallInitiationDate": "20260827",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-major-lubrifresh-p-m-nighttime-ointment-net-wt-0-125-",
-    "slug": "sterling-pharmaceutical-services-llc-major-lubrifresh-p-m-nighttime-ointment-net-wt-0-125-",
-    "title": "Sterling Pharmaceutical Services LLC: Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Major LubriFresh P.M. Nighttime Ointment, Net wt. 0.125 oz. (3.5 g) tubes, Distributed by: Major Pharmaceuticals, 17177 N Laurel Park Drive, Suite 233, Livonia, MI 48152, NDC 0904-6488-38",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 34368 tubes",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0861-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-carboxymethylcellulose-",
-    "slug": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-carboxymethylcellulose-",
-    "title": "Sterling Pharmaceutical Services LLC: Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Walgreens Lubricant Eye Drops, Carboxymethylcellulose sodium 0.5%, Lubricant Eye Drops, Sterile, 0.5 OZ (15 mL) bottles, Distributed by Walgreen Co., 200 Wilmot Rd., Deerfield, IL 60015, NDC 0363-8833-15.",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 301114 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0857-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-lubricating-tears-sterile-0-5",
-    "slug": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-lubricating-tears-sterile-0-5",
-    "title": "Sterling Pharmaceutical Services LLC: Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "Sterling Pharmaceutical Services LLC",
-    "brand": "Sterling Pharmaceutical Services LLC",
-    "product": "Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles,",
-    "category": "Recall",
-    "summary": "Lack of Assurance of Sterility Product details: Reliable-1 Laboratories Lubricating Tears, Sterile, 0.5 FL OZ (15 mL) bottles, Distributed by: Reliable-1 Laboratories LLC, Valley Stream, NY, 11580, www.reliable1labs.com, NDC 69618-076-55.",
-    "affectedPeople": "USA Nationwide",
-    "remedy": "Affected quantity: 47616 bottles",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0859-2026",
-    "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-08T13:28:15.771Z"
-  },
-  {
-    "id": "shantou-qiwei-industrial-co-ltd-menow-sunscreen-pressed-powder-spf35-pa-net-content-9g-0-3",
-    "slug": "shantou-qiwei-industrial-co-ltd-menow-sunscreen-pressed-powder-spf35-pa-net-content-9g-0-3",
-    "title": "SHANTOU Qiwei industrial Co., Ltd: MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz, Recall",
-    "type": "recall",
-    "status": "active",
-    "company": "SHANTOU Qiwei industrial Co., Ltd",
-    "brand": "SHANTOU Qiwei industrial Co., Ltd",
-    "product": "MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz,",
-    "category": "Recall",
-    "summary": "cGMP Deviations Product details: MENOW SUNSCREEN PRESSED POWDER SPF35 PA+++, Net content, 9g/0.32 oz, Manufactured by: Shantzu Qiwei Industry Co. Ltd, Add: Quiwei Building, Yingloinguan, Xiashan, Chaonan district, Shantou City, Guangdong Province, China",
-    "affectedPeople": "CA only",
-    "remedy": "Affected quantity: 2970 units",
-    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
-    "sourceAgency": "FDA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "D-0854-2026",
-    "recallInitiationDate": "20260808",
     "lastUpdated": "2026-10-08T13:28:15.771Z"
   },
   {

@@ -1,32 +1,17 @@
 [
   {
-    "rank": 48,
+    "rank": 96,
     "query": "kennedy center lawsuit joyce beatty",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+joyce+beatty&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "kennedy center lawsuit joyce beatty",
-    "trendScore": 23,
-    "detectedAt": "2026-10-09T22:37:46.092Z"
-  },
-  {
-    "rank": 151,
-    "query": "starbucks sugar free drink lawsuit",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=starbucks+sugar+free+drink+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kennedy+center+lawsuit+joyce+beatty&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "starbucks sugar free drink lawsuit",
+    "text": "kennedy center lawsuit joyce beatty",
     "trendScore": 8,
-    "detectedAt": "2026-10-09T22:37:46.092Z"
+    "detectedAt": "2026-10-10T05:51:45.170Z"
   }
 ]

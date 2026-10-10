@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-10-10T05:51:47.211Z",
-  "count": 1,
+  "updatedAt": "2026-10-10T12:31:12.704Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 96,
+      "rank": 78,
+      "query": "lawsuit",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "lawsuit",
+      "trendScore": 23,
+      "detectedAt": "2026-10-10T12:31:09.506Z"
+    },
+    {
+      "rank": 142,
       "query": "kennedy center lawsuit joyce beatty",
       "searchVolume": 5000,
       "startedAt": "",
@@ -15,7 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "kennedy center lawsuit joyce beatty",
       "trendScore": 8,
-      "detectedAt": "2026-10-10T05:51:45.170Z"
+      "detectedAt": "2026-10-10T12:31:09.506Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 [
   {
-    "rank": 25,
+    "rank": 26,
     "query": "cash app investing data leak lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
@@ -12,23 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "cash app investing data leak lawsuit",
     "trendScore": 24,
-    "detectedAt": "2026-10-11T05:45:40.542Z"
-  },
-  {
-    "rank": 304,
-    "query": "supreme court",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme+court&tz=420",
-    "increasePercentage": 500,
-    "source": "serpapi-google-trends",
-    "text": "supreme court lawsuit",
-    "trendScore": 10,
-    "detectedAt": "2026-10-11T05:45:40.542Z"
+    "detectedAt": "2026-10-11T12:49:00.536Z"
   }
 ]

@@ -1,36 +1,36 @@
 [
   {
-    "rank": 42,
+    "rank": 54,
     "query": "trump administration tv ads ruling",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
       "federal judge halts trump ads",
-      "trump administration government funded ads lawsuit",
-      "maga inc"
+      "trump administration ad campaign ending",
+      "trump administration government funded ads lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tv+ads+ruling&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "trump administration tv ads ruling federal judge halts trump ads trump administration government funded ads lawsuit maga inc",
+    "text": "trump administration tv ads ruling federal judge halts trump ads trump administration ad campaign ending trump administration government funded ads lawsuit",
     "trendScore": 29,
-    "detectedAt": "2026-10-12T05:56:57.640Z"
+    "detectedAt": "2026-10-12T15:23:51.504Z"
   },
   {
-    "rank": 70,
+    "rank": 206,
     "query": "fda rapture pre workout recall",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rapture+pre+workout+recall&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "fda rapture pre workout recall",
-    "trendScore": 23,
-    "detectedAt": "2026-10-12T05:56:57.640Z"
+    "trendScore": 8,
+    "detectedAt": "2026-10-12T15:23:51.504Z"
   }
 ]

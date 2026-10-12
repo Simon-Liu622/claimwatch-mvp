@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -335,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -619,7 +619,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -645,7 +645,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "trump-administration-tv-ads-ruling",
@@ -668,16 +668,17 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tv+ads+ruling&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 29,
     "matchedQueries": [
       "trump administration tv ads ruling",
       "federal judge halts trump ads",
       "trump administration government funded ads lawsuit",
-      "maga inc"
+      "maga inc",
+      "trump administration ad campaign ending"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -1047,7 +1048,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "cpsc-26659",
@@ -1338,35 +1339,6 @@
     "officialRecordId": "24V744000",
     "recallInitiationDate": "03/10/2024",
     "lastUpdated": "2026-06-19T20:03:11.794Z"
-  },
-  {
-    "id": "fda-rapture-pre-workout-recall",
-    "slug": "fda-rapture-pre-workout-recall",
-    "title": "Fda Rapture Pre Workout Recall: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "fda rapture pre workout recall",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rapture+pre+workout+recall&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 23,
-    "matchedQueries": [
-      "fda rapture pre workout recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
   },
   {
     "id": "mogo-moringa-llc-mogo-pure-moringa-oleifera-capsules-herbal-supplement-180-quick-release-v",
@@ -2389,6 +2361,35 @@
     "lastUpdated": "2026-05-11T20:03:56.394Z"
   },
   {
+    "id": "fda-rapture-pre-workout-recall",
+    "slug": "fda-rapture-pre-workout-recall",
+    "title": "Fda Rapture Pre Workout Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "fda rapture pre workout recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rapture+pre+workout+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 2000,
+    "trendScore": 8,
+    "matchedQueries": [
+      "fda rapture pre workout recall"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
+  },
+  {
     "id": "cpsc-26753",
     "slug": "cpsc-26753",
     "title": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
@@ -2568,7 +2569,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -2594,7 +2595,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -2620,7 +2621,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -2646,7 +2647,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -2672,7 +2673,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -2698,7 +2699,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -2724,7 +2725,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -2750,7 +2751,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -2776,7 +2777,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "competition-and-consumer-protection-guidance-documents",
@@ -2800,7 +2801,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2824,7 +2825,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2848,7 +2849,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2872,7 +2873,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "find-refund-cases",
@@ -2896,7 +2897,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "consumer-advice",
@@ -2920,7 +2921,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2944,7 +2945,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2968,7 +2969,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2992,7 +2993,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "military-consumer",
@@ -3016,7 +3017,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "consumer-gov",
@@ -3040,7 +3041,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -3064,7 +3065,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "abiomed-inc-automated-impella-controller-aic-with-the-below-product-descriptions-and-corre",
@@ -3090,7 +3091,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3251-2026",
     "recallInitiationDate": "20190219",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "everything-sprouts-llc-everything-sprouts-crunchy-protein-sprout-mix-containing-alfalfa-fe",
@@ -3116,7 +3117,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1339-2026",
     "recallInitiationDate": "20260822",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-tomato-salsa-fresca",
@@ -3142,7 +3143,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1364-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-pico-de-gallo-hot-6-9oz-heb-pico-hot-12-14oz",
@@ -3168,7 +3169,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1379-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "tiffany-food-corp-hexing-haw-balls-candy-packaged-in-200g-0-44-lb-7-05-oz-clear-plastic-ba",
@@ -3194,7 +3195,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1387-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pico-de-gallo",
@@ -3220,7 +3221,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1355-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-pineapple-mango-salsa-mild",
@@ -3246,7 +3247,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1354-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "naturebest-pre-cut-and-produce-llc-heb-pico-medium-12-14oz-pico-de-gallo-medium-6-14oz-pic",
@@ -3272,7 +3273,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1378-2026",
     "recallInitiationDate": "20260805",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-guacamole",
@@ -3298,7 +3299,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1351-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "panorama-produce-sales-inc-martina-brand-fresh-whole-mangoes-individual-whole-mangoes-vari",
@@ -3324,7 +3325,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1342-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-taco-dip",
@@ -3350,7 +3351,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1349-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-spicy-pimento-cheese-dip",
@@ -3376,7 +3377,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1348-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "buckhead-meat-company-d-b-a-trinity-seafood-buckhead-tuna-10lb-cs-12lb-cs-15lb-cs-3-5lb-cs",
@@ -3402,7 +3403,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1382-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "best-friends-bakery-llc-pumpkin-spice-no-bake-cookie-net-wt-3-5-oz",
@@ -3428,7 +3429,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1386-2026",
     "recallInitiationDate": "20260817",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "elegant-foods-llc-elegant-foods-carrot-cake-9-14-servings-keep-refrigerated-frozen-537-atl",
@@ -3454,7 +3455,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1385-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "taylor-fresh-foods-inc-bh-bold-chef-salad-kit",
@@ -3480,7 +3481,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1368-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -3506,7 +3507,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -3532,7 +3533,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -3558,7 +3559,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -3584,7 +3585,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -3610,7 +3611,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "wfm-purchasing-lp-fromagerie-coop-de-mean-cabricharme-and-belgium-cabricharme-shelf-life-3",
@@ -3636,7 +3637,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1395-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "gias-food-inc-lemon-alfredo-fettuccine-packed-in-a-yellow-plastic-sealed-bag-with-pink-and",
@@ -3662,7 +3663,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1396-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "kwok-shing-inc-american-ginsengs-product-of-wisconsin-net-wt-4-oz-net-wt-8-oz",
@@ -3688,7 +3689,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1393-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-light-brown-sugar-packaged-in-he-follow-configurations",
@@ -3714,7 +3715,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1391-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "unilever-north-america-supply-chain-company-llc-almond-joy-ice-cream-bar-2-0-fl-oz-ice-cre",
@@ -3740,7 +3741,7 @@
     "officialVerified": true,
     "officialRecordId": "99757",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-powdered-sugar-packaged-in-the-following-configuration",
@@ -3766,7 +3767,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1392-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "wwf-operating-company-so-delicious-dairy-free-salted-caramel-cluster-cashewmilk-non-dairy-",
@@ -3792,7 +3793,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1394-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "evergreen-fresh-sprouts-llc-evergreen-fresh-sprouts-llc-broccoli-sprouts-packaged-in-clear",
@@ -3818,7 +3819,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1390-2026",
     "recallInitiationDate": "20260904",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "elegant-foods-llc-pecorino-toscano-d-o-p-stagionato-cheese-wheels-product-of-italy-each-ch",
@@ -3844,7 +3845,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1389-2026",
     "recallInitiationDate": "20260727",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "olympus-corporation-of-the-americas-olympus-bicoag-hemostasis-probe-7fr-fixed-pin-connecto",
@@ -3870,7 +3871,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3247-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "medline-industries-lp-medline-convenience-kits-containing-healthmark-instrument-channel-br",
@@ -3896,7 +3897,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3229-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "midmark-corporation-midmark-iqvitals-zone-automatically-and-noninvasively-measures-systoli",
@@ -3922,7 +3923,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3218-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "philips-north-america-llc-achieva-3-0t-model-numbers-ref-1-781177-2-781277-3-781278-4-7813",
@@ -3948,7 +3949,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3233-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "coopersurgical-inc-inca-infant-nasal-cannulae-assy-neonatal-nasal-cpap-replacement-set-sta",
@@ -3974,7 +3975,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3140-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "fresenius-medical-care-renal-therapies-group-llc-combiset-hemodialysis-blood-tubing-set-wi",
@@ -4000,7 +4001,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3225-2026",
     "recallInitiationDate": "20260729",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "philips-north-america-llc-ingenia-elition-s-and-ingenia-elition-x-model-numbers-ref-1-7813",
@@ -4026,7 +4027,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3239-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "criticare-technologies-inc-ngenuity-patient-monitor-with-capnography-etco2-cat-8100e1-st-u",
@@ -4052,7 +4053,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3253-2026",
     "recallInitiationDate": "20260506",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "biomerieux-inc-vitek-2-ast-n461-test-kit-gram-negative-susceptibility-testing-automated-re",
@@ -4078,7 +4079,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3231-2026",
     "recallInitiationDate": "20260724",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "philips-north-america-llc-mr-7700-and-upgrade-to-mr-7700-model-number-ref-1-782120-2-78215",
@@ -4104,7 +4105,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3242-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "philips-north-america-llc-mr-5300-model-number-ref-1-782110-2-782152",
@@ -4130,7 +4131,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3241-2026",
     "recallInitiationDate": "20260821",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "intervascular-sas-cardioroot-woven-collagen-coated-vascular-graft-model-numbers-1-hewroot0",
@@ -4156,7 +4157,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3258-2026",
     "recallInitiationDate": "20260812",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
@@ -4182,7 +4183,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0860-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
@@ -4208,7 +4209,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0863-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
@@ -4234,7 +4235,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0871-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
@@ -4260,7 +4261,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0862-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
@@ -4286,7 +4287,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0856-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-0-5-fl-oz-15-ml-1-0-fl-",
@@ -4312,7 +4313,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0858-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "amneal-pharmaceuticals-of-new-york-llc-exenatide-injection-usp-250-mcg-ml-1-2-ml-per-prefi",
@@ -4338,7 +4339,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0868-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "otsuka-icu-medical-llc-0-9-sodium-chloride-injection-100-ml-usp-icu-medical-inc-lake-fores",
@@ -4364,7 +4365,7 @@
     "officialVerified": true,
     "officialRecordId": "99892",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "macleods-pharmaceuticals-limited-olanzapine-tablets-usp-5-mg-30-count-bottle-rx-only-manuf",
@@ -4390,7 +4391,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0867-2026",
     "recallInitiationDate": "20260827",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-major-lubrifresh-p-m-nighttime-ointment-net-wt-0-125-",
@@ -4416,7 +4417,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0861-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-walgreens-lubricant-eye-drops-carboxymethylcellulose-",
@@ -4442,7 +4443,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0857-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-lubricating-tears-sterile-0-5",
@@ -4468,7 +4469,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0859-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "shantou-qiwei-industrial-co-ltd-menow-sunscreen-pressed-powder-spf35-pa-net-content-9g-0-3",
@@ -4494,7 +4495,31 @@
     "officialVerified": true,
     "officialRecordId": "D-0854-2026",
     "recallInitiationDate": "20260808",
-    "lastUpdated": "2026-10-12T05:56:57.640Z"
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
+  },
+  {
+    "id": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
+    "slug": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
+    "title": "FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI",
+    "type": "safety-alert",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
+    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-10-12T15:23:51.504Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",
@@ -6026,30 +6051,6 @@
     "officialVerified": true,
     "officialRecordId": "27022",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-11T12:49:00.536Z"
-  },
-  {
-    "id": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
-    "slug": "ftc-returns-more-than-15-8-million-to-consumers-misled-by-cash-advance-app-company-cleo-ai",
-    "title": "FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI",
-    "type": "safety-alert",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo AI.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
-    "officialSourceUrl": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
     "lastUpdated": "2026-10-11T12:49:00.536Z"
   },
   {

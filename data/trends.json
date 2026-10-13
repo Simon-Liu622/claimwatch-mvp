@@ -1,51 +1,17 @@
 [
   {
-    "rank": 25,
+    "rank": 20,
     "query": "amazon ftc refund september 2026",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+refund+september+2026&tz=420",
-    "increasePercentage": 600,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "amazon ftc refund september 2026",
     "trendScore": 23,
-    "detectedAt": "2026-10-13T00:39:04.387Z"
-  },
-  {
-    "rank": 177,
-    "query": "trump administration tv ads ruling",
-    "searchVolume": 5000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "federal judge halts trump ads",
-      "trump administration ad campaign ending",
-      "trump administration government funded ads lawsuit"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+administration+tv+ads+ruling&tz=420",
-    "increasePercentage": 200,
-    "source": "serpapi-google-trends",
-    "text": "trump administration tv ads ruling federal judge halts trump ads trump administration ad campaign ending trump administration government funded ads lawsuit",
-    "trendScore": 14,
-    "detectedAt": "2026-10-13T00:39:04.387Z"
-  },
-  {
-    "rank": 256,
-    "query": "fda rapture pre workout recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fda+rapture+pre+workout+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "fda rapture pre workout recall",
-    "trendScore": 8,
-    "detectedAt": "2026-10-13T00:39:04.387Z"
+    "detectedAt": "2026-10-13T14:10:43.027Z"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:39:23.143Z",
+  "updatedAt": "2026-10-13T14:10:46.831Z",
   "item": {
     "id": "cpsc-26798",
     "slug": "cpsc-26798",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Love-To-Dream-Recalls-Portable-Sleep-Machines-Due-to-Risk-of-Injury-from-Fire-and-Burn-Hazards",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 10000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "amazon ftc refund september 2026"
+    ],
     "officialVerified": true,
     "officialRecordId": "26798",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-11T12:49:00.536Z",
+    "lastUpdated": "2026-10-13T14:10:43.027Z",
     "url": "https://simon622.shop/item/cpsc-26798/"
   }
 }

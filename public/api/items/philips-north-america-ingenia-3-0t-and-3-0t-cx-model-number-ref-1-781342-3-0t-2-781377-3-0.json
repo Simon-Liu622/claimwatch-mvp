@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-10-13T00:39:23.143Z",
+  "item": {
+    "id": "philips-north-america-ingenia-3-0t-and-3-0t-cx-model-number-ref-1-781342-3-0t-2-781377-3-0",
+    "slug": "philips-north-america-ingenia-3-0t-and-3-0t-cx-model-number-ref-1-781342-3-0t-2-781377-3-0",
+    "title": "Philips North America: Ingenia 3.0T and 3.0T CX; Model number (REF): 1. 781342 (3.0T), 2. 781377 (3.0T), 3. 782103 (3.0T), 4. 781271 (3.0T CX); Software Versions:  Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Philips North America",
+    "brand": "Philips North America",
+    "product": "Ingenia 3.0T and 3.0T CX; Model number (REF): 1. 781342 (3.0T), 2. 781377 (3.0T), 3. 782103 (3.0T), 4. 781271 (3.0T CX); Software Versions: ",
+    "category": "Recall",
+    "summary": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathways in the brain), the software will not be able to correctly process the DTI data for reconstruction. Product details: Ingenia 3.0T and 3.0T CX; Model number (REF): 1. 781342 (3.0T), 2. 781377 (3.0T), 3. 782103 (3.0T), 4. 781271 (3.0T CX); Software Versions: R11, R12 and R13;",
+    "affectedPeople": "Worldwide distribution - Nationwide and the countries of Algeria, Argentina, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, China, Colombia, Cyprus, Czech Republic, Denmark, Dominican Rep, Ecuador, Egypt, Equator. Guinea, Finland, France, French Guiana, Georgia, Germany, Ghana, Greece, Honduras, Hong Kong, Hungary, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Kyrgyzstan, Latvia, Lebanon, Luxembourg, Malaysia, Malta, Martinique, Mauritius, Mexico, Moldova, Monaco, Morocco, Myanmar, Namibia, Nepal, Netherlands, New Zealand, Nicaragua, Norway, Pakistan, Palestine, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Serbia, Singapore, Slovakia, South Africa, South Korea, Spain, Sweden, Switzerland, Syria, Taiwan, Thailand, Tunisia, T¿rkiye, United Kingdom, Uruguay, Utd.Arab.Emir., Uzbekistan, Vietnam.",
+    "remedy": "Affected quantity: 243",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-3309-2026",
+    "recallInitiationDate": "20260828",
+    "lastUpdated": "2026-10-13T00:39:04.387Z",
+    "url": "https://simon622.shop/item/philips-north-america-ingenia-3-0t-and-3-0t-cx-model-number-ref-1-781342-3-0t-2-781377-3-0/"
+  }
+}

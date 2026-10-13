@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:24:05.387Z",
+  "updatedAt": "2026-10-13T00:39:23.143Z",
   "count": 2,
   "items": [
     {
@@ -24,7 +24,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 29,
+      "trendScore": 14,
       "matchedQueries": [
         "trump administration tv ads ruling",
         "federal judge halts trump ads",
@@ -33,7 +33,7 @@
         "trump administration ad campaign ending"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-12T15:23:51.504Z"
+      "lastUpdated": "2026-10-13T00:39:04.387Z"
     },
     {
       "id": "fda-rapture-pre-workout-recall",
@@ -62,7 +62,7 @@
         "fda rapture pre workout recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-12T15:23:51.504Z"
+      "lastUpdated": "2026-10-13T00:39:04.387Z"
     }
   ]
 }

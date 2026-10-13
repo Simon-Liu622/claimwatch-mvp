@@ -1,14 +1,29 @@
 {
-  "updatedAt": "2026-10-12T15:24:05.387Z",
-  "count": 2,
+  "updatedAt": "2026-10-13T00:39:23.143Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 54,
-      "query": "trump administration tv ads ruling",
+      "rank": 25,
+      "query": "amazon ftc refund september 2026",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+refund+september+2026&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "amazon ftc refund september 2026",
+      "trendScore": 23,
+      "detectedAt": "2026-10-13T00:39:04.387Z"
+    },
+    {
+      "rank": 177,
+      "query": "trump administration tv ads ruling",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
       "breakdown": [
         "federal judge halts trump ads",
         "trump administration ad campaign ending",
@@ -18,11 +33,11 @@
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "trump administration tv ads ruling federal judge halts trump ads trump administration ad campaign ending trump administration government funded ads lawsuit",
-      "trendScore": 29,
-      "detectedAt": "2026-10-12T15:23:51.504Z"
+      "trendScore": 14,
+      "detectedAt": "2026-10-13T00:39:04.387Z"
     },
     {
-      "rank": 206,
+      "rank": 256,
       "query": "fda rapture pre workout recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -34,7 +49,7 @@
       "source": "serpapi-google-trends",
       "text": "fda rapture pre workout recall",
       "trendScore": 8,
-      "detectedAt": "2026-10-12T15:23:51.504Z"
+      "detectedAt": "2026-10-13T00:39:04.387Z"
     }
   ]
 }

@@ -1,58 +1,58 @@
 {
-  "updatedAt": "2026-10-13T22:44:18.709Z",
+  "updatedAt": "2026-10-14T04:52:39.092Z",
   "count": 3,
   "trends": [
     {
-      "rank": 22,
+      "rank": 64,
+      "query": "bbc donald trump lawsuit deposition",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "trump unavailable for bbc deposition"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "bbc donald trump lawsuit deposition trump unavailable for bbc deposition",
+      "trendScore": 25,
+      "detectedAt": "2026-10-14T04:52:36.814Z"
+    },
+    {
+      "rank": 105,
       "query": "department of government efficiency",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
-        "elon musk doge",
-        "crew lawsuit elon musk records"
+        "crew lawsuit elon musk records",
+        "elon musk doge"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+government+efficiency&tz=420",
       "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "department of government efficiency elon musk doge crew lawsuit elon musk records",
-      "trendScore": 28,
-      "detectedAt": "2026-10-13T22:44:03.535Z"
+      "text": "department of government efficiency crew lawsuit elon musk records elon musk doge",
+      "trendScore": 13,
+      "detectedAt": "2026-10-14T04:52:36.814Z"
     },
     {
-      "rank": 35,
+      "rank": 136,
       "query": "amazon acetaminophen recall aurobindo pharma",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "fda acetaminophen recall discolored pills"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+acetaminophen+recall+aurobindo+pharma&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
       "text": "amazon acetaminophen recall aurobindo pharma fda acetaminophen recall discolored pills",
-      "trendScore": 25,
-      "detectedAt": "2026-10-13T22:44:03.535Z"
-    },
-    {
-      "rank": 78,
-      "query": "trump unavailable for bbc deposition",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "bbc donald trump lawsuit deposition"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trump+unavailable+for+bbc+deposition&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "trump unavailable for bbc deposition bbc donald trump lawsuit deposition",
-      "trendScore": 25,
-      "detectedAt": "2026-10-13T22:44:03.535Z"
+      "trendScore": 10,
+      "detectedAt": "2026-10-14T04:52:36.814Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:50:56.573Z",
+  "updatedAt": "2026-10-14T17:09:29.208Z",
   "count": 2,
   "items": [
     {
@@ -23,24 +23,24 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
+      "searchVolume": 10000,
+      "trendScore": 10,
       "matchedQueries": [
         "bbc donald trump lawsuit deposition",
         "trump unavailable for bbc deposition"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T11:50:52.649Z"
+      "lastUpdated": "2026-10-14T17:09:26.461Z"
     },
     {
-      "id": "department-of-government-efficiency",
-      "slug": "department-of-government-efficiency",
-      "title": "Department Of Government Efficiency: Consumer Alert Monitoring",
+      "id": "lsu-and-sec-federal-lawsuit-updates",
+      "slug": "lsu-and-sec-federal-lawsuit-updates",
+      "title": "Lsu And Sec Federal Lawsuit Updates: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "department of government efficiency",
+      "product": "lsu and sec federal lawsuit updates",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -50,18 +50,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=department+of+government+efficiency&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lsu+and+sec+federal+lawsuit+updates&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 13,
+      "searchVolume": 200,
+      "trendScore": 8,
       "matchedQueries": [
-        "department of government efficiency",
-        "elon musk doge",
-        "crew lawsuit elon musk records"
+        "lsu and sec federal lawsuit updates"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T11:50:52.649Z"
+      "lastUpdated": "2026-10-14T17:09:26.461Z"
     }
   ]
 }

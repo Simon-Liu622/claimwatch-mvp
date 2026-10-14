@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T17:09:29.208Z",
+  "updatedAt": "2026-10-14T21:40:17.619Z",
   "count": 2,
   "items": [
     {
@@ -23,14 +23,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 10,
+      "searchVolume": 5000,
+      "trendScore": 8,
       "matchedQueries": [
         "bbc donald trump lawsuit deposition",
         "trump unavailable for bbc deposition"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T17:09:26.461Z"
+      "lastUpdated": "2026-10-14T21:40:13.374Z"
     },
     {
       "id": "lsu-and-sec-federal-lawsuit-updates",
@@ -59,7 +59,7 @@
         "lsu and sec federal lawsuit updates"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T17:09:26.461Z"
+      "lastUpdated": "2026-10-14T21:40:13.374Z"
     }
   ]
 }

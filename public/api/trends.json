@@ -1,41 +1,24 @@
 {
-  "updatedAt": "2026-10-14T17:09:29.208Z",
-  "count": 3,
+  "updatedAt": "2026-10-14T21:40:17.619Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 134,
+      "rank": 190,
       "query": "bbc donald trump lawsuit deposition",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "trump unavailable for bbc deposition"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "bbc donald trump lawsuit deposition trump unavailable for bbc deposition",
-      "trendScore": 10,
-      "detectedAt": "2026-10-14T17:09:26.461Z"
-    },
-    {
-      "rank": 164,
-      "query": "amazon acetaminophen recall aurobindo pharma",
-      "searchVolume": 10000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+acetaminophen+recall+aurobindo+pharma&tz=420",
-      "increasePercentage": 500,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "amazon acetaminophen recall aurobindo pharma",
+      "text": "bbc donald trump lawsuit deposition",
       "trendScore": 8,
-      "detectedAt": "2026-10-14T17:09:26.461Z"
+      "detectedAt": "2026-10-14T21:40:13.374Z"
     },
     {
-      "rank": 380,
+      "rank": 433,
       "query": "lsu and sec federal lawsuit updates",
       "searchVolume": 200,
       "startedAt": "",
@@ -47,7 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "lsu and sec federal lawsuit updates",
       "trendScore": 8,
-      "detectedAt": "2026-10-14T17:09:26.461Z"
+      "detectedAt": "2026-10-14T21:40:13.374Z"
     }
   ]
 }

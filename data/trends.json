@@ -1,21 +1,21 @@
 [
   {
-    "rank": 137,
+    "rank": 277,
     "query": "at&t data breach settlement payout timeline",
     "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+data+breach+settlement+payout+timeline&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
     "text": "at&t data breach settlement payout timeline",
-    "trendScore": 31,
-    "detectedAt": "2026-10-15T11:27:52.513Z"
+    "trendScore": 16,
+    "detectedAt": "2026-10-15T16:59:52.206Z"
   },
   {
-    "rank": 463,
+    "rank": 491,
     "query": "maria torres fred meyer lawsuit",
     "searchVolume": 200,
     "startedAt": "",
@@ -27,6 +27,6 @@
     "source": "serpapi-google-trends",
     "text": "maria torres fred meyer lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-15T11:27:52.513Z"
+    "detectedAt": "2026-10-15T16:59:52.206Z"
   }
 ]

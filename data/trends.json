@@ -1,32 +1,32 @@
 [
   {
-    "rank": 319,
+    "rank": 137,
     "query": "at&t data breach settlement payout timeline",
-    "searchVolume": 500,
+    "searchVolume": 1000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+data+breach+settlement+payout+timeline&tz=420",
-    "increasePercentage": 75,
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
     "text": "at&t data breach settlement payout timeline",
-    "trendScore": 16,
-    "detectedAt": "2026-10-15T04:37:45.214Z"
+    "trendScore": 31,
+    "detectedAt": "2026-10-15T11:27:52.513Z"
   },
   {
-    "rank": 448,
-    "query": "lsu and sec federal lawsuit updates",
+    "rank": 463,
+    "query": "maria torres fred meyer lawsuit",
     "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lsu+and+sec+federal+lawsuit+updates&tz=420",
-    "increasePercentage": 75,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maria+torres+fred+meyer+lawsuit&tz=420",
+    "increasePercentage": 50,
     "source": "serpapi-google-trends",
-    "text": "lsu and sec federal lawsuit updates",
+    "text": "maria torres fred meyer lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-15T04:37:45.214Z"
+    "detectedAt": "2026-10-15T11:27:52.513Z"
   }
 ]

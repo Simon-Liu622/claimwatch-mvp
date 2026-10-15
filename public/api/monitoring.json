@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-14T21:40:17.619Z",
+  "updatedAt": "2026-10-15T04:37:50.294Z",
   "count": 2,
   "items": [
     {
-      "id": "bbc-donald-trump-lawsuit-deposition",
-      "slug": "bbc-donald-trump-lawsuit-deposition",
-      "title": "Bbc Donald Trump Lawsuit Deposition: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "at-and-t-data-breach-settlement-payout-timeline",
+      "slug": "at-and-t-data-breach-settlement-payout-timeline",
+      "title": "At&T Data Breach Settlement Payout Timeline: Consumer Alert Monitoring",
+      "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "bbc donald trump lawsuit deposition",
+      "product": "at&t data breach settlement payout timeline",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bbc+donald+trump+lawsuit+deposition&tz=420",
-      "sourceAgency": "COMPANY",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+data+breach+settlement+payout+timeline&tz=420",
+      "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 8,
+      "searchVolume": 500,
+      "trendScore": 16,
       "matchedQueries": [
-        "bbc donald trump lawsuit deposition",
-        "trump unavailable for bbc deposition"
+        "at&t data breach settlement payout timeline"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T21:40:13.374Z"
+      "lastUpdated": "2026-10-15T04:37:45.214Z"
     },
     {
       "id": "lsu-and-sec-federal-lawsuit-updates",
@@ -59,7 +58,7 @@
         "lsu and sec federal lawsuit updates"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-14T21:40:13.374Z"
+      "lastUpdated": "2026-10-15T04:37:45.214Z"
     }
   ]
 }

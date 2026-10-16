@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "rank": 222,
+    "query": "david bell lawsuit",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+bell+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "david bell lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-16T16:38:38.498Z"
+  },
+  {
+    "rank": 357,
+    "query": "california voter registration noncitizens lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california+voter+registration+noncitizens+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "california voter registration noncitizens lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-16T16:38:38.498Z"
+  }
+]

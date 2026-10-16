@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -335,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -619,7 +619,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -645,7 +645,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -1015,7 +1015,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "aurobindo-pharma-usa-inc-amazon-acetaminophen-extra-strength-500mg-caplets-1000-count-bott",
@@ -1041,7 +1041,7 @@
     "officialVerified": true,
     "officialRecordId": "99934",
     "recallInitiationDate": "20260918",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "cpsc-26659",
@@ -1908,35 +1908,6 @@
     "lastUpdated": "2026-08-18T01:49:57.452Z"
   },
   {
-    "id": "at-and-t-data-breach-settlement-payout-timeline",
-    "slug": "at-and-t-data-breach-settlement-payout-timeline",
-    "title": "At&T Data Breach Settlement Payout Timeline: Consumer Alert Monitoring",
-    "type": "settlement",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "at&t data breach settlement payout timeline",
-    "category": "Consumer monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+data+breach+settlement+payout+timeline&tz=420",
-    "sourceAgency": "COURT",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 16,
-    "matchedQueries": [
-      "at&t data breach settlement payout timeline"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
     "id": "cpsc-26693",
     "slug": "cpsc-26693",
     "title": "Yamazuki Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violates Mandatory Standard for ATVs",
@@ -2638,7 +2609,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2662,7 +2633,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2686,7 +2657,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2710,7 +2681,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "find-refund-cases",
@@ -2734,7 +2705,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "consumer-advice",
@@ -2758,7 +2729,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2782,7 +2753,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2806,7 +2777,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2830,7 +2801,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "military-consumer",
@@ -2854,7 +2825,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "consumer-gov",
@@ -2878,7 +2849,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -2902,7 +2873,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "everything-sprouts-llc-everything-sprouts-crunchy-protein-sprout-mix-containing-alfalfa-fe",
@@ -2928,7 +2899,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1339-2026",
     "recallInitiationDate": "20260822",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "taylor-fresh-foods-inc-tomato-salsa-fresca",
@@ -2954,7 +2925,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1364-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "wfm-purchasing-lp-fromagerie-coop-de-mean-cabricharme-and-belgium-cabricharme-shelf-life-3",
@@ -2980,7 +2951,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1395-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "gias-food-inc-lemon-alfredo-fettuccine-packed-in-a-yellow-plastic-sealed-bag-with-pink-and",
@@ -3006,7 +2977,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1396-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "kwok-shing-inc-american-ginsengs-product-of-wisconsin-net-wt-4-oz-net-wt-8-oz",
@@ -3032,7 +3003,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1393-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-light-brown-sugar-packaged-in-he-follow-configurations",
@@ -3058,7 +3029,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1391-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "unilever-north-america-supply-chain-company-llc-almond-joy-ice-cream-bar-2-0-fl-oz-ice-cre",
@@ -3084,7 +3055,7 @@
     "officialVerified": true,
     "officialRecordId": "99757",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-powdered-sugar-packaged-in-the-following-configuration",
@@ -3110,7 +3081,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1392-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "wwf-operating-company-so-delicious-dairy-free-salted-caramel-cluster-cashewmilk-non-dairy-",
@@ -3136,7 +3107,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1394-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "evergreen-fresh-sprouts-llc-evergreen-fresh-sprouts-llc-broccoli-sprouts-packaged-in-clear",
@@ -3162,7 +3133,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1390-2026",
     "recallInitiationDate": "20260904",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "elegant-foods-llc-pecorino-toscano-d-o-p-stagionato-cheese-wheels-product-of-italy-each-ch",
@@ -3188,7 +3159,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1389-2026",
     "recallInitiationDate": "20260727",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
@@ -3214,7 +3185,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0860-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
@@ -3240,7 +3211,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0863-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
@@ -3266,7 +3237,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0871-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
@@ -3292,7 +3263,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0862-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
@@ -3318,7 +3289,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0856-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-salad-sprouting-mixture-broccoli-mustard-alfalfa-and-cabbage",
@@ -3344,7 +3315,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1407-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "galil-importing-corp-lior-brand-cinnamon-ground-seasoning-90g-transparent-plastic-containe",
@@ -3370,7 +3341,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1402-2026",
     "recallInitiationDate": "20260924",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "lmsi-llc-kofinas-garlic-mediterranean-infused-extra-virgin-olive-oil-packaged-in-3-4-fl-oz",
@@ -3396,7 +3367,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1399-2026",
     "recallInitiationDate": "20260829",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "admiral-beverage-corporation-7up-tropical-beverage-shelf-stable-12oz-can-in-a-12pk-wrap-la",
@@ -3422,7 +3393,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1397-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-broccoli-and-friends-sprouting-seed-mix-broccoli-alfalfa-rad",
@@ -3448,7 +3419,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1405-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "coco-g-s-snack-foods-inc-coco-g-s-courmet-flaming-cheddar-hots-spicy-cheddar-cheese-popcor",
@@ -3474,7 +3445,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1403-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "salata-dressings-llc-salata-salad-kitchen-jalapen-o-avocado-dressing-keep-refrigerated-pac",
@@ -3500,7 +3471,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1398-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-variety-pack-of-sprouting-seeds-broccoli-alfalfa-radish-mung",
@@ -3526,7 +3497,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1409-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-alfalfa-and-mung-bundle-1lb-each-packaged-separately-in-heat",
@@ -3552,7 +3523,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1408-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "slt-foods-inc-khazana-the-treasure-spice-magic-fennel-candy-5-lbs-poly-plastic-bag-4-per-c",
@@ -3578,7 +3549,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0001-2027",
     "recallInitiationDate": "20260710",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-sprouting-seed-mix-broccoli-radish-alfalfa-packaged-in-heat-",
@@ -3604,7 +3575,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1406-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "toji-co-cloud-cafe-branded-collagen-milk-strawberry-milk-zero-caffeine-free-10pc-box",
@@ -3630,7 +3601,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1400-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "pacific-health-sciences-llc-organiccs-absolutely-pure-type-1-hydrolyzed-collagen-peptides-",
@@ -3656,7 +3627,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1401-2026",
     "recallInitiationDate": "20260914",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-alfalfa-sprouting-seeds-packaged-in-heat-sealed-resealable-b",
@@ -3682,7 +3653,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1404-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sv-labs-toronto-corporation-benzoyl-peroxide-wash-usp-10-packaged-in-a-5-fl-oz-148ml-bottl",
@@ -3708,7 +3679,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0879-2026",
     "recallInitiationDate": "20260901",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "amneal-pharmaceuticals-llc-estradiol-gel-0-1-0-25-mg-30-packets-per-carton-rx-only",
@@ -3734,7 +3705,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0873-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "aurolab-trust-focus-pi-hypromellose-0-7-formula-0-3-fl-o-10-ml-per-vial-sterile-manufactur",
@@ -3760,7 +3731,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0874-2026",
     "recallInitiationDate": "20260917",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "tersera-therapeutics-llc-zoladex-goserelin-implant-3-6-mg-one-single-use-syringe-packaged-",
@@ -3786,7 +3757,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0875-2026",
     "recallInitiationDate": "20260831",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "apotex-corp-paroxetine-extended-release-tablets-37-5mg-30-count-bottle-rx-only",
@@ -3812,7 +3783,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0877-2026",
     "recallInitiationDate": "20260923",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "sv-labs-toronto-corporation-benzoyl-peroxide-wash-usp-5-5-fl-oz-148-ml",
@@ -3838,7 +3809,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0878-2026",
     "recallInitiationDate": "20260901",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "par-health-usa-llc-buprenorphine-hydrochloride-injection-0-3-mg-ml-rx-only-5-x-1-ml-single",
@@ -3864,7 +3835,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0876-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "ajanta-pharma-usa-inc-ranolazine-extended-release-tablets-1000-mg-60-count-bottle-rx-only-",
@@ -3890,7 +3861,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0010-2027",
     "recallInitiationDate": "20260917",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-30-x-4-2-lin",
@@ -3916,7 +3887,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0004-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "medline-industries-lp-medline-basic-homecare-beds-and-medlite-homecare-beds-and-accessorie",
@@ -3942,7 +3913,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3228-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "philips-north-america-ingenia-3-0t-and-3-0t-cx-model-number-ref-1-781342-3-0t-2-781377-3-0",
@@ -3968,7 +3939,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3309-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-8-x-2-5-2-li",
@@ -3994,7 +3965,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0022-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-bb-tournquet-cuff-26-x-6-dua",
@@ -4020,7 +3991,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0037-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "spectrum-medical-srl-brand-name-quantum-pureflow-product-name-quantum-pureflow-standard-he",
@@ -4046,7 +4017,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3327-2026",
     "recallInitiationDate": "20260717",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "merit-medical-systems-inc-embosphere-500-700-micrometer-2-ml-syringe-sterile-steam-ref-s42",
@@ -4072,7 +4043,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3305-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "shanghai-united-imaging-healthcare-co-ltd-computed-tomography-x-ray-system-model-uct-530-w",
@@ -4098,7 +4069,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3277-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "percussionaire-corporation-intrapulmonary-percussive-ventilation-ipv-hc-product-number-s00",
@@ -4124,7 +4095,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3325-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-mpr-product-name-single-use-tourniquet-cuff-44-2-line-10-model-c",
@@ -4150,7 +4121,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0060-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "philips-north-america-mr-7700-model-number-ref-1-782120-2-782153-3-782155-4-782199-softwar",
@@ -4176,7 +4147,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3313-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-20-x-6-1-lin",
@@ -4202,7 +4173,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0018-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "cardinal-health-200-llc-presource-packs-containing-stryker-strykeflow-ps-and-ahto-tube-set",
@@ -4228,7 +4199,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3297-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-30-x-4-1-lin",
@@ -4254,7 +4225,395 @@
     "officialVerified": true,
     "officialRecordId": "Z-0012-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "how-the-ftc-provides-refunds",
+    "slug": "how-the-ftc-provides-refunds",
+    "title": "How the FTC Provides Refunds",
+    "type": "refund",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "FTC refund program",
+    "category": "FTC refunds",
+    "summary": "FTC refund or consumer payment program: How the FTC Provides Refunds.",
+    "affectedPeople": "Consumers covered by the FTC refund program.",
+    "remedy": "Refund or payment if eligible under official FTC terms.",
+    "payoutAmount": "Varies",
+    "deadline": null,
+    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
+    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
+    "sourceAgency": "FTC",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v329000",
+    "slug": "nhtsa-24v329000",
+    "title": "Ford Motor Company: STEERING:COLUMN Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The steering column lower shaft may have been secured to the steering gear assembly with an incorrect fastener, which can result in the separation of steering components and cause a loss of steering control.",
+    "affectedPeople": "A loss of steering control increases the risk of a crash.",
+    "remedy": "Dealers will replace the lower steering shaft fastener, free of charge. Owner notification letters were mailed May 22, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S32.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V329000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V329000",
+    "recallInitiationDate": "10/05/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v486000",
+    "slug": "nhtsa-24v486000",
+    "title": "Ford Motor Company: VISIBILITY:WINDSHIELD Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The windshield may not have been properly bonded to the vehicle, allowing it to detach during a crash. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 212, \"Windshield Mounting.\"",
+    "affectedPeople": "A windshield that detaches from a vehicle during a crash can increase the risk of injury.",
+    "remedy": "Dealers will remove and reinstall the windshield, free of charge. Owner notification letters were mailed July 10, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C20.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V486000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V486000",
+    "recallInitiationDate": "28/06/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v851000",
+    "slug": "nhtsa-24v851000",
+    "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, 2024 Expedition and 2024 Lincoln Navigator vehicles equipped with a 3.5L GTDI engine. The engines may have a misaligned engine cup plug, which can result in a rapid oil leak.",
+    "affectedPeople": "A rapid oil leak can result in an engine stall, increasing the risk of a crash. In addition, an oil leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire.",
+    "remedy": "Dealers will inspect the engine cup plug alignment, and replace the plug if necessary, free of charge. Owner notification letters were mailed on May 23, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S70.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V851000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V851000",
+    "recallInitiationDate": "20/12/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v852000",
+    "slug": "nhtsa-24v852000",
+    "title": "Ford Motor Company: EQUIPMENT:OTHER:LABELS Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles. The air bag warning label may be missing from the dashboard. As such, these vehicles fail to comply with the requirement Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
+    "affectedPeople": "Without a label that shows the proper restraint usage guidelines, the occupants may have an increased risk of injury in the event of a crash.",
+    "remedy": "Ford will mail owners the warning labels, free of charge. Owner notification letters were mailed December 19, 2024. Owners may call Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C39.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V852000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V852000",
+    "recallInitiationDate": "08/11/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-25v022000",
+    "slug": "nhtsa-25v022000",
+    "title": "Ford Motor Company: STEERING Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The steering gear assembly may have been assembled with an incorrect rack, which can cause the gears to fracture.",
+    "affectedPeople": "A fractured steering gear can cause the steering to bind or lock, resulting in a loss of steering control and increasing the risk of a crash.",
+    "remedy": "Dealers will replace the steering gear assembly, free of charge. Owner notification letters were mailed February 19, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S04.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V022000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V022000",
+    "recallInitiationDate": "17/01/2025",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-25v198000",
+    "slug": "nhtsa-25v198000",
+    "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Expedition, and 2024 Lincoln Navigator vehicles equipped with 3.5L GTDI engines. The engine may have a misaligned engine cup plug, which can result in a rapid oil leak.",
+    "affectedPeople": "A rapid oil leak can result in an engine stall, increasing the risk of a crash. In addition, an oil leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire.",
+    "remedy": "Dealers will inspect the engine cup plug alignment, and replace the plug if necessary, free of charge. Owner notification letters were mailed May 22, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S30.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V198000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V198000",
+    "recallInitiationDate": "28/03/2025",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-25v512000",
+    "slug": "nhtsa-25v512000",
+    "title": "Ford Motor Company: POWER TRAIN:AXLE HUBS Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2025 F-150 vehicles equipped with the Trailer Tow Max Duty package and a 9.75-inch heavy duty axle with a 3/4 float axle design. The rear axle hub bolt may fatigue and break, which can result in damage to the axle hub splines.",
+    "affectedPeople": "Damaged axle hub splines can result in a vehicle rollaway when in park without the parking brake applied or cause a loss of drive power. Either of these conditions can increase the risk of a crash.",
+    "remedy": "Dealers will replace the left and right rear axle shaft assemblies, free of charge. This is a phased recall. Ford owners will receive letters in multiple phases, beginning August 2025 through Winter 2025. Phase 1 will include 2023 F-150 model year vehicles. Phase 2 will include 2025 F-150 model year vehicles and Phase 3 will include 2024 F-150 model year vehicles. Interim owner notification letters informing owners of the safety risk were mailed August 22, 2025. Owner notification letters were mailed August 22, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S82. This recall expands previous NHTSA recall number 23V896.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V512000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V512000",
+    "recallInitiationDate": "08/08/2025",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-26v104000",
+    "slug": "nhtsa-26v104000",
+    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 F-150, 2022-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD, Maverick, 2024-2026 Ranger, 2023-2026 F-600 SD, 2022-2027 Lincoln Navigator, Expedition, and 2026 E-Transit vehicles. When towing a trailer, the integrated trailer module (ITRM) may lose communication with the vehicle, possibly causing a loss of brake and turn signal lights, or a loss of brake function. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \" Lamps, Reflective Devices, and Associated Equipment.\"",
+    "affectedPeople": "Trailer lights or brakes that do not function can reduce the driver’s ability to control the trailer and decrease the trailers visibility to other road users, increasing the risk of a crash.",
+    "remedy": "The integrated trailer module software will be updated by a dealer, or through an over-the-air (OTA) update, free of charge. Owner notification letters were mailed March 25, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C10. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning March 17, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V104000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "26V104000",
+    "recallInitiationDate": "20/02/2026",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-26v578000",
+    "slug": "nhtsa-26v578000",
+    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING Recall (2024 ford f-150)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Ford Motor Company",
+    "brand": "Ford Motor Company",
+    "product": "2024 ford f-150",
+    "category": "Vehicle recall",
+    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2027 F-150 vehicles. The fuel tank may be improperly secured and leak fuel, or detach from the vehicle while driving.",
+    "affectedPeople": "A detached tank can create a road hazard, increasing the risk of a crash. In addition, a fuel leak can cause an engine stall or increase the risk of a fire.",
+    "remedy": "Dealers will inspect and replace the fuel tank straps, as necessary, free of charge. Owner notification letters were mailed September 21, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S69. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning September 14, 2026.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V578000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "26V578000",
+    "recallInitiationDate": "09/09/2026",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v284000",
+    "slug": "nhtsa-24v284000",
+    "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling one 2024 Model 3 vehicle. The driver seat side air bag module was assembled without a deflector that directs gas flow during deployment.",
+    "affectedPeople": "Without a deflector, the air bag may deploy improperly, increasing the risk of injury during a crash.",
+    "remedy": "Tesla service replaced the side air bag, free of charge. The affected vehicle was repaired April 12, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-13-001.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V284000",
+    "recallInitiationDate": "19/04/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v554000",
+    "slug": "nhtsa-24v554000",
+    "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles. The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
+    "affectedPeople": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
+    "remedy": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed September 24, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-012.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V554000",
+    "recallInitiationDate": "24/07/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-24v935000",
+    "slug": "nhtsa-24v935000",
+    "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles. The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
+    "affectedPeople": "Driving with improperly inflated tires increases the risk of a crash.",
+    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed February 15, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-018.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "24V935000",
+    "recallInitiationDate": "17/12/2024",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-25v002000",
+    "slug": "nhtsa-25v002000",
+    "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024-2025 Model 3, Model S, 2023-2025 Model X, and Model Y vehicles. The computer circuit board may short, resulting in the loss of the rearview camera image. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
+    "affectedPeople": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Tesla will also identify any vehicles that experienced a circuit board failure, or stress that may lead to a circuit board failure, and replace the affected computers, free of charge. Owner notification letters were mailed March 7, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-25-00-001.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "25V002000",
+    "recallInitiationDate": "07/01/2025",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
+  },
+  {
+    "id": "nhtsa-26v445000",
+    "slug": "nhtsa-26v445000",
+    "title": "Tesla, Inc.: STRUCTURE:BODY:BUMPERS Recall (2024 tesla model 3)",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "Tesla, Inc.",
+    "brand": "Tesla, Inc.",
+    "product": "2024 tesla model 3",
+    "category": "Vehicle recall",
+    "summary": "Tesla, Inc. (Tesla) is recalling certain 2026 Model Y and 2024 Model 3 vehicles. The vehicles were originally built for a foreign market and do not have knee air bags, may not be equipped with certain interior safety countermeasures, and may not have been tested for bumper impact resistance procedures. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers, 208, \"Occupant Crash Protection,\" 201, \"Occupant Protection in Interior Impact,\" and Part 581, \"Bumper Standards.\"",
+    "affectedPeople": "A noncompliant vehicle may have reduced occupant protections, increasing the risk of injury during a crash.",
+    "remedy": "Tesla will repurchase noncompliant vehicles currently registered in the United States, free of charge. Owner notification letters are expected to be mailed September 5, 2026. Owners may contact Tesla customer service at 1-877-798-3752 or resolutions@tesla.com. Tesla's number for this recall is SB-26-00-004.",
+    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V445000",
+    "sourceAgency": "NHTSA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "26V445000",
+    "recallInitiationDate": "07/07/2026",
+    "lastUpdated": "2026-10-16T04:31:07.802Z"
   },
   {
     "id": "cpsc-26761",
@@ -5557,30 +5916,6 @@
     "lastUpdated": "2026-10-15T21:22:11.388Z"
   },
   {
-    "id": "how-the-ftc-provides-refunds",
-    "slug": "how-the-ftc-provides-refunds",
-    "title": "How the FTC Provides Refunds",
-    "type": "refund",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "FTC refund program",
-    "category": "FTC refunds",
-    "summary": "FTC refund or consumer payment program: How the FTC Provides Refunds.",
-    "affectedPeople": "Consumers covered by the FTC refund program.",
-    "remedy": "Refund or payment if eligible under official FTC terms.",
-    "payoutAmount": "Varies",
-    "deadline": null,
-    "officialClaimUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
-    "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
-    "sourceAgency": "FTC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
     "id": "cpsc-27024",
     "slug": "cpsc-27024",
     "title": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard",
@@ -5708,370 +6043,6 @@
     "officialVerified": true,
     "officialRecordId": "27029",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v329000",
-    "slug": "nhtsa-24v329000",
-    "title": "Ford Motor Company: STEERING:COLUMN Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The steering column lower shaft may have been secured to the steering gear assembly with an incorrect fastener, which can result in the separation of steering components and cause a loss of steering control.",
-    "affectedPeople": "A loss of steering control increases the risk of a crash.",
-    "remedy": "Dealers will replace the lower steering shaft fastener, free of charge. Owner notification letters were mailed May 22, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S32.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V329000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V329000",
-    "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v486000",
-    "slug": "nhtsa-24v486000",
-    "title": "Ford Motor Company: VISIBILITY:WINDSHIELD Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The windshield may not have been properly bonded to the vehicle, allowing it to detach during a crash. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 212, \"Windshield Mounting.\"",
-    "affectedPeople": "A windshield that detaches from a vehicle during a crash can increase the risk of injury.",
-    "remedy": "Dealers will remove and reinstall the windshield, free of charge. Owner notification letters were mailed July 10, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C20.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V486000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V486000",
-    "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v851000",
-    "slug": "nhtsa-24v851000",
-    "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, 2024 Expedition and 2024 Lincoln Navigator vehicles equipped with a 3.5L GTDI engine. The engines may have a misaligned engine cup plug, which can result in a rapid oil leak.",
-    "affectedPeople": "A rapid oil leak can result in an engine stall, increasing the risk of a crash. In addition, an oil leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire.",
-    "remedy": "Dealers will inspect the engine cup plug alignment, and replace the plug if necessary, free of charge. Owner notification letters were mailed on May 23, 2024. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 24S70.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V851000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V851000",
-    "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v852000",
-    "slug": "nhtsa-24v852000",
-    "title": "Ford Motor Company: EQUIPMENT:OTHER:LABELS Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2020-2025 Explorer, Lincoln Aviator, 2020-2024 Escape, Lincoln Corsair, 2018-2024 F-150, Expedition and Lincoln Navigator vehicles. The air bag warning label may be missing from the dashboard. As such, these vehicles fail to comply with the requirement Federal Motor Vehicle Safety Standard number 208, \"Occupant Crash Protection.\"",
-    "affectedPeople": "Without a label that shows the proper restraint usage guidelines, the occupants may have an increased risk of injury in the event of a crash.",
-    "remedy": "Ford will mail owners the warning labels, free of charge. Owner notification letters were mailed December 19, 2024. Owners may call Ford customer service at 1-866-436-7332. Ford's number for this recall is 24C39.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V852000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V852000",
-    "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-25v022000",
-    "slug": "nhtsa-25v022000",
-    "title": "Ford Motor Company: STEERING Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024 F-150 vehicles. The steering gear assembly may have been assembled with an incorrect rack, which can cause the gears to fracture.",
-    "affectedPeople": "A fractured steering gear can cause the steering to bind or lock, resulting in a loss of steering control and increasing the risk of a crash.",
-    "remedy": "Dealers will replace the steering gear assembly, free of charge. Owner notification letters were mailed February 19, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S04.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V022000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V022000",
-    "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-25v198000",
-    "slug": "nhtsa-25v198000",
-    "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2024-2025 F-150, Expedition, and 2024 Lincoln Navigator vehicles equipped with 3.5L GTDI engines. The engine may have a misaligned engine cup plug, which can result in a rapid oil leak.",
-    "affectedPeople": "A rapid oil leak can result in an engine stall, increasing the risk of a crash. In addition, an oil leak in the presence of an ignition source such as hot engine or exhaust components, can increase the risk of a fire.",
-    "remedy": "Dealers will inspect the engine cup plug alignment, and replace the plug if necessary, free of charge. Owner notification letters were mailed May 22, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S30.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V198000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V198000",
-    "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-25v512000",
-    "slug": "nhtsa-25v512000",
-    "title": "Ford Motor Company: POWER TRAIN:AXLE HUBS Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2025 F-150 vehicles equipped with the Trailer Tow Max Duty package and a 9.75-inch heavy duty axle with a 3/4 float axle design. The rear axle hub bolt may fatigue and break, which can result in damage to the axle hub splines.",
-    "affectedPeople": "Damaged axle hub splines can result in a vehicle rollaway when in park without the parking brake applied or cause a loss of drive power. Either of these conditions can increase the risk of a crash.",
-    "remedy": "Dealers will replace the left and right rear axle shaft assemblies, free of charge. This is a phased recall. Ford owners will receive letters in multiple phases, beginning August 2025 through Winter 2025. Phase 1 will include 2023 F-150 model year vehicles. Phase 2 will include 2025 F-150 model year vehicles and Phase 3 will include 2024 F-150 model year vehicles. Interim owner notification letters informing owners of the safety risk were mailed August 22, 2025. Owner notification letters were mailed August 22, 2025. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S82. This recall expands previous NHTSA recall number 23V896.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V512000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V512000",
-    "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-26v104000",
-    "slug": "nhtsa-26v104000",
-    "title": "Ford Motor Company: ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2021-2026 F-150, 2022-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD, Maverick, 2024-2026 Ranger, 2023-2026 F-600 SD, 2022-2027 Lincoln Navigator, Expedition, and 2026 E-Transit vehicles. When towing a trailer, the integrated trailer module (ITRM) may lose communication with the vehicle, possibly causing a loss of brake and turn signal lights, or a loss of brake function. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \" Lamps, Reflective Devices, and Associated Equipment.\"",
-    "affectedPeople": "Trailer lights or brakes that do not function can reduce the driver’s ability to control the trailer and decrease the trailers visibility to other road users, increasing the risk of a crash.",
-    "remedy": "The integrated trailer module software will be updated by a dealer, or through an over-the-air (OTA) update, free of charge. Owner notification letters were mailed March 25, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26C10. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning March 17, 2026.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V104000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26V104000",
-    "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-26v578000",
-    "slug": "nhtsa-26v578000",
-    "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING Recall (2024 ford f-150)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Ford Motor Company",
-    "brand": "Ford Motor Company",
-    "product": "2024 ford f-150",
-    "category": "Vehicle recall",
-    "summary": "Ford Motor Company (Ford) is recalling certain 2023-2027 F-150 vehicles. The fuel tank may be improperly secured and leak fuel, or detach from the vehicle while driving.",
-    "affectedPeople": "A detached tank can create a road hazard, increasing the risk of a crash. In addition, a fuel leak can cause an engine stall or increase the risk of a fire.",
-    "remedy": "Dealers will inspect and replace the fuel tank straps, as necessary, free of charge. Owner notification letters were mailed September 21, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S69. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning September 14, 2026.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V578000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26V578000",
-    "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v284000",
-    "slug": "nhtsa-24v284000",
-    "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling one 2024 Model 3 vehicle. The driver seat side air bag module was assembled without a deflector that directs gas flow during deployment.",
-    "affectedPeople": "Without a deflector, the air bag may deploy improperly, increasing the risk of injury during a crash.",
-    "remedy": "Tesla service replaced the side air bag, free of charge. The affected vehicle was repaired April 12, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-13-001.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V284000",
-    "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v554000",
-    "slug": "nhtsa-24v554000",
-    "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2024 Model 3, Model S, Model X, and 2020-2024 Model Y vehicles. The hood latch assembly may fail to detect an unlatched hood condition after the hood has been opened.",
-    "affectedPeople": "An unlatched hood can fully open, obstructing the driver's view and increasing the risk of a crash.",
-    "remedy": "Tesla has released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed September 24, 2024. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-012.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V554000",
-    "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-24v935000",
-    "slug": "nhtsa-24v935000",
-    "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024 Cybertruck, 2017-2025 Model 3, and 2020-2025 Model Y vehicles. The tire pressure monitoring system (TPMS) warning light may not remain illuminated between drive cycles, failing to warn the driver of low tire pressure. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 138, \"Tire Pressure Monitoring Systems.\"",
-    "affectedPeople": "Driving with improperly inflated tires increases the risk of a crash.",
-    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Owner notification letters were mailed February 15, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-24-00-018.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "24V935000",
-    "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-25v002000",
-    "slug": "nhtsa-25v002000",
-    "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2024-2025 Model 3, Model S, 2023-2025 Model X, and Model Y vehicles. The computer circuit board may short, resulting in the loss of the rearview camera image. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
-    "affectedPeople": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
-    "remedy": "Tesla released an over-the-air (OTA) software update, free of charge. Tesla will also identify any vehicles that experienced a circuit board failure, or stress that may lead to a circuit board failure, and replace the affected computers, free of charge. Owner notification letters were mailed March 7, 2025. Owners may contact Tesla customer service at 1-877-798-3752. Tesla's number for this recall is SB-25-00-001.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "25V002000",
-    "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-10-15T21:22:11.388Z"
-  },
-  {
-    "id": "nhtsa-26v445000",
-    "slug": "nhtsa-26v445000",
-    "title": "Tesla, Inc.: STRUCTURE:BODY:BUMPERS Recall (2024 tesla model 3)",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "Tesla, Inc.",
-    "brand": "Tesla, Inc.",
-    "product": "2024 tesla model 3",
-    "category": "Vehicle recall",
-    "summary": "Tesla, Inc. (Tesla) is recalling certain 2026 Model Y and 2024 Model 3 vehicles. The vehicles were originally built for a foreign market and do not have knee air bags, may not be equipped with certain interior safety countermeasures, and may not have been tested for bumper impact resistance procedures. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard numbers, 208, \"Occupant Crash Protection,\" 201, \"Occupant Protection in Interior Impact,\" and Part 581, \"Bumper Standards.\"",
-    "affectedPeople": "A noncompliant vehicle may have reduced occupant protections, increasing the risk of injury during a crash.",
-    "remedy": "Tesla will repurchase noncompliant vehicles currently registered in the United States, free of charge. Owner notification letters are expected to be mailed September 5, 2026. Owners may contact Tesla customer service at 1-877-798-3752 or resolutions@tesla.com. Tesla's number for this recall is SB-26-00-004.",
-    "payoutAmount": "Free repair, remedy, software update, or dealer service if stated by the NHTSA recall",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V445000",
-    "sourceAgency": "NHTSA",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26V445000",
-    "recallInitiationDate": "07/07/2026",
     "lastUpdated": "2026-10-15T21:22:11.388Z"
   },
   {

@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:22:14.167Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 282,
-      "query": "at&t data breach settlement payout timeline",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+data+breach+settlement+payout+timeline&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "at&t data breach settlement payout timeline",
-      "trendScore": 16,
-      "detectedAt": "2026-10-15T21:22:11.388Z"
-    }
-  ]
+  "updatedAt": "2026-10-16T04:31:22.212Z",
+  "count": 0,
+  "trends": []
 }

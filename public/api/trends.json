@@ -1,9 +1,24 @@
 {
-  "updatedAt": "2026-10-16T16:38:41.106Z",
-  "count": 2,
+  "updatedAt": "2026-10-16T21:11:06.519Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 222,
+      "rank": 91,
+      "query": "hyundai vehicle fire risk recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "hyundai vehicle fire risk recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-16T21:10:47.279Z"
+    },
+    {
+      "rank": 276,
       "query": "david bell lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -15,10 +30,10 @@
       "source": "serpapi-google-trends",
       "text": "david bell lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-16T16:38:38.498Z"
+      "detectedAt": "2026-10-16T21:10:47.279Z"
     },
     {
-      "rank": 357,
+      "rank": 373,
       "query": "california voter registration noncitizens lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -30,7 +45,7 @@
       "source": "serpapi-google-trends",
       "text": "california voter registration noncitizens lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-16T16:38:38.498Z"
+      "detectedAt": "2026-10-16T21:10:47.279Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-17T10:43:14.721Z",
+  "updatedAt": "2026-10-17T15:33:59.227Z",
   "count": 1,
   "trends": [
     {
-      "rank": 38,
+      "rank": 59,
       "query": "hyundai vehicle fire risk recall",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -15,7 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "hyundai vehicle fire risk recall",
       "trendScore": 23,
-      "detectedAt": "2026-10-17T10:43:12.762Z"
+      "detectedAt": "2026-10-17T15:33:55.246Z"
     }
   ]
 }

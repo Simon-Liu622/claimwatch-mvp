@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-10-17T15:33:59.227Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 59,
-      "query": "hyundai vehicle fire risk recall",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hyundai+vehicle+fire+risk+recall&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "hyundai vehicle fire risk recall",
-      "trendScore": 23,
-      "detectedAt": "2026-10-17T15:33:55.246Z"
-    }
-  ]
+  "updatedAt": "2026-10-17T20:35:44.382Z",
+  "count": 0,
+  "trends": []
 }

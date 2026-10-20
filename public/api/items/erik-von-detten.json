@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-20T17:02:37.740Z",
+  "updatedAt": "2026-10-20T21:36:40.293Z",
   "item": {
-    "id": "hot-dog",
-    "slug": "hot-dog",
-    "title": "Hot Dog: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "erik-von-detten",
+    "slug": "erik-von-detten",
+    "title": "Erik Von Detten: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "hot dog",
-    "category": "Recall monitoring",
+    "product": "erik von detten",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,18 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hot+dog&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 5000,
-    "trendScore": 27,
+    "trendScore": 25,
     "matchedQueries": [
-      "hot dog",
-      "kayem foods",
-      "kayem foods recall"
+      "erik von detten",
+      "erik von detten lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-20T17:02:34.922Z",
-    "url": "https://simon622.shop/item/hot-dog/"
+    "lastUpdated": "2026-10-20T21:36:31.495Z",
+    "url": "https://simon622.shop/item/erik-von-detten/"
   }
 }

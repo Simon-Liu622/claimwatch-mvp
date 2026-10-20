@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:02:37.740Z",
+  "updatedAt": "2026-10-20T21:36:40.293Z",
   "item": {
     "id": "cpsc-26750",
     "slug": "cpsc-26750",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
     "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
+    "searchVolume": 1000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "federal trade commission amazon prime settlement"
+    ],
     "officialVerified": true,
     "officialRecordId": "26750",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z",
+    "lastUpdated": "2026-10-20T21:36:31.495Z",
     "url": "https://simon622.shop/item/cpsc-26750/"
   }
 }

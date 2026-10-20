@@ -283,7 +283,7 @@
     "officialVerified": true,
     "officialRecordId": "23V782000",
     "recallInitiationDate": "21/11/2023",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v763000",
@@ -309,7 +309,7 @@
     "officialVerified": true,
     "officialRecordId": "24V763000",
     "recallInitiationDate": "14/10/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v859000",
@@ -335,7 +335,7 @@
     "officialVerified": true,
     "officialRecordId": "24V859000",
     "recallInitiationDate": "14/11/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "becton-dickinson-and-company-bd-spinal-tray-with-bd-whitacre-needle-22-g-x-3-5-in-lidocain",
@@ -619,7 +619,7 @@
     "officialVerified": true,
     "officialRecordId": "25V164000",
     "recallInitiationDate": "14/03/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-25v315000",
@@ -645,7 +645,7 @@
     "officialVerified": true,
     "officialRecordId": "25V315000",
     "recallInitiationDate": "09/05/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v142000",
@@ -960,37 +960,6 @@
     "lastUpdated": "2026-06-04T15:43:35.694Z"
   },
   {
-    "id": "hot-dog",
-    "slug": "hot-dog",
-    "title": "Hot Dog: Consumer Alert Monitoring",
-    "type": "recall",
-    "status": "monitoring",
-    "company": "",
-    "brand": "",
-    "product": "hot dog",
-    "category": "Recall monitoring",
-    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-    "remedy": "No consumer action is recommended until an official source is attached.",
-    "payoutAmount": "Not verified",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "",
-    "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hot+dog&tz=420",
-    "sourceAgency": "COMPANY",
-    "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 27,
-    "matchedQueries": [
-      "hot dog",
-      "kayem foods",
-      "kayem foods recall"
-    ],
-    "officialVerified": false,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
-  },
-  {
     "id": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "slug": "fsis-fsis-issues-public-health-alert-for-various-meat-and-poultry-products-containing-fda-",
     "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -1046,7 +1015,7 @@
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "21/02/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "aurobindo-pharma-usa-inc-amazon-acetaminophen-extra-strength-500mg-caplets-1000-count-bott",
@@ -1072,7 +1041,67 @@
     "officialVerified": true,
     "officialRecordId": "99934",
     "recallInitiationDate": "20260918",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "erik-von-detten",
+    "slug": "erik-von-detten",
+    "title": "Erik Von Detten: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "erik von detten",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 5000,
+    "trendScore": 25,
+    "matchedQueries": [
+      "erik von detten",
+      "erik von detten lawsuit"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "section-338-tariff-act-canada-lawsuit",
+    "slug": "section-338-tariff-act-canada-lawsuit",
+    "title": "Section 338 Tariff Act Canada Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "section 338 tariff act canada lawsuit",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 10000,
+    "trendScore": 25,
+    "matchedQueries": [
+      "section 338 tariff act canada lawsuit",
+      "tariff"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26659",
@@ -1176,7 +1205,7 @@
     "officialVerified": true,
     "officialRecordId": "26748",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "factory6-inc-zen-principle-naturals-moringa-leaf-powder-dietary-supplement-900mg-capsules-",
@@ -1388,7 +1417,7 @@
     "officialVerified": true,
     "officialRecordId": "26778",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26798",
@@ -1414,7 +1443,120 @@
     "officialVerified": true,
     "officialRecordId": "26798",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "cpsc-26754",
+    "slug": "cpsc-26754",
+    "title": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
+    "type": "recall",
+    "status": "active",
+    "company": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
+    "brand": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
+    "product": "Wantefully Hair Dryer Brushes",
+    "category": "Consumer product recall",
+    "summary": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
+    "affectedPeople": "Consumers who purchased: Wantefully Hair Dryer Brushes.",
+    "remedy": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
+    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
+    "sourceAgency": "CPSC",
+    "searchVolume": 1000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "federal trade commission amazon prime settlement"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26754",
+    "recallInitiationDate": "2026-09-10T00:00:00",
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "cpsc-26750",
+    "slug": "cpsc-26750",
+    "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
+    "type": "recall",
+    "status": "active",
+    "company": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
+    "brand": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
+    "product": "DHASUWT Hair Dryer and Blow Dryer Brushes",
+    "category": "Consumer product recall",
+    "summary": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
+    "affectedPeople": "Consumers who purchased: DHASUWT Hair Dryer and Blow Dryer Brushes.",
+    "remedy": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
+    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
+    "sourceAgency": "CPSC",
+    "searchVolume": 1000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "federal trade commission amazon prime settlement"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26750",
+    "recallInitiationDate": "2026-09-10T00:00:00",
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "cpsc-26790",
+    "slug": "cpsc-26790",
+    "title": "Hyperfuels Recalls Methanol and Ethanol Fuel Containers Due to Risk of Serious Injury or Death from Child Poisoning and Flame Jetting; Violates Multiple Federal Safety Standards",
+    "type": "recall",
+    "status": "active",
+    "company": "Sold At: The Asylum Automotive Store in Houston, Texas and online at Hyperfuels.com and Amazon.com from May 2024 through May 2026 for about $4.",
+    "brand": "Sold At: The Asylum Automotive Store in Houston, Texas and online at Hyperfuels.com and Amazon.com from May 2024 through May 2026 for about $4.",
+    "product": "Hyperfuels Methanol and Ethanol Fuel Containers",
+    "category": "Consumer product recall",
+    "summary": "This recall involves Hyperfuels ethanol and methanol fuel containers. The methanol container bears the Hyperfuels logo in red and associated phone number, the label bears “Methanol”, “Methanol, 3, UN1230, II”, and “Flammable Liquid” in black lettering. The ethanol container bears “E98”, “1 US Quart”, “Hyperfuels LLC” and associated phone number in black lettering.",
+    "affectedPeople": "Consumers who purchased: Hyperfuels Methanol and Ethanol Fuel Containers.",
+    "remedy": "Consumers should stop using the fuel containers immediately and contact Hyperfuels for a full refund or a replacement product. Consumers will be asked to destroy the fuel container by writing in permanent maker “RECALLED” on the product and to send a photo to sales@hyperfuels.com. Consumers should then dispose of the recalled product in accordance with local and/or state disposal procedures. Note: Recalled methanol and ethanol fuel should be disposed of in accordance with any local and state regulations, contact your local hazardous waste treatment center or inquire about professional recycling points. Do not dispose of methanol or ethanol in sewers, rainwater pipes or ordinary garbage cans to avoid causing fires or environmental pollution.",
+    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Hyperfuels-Recalls-Methanol-and-Ethanol-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-and-Flame-Jetting-Violates-Multiple-Federal-Safety-Standards",
+    "sourceAgency": "CPSC",
+    "searchVolume": 1000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "federal trade commission amazon prime settlement"
+    ],
+    "officialVerified": true,
+    "officialRecordId": "26790",
+    "recallInitiationDate": "2026-09-24T00:00:00",
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "id": "ford-truck-rollaway-defect-settlement",
+    "slug": "ford-truck-rollaway-defect-settlement",
+    "title": "Ford Truck Rollaway Defect Settlement: Consumer Alert Monitoring",
+    "type": "settlement",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "ford truck rollaway defect settlement",
+    "category": "Consumer monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+truck+rollaway+defect+settlement&tz=420",
+    "sourceAgency": "COURT",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 2000,
+    "trendScore": 23,
+    "matchedQueries": [
+      "ford truck rollaway defect settlement"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26735",
@@ -2486,7 +2628,7 @@
     "officialVerified": true,
     "officialRecordId": "26753",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26715",
@@ -2640,7 +2782,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "consumer-sentinel-network",
@@ -2664,7 +2806,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "ftc-refund-programs",
@@ -2688,7 +2830,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sign-up-for-consumer-alerts",
@@ -2712,7 +2854,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "find-refund-cases",
@@ -2736,7 +2878,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "consumer-advice",
@@ -2760,7 +2902,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "visit-militaryconsumer-gov",
@@ -2784,7 +2926,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "visit-consumer-gov",
@@ -2808,7 +2950,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "ftc-refunds-to-consumers",
@@ -2832,7 +2974,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "military-consumer",
@@ -2856,7 +2998,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "consumer-gov",
@@ -2880,7 +3022,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "data-on-refunds-to-consumers",
@@ -2904,7 +3046,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "everything-sprouts-llc-everything-sprouts-crunchy-protein-sprout-mix-containing-alfalfa-fe",
@@ -2930,7 +3072,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1339-2026",
     "recallInitiationDate": "20260822",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "taylor-fresh-foods-inc-tomato-salsa-fresca",
@@ -2956,7 +3098,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1364-2026",
     "recallInitiationDate": "20260807",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "wfm-purchasing-lp-fromagerie-coop-de-mean-cabricharme-and-belgium-cabricharme-shelf-life-3",
@@ -2982,7 +3124,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1395-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "gias-food-inc-lemon-alfredo-fettuccine-packed-in-a-yellow-plastic-sealed-bag-with-pink-and",
@@ -3008,7 +3150,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1396-2026",
     "recallInitiationDate": "20260903",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "kwok-shing-inc-american-ginsengs-product-of-wisconsin-net-wt-4-oz-net-wt-8-oz",
@@ -3034,7 +3176,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1393-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-light-brown-sugar-packaged-in-he-follow-configurations",
@@ -3060,7 +3202,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1391-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "unilever-north-america-supply-chain-company-llc-almond-joy-ice-cream-bar-2-0-fl-oz-ice-cre",
@@ -3086,7 +3228,7 @@
     "officialVerified": true,
     "officialRecordId": "99757",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "united-sugar-producers-and-refiners-powdered-sugar-packaged-in-the-following-configuration",
@@ -3112,7 +3254,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1392-2026",
     "recallInitiationDate": "20260819",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "wwf-operating-company-so-delicious-dairy-free-salted-caramel-cluster-cashewmilk-non-dairy-",
@@ -3138,7 +3280,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1394-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "evergreen-fresh-sprouts-llc-evergreen-fresh-sprouts-llc-broccoli-sprouts-packaged-in-clear",
@@ -3164,7 +3306,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1390-2026",
     "recallInitiationDate": "20260904",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "elegant-foods-llc-pecorino-toscano-d-o-p-stagionato-cheese-wheels-product-of-italy-each-ch",
@@ -3190,7 +3332,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1389-2026",
     "recallInitiationDate": "20260727",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-trp-the-relief-products-gentle-eyes-lubricant-eye-dro",
@@ -3216,7 +3358,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0860-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-avkare-carboxymethylcellulose-sodium-ophthalmic-solut",
@@ -3242,7 +3384,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0863-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "insight-pharmaceuticals-llc-a-prestige-consumer-healthcare-company-clear-eyes-redness-reli",
@@ -3268,7 +3410,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0871-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-lubricant-eye-drops-cameron-pharmaceuticals-carboxyme",
@@ -3294,7 +3436,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0862-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sterling-pharmaceutical-services-llc-reliable-1-laboratories-sodium-chloride-hypertonicity",
@@ -3320,7 +3462,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0856-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-salad-sprouting-mixture-broccoli-mustard-alfalfa-and-cabbage",
@@ -3346,7 +3488,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1407-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "galil-importing-corp-lior-brand-cinnamon-ground-seasoning-90g-transparent-plastic-containe",
@@ -3372,7 +3514,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1402-2026",
     "recallInitiationDate": "20260924",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "lmsi-llc-kofinas-garlic-mediterranean-infused-extra-virgin-olive-oil-packaged-in-3-4-fl-oz",
@@ -3398,7 +3540,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1399-2026",
     "recallInitiationDate": "20260829",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "admiral-beverage-corporation-7up-tropical-beverage-shelf-stable-12oz-can-in-a-12pk-wrap-la",
@@ -3424,7 +3566,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1397-2026",
     "recallInitiationDate": "20260820",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-broccoli-and-friends-sprouting-seed-mix-broccoli-alfalfa-rad",
@@ -3450,7 +3592,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1405-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "coco-g-s-snack-foods-inc-coco-g-s-courmet-flaming-cheddar-hots-spicy-cheddar-cheese-popcor",
@@ -3476,7 +3618,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1403-2026",
     "recallInitiationDate": "20260505",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "salata-dressings-llc-salata-salad-kitchen-jalapen-o-avocado-dressing-keep-refrigerated-pac",
@@ -3502,7 +3644,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1398-2026",
     "recallInitiationDate": "20260806",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-variety-pack-of-sprouting-seeds-broccoli-alfalfa-radish-mung",
@@ -3528,7 +3670,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1409-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-alfalfa-and-mung-bundle-1lb-each-packaged-separately-in-heat",
@@ -3554,7 +3696,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1408-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "slt-foods-inc-khazana-the-treasure-spice-magic-fennel-candy-5-lbs-poly-plastic-bag-4-per-c",
@@ -3580,7 +3722,7 @@
     "officialVerified": true,
     "officialRecordId": "H-0001-2027",
     "recallInitiationDate": "20260710",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-sprouting-seed-mix-broccoli-radish-alfalfa-packaged-in-heat-",
@@ -3606,7 +3748,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1406-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "toji-co-cloud-cafe-branded-collagen-milk-strawberry-milk-zero-caffeine-free-10pc-box",
@@ -3632,7 +3774,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1400-2026",
     "recallInitiationDate": "20260915",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "pacific-health-sciences-llc-organiccs-absolutely-pure-type-1-hydrolyzed-collagen-peptides-",
@@ -3658,7 +3800,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1401-2026",
     "recallInitiationDate": "20260914",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "todd-s-seeds-llc-todd-s-seeds-alfalfa-sprouting-seeds-packaged-in-heat-sealed-resealable-b",
@@ -3684,7 +3826,7 @@
     "officialVerified": true,
     "officialRecordId": "H-1404-2026",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sv-labs-toronto-corporation-benzoyl-peroxide-wash-usp-10-packaged-in-a-5-fl-oz-148ml-bottl",
@@ -3710,7 +3852,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0879-2026",
     "recallInitiationDate": "20260901",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "amneal-pharmaceuticals-llc-estradiol-gel-0-1-0-25-mg-30-packets-per-carton-rx-only",
@@ -3736,7 +3878,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0873-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "aurolab-trust-focus-pi-hypromellose-0-7-formula-0-3-fl-o-10-ml-per-vial-sterile-manufactur",
@@ -3762,7 +3904,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0874-2026",
     "recallInitiationDate": "20260917",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "tersera-therapeutics-llc-zoladex-goserelin-implant-3-6-mg-one-single-use-syringe-packaged-",
@@ -3788,7 +3930,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0875-2026",
     "recallInitiationDate": "20260831",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "apotex-corp-paroxetine-extended-release-tablets-37-5mg-30-count-bottle-rx-only",
@@ -3814,7 +3956,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0877-2026",
     "recallInitiationDate": "20260923",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "sv-labs-toronto-corporation-benzoyl-peroxide-wash-usp-5-5-fl-oz-148-ml",
@@ -3840,7 +3982,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0878-2026",
     "recallInitiationDate": "20260901",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "par-health-usa-llc-buprenorphine-hydrochloride-injection-0-3-mg-ml-rx-only-5-x-1-ml-single",
@@ -3866,7 +4008,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0876-2026",
     "recallInitiationDate": "20260908",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "ajanta-pharma-usa-inc-ranolazine-extended-release-tablets-1000-mg-60-count-bottle-rx-only-",
@@ -3892,7 +4034,7 @@
     "officialVerified": true,
     "officialRecordId": "D-0010-2027",
     "recallInitiationDate": "20260917",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-30-x-4-2-lin",
@@ -3918,7 +4060,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0004-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "medline-industries-lp-medline-basic-homecare-beds-and-medlite-homecare-beds-and-accessorie",
@@ -3944,7 +4086,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3228-2026",
     "recallInitiationDate": "20260814",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "philips-north-america-ingenia-3-0t-and-3-0t-cx-model-number-ref-1-781342-3-0t-2-781377-3-0",
@@ -3970,7 +4112,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3309-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-8-x-2-5-2-li",
@@ -3996,7 +4138,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0022-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-bb-tournquet-cuff-26-x-6-dua",
@@ -4022,7 +4164,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0037-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "spectrum-medical-srl-brand-name-quantum-pureflow-product-name-quantum-pureflow-standard-he",
@@ -4048,7 +4190,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3327-2026",
     "recallInitiationDate": "20260717",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "merit-medical-systems-inc-embosphere-500-700-micrometer-2-ml-syringe-sterile-steam-ref-s42",
@@ -4074,7 +4216,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3305-2026",
     "recallInitiationDate": "20260810",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "shanghai-united-imaging-healthcare-co-ltd-computed-tomography-x-ray-system-model-uct-530-w",
@@ -4100,7 +4242,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3277-2026",
     "recallInitiationDate": "20260811",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "percussionaire-corporation-intrapulmonary-percussive-ventilation-ipv-hc-product-number-s00",
@@ -4126,7 +4268,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3325-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-mpr-product-name-single-use-tourniquet-cuff-44-2-line-10-model-c",
@@ -4152,7 +4294,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0060-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "philips-north-america-mr-7700-model-number-ref-1-782120-2-782153-3-782155-4-782199-softwar",
@@ -4178,7 +4320,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3313-2026",
     "recallInitiationDate": "20260828",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-20-x-6-1-lin",
@@ -4204,7 +4346,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0018-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cardinal-health-200-llc-presource-packs-containing-stryker-strykeflow-ps-and-ahto-tube-set",
@@ -4230,7 +4372,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-3297-2026",
     "recallInitiationDate": "20260818",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "asp-global-llc-brand-name-expressaire-product-name-disposable-tourniquet-cuff-30-x-4-1-lin",
@@ -4256,7 +4398,7 @@
     "officialVerified": true,
     "officialRecordId": "Z-0012-2027",
     "recallInitiationDate": "20260824",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v329000",
@@ -4282,7 +4424,7 @@
     "officialVerified": true,
     "officialRecordId": "24V329000",
     "recallInitiationDate": "10/05/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v486000",
@@ -4308,7 +4450,7 @@
     "officialVerified": true,
     "officialRecordId": "24V486000",
     "recallInitiationDate": "28/06/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v851000",
@@ -4334,7 +4476,7 @@
     "officialVerified": true,
     "officialRecordId": "24V851000",
     "recallInitiationDate": "20/12/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v852000",
@@ -4360,7 +4502,7 @@
     "officialVerified": true,
     "officialRecordId": "24V852000",
     "recallInitiationDate": "08/11/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-25v022000",
@@ -4386,7 +4528,7 @@
     "officialVerified": true,
     "officialRecordId": "25V022000",
     "recallInitiationDate": "17/01/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-25v198000",
@@ -4412,7 +4554,7 @@
     "officialVerified": true,
     "officialRecordId": "25V198000",
     "recallInitiationDate": "28/03/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-25v512000",
@@ -4438,7 +4580,7 @@
     "officialVerified": true,
     "officialRecordId": "25V512000",
     "recallInitiationDate": "08/08/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-26v104000",
@@ -4464,7 +4606,7 @@
     "officialVerified": true,
     "officialRecordId": "26V104000",
     "recallInitiationDate": "20/02/2026",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-26v578000",
@@ -4490,7 +4632,7 @@
     "officialVerified": true,
     "officialRecordId": "26V578000",
     "recallInitiationDate": "09/09/2026",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v284000",
@@ -4516,7 +4658,7 @@
     "officialVerified": true,
     "officialRecordId": "24V284000",
     "recallInitiationDate": "19/04/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v554000",
@@ -4542,7 +4684,7 @@
     "officialVerified": true,
     "officialRecordId": "24V554000",
     "recallInitiationDate": "24/07/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-24v935000",
@@ -4568,7 +4710,7 @@
     "officialVerified": true,
     "officialRecordId": "24V935000",
     "recallInitiationDate": "17/12/2024",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-25v002000",
@@ -4594,7 +4736,7 @@
     "officialVerified": true,
     "officialRecordId": "25V002000",
     "recallInitiationDate": "07/01/2025",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "nhtsa-26v445000",
@@ -4620,7 +4762,7 @@
     "officialVerified": true,
     "officialRecordId": "26V445000",
     "recallInitiationDate": "07/07/2026",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26761",
@@ -4646,7 +4788,7 @@
     "officialVerified": true,
     "officialRecordId": "26761",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26756",
@@ -4672,33 +4814,7 @@
     "officialVerified": true,
     "officialRecordId": "26756",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
-  },
-  {
-    "id": "cpsc-26754",
-    "slug": "cpsc-26754",
-    "title": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
-    "type": "recall",
-    "status": "active",
-    "company": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
-    "brand": "Sold Online At: Amazon.com from February 2026 through March 2026 for about $30.",
-    "product": "Wantefully Hair Dryer Brushes",
-    "category": "Consumer product recall",
-    "summary": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
-    "affectedPeople": "Consumers who purchased: Wantefully Hair Dryer Brushes.",
-    "remedy": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
-    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
-    "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26754",
-    "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26764",
@@ -4724,33 +4840,7 @@
     "officialVerified": true,
     "officialRecordId": "26764",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
-  },
-  {
-    "id": "cpsc-26750",
-    "slug": "cpsc-26750",
-    "title": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
-    "type": "recall",
-    "status": "active",
-    "company": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
-    "brand": "Sold At: Amazon.com from October 2024 through June 2026 for about $27",
-    "product": "DHASUWT Hair Dryer and Blow Dryer Brushes",
-    "category": "Consumer product recall",
-    "summary": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
-    "affectedPeople": "Consumers who purchased: DHASUWT Hair Dryer and Blow Dryer Brushes.",
-    "remedy": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
-    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
-    "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26750",
-    "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26755",
@@ -4776,7 +4866,7 @@
     "officialVerified": true,
     "officialRecordId": "26755",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26752",
@@ -4802,7 +4892,7 @@
     "officialVerified": true,
     "officialRecordId": "26752",
     "recallInitiationDate": "2026-09-10T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26774",
@@ -4828,7 +4918,7 @@
     "officialVerified": true,
     "officialRecordId": "26774",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26775",
@@ -4854,7 +4944,7 @@
     "officialVerified": true,
     "officialRecordId": "26775",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26779",
@@ -4880,7 +4970,7 @@
     "officialVerified": true,
     "officialRecordId": "26779",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26780",
@@ -4906,7 +4996,7 @@
     "officialVerified": true,
     "officialRecordId": "26780",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26781",
@@ -4932,7 +5022,7 @@
     "officialVerified": true,
     "officialRecordId": "26781",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26783",
@@ -4958,7 +5048,7 @@
     "officialVerified": true,
     "officialRecordId": "26783",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26782",
@@ -4984,7 +5074,7 @@
     "officialVerified": true,
     "officialRecordId": "26782",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26785",
@@ -5010,7 +5100,7 @@
     "officialVerified": true,
     "officialRecordId": "26785",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26786",
@@ -5036,7 +5126,7 @@
     "officialVerified": true,
     "officialRecordId": "26786",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26773",
@@ -5062,7 +5152,7 @@
     "officialVerified": true,
     "officialRecordId": "26773",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26776",
@@ -5088,7 +5178,7 @@
     "officialVerified": true,
     "officialRecordId": "26776",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26777",
@@ -5114,7 +5204,7 @@
     "officialVerified": true,
     "officialRecordId": "26777",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26784",
@@ -5140,7 +5230,7 @@
     "officialVerified": true,
     "officialRecordId": "26784",
     "recallInitiationDate": "2026-09-17T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26789",
@@ -5166,7 +5256,7 @@
     "officialVerified": true,
     "officialRecordId": "26789",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26799",
@@ -5192,33 +5282,7 @@
     "officialVerified": true,
     "officialRecordId": "26799",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
-  },
-  {
-    "id": "cpsc-26790",
-    "slug": "cpsc-26790",
-    "title": "Hyperfuels Recalls Methanol and Ethanol Fuel Containers Due to Risk of Serious Injury or Death from Child Poisoning and Flame Jetting; Violates Multiple Federal Safety Standards",
-    "type": "recall",
-    "status": "active",
-    "company": "Sold At: The Asylum Automotive Store in Houston, Texas and online at Hyperfuels.com and Amazon.com from May 2024 through May 2026 for about $4.",
-    "brand": "Sold At: The Asylum Automotive Store in Houston, Texas and online at Hyperfuels.com and Amazon.com from May 2024 through May 2026 for about $4.",
-    "product": "Hyperfuels Methanol and Ethanol Fuel Containers",
-    "category": "Consumer product recall",
-    "summary": "This recall involves Hyperfuels ethanol and methanol fuel containers. The methanol container bears the Hyperfuels logo in red and associated phone number, the label bears “Methanol”, “Methanol, 3, UN1230, II”, and “Flammable Liquid” in black lettering. The ethanol container bears “E98”, “1 US Quart”, “Hyperfuels LLC” and associated phone number in black lettering.",
-    "affectedPeople": "Consumers who purchased: Hyperfuels Methanol and Ethanol Fuel Containers.",
-    "remedy": "Consumers should stop using the fuel containers immediately and contact Hyperfuels for a full refund or a replacement product. Consumers will be asked to destroy the fuel container by writing in permanent maker “RECALLED” on the product and to send a photo to sales@hyperfuels.com. Consumers should then dispose of the recalled product in accordance with local and/or state disposal procedures. Note: Recalled methanol and ethanol fuel should be disposed of in accordance with any local and state regulations, contact your local hazardous waste treatment center or inquire about professional recycling points. Do not dispose of methanol or ethanol in sewers, rainwater pipes or ordinary garbage cans to avoid causing fires or environmental pollution.",
-    "payoutAmount": "Repair, refund, replacement, or other remedy if stated by the CPSC notice",
-    "deadline": null,
-    "officialClaimUrl": "",
-    "officialSourceUrl": "https://cpsc.gov/Recalls/2026/Hyperfuels-Recalls-Methanol-and-Ethanol-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-and-Flame-Jetting-Violates-Multiple-Federal-Safety-Standards",
-    "sourceAgency": "CPSC",
-    "searchVolume": "",
-    "trendScore": 0,
-    "matchedQueries": [],
-    "officialVerified": true,
-    "officialRecordId": "26790",
-    "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26797",
@@ -5244,7 +5308,7 @@
     "officialVerified": true,
     "officialRecordId": "26797",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26792",
@@ -5270,7 +5334,7 @@
     "officialVerified": true,
     "officialRecordId": "26792",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26796",
@@ -5296,7 +5360,7 @@
     "officialVerified": true,
     "officialRecordId": "26796",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26791",
@@ -5322,7 +5386,7 @@
     "officialVerified": true,
     "officialRecordId": "26791",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26793",
@@ -5348,7 +5412,7 @@
     "officialVerified": true,
     "officialRecordId": "26793",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26794",
@@ -5374,7 +5438,7 @@
     "officialVerified": true,
     "officialRecordId": "26794",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-26788",
@@ -5400,7 +5464,7 @@
     "officialVerified": true,
     "officialRecordId": "26788",
     "recallInitiationDate": "2026-09-24T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27003",
@@ -5426,7 +5490,7 @@
     "officialVerified": true,
     "officialRecordId": "27003",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27014",
@@ -5452,7 +5516,7 @@
     "officialVerified": true,
     "officialRecordId": "27014",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27007",
@@ -5478,7 +5542,7 @@
     "officialVerified": true,
     "officialRecordId": "27007",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27012",
@@ -5504,7 +5568,7 @@
     "officialVerified": true,
     "officialRecordId": "27012",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27004",
@@ -5530,7 +5594,7 @@
     "officialVerified": true,
     "officialRecordId": "27004",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27008",
@@ -5556,7 +5620,7 @@
     "officialVerified": true,
     "officialRecordId": "27008",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27009",
@@ -5582,7 +5646,7 @@
     "officialVerified": true,
     "officialRecordId": "27009",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27013",
@@ -5608,7 +5672,7 @@
     "officialVerified": true,
     "officialRecordId": "27013",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27011",
@@ -5634,7 +5698,7 @@
     "officialVerified": true,
     "officialRecordId": "27011",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27006",
@@ -5660,7 +5724,7 @@
     "officialVerified": true,
     "officialRecordId": "27006",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27010",
@@ -5686,7 +5750,7 @@
     "officialVerified": true,
     "officialRecordId": "27010",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27005",
@@ -5712,7 +5776,7 @@
     "officialVerified": true,
     "officialRecordId": "27005",
     "recallInitiationDate": "2026-10-01T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27017",
@@ -5738,7 +5802,7 @@
     "officialVerified": true,
     "officialRecordId": "27017",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27016",
@@ -5764,7 +5828,7 @@
     "officialVerified": true,
     "officialRecordId": "27016",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27015",
@@ -5790,7 +5854,7 @@
     "officialVerified": true,
     "officialRecordId": "27015",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27018",
@@ -5816,7 +5880,7 @@
     "officialVerified": true,
     "officialRecordId": "27018",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27019",
@@ -5842,7 +5906,7 @@
     "officialVerified": true,
     "officialRecordId": "27019",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27020",
@@ -5868,7 +5932,7 @@
     "officialVerified": true,
     "officialRecordId": "27020",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27021",
@@ -5894,7 +5958,7 @@
     "officialVerified": true,
     "officialRecordId": "27021",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27022",
@@ -5920,7 +5984,7 @@
     "officialVerified": true,
     "officialRecordId": "27022",
     "recallInitiationDate": "2026-10-08T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27024",
@@ -5946,7 +6010,7 @@
     "officialVerified": true,
     "officialRecordId": "27024",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27025",
@@ -5972,7 +6036,7 @@
     "officialVerified": true,
     "officialRecordId": "27025",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27027",
@@ -5998,7 +6062,7 @@
     "officialVerified": true,
     "officialRecordId": "27027",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27028",
@@ -6024,7 +6088,7 @@
     "officialVerified": true,
     "officialRecordId": "27028",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27029",
@@ -6050,7 +6114,7 @@
     "officialVerified": true,
     "officialRecordId": "27029",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "cpsc-27026",
@@ -6076,7 +6140,7 @@
     "officialVerified": true,
     "officialRecordId": "27026",
     "recallInitiationDate": "2026-10-15T00:00:00",
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "how-the-ftc-provides-refunds",
@@ -6100,7 +6164,7 @@
     "trendScore": 0,
     "matchedQueries": [],
     "officialVerified": true,
-    "lastUpdated": "2026-10-20T17:02:34.922Z"
+    "lastUpdated": "2026-10-20T21:36:31.495Z"
   },
   {
     "id": "ftc-sends-more-than-9-8-million-to-consumers-harmed-by-walmart-s-failure-to-stop-scammers-",

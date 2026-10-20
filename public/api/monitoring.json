@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-20T17:02:37.740Z",
-  "count": 1,
+  "updatedAt": "2026-10-20T21:36:40.293Z",
+  "count": 3,
   "items": [
     {
-      "id": "hot-dog",
-      "slug": "hot-dog",
-      "title": "Hot Dog: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "erik-von-detten",
+      "slug": "erik-von-detten",
+      "title": "Erik Von Detten: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "hot dog",
-      "category": "Recall monitoring",
+      "product": "erik von detten",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,18 +20,76 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hot+dog&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 5000,
-      "trendScore": 27,
+      "trendScore": 25,
       "matchedQueries": [
-        "hot dog",
-        "kayem foods",
-        "kayem foods recall"
+        "erik von detten",
+        "erik von detten lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-20T17:02:34.922Z"
+      "lastUpdated": "2026-10-20T21:36:31.495Z"
+    },
+    {
+      "id": "section-338-tariff-act-canada-lawsuit",
+      "slug": "section-338-tariff-act-canada-lawsuit",
+      "title": "Section 338 Tariff Act Canada Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "section 338 tariff act canada lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 25,
+      "matchedQueries": [
+        "section 338 tariff act canada lawsuit",
+        "tariff"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-20T21:36:31.495Z"
+    },
+    {
+      "id": "ford-truck-rollaway-defect-settlement",
+      "slug": "ford-truck-rollaway-defect-settlement",
+      "title": "Ford Truck Rollaway Defect Settlement: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ford truck rollaway defect settlement",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+truck+rollaway+defect+settlement&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ford truck rollaway defect settlement"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-20T21:36:31.495Z"
     }
   ]
 }

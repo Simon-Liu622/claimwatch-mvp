@@ -1,20 +1,66 @@
 [
   {
-    "rank": 46,
-    "query": "hot dog",
+    "rank": 56,
+    "query": "erik von detten",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "kayem foods",
-      "kayem foods recall"
+      "erik von detten lawsuit"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hot+dog&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "hot dog kayem foods kayem foods recall",
-    "trendScore": 27,
-    "detectedAt": "2026-10-20T17:02:34.922Z"
+    "text": "erik von detten erik von detten lawsuit",
+    "trendScore": 25,
+    "detectedAt": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "rank": 173,
+    "query": "section 338 tariff act canada lawsuit",
+    "searchVolume": 10000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "tariff"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "section 338 tariff act canada lawsuit tariff",
+    "trendScore": 25,
+    "detectedAt": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "rank": 113,
+    "query": "federal trade commission amazon prime settlement",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+trade+commission+amazon+prime+settlement&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "federal trade commission amazon prime settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-10-20T21:36:31.495Z"
+  },
+  {
+    "rank": 140,
+    "query": "ford truck rollaway defect settlement",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+truck+rollaway+defect+settlement&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "ford truck rollaway defect settlement",
+    "trendScore": 23,
+    "detectedAt": "2026-10-20T21:36:31.495Z"
   }
 ]

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T11:48:02.405Z",
+  "updatedAt": "2026-10-21T17:11:14.809Z",
   "item": {
-    "id": "erik-von-detten",
-    "slug": "erik-von-detten",
-    "title": "Erik Von Detten: Consumer Alert Monitoring",
+    "id": "erik-von-detten-lawsuit",
+    "slug": "erik-von-detten-lawsuit",
+    "title": "Erik Von Detten Lawsuit: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "erik von detten",
+    "product": "erik von detten lawsuit",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,17 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 26,
+    "searchVolume": 2000,
+    "trendScore": 8,
     "matchedQueries": [
-      "erik von detten",
       "erik von detten lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-21T11:47:58.853Z",
-    "url": "https://simon622.shop/item/erik-von-detten/"
+    "lastUpdated": "2026-10-21T17:11:11.520Z",
+    "url": "https://simon622.shop/item/erik-von-detten-lawsuit/"
   }
 }

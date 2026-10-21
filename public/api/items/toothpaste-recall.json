@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:48:02.405Z",
+  "updatedAt": "2026-10-21T17:11:14.809Z",
   "item": {
     "id": "toothpaste-recall",
     "slug": "toothpaste-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
       "toothpaste recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-21T11:47:58.853Z",
+    "lastUpdated": "2026-10-21T17:11:11.520Z",
     "url": "https://simon622.shop/item/toothpaste-recall/"
   }
 }

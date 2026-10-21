@@ -1,8 +1,8 @@
 [
   {
-    "rank": 56,
+    "rank": 25,
     "query": "erik von detten",
-    "searchVolume": 5000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -10,57 +10,102 @@
       "erik von detten lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 500,
     "source": "serpapi-google-trends",
     "text": "erik von detten erik von detten lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-10-20T21:36:31.495Z"
+    "trendScore": 26,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
   },
   {
-    "rank": 173,
-    "query": "section 338 tariff act canada lawsuit",
-    "searchVolume": 10000,
+    "rank": 73,
+    "query": "kayem bacon and deli recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "tariff"
+      "hot dog"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
-    "increasePercentage": 50,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+bacon+and+deli+recall&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "section 338 tariff act canada lawsuit tariff",
-    "trendScore": 25,
-    "detectedAt": "2026-10-20T21:36:31.495Z"
+    "text": "kayem bacon and deli recall hot dog",
+    "trendScore": 26,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
   },
   {
-    "rank": 113,
-    "query": "federal trade commission amazon prime settlement",
-    "searchVolume": 1000,
+    "rank": 67,
+    "query": "toothpaste recall",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+trade+commission+amazon+prime+settlement&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "federal trade commission amazon prime settlement",
+    "text": "toothpaste recall",
     "trendScore": 23,
-    "detectedAt": "2026-10-20T21:36:31.495Z"
+    "detectedAt": "2026-10-21T04:45:17.780Z"
   },
   {
-    "rank": 140,
+    "rank": 221,
+    "query": "federal trade commission amazon prime settlement",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=federal+trade+commission+amazon+prime+settlement&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "federal trade commission amazon prime settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
+  },
+  {
+    "rank": 325,
+    "query": "central virginia oyster salmonella outbreak",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=central+virginia+oyster+salmonella+outbreak&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "central virginia oyster salmonella outbreak",
+    "trendScore": 8,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
+  },
+  {
+    "rank": 336,
     "query": "ford truck rollaway defect settlement",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+truck+rollaway+defect+settlement&tz=420",
     "increasePercentage": 50,
     "source": "serpapi-google-trends",
     "text": "ford truck rollaway defect settlement",
-    "trendScore": 23,
-    "detectedAt": "2026-10-20T21:36:31.495Z"
+    "trendScore": 8,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
+  },
+  {
+    "rank": 410,
+    "query": "section 338 tariff act canada lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "section 338 tariff act canada lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-21T04:45:17.780Z"
   }
 ]

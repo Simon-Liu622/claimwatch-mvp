@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T21:36:40.293Z",
+  "updatedAt": "2026-10-21T04:45:21.598Z",
   "item": {
     "id": "erik-von-detten",
     "slug": "erik-von-detten",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
       "erik von detten",
       "erik von detten lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-20T21:36:31.495Z",
+    "lastUpdated": "2026-10-21T04:45:17.780Z",
     "url": "https://simon622.shop/item/erik-von-detten/"
   }
 }

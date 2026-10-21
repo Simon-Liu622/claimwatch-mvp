@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T21:36:40.293Z",
-  "count": 3,
+  "updatedAt": "2026-10-21T04:45:21.598Z",
+  "count": 6,
   "items": [
     {
       "id": "erik-von-detten",
@@ -23,14 +23,73 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 25,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
         "erik von detten",
         "erik von detten lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-20T21:36:31.495Z"
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
+    },
+    {
+      "id": "kayem-bacon-and-deli-recall",
+      "slug": "kayem-bacon-and-deli-recall",
+      "title": "Kayem Bacon And Deli Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "kayem bacon and deli recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+bacon+and+deli+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 20000,
+      "trendScore": 26,
+      "matchedQueries": [
+        "kayem bacon and deli recall",
+        "hot dog"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
+    },
+    {
+      "id": "toothpaste-recall",
+      "slug": "toothpaste-recall",
+      "title": "Toothpaste Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "toothpaste recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 5000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "toothpaste recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
     },
     {
       "id": "section-338-tariff-act-canada-lawsuit",
@@ -53,14 +112,14 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 25,
+      "searchVolume": 500,
+      "trendScore": 8,
       "matchedQueries": [
         "section 338 tariff act canada lawsuit",
         "tariff"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-20T21:36:31.495Z"
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
     },
     {
       "id": "ford-truck-rollaway-defect-settlement",
@@ -84,12 +143,41 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "ford truck rollaway defect settlement"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-20T21:36:31.495Z"
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
+    },
+    {
+      "id": "central-virginia-oyster-salmonella-outbreak",
+      "slug": "central-virginia-oyster-salmonella-outbreak",
+      "title": "Central Virginia Oyster Salmonella Outbreak: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "central virginia oyster salmonella outbreak",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=central+virginia+oyster+salmonella+outbreak&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 8,
+      "matchedQueries": [
+        "central virginia oyster salmonella outbreak"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-21T04:45:17.780Z"
     }
   ]
 }

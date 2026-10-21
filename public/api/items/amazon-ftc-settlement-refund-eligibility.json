@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T17:11:14.809Z",
+  "updatedAt": "2026-10-21T21:42:07.954Z",
   "item": {
-    "id": "erik-von-detten-lawsuit",
-    "slug": "erik-von-detten-lawsuit",
-    "title": "Erik Von Detten Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "amazon-ftc-settlement-refund-eligibility",
+    "slug": "amazon-ftc-settlement-refund-eligibility",
+    "title": "Amazon Ftc Settlement Refund Eligibility: Consumer Alert Monitoring",
+    "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "erik von detten lawsuit",
+    "product": "amazon ftc settlement refund eligibility",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+refund+eligibility&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
     "searchVolume": 2000,
-    "trendScore": 8,
+    "trendScore": 24,
     "matchedQueries": [
-      "erik von detten lawsuit"
+      "amazon ftc settlement refund eligibility"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-21T17:11:11.520Z",
-    "url": "https://simon622.shop/item/erik-von-detten-lawsuit/"
+    "lastUpdated": "2026-10-21T21:42:04.903Z",
+    "url": "https://simon622.shop/item/amazon-ftc-settlement-refund-eligibility/"
   }
 }

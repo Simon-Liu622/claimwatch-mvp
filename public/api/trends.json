@@ -1,28 +1,26 @@
 {
-  "updatedAt": "2026-10-21T17:11:14.809Z",
-  "count": 9,
+  "updatedAt": "2026-10-21T21:42:07.954Z",
+  "count": 7,
   "trends": [
     {
-      "rank": 83,
-      "query": "amazon ftc settlement refund eligibility",
-      "searchVolume": 5000,
+      "rank": 11,
+      "query": "toothpaste recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "federal trade commission amazon prime settlement"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+refund+eligibility&tz=420",
-      "increasePercentage": 400,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
-      "text": "amazon ftc settlement refund eligibility federal trade commission amazon prime settlement",
-      "trendScore": 41,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "text": "toothpaste recall",
+      "trendScore": 24,
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     },
     {
-      "rank": 26,
+      "rank": 69,
       "query": "kayem bacon and deli recall",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -31,26 +29,41 @@
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "kayem bacon and deli recall",
-      "trendScore": 23,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "trendScore": 24,
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     },
     {
-      "rank": 43,
-      "query": "toothpaste recall",
-      "searchVolume": 10000,
+      "rank": 164,
+      "query": "amazon ftc settlement refund eligibility",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+refund+eligibility&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "amazon ftc settlement refund eligibility",
+      "trendScore": 24,
+      "detectedAt": "2026-10-21T21:42:04.903Z"
+    },
+    {
+      "rank": 108,
+      "query": "jeffrey epstein zorro ranch lawsuit",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
-      "increasePercentage": 400,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+zorro+ranch+lawsuit&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "toothpaste recall",
+      "text": "jeffrey epstein zorro ranch lawsuit",
       "trendScore": 23,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     },
     {
-      "rank": 206,
+      "rank": 254,
       "query": "glp 1 medication safety recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -62,25 +75,10 @@
       "source": "serpapi-google-trends",
       "text": "glp 1 medication safety recall",
       "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     },
     {
-      "rank": 235,
-      "query": "ford truck rollaway defect settlement",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+truck+rollaway+defect+settlement&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "ford truck rollaway defect settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
-    },
-    {
-      "rank": 342,
+      "rank": 382,
       "query": "us forest service reorganization lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -92,25 +90,10 @@
       "source": "serpapi-google-trends",
       "text": "us forest service reorganization lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     },
     {
-      "rank": 354,
-      "query": "erik von detten lawsuit",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erik+von+detten+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "erik von detten lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
-    },
-    {
-      "rank": 365,
+      "rank": 413,
       "query": "class action",
       "searchVolume": 500,
       "startedAt": "",
@@ -122,22 +105,7 @@
       "source": "serpapi-google-trends",
       "text": "class action",
       "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
-    },
-    {
-      "rank": 507,
-      "query": "section 338 tariff act canada lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=section+338+tariff+act+canada+lawsuit&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "section 338 tariff act canada lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-10-21T17:11:11.520Z"
+      "detectedAt": "2026-10-21T21:42:04.903Z"
     }
   ]
 }

@@ -1,21 +1,56 @@
 {
-  "updatedAt": "2026-10-22T17:09:42.389Z",
-  "count": 1,
+  "updatedAt": "2026-10-22T21:34:51.760Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 442,
-      "query": "jeffrey epstein zorro ranch lawsuit",
-      "searchVolume": 2000,
+      "rank": 153,
+      "query": "toothpaste recall 2026",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+zorro+ranch+lawsuit&tz=420",
-      "increasePercentage": 75,
+      "active": true,
+      "breakdown": [
+        "toothpaste",
+        "brush buddies toothpaste recall fda",
+        "brush buddies toothpaste",
+        "brush buddies"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall+2026&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "jeffrey epstein zorro ranch lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-10-22T17:09:39.979Z"
+      "text": "toothpaste recall 2026 toothpaste brush buddies toothpaste recall fda brush buddies toothpaste brush buddies",
+      "trendScore": 31,
+      "detectedAt": "2026-10-22T21:34:50.197Z"
+    },
+    {
+      "rank": 95,
+      "query": "walmart fruit cocktail lead recall",
+      "searchVolume": 1000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+fruit+cocktail+lead+recall&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "walmart fruit cocktail lead recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-22T21:34:50.197Z"
+    },
+    {
+      "rank": 188,
+      "query": "kayem hot dog and bacon recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+hot+dog+and+bacon+recall&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "kayem hot dog and bacon recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-22T21:34:50.197Z"
     }
   ]
 }

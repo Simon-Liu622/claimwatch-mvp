@@ -1,24 +1,9 @@
 {
-  "updatedAt": "2026-10-22T11:51:20.228Z",
-  "count": 3,
+  "updatedAt": "2026-10-22T17:09:42.389Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 370,
-      "query": "amazon ftc settlement refund eligibility",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+ftc+settlement+refund+eligibility&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "amazon ftc settlement refund eligibility",
-      "trendScore": 24,
-      "detectedAt": "2026-10-22T11:51:17.326Z"
-    },
-    {
-      "rank": 422,
+      "rank": 442,
       "query": "jeffrey epstein zorro ranch lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
@@ -30,22 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "jeffrey epstein zorro ranch lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-10-22T11:51:17.326Z"
-    },
-    {
-      "rank": 547,
-      "query": "mercedes-benz of massapequa lawsuit",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes-benz+of+massapequa+lawsuit&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "mercedes-benz of massapequa lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-10-22T11:51:17.326Z"
+      "detectedAt": "2026-10-22T17:09:39.979Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 [
   {
-    "rank": 350,
+    "rank": 370,
     "query": "amazon ftc settlement refund eligibility",
     "searchVolume": 2000,
     "startedAt": "",
@@ -12,10 +12,10 @@
     "source": "serpapi-google-trends",
     "text": "amazon ftc settlement refund eligibility",
     "trendScore": 24,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
+    "detectedAt": "2026-10-22T11:51:17.326Z"
   },
   {
-    "rank": 380,
+    "rank": 422,
     "query": "jeffrey epstein zorro ranch lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -27,25 +27,10 @@
     "source": "serpapi-google-trends",
     "text": "jeffrey epstein zorro ranch lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
+    "detectedAt": "2026-10-22T11:51:17.326Z"
   },
   {
-    "rank": 407,
-    "query": "glp 1 medication safety recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=glp+1+medication+safety+recall&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "glp 1 medication safety recall",
-    "trendScore": 8,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
-  },
-  {
-    "rank": 499,
+    "rank": 547,
     "query": "mercedes-benz of massapequa lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -57,36 +42,6 @@
     "source": "serpapi-google-trends",
     "text": "mercedes-benz of massapequa lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
-  },
-  {
-    "rank": 517,
-    "query": "us forest service reorganization lawsuit",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us+forest+service+reorganization+lawsuit&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "us forest service reorganization lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
-  },
-  {
-    "rank": 545,
-    "query": "class action",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=class+action&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "class action",
-    "trendScore": 8,
-    "detectedAt": "2026-10-22T04:43:44.879Z"
+    "detectedAt": "2026-10-22T11:51:17.326Z"
   }
 ]

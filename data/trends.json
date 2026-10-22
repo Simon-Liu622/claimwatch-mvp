@@ -1,36 +1,6 @@
 [
   {
-    "rank": 11,
-    "query": "toothpaste recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
-    "increasePercentage": 800,
-    "source": "serpapi-google-trends",
-    "text": "toothpaste recall",
-    "trendScore": 24,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
-  },
-  {
-    "rank": 69,
-    "query": "kayem bacon and deli recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+bacon+and+deli+recall&tz=420",
-    "increasePercentage": 400,
-    "source": "serpapi-google-trends",
-    "text": "kayem bacon and deli recall",
-    "trendScore": 24,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
-  },
-  {
-    "rank": 164,
+    "rank": 350,
     "query": "amazon ftc settlement refund eligibility",
     "searchVolume": 2000,
     "startedAt": "",
@@ -42,25 +12,25 @@
     "source": "serpapi-google-trends",
     "text": "amazon ftc settlement refund eligibility",
     "trendScore": 24,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
+    "detectedAt": "2026-10-22T04:43:44.879Z"
   },
   {
-    "rank": 108,
+    "rank": 380,
     "query": "jeffrey epstein zorro ranch lawsuit",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+zorro+ranch+lawsuit&tz=420",
     "increasePercentage": 75,
     "source": "serpapi-google-trends",
     "text": "jeffrey epstein zorro ranch lawsuit",
-    "trendScore": 23,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
+    "trendScore": 8,
+    "detectedAt": "2026-10-22T04:43:44.879Z"
   },
   {
-    "rank": 254,
+    "rank": 407,
     "query": "glp 1 medication safety recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -72,10 +42,25 @@
     "source": "serpapi-google-trends",
     "text": "glp 1 medication safety recall",
     "trendScore": 8,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
+    "detectedAt": "2026-10-22T04:43:44.879Z"
   },
   {
-    "rank": 382,
+    "rank": 499,
+    "query": "mercedes-benz of massapequa lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes-benz+of+massapequa+lawsuit&tz=420",
+    "increasePercentage": 75,
+    "source": "serpapi-google-trends",
+    "text": "mercedes-benz of massapequa lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-22T04:43:44.879Z"
+  },
+  {
+    "rank": 517,
     "query": "us forest service reorganization lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -87,10 +72,10 @@
     "source": "serpapi-google-trends",
     "text": "us forest service reorganization lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
+    "detectedAt": "2026-10-22T04:43:44.879Z"
   },
   {
-    "rank": 413,
+    "rank": 545,
     "query": "class action",
     "searchVolume": 500,
     "startedAt": "",
@@ -102,6 +87,6 @@
     "source": "serpapi-google-trends",
     "text": "class action",
     "trendScore": 8,
-    "detectedAt": "2026-10-21T21:42:04.903Z"
+    "detectedAt": "2026-10-22T04:43:44.879Z"
   }
 ]

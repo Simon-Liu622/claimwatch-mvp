@@ -1,66 +1,7 @@
 {
-  "updatedAt": "2026-10-21T21:42:07.954Z",
-  "count": 7,
+  "updatedAt": "2026-10-22T04:43:51.374Z",
+  "count": 6,
   "items": [
-    {
-      "id": "kayem-bacon-and-deli-recall",
-      "slug": "kayem-bacon-and-deli-recall",
-      "title": "Kayem Bacon And Deli Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "kayem bacon and deli recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+bacon+and+deli+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "kayem bacon and deli recall",
-        "hot dog"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
-    },
-    {
-      "id": "toothpaste-recall",
-      "slug": "toothpaste-recall",
-      "title": "Toothpaste Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "toothpaste recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 24,
-      "matchedQueries": [
-        "toothpaste recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
-    },
     {
       "id": "amazon-ftc-settlement-refund-eligibility",
       "slug": "amazon-ftc-settlement-refund-eligibility",
@@ -88,7 +29,7 @@
         "amazon ftc settlement refund eligibility"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
     },
     {
       "id": "jeffrey-epstein-zorro-ranch-lawsuit",
@@ -111,13 +52,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeffrey+epstein+zorro+ranch+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "jeffrey epstein zorro ranch lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
     },
     {
       "id": "glp-1-medication-safety-recall",
@@ -146,7 +87,7 @@
         "glp 1 medication safety recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
     },
     {
       "id": "class-action",
@@ -175,7 +116,7 @@
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
     },
     {
       "id": "us-forest-service-reorganization-lawsuit",
@@ -204,7 +145,36 @@
         "us forest service reorganization lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-21T21:42:04.903Z"
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
+    },
+    {
+      "id": "mercedes-benz-of-massapequa-lawsuit",
+      "slug": "mercedes-benz-of-massapequa-lawsuit",
+      "title": "Mercedes-Benz Of Massapequa Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "mercedes-benz of massapequa lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mercedes-benz+of+massapequa+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "mercedes-benz of massapequa lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-10-22T04:43:44.879Z"
     }
   ]
 }

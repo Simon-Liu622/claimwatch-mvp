@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:37:47.390Z",
+  "updatedAt": "2026-10-23T17:05:54.896Z",
   "item": {
     "id": "kayem-hot-dog-and-bacon-recall",
     "slug": "kayem-hot-dog-and-bacon-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+hot+dog+and+bacon+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 5000,
+    "searchVolume": 10000,
     "trendScore": 23,
     "matchedQueries": [
       "kayem hot dog and bacon recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-23T11:37:44.376Z",
+    "lastUpdated": "2026-10-23T17:05:52.769Z",
     "url": "https://simon622.shop/item/kayem-hot-dog-and-bacon-recall/"
   }
 }

@@ -1,53 +1,51 @@
 {
-  "updatedAt": "2026-10-23T11:37:47.390Z",
+  "updatedAt": "2026-10-23T17:05:54.896Z",
   "count": 3,
   "trends": [
     {
-      "rank": 45,
-      "query": "toothpaste recall 2026",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "toothpaste"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall+2026&tz=420",
-      "increasePercentage": 300,
-      "source": "serpapi-google-trends",
-      "text": "toothpaste recall 2026 toothpaste",
-      "trendScore": 25,
-      "detectedAt": "2026-10-23T11:37:44.376Z"
-    },
-    {
-      "rank": 35,
+      "rank": 28,
       "query": "kayem hot dog and bacon recall",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+hot+dog+and+bacon+recall&tz=420",
-      "increasePercentage": 200,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
       "text": "kayem hot dog and bacon recall",
       "trendScore": 23,
-      "detectedAt": "2026-10-23T11:37:44.376Z"
+      "detectedAt": "2026-10-23T17:05:52.769Z"
     },
     {
-      "rank": 72,
+      "rank": 34,
       "query": "walmart fruit cocktail lead recall",
-      "searchVolume": 2000,
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+fruit+cocktail+lead+recall&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 200,
       "source": "serpapi-google-trends",
       "text": "walmart fruit cocktail lead recall",
       "trendScore": 23,
-      "detectedAt": "2026-10-23T11:37:44.376Z"
+      "detectedAt": "2026-10-23T17:05:52.769Z"
+    },
+    {
+      "rank": 104,
+      "query": "toothpaste recall 2026",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall+2026&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "toothpaste recall 2026",
+      "trendScore": 8,
+      "detectedAt": "2026-10-23T17:05:52.769Z"
     }
   ]
 }

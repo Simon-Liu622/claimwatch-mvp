@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T21:34:51.760Z",
+  "updatedAt": "2026-10-23T04:48:10.613Z",
   "count": 3,
   "trends": [
     {
-      "rank": 153,
+      "rank": 53,
       "query": "toothpaste recall 2026",
       "searchVolume": 10000,
       "startedAt": "",
@@ -11,21 +11,34 @@
       "active": true,
       "breakdown": [
         "toothpaste",
-        "brush buddies toothpaste recall fda",
-        "brush buddies toothpaste",
         "brush buddies"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall+2026&tz=420",
-      "increasePercentage": 50,
+      "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "toothpaste recall 2026 toothpaste brush buddies toothpaste recall fda brush buddies toothpaste brush buddies",
-      "trendScore": 31,
-      "detectedAt": "2026-10-22T21:34:50.197Z"
+      "text": "toothpaste recall 2026 toothpaste brush buddies",
+      "trendScore": 27,
+      "detectedAt": "2026-10-23T04:48:07.796Z"
     },
     {
-      "rank": 95,
+      "rank": 71,
+      "query": "kayem hot dog and bacon recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+hot+dog+and+bacon+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "kayem hot dog and bacon recall",
+      "trendScore": 23,
+      "detectedAt": "2026-10-23T04:48:07.796Z"
+    },
+    {
+      "rank": 136,
       "query": "walmart fruit cocktail lead recall",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -35,22 +48,7 @@
       "source": "serpapi-google-trends",
       "text": "walmart fruit cocktail lead recall",
       "trendScore": 23,
-      "detectedAt": "2026-10-22T21:34:50.197Z"
-    },
-    {
-      "rank": 188,
-      "query": "kayem hot dog and bacon recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kayem+hot+dog+and+bacon+recall&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "kayem hot dog and bacon recall",
-      "trendScore": 23,
-      "detectedAt": "2026-10-22T21:34:50.197Z"
+      "detectedAt": "2026-10-23T04:48:07.796Z"
     }
   ]
 }

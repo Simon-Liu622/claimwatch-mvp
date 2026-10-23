@@ -1,24 +1,23 @@
 [
   {
-    "rank": 53,
+    "rank": 45,
     "query": "toothpaste recall 2026",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "toothpaste",
-      "brush buddies"
+      "toothpaste"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toothpaste+recall+2026&tz=420",
-    "increasePercentage": 400,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "toothpaste recall 2026 toothpaste brush buddies",
-    "trendScore": 27,
-    "detectedAt": "2026-10-23T04:48:07.796Z"
+    "text": "toothpaste recall 2026 toothpaste",
+    "trendScore": 25,
+    "detectedAt": "2026-10-23T11:37:44.376Z"
   },
   {
-    "rank": 71,
+    "rank": 35,
     "query": "kayem hot dog and bacon recall",
     "searchVolume": 5000,
     "startedAt": "",
@@ -30,10 +29,10 @@
     "source": "serpapi-google-trends",
     "text": "kayem hot dog and bacon recall",
     "trendScore": 23,
-    "detectedAt": "2026-10-23T04:48:07.796Z"
+    "detectedAt": "2026-10-23T11:37:44.376Z"
   },
   {
-    "rank": 136,
+    "rank": 72,
     "query": "walmart fruit cocktail lead recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -45,6 +44,6 @@
     "source": "serpapi-google-trends",
     "text": "walmart fruit cocktail lead recall",
     "trendScore": 23,
-    "detectedAt": "2026-10-23T04:48:07.796Z"
+    "detectedAt": "2026-10-23T11:37:44.376Z"
   }
 ]

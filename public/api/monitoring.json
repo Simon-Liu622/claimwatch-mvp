@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:48:10.613Z",
+  "updatedAt": "2026-10-23T11:37:47.390Z",
   "count": 3,
   "items": [
     {
@@ -24,7 +24,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 27,
+      "trendScore": 25,
       "matchedQueries": [
         "toothpaste recall 2026",
         "toothpaste",
@@ -33,7 +33,7 @@
         "brush buddies"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-23T04:48:07.796Z"
+      "lastUpdated": "2026-10-23T11:37:44.376Z"
     },
     {
       "id": "walmart-fruit-cocktail-lead-recall",
@@ -62,7 +62,7 @@
         "walmart fruit cocktail lead recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-23T04:48:07.796Z"
+      "lastUpdated": "2026-10-23T11:37:44.376Z"
     },
     {
       "id": "kayem-hot-dog-and-bacon-recall",
@@ -91,7 +91,7 @@
         "kayem hot dog and bacon recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-23T04:48:07.796Z"
+      "lastUpdated": "2026-10-23T11:37:44.376Z"
     }
   ]
 }

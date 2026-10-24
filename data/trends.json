@@ -1,21 +1,37 @@
 [
   {
-    "rank": 110,
+    "rank": 78,
     "query": "my chemical romance hollywood bowl lawsuit",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "dallas cowboys cheerleaders",
       "my chemical romance",
       "my chemical romance hollywood bowl",
       "hollywood bowl"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=my+chemical+romance+hollywood+bowl+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
-    "text": "my chemical romance hollywood bowl lawsuit my chemical romance my chemical romance hollywood bowl hollywood bowl",
-    "trendScore": 29,
-    "detectedAt": "2026-10-24T15:56:12.782Z"
+    "text": "my chemical romance hollywood bowl lawsuit dallas cowboys cheerleaders my chemical romance my chemical romance hollywood bowl hollywood bowl",
+    "trendScore": 31,
+    "detectedAt": "2026-10-24T20:48:36.265Z"
+  },
+  {
+    "rank": 109,
+    "query": "product recall",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+    "increasePercentage": 500,
+    "source": "serpapi-google-trends",
+    "text": "product recall",
+    "trendScore": 23,
+    "detectedAt": "2026-10-24T20:48:36.265Z"
   }
 ]

@@ -1,5 +1,25 @@
 {
-  "updatedAt": "2026-10-24T10:58:56.779Z",
-  "count": 0,
-  "trends": []
+  "updatedAt": "2026-10-24T15:56:16.651Z",
+  "count": 1,
+  "trends": [
+    {
+      "rank": 110,
+      "query": "my chemical romance hollywood bowl lawsuit",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "my chemical romance",
+        "my chemical romance hollywood bowl",
+        "hollywood bowl"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=my+chemical+romance+hollywood+bowl+lawsuit&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "my chemical romance hollywood bowl lawsuit my chemical romance my chemical romance hollywood bowl hollywood bowl",
+      "trendScore": 29,
+      "detectedAt": "2026-10-24T15:56:12.782Z"
+    }
+  ]
 }

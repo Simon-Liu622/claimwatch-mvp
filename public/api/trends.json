@@ -1,41 +1,59 @@
 {
-  "updatedAt": "2026-10-24T20:48:38.345Z",
-  "count": 2,
+  "updatedAt": "2026-10-25T04:40:00.412Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 78,
+      "rank": 201,
       "query": "my chemical romance hollywood bowl lawsuit",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
+        "mcr dallas cowboys",
+        "my chemical romance dallas cheerleaders",
         "dallas cowboys cheerleaders",
-        "my chemical romance",
         "my chemical romance hollywood bowl",
         "hollywood bowl"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=my+chemical+romance+hollywood+bowl+lawsuit&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "my chemical romance hollywood bowl lawsuit dallas cowboys cheerleaders my chemical romance my chemical romance hollywood bowl hollywood bowl",
-      "trendScore": 31,
-      "detectedAt": "2026-10-24T20:48:36.265Z"
+      "text": "my chemical romance hollywood bowl lawsuit mcr dallas cowboys my chemical romance dallas cheerleaders dallas cowboys cheerleaders my chemical romance hollywood bowl hollywood bowl",
+      "trendScore": 18,
+      "detectedAt": "2026-10-25T04:39:56.110Z"
     },
     {
-      "rank": 109,
+      "rank": 412,
       "query": "product recall",
-      "searchVolume": 1000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
-      "breakdown": [],
+      "active": false,
+      "breakdown": [
+        "wal mart"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 300,
       "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 23,
-      "detectedAt": "2026-10-24T20:48:36.265Z"
+      "text": "product recall wal mart",
+      "trendScore": 10,
+      "detectedAt": "2026-10-25T04:39:56.110Z"
+    },
+    {
+      "rank": 557,
+      "query": "ncaa division 3 athletic scholarships lawsuit",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ncaa+division+3+athletic+scholarships+lawsuit&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "ncaa division 3 athletic scholarships lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-10-25T04:39:56.110Z"
     }
   ]
 }

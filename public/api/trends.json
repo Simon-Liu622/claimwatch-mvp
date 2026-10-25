@@ -1,28 +1,9 @@
 {
-  "updatedAt": "2026-10-25T11:27:40.189Z",
-  "count": 3,
+  "updatedAt": "2026-10-25T16:18:00.138Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 82,
-      "query": "mcr dallas cowboys",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "my chemical romance dallas cheerleaders",
-        "my chemical romance hollywood bowl lawsuit",
-        "dallas cowboys cheerleaders"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcr+dallas+cowboys&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "mcr dallas cowboys my chemical romance dallas cheerleaders my chemical romance hollywood bowl lawsuit dallas cowboys cheerleaders",
-      "trendScore": 29,
-      "detectedAt": "2026-10-25T11:27:36.100Z"
-    },
-    {
-      "rank": 413,
+      "rank": 487,
       "query": "product recall",
       "searchVolume": 2000,
       "startedAt": "",
@@ -34,22 +15,7 @@
       "source": "serpapi-google-trends",
       "text": "product recall",
       "trendScore": 8,
-      "detectedAt": "2026-10-25T11:27:36.100Z"
-    },
-    {
-      "rank": 554,
-      "query": "ncaa division 3 athletic scholarships lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ncaa+division+3+athletic+scholarships+lawsuit&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "ncaa division 3 athletic scholarships lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-10-25T11:27:36.100Z"
+      "detectedAt": "2026-10-25T16:17:46.763Z"
     }
   ]
 }

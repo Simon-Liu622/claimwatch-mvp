@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-25T04:40:00.412Z",
+  "updatedAt": "2026-10-25T11:27:40.189Z",
   "count": 2,
   "items": [
     {
-      "id": "my-chemical-romance-hollywood-bowl-lawsuit",
-      "slug": "my-chemical-romance-hollywood-bowl-lawsuit",
-      "title": "My Chemical Romance Hollywood Bowl Lawsuit: Consumer Alert Monitoring",
+      "id": "mcr-dallas-cowboys",
+      "slug": "mcr-dallas-cowboys",
+      "title": "Mcr Dallas Cowboys: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "my chemical romance hollywood bowl lawsuit",
+      "product": "mcr dallas cowboys",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,22 +20,19 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=my+chemical+romance+hollywood+bowl+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcr+dallas+cowboys&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
-      "trendScore": 18,
+      "trendScore": 29,
       "matchedQueries": [
-        "my chemical romance hollywood bowl lawsuit",
-        "my chemical romance",
-        "my chemical romance hollywood bowl",
-        "hollywood bowl",
-        "dallas cowboys cheerleaders",
         "mcr dallas cowboys",
-        "my chemical romance dallas cheerleaders"
+        "my chemical romance dallas cheerleaders",
+        "my chemical romance hollywood bowl lawsuit",
+        "dallas cowboys cheerleaders"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-25T04:39:56.110Z"
+      "lastUpdated": "2026-10-25T11:27:36.100Z"
     },
     {
       "id": "ncaa-division-3-athletic-scholarships-lawsuit",
@@ -64,7 +61,7 @@
         "ncaa division 3 athletic scholarships lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-25T04:39:56.110Z"
+      "lastUpdated": "2026-10-25T11:27:36.100Z"
     }
   ]
 }

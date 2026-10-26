@@ -1,5 +1,39 @@
 {
-  "updatedAt": "2026-10-26T13:01:20.049Z",
-  "count": 0,
-  "trends": []
+  "updatedAt": "2026-10-26T22:39:24.500Z",
+  "count": 2,
+  "trends": [
+    {
+      "rank": 21,
+      "query": "at&t settlement payout dates texas",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+settlement+payout+dates+texas&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "at&t settlement payout dates texas",
+      "trendScore": 32,
+      "detectedAt": "2026-10-26T22:39:20.785Z"
+    },
+    {
+      "rank": 98,
+      "query": "ftc lawsuit dollar general pricing",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "ftc dollar general price lawsuit",
+        "i heart radio"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+lawsuit+dollar+general+pricing&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "ftc lawsuit dollar general pricing ftc dollar general price lawsuit i heart radio",
+      "trendScore": 27,
+      "detectedAt": "2026-10-26T22:39:20.785Z"
+    }
+  ]
 }

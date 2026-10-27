@@ -1,52 +1,54 @@
 [
   {
-    "rank": 2,
+    "rank": 4,
     "query": "at&t 2024 data breach settlement",
     "searchVolume": 100000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "at&t legal settlement december payout",
-      "at&t settlement payout dates texas"
+      "at&t legal settlement december payout"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=at%26t+2024+data+breach+settlement&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "at&t 2024 data breach settlement at&t legal settlement december payout at&t settlement payout dates texas",
-    "trendScore": 38,
-    "detectedAt": "2026-10-27T12:10:19.547Z"
+    "text": "at&t 2024 data breach settlement at&t legal settlement december payout",
+    "trendScore": 36,
+    "detectedAt": "2026-10-27T18:00:01.366Z"
   },
   {
-    "rank": 126,
-    "query": "ftc lawsuit dollar general pricing",
-    "searchVolume": 5000,
+    "rank": 7,
+    "query": "walmart great value fruit cocktail recall",
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
+      "canned fruit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+great+value+fruit+cocktail+recall&tz=420",
+    "increasePercentage": 1000,
+    "source": "serpapi-google-trends",
+    "text": "walmart great value fruit cocktail recall canned fruit",
+    "trendScore": 26,
+    "detectedAt": "2026-10-27T18:00:01.366Z"
+  },
+  {
+    "rank": 192,
+    "query": "ftc lawsuit dollar general pricing",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "dollar general",
       "ftc dollar general price lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ftc+lawsuit+dollar+general+pricing&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "ftc lawsuit dollar general pricing ftc dollar general price lawsuit",
-    "trendScore": 25,
-    "detectedAt": "2026-10-27T12:10:19.547Z"
-  },
-  {
-    "rank": 16,
-    "query": "walmart great value fruit cocktail recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+great+value+fruit+cocktail+recall&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "walmart great value fruit cocktail recall",
-    "trendScore": 24,
-    "detectedAt": "2026-10-27T12:10:19.547Z"
+    "text": "ftc lawsuit dollar general pricing dollar general ftc dollar general price lawsuit",
+    "trendScore": 12,
+    "detectedAt": "2026-10-27T18:00:01.366Z"
   }
 ]

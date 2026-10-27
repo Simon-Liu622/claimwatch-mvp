@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:10:30.049Z",
+  "updatedAt": "2026-10-27T18:00:14.627Z",
   "item": {
     "id": "walmart-great-value-fruit-cocktail-recall",
     "slug": "walmart-great-value-fruit-cocktail-recall",
@@ -21,13 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+great+value+fruit+cocktail+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 50000,
+    "trendScore": 26,
     "matchedQueries": [
-      "walmart great value fruit cocktail recall"
+      "walmart great value fruit cocktail recall",
+      "canned fruit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-27T12:10:19.547Z",
+    "lastUpdated": "2026-10-27T18:00:01.366Z",
     "url": "https://simon622.shop/item/walmart-great-value-fruit-cocktail-recall/"
   }
 }

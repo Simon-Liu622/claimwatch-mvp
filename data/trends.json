@@ -1,39 +1,37 @@
 [
   {
-    "rank": 91,
+    "rank": 21,
     "query": "butter recalled",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [
+      "product recall",
       "miyoko plant based butter recall",
-      "recalled butter",
       "miyoko's creamery",
       "butter recall"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butter+recalled&tz=420",
-    "increasePercentage": 900,
+    "increasePercentage": 700,
     "source": "serpapi-google-trends",
-    "text": "butter recalled miyoko plant based butter recall recalled butter miyoko's creamery butter recall",
-    "trendScore": 17,
-    "detectedAt": "2026-10-28T22:34:14.181Z"
+    "text": "butter recalled product recall miyoko plant based butter recall miyoko's creamery butter recall",
+    "trendScore": 32,
+    "detectedAt": "2026-10-29T05:46:28.575Z"
   },
   {
-    "rank": 367,
+    "rank": 488,
     "query": "lawsuit",
     "searchVolume": 500,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "ms now"
-    ],
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "lawsuit ms now",
-    "trendScore": 10,
-    "detectedAt": "2026-10-28T22:34:14.181Z"
+    "text": "lawsuit",
+    "trendScore": 8,
+    "detectedAt": "2026-10-29T05:46:28.575Z"
   }
 ]

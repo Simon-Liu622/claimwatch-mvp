@@ -1,37 +1,34 @@
 [
   {
-    "rank": 42,
+    "rank": 29,
     "query": "miyoko's creamery plant butter recall",
-    "searchVolume": 10000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "miyoko plant based butter recall",
-      "product recall",
-      "miyoko's european style salted recall",
       "miyoko's creamery"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miyoko%27s+creamery+plant+butter+recall&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "miyoko's creamery plant butter recall miyoko plant based butter recall product recall miyoko's european style salted recall miyoko's creamery",
-    "trendScore": 31,
-    "detectedAt": "2026-10-29T12:59:31.338Z"
+    "text": "miyoko's creamery plant butter recall miyoko's creamery",
+    "trendScore": 26,
+    "detectedAt": "2026-10-29T22:44:19.690Z"
   },
   {
-    "rank": 532,
-    "query": "lawsuit",
-    "searchVolume": 500,
+    "rank": 190,
+    "query": "salmonella",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "lawsuit",
+    "text": "salmonella",
     "trendScore": 8,
-    "detectedAt": "2026-10-29T12:59:31.338Z"
+    "detectedAt": "2026-10-29T22:44:19.690Z"
   }
 ]

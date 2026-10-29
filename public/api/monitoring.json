@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-29T12:59:34.401Z",
+  "updatedAt": "2026-10-29T22:44:22.122Z",
   "count": 1,
   "items": [
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "miyoko-s-creamery-plant-butter-recall",
+      "slug": "miyoko-s-creamery-plant-butter-recall",
+      "title": "Miyoko'S Creamery Plant Butter Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
+      "product": "miyoko's creamery plant butter recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,17 +20,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miyoko%27s+creamery+plant+butter+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
+      "searchVolume": 20000,
+      "trendScore": 26,
       "matchedQueries": [
-        "lawsuit",
-        "ms now"
+        "miyoko's creamery plant butter recall",
+        "miyoko's creamery"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-29T12:59:31.338Z"
+      "lastUpdated": "2026-10-29T22:44:19.690Z"
     }
   ]
 }

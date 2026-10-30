@@ -1,34 +1,34 @@
 [
   {
-    "rank": 29,
-    "query": "miyoko's creamery plant butter recall",
-    "searchVolume": 20000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "miyoko's creamery"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miyoko%27s+creamery+plant+butter+recall&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "miyoko's creamery plant butter recall miyoko's creamery",
-    "trendScore": 26,
-    "detectedAt": "2026-10-29T22:44:19.690Z"
-  },
-  {
-    "rank": 190,
+    "rank": 105,
     "query": "salmonella",
     "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
     "text": "salmonella",
-    "trendScore": 8,
-    "detectedAt": "2026-10-29T22:44:19.690Z"
+    "trendScore": 23,
+    "detectedAt": "2026-10-30T05:47:37.258Z"
+  },
+  {
+    "rank": 229,
+    "query": "for profit college sudden closure debt",
+    "searchVolume": 5000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [
+      "closed school discharge program lawsuit"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=for+profit+college+sudden+closure+debt&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "for profit college sudden closure debt closed school discharge program lawsuit",
+    "trendScore": 10,
+    "detectedAt": "2026-10-30T05:47:37.258Z"
   }
 ]

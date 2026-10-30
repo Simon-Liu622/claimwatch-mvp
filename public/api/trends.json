@@ -1,38 +1,24 @@
 {
-  "updatedAt": "2026-10-30T12:54:30.874Z",
-  "count": 2,
+  "updatedAt": "2026-10-30T22:18:35.363Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 84,
+      "rank": 185,
       "query": "closed school discharge program lawsuit",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
+        "trump administration student loan forgiveness lawsuit",
         "loans"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=closed+school+discharge+program+lawsuit&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "closed school discharge program lawsuit loans",
-      "trendScore": 25,
-      "detectedAt": "2026-10-30T12:54:23.224Z"
-    },
-    {
-      "rank": 239,
-      "query": "salmonella",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "salmonella",
-      "trendScore": 8,
-      "detectedAt": "2026-10-30T12:54:23.224Z"
+      "text": "closed school discharge program lawsuit trump administration student loan forgiveness lawsuit loans",
+      "trendScore": 12,
+      "detectedAt": "2026-10-30T22:18:33.384Z"
     }
   ]
 }

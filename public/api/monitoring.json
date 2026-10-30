@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:54:30.874Z",
+  "updatedAt": "2026-10-30T22:18:35.363Z",
   "count": 1,
   "items": [
     {
@@ -24,13 +24,14 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 25,
+      "trendScore": 12,
       "matchedQueries": [
         "closed school discharge program lawsuit",
-        "loans"
+        "loans",
+        "trump administration student loan forgiveness lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-30T12:54:23.224Z"
+      "lastUpdated": "2026-10-30T22:18:33.384Z"
     }
   ]
 }

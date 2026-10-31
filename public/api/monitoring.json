@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-31T12:27:33.558Z",
-  "count": 3,
+  "updatedAt": "2026-10-31T21:32:44.748Z",
+  "count": 2,
   "items": [
     {
-      "id": "mcdonald-s-mcrib-class-action-lawsuit",
-      "slug": "mcdonald-s-mcrib-class-action-lawsuit",
-      "title": "Mcdonald'S Mcrib Class Action Lawsuit: Consumer Alert Monitoring",
+      "id": "mcrib-lawsuit",
+      "slug": "mcrib-lawsuit",
+      "title": "Mcrib Lawsuit: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "mcdonald's mcrib class action lawsuit",
+      "product": "mcrib lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,17 +20,20 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+class+action+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcrib+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 34,
+      "searchVolume": 50000,
+      "trendScore": 40,
       "matchedQueries": [
+        "mcrib lawsuit",
         "mcdonald's mcrib class action lawsuit",
-        "mcrib lawsuit"
+        "mcdonalds",
+        "aol mail login",
+        "mc donalds"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-31T12:27:29.361Z"
+      "lastUpdated": "2026-10-31T21:32:42.289Z"
     },
     {
       "id": "once-upon-a-farm-tractor-wheels-recall",
@@ -53,46 +56,17 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 27,
+      "searchVolume": 20000,
+      "trendScore": 32,
       "matchedQueries": [
         "once upon a farm tractor wheels recall",
         "tractor wheels recall",
-        "once upon a farm tractor wheels"
+        "once upon a farm tractor wheels",
+        "once upon a farm recall",
+        "once upon a farm"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-31T12:27:29.361Z"
-    },
-    {
-      "id": "loan",
-      "slug": "loan",
-      "title": "Loan: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "loan",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=loan&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 12,
-      "matchedQueries": [
-        "loan",
-        "trump administration student loan forgiveness lawsuit",
-        "loans"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-10-31T12:27:29.361Z"
+      "lastUpdated": "2026-10-31T21:32:42.289Z"
     }
   ]
 }

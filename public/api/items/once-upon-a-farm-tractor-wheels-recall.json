@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:27:33.558Z",
+  "updatedAt": "2026-10-31T21:32:44.748Z",
   "item": {
     "id": "once-upon-a-farm-tractor-wheels-recall",
     "slug": "once-upon-a-farm-tractor-wheels-recall",
@@ -21,15 +21,17 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 27,
+    "searchVolume": 20000,
+    "trendScore": 32,
     "matchedQueries": [
       "once upon a farm tractor wheels recall",
       "tractor wheels recall",
-      "once upon a farm tractor wheels"
+      "once upon a farm tractor wheels",
+      "once upon a farm recall",
+      "once upon a farm"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-31T12:27:29.361Z",
+    "lastUpdated": "2026-10-31T21:32:42.289Z",
     "url": "https://simon622.shop/item/once-upon-a-farm-tractor-wheels-recall/"
   }
 }

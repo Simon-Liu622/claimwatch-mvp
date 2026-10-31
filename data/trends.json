@@ -1,35 +1,55 @@
 [
   {
-    "rank": 14,
+    "rank": 22,
     "query": "mcdonald's mcrib class action lawsuit",
     "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [],
+    "breakdown": [
+      "mcrib lawsuit"
+    ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+class+action+lawsuit&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "mcdonald's mcrib class action lawsuit",
-    "trendScore": 32,
-    "detectedAt": "2026-10-31T05:39:30.085Z"
+    "text": "mcdonald's mcrib class action lawsuit mcrib lawsuit",
+    "trendScore": 34,
+    "detectedAt": "2026-10-31T12:27:29.361Z"
   },
   {
-    "rank": 227,
+    "rank": 52,
+    "query": "once upon a farm tractor wheels recall",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [
+      "tractor wheels recall",
+      "once upon a farm tractor wheels"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
+    "increasePercentage": 800,
+    "source": "serpapi-google-trends",
+    "text": "once upon a farm tractor wheels recall tractor wheels recall once upon a farm tractor wheels",
+    "trendScore": 27,
+    "detectedAt": "2026-10-31T12:27:29.361Z"
+  },
+  {
+    "rank": 230,
     "query": "loan",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "trump administration student loan forgiveness lawsuit",
-      "loans"
+      "loans",
+      "trump administration student loan forgiveness lawsuit"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=loan&tz=420",
     "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "loan trump administration student loan forgiveness lawsuit loans",
+    "text": "loan loans trump administration student loan forgiveness lawsuit",
     "trendScore": 12,
-    "detectedAt": "2026-10-31T05:39:30.085Z"
+    "detectedAt": "2026-10-31T12:27:29.361Z"
   }
 ]

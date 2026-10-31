@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T22:18:35.363Z",
+  "updatedAt": "2026-10-31T05:39:32.163Z",
   "item": {
-    "id": "closed-school-discharge-program-lawsuit",
-    "slug": "closed-school-discharge-program-lawsuit",
-    "title": "Closed School Discharge Program Lawsuit: Consumer Alert Monitoring",
+    "id": "loan",
+    "slug": "loan",
+    "title": "Loan: Consumer Alert Monitoring",
     "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "closed school discharge program lawsuit",
+    "product": "loan",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,18 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=closed+school+discharge+program+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=loan&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
+    "searchVolume": 5000,
     "trendScore": 12,
     "matchedQueries": [
-      "closed school discharge program lawsuit",
-      "loans",
-      "trump administration student loan forgiveness lawsuit"
+      "loan",
+      "trump administration student loan forgiveness lawsuit",
+      "loans"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-10-30T22:18:33.384Z",
-    "url": "https://simon622.shop/item/closed-school-discharge-program-lawsuit/"
+    "lastUpdated": "2026-10-31T05:39:30.085Z",
+    "url": "https://simon622.shop/item/loan/"
   }
 }

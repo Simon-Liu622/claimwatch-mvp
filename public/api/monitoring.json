@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T13:23:15.166Z",
-  "count": 4,
+  "updatedAt": "2026-11-01T22:00:50.576Z",
+  "count": 3,
   "items": [
     {
       "id": "mcdonald-s-mcrib-lawsuit",
@@ -35,7 +35,7 @@
         "mcdonald"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-01T13:23:12.619Z"
+      "lastUpdated": "2026-11-01T22:00:47.641Z"
     },
     {
       "id": "november-2026-class-action-settlements",
@@ -59,12 +59,12 @@
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
       "searchVolume": 200,
-      "trendScore": 31,
+      "trendScore": 16,
       "matchedQueries": [
         "november 2026 class action settlements"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-01T13:23:12.619Z"
+      "lastUpdated": "2026-11-01T22:00:47.641Z"
     },
     {
       "id": "masters-tournament-catering-bill-lawsuit",
@@ -87,43 +87,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=masters+tournament+catering+bill+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "masters tournament catering bill lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-01T13:23:12.619Z"
-    },
-    {
-      "id": "once-upon-a-farm",
-      "slug": "once-upon-a-farm",
-      "title": "Once Upon A Farm: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "once upon a farm",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "once upon a farm",
-        "once upon a farm recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-01T13:23:12.619Z"
+      "lastUpdated": "2026-11-01T22:00:47.641Z"
     }
   ]
 }

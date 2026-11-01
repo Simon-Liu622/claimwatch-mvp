@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T13:23:15.166Z",
-  "count": 4,
+  "updatedAt": "2026-11-01T22:00:50.576Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 29,
+      "rank": 37,
       "query": "mcdonald's mcrib lawsuit",
       "searchVolume": 50000,
       "startedAt": "",
@@ -17,58 +17,41 @@
         "mcdonald"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
-      "increasePercentage": 1000,
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
       "text": "mcdonald's mcrib lawsuit mcdonalds mcdonalds mcrib lawsuit mc donalds mcdonalds menu mcdonald",
       "trendScore": 34,
-      "detectedAt": "2026-11-01T13:23:12.619Z"
+      "detectedAt": "2026-11-01T22:00:47.641Z"
     },
     {
-      "rank": 157,
+      "rank": 546,
       "query": "november 2026 class action settlements",
       "searchVolume": 200,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=november+2026+class+action+settlements&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
       "text": "november 2026 class action settlements",
-      "trendScore": 31,
-      "detectedAt": "2026-11-01T13:23:12.619Z"
+      "trendScore": 16,
+      "detectedAt": "2026-11-01T22:00:47.641Z"
     },
     {
-      "rank": 110,
+      "rank": 336,
       "query": "masters tournament catering bill lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=masters+tournament+catering+bill+lawsuit&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "masters tournament catering bill lawsuit",
-      "trendScore": 23,
-      "detectedAt": "2026-11-01T13:23:12.619Z"
-    },
-    {
-      "rank": 334,
-      "query": "once upon a farm",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "once upon a farm recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm&tz=420",
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=masters+tournament+catering+bill+lawsuit&tz=420",
       "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "once upon a farm once upon a farm recall",
-      "trendScore": 10,
-      "detectedAt": "2026-11-01T13:23:12.619Z"
+      "text": "masters tournament catering bill lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-11-01T22:00:47.641Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 [
   {
-    "rank": 36,
+    "rank": 29,
     "query": "mcdonald's mcrib lawsuit",
-    "searchVolume": 20000,
+    "searchVolume": 50000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
@@ -10,33 +10,61 @@
       "mcdonalds",
       "mcdonalds mcrib lawsuit",
       "mc donalds",
-      "aol mail login"
+      "mcdonalds menu",
+      "mcdonald"
     ],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
     "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "mcdonald's mcrib lawsuit mcdonalds mcdonalds mcrib lawsuit mc donalds aol mail login",
-    "trendScore": 32,
-    "detectedAt": "2026-11-01T06:02:37.782Z"
+    "text": "mcdonald's mcrib lawsuit mcdonalds mcdonalds mcrib lawsuit mc donalds mcdonalds menu mcdonald",
+    "trendScore": 34,
+    "detectedAt": "2026-11-01T13:23:12.619Z"
   },
   {
-    "rank": 128,
-    "query": "once upon a farm tractor wheels recall",
-    "searchVolume": 20000,
+    "rank": 157,
+    "query": "november 2026 class action settlements",
+    "searchVolume": 200,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=november+2026+class+action+settlements&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "november 2026 class action settlements",
+    "trendScore": 31,
+    "detectedAt": "2026-11-01T13:23:12.619Z"
+  },
+  {
+    "rank": 110,
+    "query": "masters tournament catering bill lawsuit",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=masters+tournament+catering+bill+lawsuit&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "masters tournament catering bill lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-11-01T13:23:12.619Z"
+  },
+  {
+    "rank": 334,
+    "query": "once upon a farm",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
     "breakdown": [
-      "tractor wheels recall",
-      "once upon a farm tractor wheels",
-      "once upon a farm recall",
-      "once upon a farm"
+      "once upon a farm recall"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
-    "increasePercentage": 500,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm&tz=420",
+    "increasePercentage": 75,
     "source": "serpapi-google-trends",
-    "text": "once upon a farm tractor wheels recall tractor wheels recall once upon a farm tractor wheels once upon a farm recall once upon a farm",
-    "trendScore": 17,
-    "detectedAt": "2026-11-01T06:02:37.782Z"
+    "text": "once upon a farm once upon a farm recall",
+    "trendScore": 10,
+    "detectedAt": "2026-11-01T13:23:12.619Z"
   }
 ]

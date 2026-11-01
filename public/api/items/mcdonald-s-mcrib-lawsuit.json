@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:02:45.324Z",
+  "updatedAt": "2026-11-01T13:23:15.166Z",
   "item": {
     "id": "mcdonald-s-mcrib-lawsuit",
     "slug": "mcdonald-s-mcrib-lawsuit",
@@ -21,17 +21,19 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 32,
+    "searchVolume": 50000,
+    "trendScore": 34,
     "matchedQueries": [
       "mcdonald's mcrib lawsuit",
       "mcdonalds",
       "mcdonalds mcrib lawsuit",
       "mc donalds",
-      "aol mail login"
+      "aol mail login",
+      "mcdonalds menu",
+      "mcdonald"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-01T06:02:37.782Z",
+    "lastUpdated": "2026-11-01T13:23:12.619Z",
     "url": "https://simon622.shop/item/mcdonald-s-mcrib-lawsuit/"
   }
 }

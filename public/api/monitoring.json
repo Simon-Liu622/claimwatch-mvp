@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T06:02:45.324Z",
-  "count": 2,
+  "updatedAt": "2026-11-01T13:23:15.166Z",
+  "count": 4,
   "items": [
     {
       "id": "mcdonald-s-mcrib-lawsuit",
@@ -23,27 +23,87 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 32,
+      "searchVolume": 50000,
+      "trendScore": 34,
       "matchedQueries": [
         "mcdonald's mcrib lawsuit",
         "mcdonalds",
         "mcdonalds mcrib lawsuit",
         "mc donalds",
-        "aol mail login"
+        "aol mail login",
+        "mcdonalds menu",
+        "mcdonald"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-01T06:02:37.782Z"
+      "lastUpdated": "2026-11-01T13:23:12.619Z"
     },
     {
-      "id": "once-upon-a-farm-tractor-wheels-recall",
-      "slug": "once-upon-a-farm-tractor-wheels-recall",
-      "title": "Once Upon A Farm Tractor Wheels Recall: Consumer Alert Monitoring",
+      "id": "november-2026-class-action-settlements",
+      "slug": "november-2026-class-action-settlements",
+      "title": "November 2026 Class Action Settlements: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "november 2026 class action settlements",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=november+2026+class+action+settlements&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 200,
+      "trendScore": 31,
+      "matchedQueries": [
+        "november 2026 class action settlements"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-01T13:23:12.619Z"
+    },
+    {
+      "id": "masters-tournament-catering-bill-lawsuit",
+      "slug": "masters-tournament-catering-bill-lawsuit",
+      "title": "Masters Tournament Catering Bill Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "masters tournament catering bill lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=masters+tournament+catering+bill+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 500,
+      "trendScore": 23,
+      "matchedQueries": [
+        "masters tournament catering bill lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-01T13:23:12.619Z"
+    },
+    {
+      "id": "once-upon-a-farm",
+      "slug": "once-upon-a-farm",
+      "title": "Once Upon A Farm: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "once upon a farm tractor wheels recall",
+      "product": "once upon a farm",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -53,20 +113,17 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 17,
+      "searchVolume": 2000,
+      "trendScore": 10,
       "matchedQueries": [
-        "once upon a farm tractor wheels recall",
-        "tractor wheels recall",
-        "once upon a farm tractor wheels",
-        "once upon a farm recall",
-        "once upon a farm"
+        "once upon a farm",
+        "once upon a farm recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-01T06:02:37.782Z"
+      "lastUpdated": "2026-11-01T13:23:12.619Z"
     }
   ]
 }

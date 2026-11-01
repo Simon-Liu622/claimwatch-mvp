@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-31T21:32:44.748Z",
+  "updatedAt": "2026-11-01T06:02:45.324Z",
   "count": 2,
   "trends": [
     {
-      "rank": 23,
-      "query": "mcrib lawsuit",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "mcdonald's mcrib class action lawsuit",
-        "mcdonalds",
-        "aol mail login",
-        "mc donalds"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcrib+lawsuit&tz=420",
-      "increasePercentage": 800,
-      "source": "serpapi-google-trends",
-      "text": "mcrib lawsuit mcdonald's mcrib class action lawsuit mcdonalds aol mail login mc donalds",
-      "trendScore": 40,
-      "detectedAt": "2026-10-31T21:32:42.289Z"
-    },
-    {
-      "rank": 37,
-      "query": "once upon a farm tractor wheels recall",
+      "rank": 36,
+      "query": "mcdonald's mcrib lawsuit",
       "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
-        "once upon a farm recall",
-        "once upon a farm",
+        "mcdonalds",
+        "mcdonalds mcrib lawsuit",
+        "mc donalds",
+        "aol mail login"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
+      "increasePercentage": 1000,
+      "source": "serpapi-google-trends",
+      "text": "mcdonald's mcrib lawsuit mcdonalds mcdonalds mcrib lawsuit mc donalds aol mail login",
+      "trendScore": 32,
+      "detectedAt": "2026-11-01T06:02:37.782Z"
+    },
+    {
+      "rank": 128,
+      "query": "once upon a farm tractor wheels recall",
+      "searchVolume": 20000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
         "tractor wheels recall",
-        "once upon a farm tractor wheels"
+        "once upon a farm tractor wheels",
+        "once upon a farm recall",
+        "once upon a farm"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+tractor+wheels+recall&tz=420",
-      "increasePercentage": 600,
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "once upon a farm tractor wheels recall once upon a farm recall once upon a farm tractor wheels recall once upon a farm tractor wheels",
-      "trendScore": 32,
-      "detectedAt": "2026-10-31T21:32:42.289Z"
+      "text": "once upon a farm tractor wheels recall tractor wheels recall once upon a farm tractor wheels once upon a farm recall once upon a farm",
+      "trendScore": 17,
+      "detectedAt": "2026-11-01T06:02:37.782Z"
     }
   ]
 }

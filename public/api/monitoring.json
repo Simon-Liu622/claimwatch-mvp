@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-31T21:32:44.748Z",
+  "updatedAt": "2026-11-01T06:02:45.324Z",
   "count": 2,
   "items": [
     {
-      "id": "mcrib-lawsuit",
-      "slug": "mcrib-lawsuit",
-      "title": "Mcrib Lawsuit: Consumer Alert Monitoring",
-      "type": "settlement",
+      "id": "mcdonald-s-mcrib-lawsuit",
+      "slug": "mcdonald-s-mcrib-lawsuit",
+      "title": "Mcdonald'S Mcrib Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "mcrib lawsuit",
+      "product": "mcdonald's mcrib lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,20 +20,20 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcrib+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mcdonald%27s+mcrib+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 40,
+      "searchVolume": 20000,
+      "trendScore": 32,
       "matchedQueries": [
-        "mcrib lawsuit",
-        "mcdonald's mcrib class action lawsuit",
+        "mcdonald's mcrib lawsuit",
         "mcdonalds",
-        "aol mail login",
-        "mc donalds"
+        "mcdonalds mcrib lawsuit",
+        "mc donalds",
+        "aol mail login"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-31T21:32:42.289Z"
+      "lastUpdated": "2026-11-01T06:02:37.782Z"
     },
     {
       "id": "once-upon-a-farm-tractor-wheels-recall",
@@ -57,7 +57,7 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 32,
+      "trendScore": 17,
       "matchedQueries": [
         "once upon a farm tractor wheels recall",
         "tractor wheels recall",
@@ -66,7 +66,7 @@
         "once upon a farm"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-10-31T21:32:42.289Z"
+      "lastUpdated": "2026-11-01T06:02:37.782Z"
     }
   ]
 }

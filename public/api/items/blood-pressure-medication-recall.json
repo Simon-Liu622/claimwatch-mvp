@@ -1,0 +1,38 @@
+{
+  "updatedAt": "2026-11-03T23:22:29.883Z",
+  "item": {
+    "id": "blood-pressure-medication-recall",
+    "slug": "blood-pressure-medication-recall",
+    "title": "Blood Pressure Medication Recall: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "blood pressure medication recall",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recall&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 50000,
+    "trendScore": 34,
+    "matchedQueries": [
+      "blood pressure medication recall",
+      "blood pressure medicine recall",
+      "fda olmesartan medoxomil tablet recall",
+      "blood pressure medication recalled",
+      "drug recall",
+      "olmesartan amlodipine hydrochlorothiazide tablets recalled"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-11-03T23:22:24.236Z",
+    "url": "https://simon622.shop/item/blood-pressure-medication-recall/"
+  }
+}

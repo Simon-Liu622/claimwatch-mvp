@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-02T15:50:36.166Z",
+  "updatedAt": "2026-11-03T00:57:31.267Z",
   "count": 1,
   "items": [
     {
-      "id": "once-upon-a-farm-snack-recall",
-      "slug": "once-upon-a-farm-snack-recall",
-      "title": "Once Upon A Farm Snack Recall: Consumer Alert Monitoring",
+      "id": "olmesartan-amlodipine-hydrochlorothiazide-recall",
+      "slug": "olmesartan-amlodipine-hydrochlorothiazide-recall",
+      "title": "Olmesartan Amlodipine Hydrochlorothiazide Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "once upon a farm snack recall",
+      "product": "olmesartan amlodipine hydrochlorothiazide recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,16 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+snack+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=olmesartan+amlodipine+hydrochlorothiazide+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 23,
       "matchedQueries": [
-        "once upon a farm snack recall"
+        "olmesartan amlodipine hydrochlorothiazide recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-02T15:50:31.622Z"
+      "lastUpdated": "2026-11-03T00:57:18.013Z"
     }
   ]
 }

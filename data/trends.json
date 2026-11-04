@@ -1,51 +1,34 @@
 [
   {
-    "rank": 225,
-    "query": "blood pressure medication recalled",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [
-      "blood pressure",
-      "olmesartan amlodipine hydrochlorothiazide tablets recalled",
-      "fda olmesartan recall 2026"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recalled&tz=420",
-    "increasePercentage": 600,
-    "source": "serpapi-google-trends",
-    "text": "blood pressure medication recalled blood pressure olmesartan amlodipine hydrochlorothiazide tablets recalled fda olmesartan recall 2026",
-    "trendScore": 29,
-    "detectedAt": "2026-11-04T06:20:33.265Z"
-  },
-  {
-    "rank": 301,
+    "rank": 123,
     "query": "once upon a farm snack recall",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+snack+recall&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "once upon a farm snack recall",
     "trendScore": 23,
-    "detectedAt": "2026-11-04T06:20:33.265Z"
+    "detectedAt": "2026-11-04T19:44:30.022Z"
   },
   {
-    "rank": 670,
-    "query": "lawsuit",
-    "searchVolume": 2000,
+    "rank": 443,
+    "query": "blood pressure",
+    "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+    "breakdown": [
+      "fda olmesartan recall 2026"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-11-04T06:20:33.265Z"
+    "text": "blood pressure fda olmesartan recall 2026",
+    "trendScore": 10,
+    "detectedAt": "2026-11-04T19:44:30.022Z"
   }
 ]

@@ -1,27 +1,40 @@
 [
   {
-    "rank": 38,
-    "query": "blood pressure medication recall",
-    "searchVolume": 50000,
+    "rank": 225,
+    "query": "blood pressure medication recalled",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [
-      "blood pressure medicine recall",
-      "fda olmesartan medoxomil tablet recall",
-      "blood pressure medication recalled",
-      "drug recall",
-      "olmesartan amlodipine hydrochlorothiazide tablets recalled"
+      "blood pressure",
+      "olmesartan amlodipine hydrochlorothiazide tablets recalled",
+      "fda olmesartan recall 2026"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recall&tz=420",
-    "increasePercentage": 1000,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recalled&tz=420",
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "blood pressure medication recall blood pressure medicine recall fda olmesartan medoxomil tablet recall blood pressure medication recalled drug recall olmesartan amlodipine hydrochlorothiazide tablets recalled",
-    "trendScore": 34,
-    "detectedAt": "2026-11-03T23:22:24.236Z"
+    "text": "blood pressure medication recalled blood pressure olmesartan amlodipine hydrochlorothiazide tablets recalled fda olmesartan recall 2026",
+    "trendScore": 29,
+    "detectedAt": "2026-11-04T06:20:33.265Z"
   },
   {
-    "rank": 349,
+    "rank": 301,
+    "query": "once upon a farm snack recall",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+snack+recall&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "once upon a farm snack recall",
+    "trendScore": 23,
+    "detectedAt": "2026-11-04T06:20:33.265Z"
+  },
+  {
+    "rank": 670,
     "query": "lawsuit",
     "searchVolume": 2000,
     "startedAt": "",
@@ -33,6 +46,6 @@
     "source": "serpapi-google-trends",
     "text": "lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-11-03T23:22:24.236Z"
+    "detectedAt": "2026-11-04T06:20:33.265Z"
   }
 ]

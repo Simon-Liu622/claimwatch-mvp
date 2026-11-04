@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-03T23:22:29.883Z",
+  "updatedAt": "2026-11-04T06:20:36.355Z",
   "count": 2,
   "items": [
     {
-      "id": "blood-pressure-medication-recall",
-      "slug": "blood-pressure-medication-recall",
-      "title": "Blood Pressure Medication Recall: Consumer Alert Monitoring",
+      "id": "once-upon-a-farm-snack-recall",
+      "slug": "once-upon-a-farm-snack-recall",
+      "title": "Once Upon A Farm Snack Recall: Consumer Alert Monitoring",
       "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "blood pressure medication recall",
+      "product": "once upon a farm snack recall",
       "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,21 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure+medication+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+snack+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 34,
+      "searchVolume": 2000,
+      "trendScore": 23,
       "matchedQueries": [
-        "blood pressure medication recall",
-        "blood pressure medicine recall",
-        "fda olmesartan medoxomil tablet recall",
-        "blood pressure medication recalled",
-        "drug recall",
-        "olmesartan amlodipine hydrochlorothiazide tablets recalled"
+        "once upon a farm snack recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-03T23:22:24.236Z"
+      "lastUpdated": "2026-11-04T06:20:33.265Z"
     },
     {
       "id": "lawsuit",
@@ -63,7 +58,7 @@
         "lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-03T23:22:24.236Z"
+      "lastUpdated": "2026-11-04T06:20:33.265Z"
     }
   ]
 }

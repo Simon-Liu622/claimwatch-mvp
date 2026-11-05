@@ -1,21 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:44:45.466Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 100,
-      "query": "cadillac blazer vehicle safety recall",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cadillac+blazer+vehicle+safety+recall&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "cadillac blazer vehicle safety recall",
-      "trendScore": 9,
-      "detectedAt": "2026-11-05T06:44:42.728Z"
-    }
-  ]
+  "updatedAt": "2026-11-05T19:56:06.236Z",
+  "count": 0,
+  "trends": []
 }

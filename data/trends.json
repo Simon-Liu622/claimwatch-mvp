@@ -1,34 +1,17 @@
 [
   {
-    "rank": 123,
-    "query": "once upon a farm snack recall",
-    "searchVolume": 10000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": true,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=once+upon+a+farm+snack+recall&tz=420",
-    "increasePercentage": 300,
-    "source": "serpapi-google-trends",
-    "text": "once upon a farm snack recall",
-    "trendScore": 23,
-    "detectedAt": "2026-11-04T19:44:30.022Z"
-  },
-  {
-    "rank": 443,
-    "query": "blood pressure",
-    "searchVolume": 5000,
+    "rank": 100,
+    "query": "cadillac blazer vehicle safety recall",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [
-      "fda olmesartan recall 2026"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blood+pressure&tz=420",
-    "increasePercentage": 100,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cadillac+blazer+vehicle+safety+recall&tz=420",
+    "increasePercentage": 600,
     "source": "serpapi-google-trends",
-    "text": "blood pressure fda olmesartan recall 2026",
-    "trendScore": 10,
-    "detectedAt": "2026-11-04T19:44:30.022Z"
+    "text": "cadillac blazer vehicle safety recall",
+    "trendScore": 9,
+    "detectedAt": "2026-11-05T06:44:42.728Z"
   }
 ]

@@ -1,41 +1,21 @@
 [
   {
-    "rank": 37,
+    "rank": 36,
     "query": "lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
-    "breakdown": [
-      "bryan seaver",
-      "dolly parton"
-    ],
+    "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
-    "increasePercentage": 100,
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "lawsuit bryan seaver dolly parton",
-    "trendScore": 27,
-    "detectedAt": "2026-11-06T19:23:43.327Z"
+    "text": "lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-11-07T05:57:15.665Z"
   },
   {
-    "rank": 307,
-    "query": "little giant ladder recall",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "little giant ladder"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=little+giant+ladder+recall&tz=420",
-    "increasePercentage": 75,
-    "source": "serpapi-google-trends",
-    "text": "little giant ladder recall little giant ladder",
-    "trendScore": 10,
-    "detectedAt": "2026-11-06T19:23:43.327Z"
-  },
-  {
-    "rank": 175,
+    "rank": 355,
     "query": "the pitt lawsuit",
     "searchVolume": 1000,
     "startedAt": "",
@@ -47,6 +27,21 @@
     "source": "serpapi-google-trends",
     "text": "the pitt lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-11-06T19:23:43.327Z"
+    "detectedAt": "2026-11-07T05:57:15.665Z"
+  },
+  {
+    "rank": 382,
+    "query": "doj lawsuit penn state tuition",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+lawsuit+penn+state+tuition&tz=420",
+    "increasePercentage": 100,
+    "source": "serpapi-google-trends",
+    "text": "doj lawsuit penn state tuition",
+    "trendScore": 8,
+    "detectedAt": "2026-11-07T05:57:15.665Z"
   }
 ]

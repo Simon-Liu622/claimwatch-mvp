@@ -1,6 +1,21 @@
 [
   {
-    "rank": 36,
+    "rank": 92,
+    "query": "amazon return refund lawsuit claims",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": true,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+return+refund+lawsuit+claims&tz=420",
+    "increasePercentage": 200,
+    "source": "serpapi-google-trends",
+    "text": "amazon return refund lawsuit claims",
+    "trendScore": 40,
+    "detectedAt": "2026-11-07T12:59:18.250Z"
+  },
+  {
+    "rank": 38,
     "query": "lawsuit",
     "searchVolume": 10000,
     "startedAt": "",
@@ -12,36 +27,36 @@
     "source": "serpapi-google-trends",
     "text": "lawsuit",
     "trendScore": 23,
-    "detectedAt": "2026-11-07T05:57:15.665Z"
+    "detectedAt": "2026-11-07T12:59:18.250Z"
   },
   {
-    "rank": 355,
-    "query": "the pitt lawsuit",
-    "searchVolume": 1000,
+    "rank": 61,
+    "query": "ice cream recall",
+    "searchVolume": 2000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+pitt+lawsuit&tz=420",
-    "increasePercentage": 100,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
-    "text": "the pitt lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-11-07T05:57:15.665Z"
+    "text": "ice cream recall",
+    "trendScore": 23,
+    "detectedAt": "2026-11-07T12:59:18.250Z"
   },
   {
-    "rank": 382,
-    "query": "doj lawsuit penn state tuition",
-    "searchVolume": 500,
+    "rank": 153,
+    "query": "gervonta davis miami battery lawsuit",
+    "searchVolume": 100,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+lawsuit+penn+state+tuition&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gervonta+davis+miami+battery+lawsuit&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "doj lawsuit penn state tuition",
-    "trendScore": 8,
-    "detectedAt": "2026-11-07T05:57:15.665Z"
+    "text": "gervonta davis miami battery lawsuit",
+    "trendScore": 23,
+    "detectedAt": "2026-11-07T12:59:18.250Z"
   }
 ]

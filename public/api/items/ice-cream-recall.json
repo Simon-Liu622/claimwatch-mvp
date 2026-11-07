@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-07T05:57:18.277Z",
+  "updatedAt": "2026-11-07T12:59:20.833Z",
   "item": {
-    "id": "the-pitt-lawsuit",
-    "slug": "the-pitt-lawsuit",
-    "title": "The Pitt Lawsuit: Consumer Alert Monitoring",
-    "type": "lawsuit",
+    "id": "ice-cream-recall",
+    "slug": "ice-cream-recall",
+    "title": "Ice Cream Recall: Consumer Alert Monitoring",
+    "type": "recall",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "the pitt lawsuit",
-    "category": "Consumer monitoring",
+    "product": "ice cream recall",
+    "category": "Recall monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+pitt+lawsuit&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 1000,
-    "trendScore": 8,
+    "searchVolume": 2000,
+    "trendScore": 23,
     "matchedQueries": [
-      "the pitt lawsuit"
+      "ice cream recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-07T05:57:15.665Z",
-    "url": "https://simon622.shop/item/the-pitt-lawsuit/"
+    "lastUpdated": "2026-11-07T12:59:18.250Z",
+    "url": "https://simon622.shop/item/ice-cream-recall/"
   }
 }

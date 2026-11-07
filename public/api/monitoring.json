@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:57:18.277Z",
+  "updatedAt": "2026-11-07T12:59:20.833Z",
   "count": 3,
   "items": [
     {
@@ -31,17 +31,46 @@
         "dolly parton"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-07T05:57:15.665Z"
+      "lastUpdated": "2026-11-07T12:59:18.250Z"
     },
     {
-      "id": "the-pitt-lawsuit",
-      "slug": "the-pitt-lawsuit",
-      "title": "The Pitt Lawsuit: Consumer Alert Monitoring",
+      "id": "ice-cream-recall",
+      "slug": "ice-cream-recall",
+      "title": "Ice Cream Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "ice cream recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "ice cream recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-07T12:59:18.250Z"
+    },
+    {
+      "id": "gervonta-davis-miami-battery-lawsuit",
+      "slug": "gervonta-davis-miami-battery-lawsuit",
+      "title": "Gervonta Davis Miami Battery Lawsuit: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "the pitt lawsuit",
+      "product": "gervonta davis miami battery lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -51,45 +80,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+pitt+lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gervonta+davis+miami+battery+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 1000,
-      "trendScore": 8,
+      "searchVolume": 100,
+      "trendScore": 23,
       "matchedQueries": [
-        "the pitt lawsuit"
+        "gervonta davis miami battery lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-07T05:57:15.665Z"
-    },
-    {
-      "id": "doj-lawsuit-penn-state-tuition",
-      "slug": "doj-lawsuit-penn-state-tuition",
-      "title": "Doj Lawsuit Penn State Tuition: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "doj lawsuit penn state tuition",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=doj+lawsuit+penn+state+tuition&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
-      "matchedQueries": [
-        "doj lawsuit penn state tuition"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-07T05:57:15.665Z"
+      "lastUpdated": "2026-11-07T12:59:18.250Z"
     }
   ]
 }

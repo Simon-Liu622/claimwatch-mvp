@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-07T12:59:20.833Z",
+  "updatedAt": "2026-11-07T21:49:26.781Z",
   "count": 3,
   "items": [
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "ground-cinnamon-lead-contamination-recall",
+      "slug": "ground-cinnamon-lead-contamination-recall",
+      "title": "Ground Cinnamon Lead Contamination Recall: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
-      "category": "Consumer monitoring",
+      "product": "ground cinnamon lead contamination recall",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -20,18 +20,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ground+cinnamon+lead+contamination+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 23,
+      "searchVolume": 2000,
+      "trendScore": 31,
       "matchedQueries": [
-        "lawsuit",
-        "bryan seaver",
-        "dolly parton"
+        "ground cinnamon lead contamination recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-07T12:59:18.250Z"
+      "lastUpdated": "2026-11-07T21:49:23.560Z"
     },
     {
       "id": "ice-cream-recall",
@@ -55,12 +53,12 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 2000,
-      "trendScore": 23,
+      "trendScore": 8,
       "matchedQueries": [
         "ice cream recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-07T12:59:18.250Z"
+      "lastUpdated": "2026-11-07T21:49:23.560Z"
     },
     {
       "id": "gervonta-davis-miami-battery-lawsuit",
@@ -83,13 +81,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gervonta+davis+miami+battery+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 100,
-      "trendScore": 23,
+      "searchVolume": 500,
+      "trendScore": 8,
       "matchedQueries": [
         "gervonta davis miami battery lawsuit"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-07T12:59:18.250Z"
+      "lastUpdated": "2026-11-07T21:49:23.560Z"
     }
   ]
 }

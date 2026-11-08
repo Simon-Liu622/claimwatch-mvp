@@ -1,6 +1,6 @@
 [
   {
-    "rank": 50,
+    "rank": 28,
     "query": "ground cinnamon lead contamination recall",
     "searchVolume": 10000,
     "startedAt": "",
@@ -8,55 +8,25 @@
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ground+cinnamon+lead+contamination+recall&tz=420",
-    "increasePercentage": 300,
+    "increasePercentage": 400,
     "source": "serpapi-google-trends",
     "text": "ground cinnamon lead contamination recall",
     "trendScore": 31,
-    "detectedAt": "2026-11-08T05:59:18.151Z"
+    "detectedAt": "2026-11-08T13:23:32.678Z"
   },
   {
-    "rank": 403,
-    "query": "amazon return refund lawsuit claims",
-    "searchVolume": 1000,
+    "rank": 176,
+    "query": "little giant ladder recall",
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+return+refund+lawsuit+claims&tz=420",
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=little+giant+ladder+recall&tz=420",
     "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "amazon return refund lawsuit claims",
-    "trendScore": 25,
-    "detectedAt": "2026-11-08T05:59:18.151Z"
-  },
-  {
-    "rank": 399,
-    "query": "ice cream recall",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ice+cream+recall&tz=420",
-    "increasePercentage": 1000,
-    "source": "serpapi-google-trends",
-    "text": "ice cream recall",
-    "trendScore": 8,
-    "detectedAt": "2026-11-08T05:59:18.151Z"
-  },
-  {
-    "rank": 517,
-    "query": "gervonta davis miami battery lawsuit",
-    "searchVolume": 500,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gervonta+davis+miami+battery+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "gervonta davis miami battery lawsuit",
-    "trendScore": 8,
-    "detectedAt": "2026-11-08T05:59:18.151Z"
+    "text": "little giant ladder recall",
+    "trendScore": 23,
+    "detectedAt": "2026-11-08T13:23:32.678Z"
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
-    "rank": 86,
+    "rank": 50,
     "query": "ground cinnamon lead contamination recall",
-    "searchVolume": 2000,
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ground+cinnamon+lead+contamination+recall&tz=420",
-    "increasePercentage": 200,
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
     "text": "ground cinnamon lead contamination recall",
     "trendScore": 31,
-    "detectedAt": "2026-11-07T21:49:23.560Z"
+    "detectedAt": "2026-11-08T05:59:18.151Z"
   },
   {
-    "rank": 275,
+    "rank": 403,
     "query": "amazon return refund lawsuit claims",
     "searchVolume": 1000,
     "startedAt": "",
@@ -27,10 +27,10 @@
     "source": "serpapi-google-trends",
     "text": "amazon return refund lawsuit claims",
     "trendScore": 25,
-    "detectedAt": "2026-11-07T21:49:23.560Z"
+    "detectedAt": "2026-11-08T05:59:18.151Z"
   },
   {
-    "rank": 271,
+    "rank": 399,
     "query": "ice cream recall",
     "searchVolume": 2000,
     "startedAt": "",
@@ -42,10 +42,10 @@
     "source": "serpapi-google-trends",
     "text": "ice cream recall",
     "trendScore": 8,
-    "detectedAt": "2026-11-07T21:49:23.560Z"
+    "detectedAt": "2026-11-08T05:59:18.151Z"
   },
   {
-    "rank": 455,
+    "rank": 517,
     "query": "gervonta davis miami battery lawsuit",
     "searchVolume": 500,
     "startedAt": "",
@@ -57,6 +57,6 @@
     "source": "serpapi-google-trends",
     "text": "gervonta davis miami battery lawsuit",
     "trendScore": 8,
-    "detectedAt": "2026-11-07T21:49:23.560Z"
+    "detectedAt": "2026-11-08T05:59:18.151Z"
   }
 ]

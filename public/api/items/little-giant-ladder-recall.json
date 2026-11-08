@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:23:35.143Z",
+  "updatedAt": "2026-11-08T22:03:24.315Z",
   "item": {
     "id": "little-giant-ladder-recall",
     "slug": "little-giant-ladder-recall",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=little+giant+ladder+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 200,
-    "trendScore": 23,
+    "searchVolume": 500,
+    "trendScore": 8,
     "matchedQueries": [
       "little giant ladder recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-08T13:23:32.678Z",
+    "lastUpdated": "2026-11-08T22:03:20.152Z",
     "url": "https://simon622.shop/item/little-giant-ladder-recall/"
   }
 }

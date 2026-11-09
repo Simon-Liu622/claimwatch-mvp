@@ -1,27 +1,8 @@
 [
   {
-    "rank": 337,
-    "query": "ss united states",
-    "searchVolume": 2000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "ss united states preservation foundation lawsuit",
-      "uss united states",
-      "ss united states sinking"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ss+united+states&tz=420",
-    "increasePercentage": 100,
-    "source": "serpapi-google-trends",
-    "text": "ss united states ss united states preservation foundation lawsuit uss united states ss united states sinking",
-    "trendScore": 14,
-    "detectedAt": "2026-11-09T06:25:33.025Z"
-  },
-  {
-    "rank": 552,
+    "rank": 395,
     "query": "little giant ladder recall",
-    "searchVolume": 500,
+    "searchVolume": 200,
     "startedAt": "",
     "endedAt": "",
     "active": false,
@@ -31,6 +12,6 @@
     "source": "serpapi-google-trends",
     "text": "little giant ladder recall",
     "trendScore": 8,
-    "detectedAt": "2026-11-09T06:25:33.025Z"
+    "detectedAt": "2026-11-09T22:20:08.398Z"
   }
 ]

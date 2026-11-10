@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-10T07:16:39.093Z",
-  "count": 3,
+  "updatedAt": "2026-11-10T19:43:09.795Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 27,
+      "rank": 63,
       "query": "carlos jimenez ice lawsuit 25m",
       "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carlos+jimenez+ice+lawsuit+25m&tz=420",
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
       "text": "carlos jimenez ice lawsuit 25m",
-      "trendScore": 23,
-      "detectedAt": "2026-11-10T07:16:36.375Z"
+      "trendScore": 8,
+      "detectedAt": "2026-11-10T19:42:55.500Z"
     },
     {
-      "rank": 78,
+      "rank": 138,
       "query": "meat recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -30,22 +30,7 @@
       "source": "serpapi-google-trends",
       "text": "meat recall",
       "trendScore": 8,
-      "detectedAt": "2026-11-10T07:16:36.375Z"
-    },
-    {
-      "rank": 437,
-      "query": "little giant ladder recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=little+giant+ladder+recall&tz=420",
-      "increasePercentage": 75,
-      "source": "serpapi-google-trends",
-      "text": "little giant ladder recall",
-      "trendScore": 8,
-      "detectedAt": "2026-11-10T07:16:36.375Z"
+      "detectedAt": "2026-11-10T19:42:55.500Z"
     }
   ]
 }

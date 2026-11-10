@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-11-09T22:20:10.742Z",
-  "count": 1,
+  "updatedAt": "2026-11-10T07:16:39.093Z",
+  "count": 3,
   "items": [
+    {
+      "id": "carlos-jimenez-ice-lawsuit-25m",
+      "slug": "carlos-jimenez-ice-lawsuit-25m",
+      "title": "Carlos Jimenez Ice Lawsuit 25m: Consumer Alert Monitoring",
+      "type": "lawsuit",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "carlos jimenez ice lawsuit 25m",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=carlos+jimenez+ice+lawsuit+25m&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 23,
+      "matchedQueries": [
+        "carlos jimenez ice lawsuit 25m"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-10T07:16:36.375Z"
+    },
     {
       "id": "little-giant-ladder-recall",
       "slug": "little-giant-ladder-recall",
@@ -29,7 +58,36 @@
         "little giant ladder recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-09T22:20:08.398Z"
+      "lastUpdated": "2026-11-10T07:16:36.375Z"
+    },
+    {
+      "id": "meat-recall",
+      "slug": "meat-recall",
+      "title": "Meat Recall: Consumer Alert Monitoring",
+      "type": "recall",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "meat recall",
+      "category": "Recall monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=meat+recall&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 10000,
+      "trendScore": 8,
+      "matchedQueries": [
+        "meat recall"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-10T07:16:36.375Z"
     }
   ]
 }

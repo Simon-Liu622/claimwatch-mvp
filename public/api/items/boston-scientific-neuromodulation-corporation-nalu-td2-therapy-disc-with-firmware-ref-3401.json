@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-11-10T07:16:39.093Z",
+  "item": {
+    "id": "boston-scientific-neuromodulation-corporation-nalu-td2-therapy-disc-with-firmware-ref-3401",
+    "slug": "boston-scientific-neuromodulation-corporation-nalu-td2-therapy-disc-with-firmware-ref-3401",
+    "title": "Boston Scientific Neuromodulation Corporation: Nalu TD2 Therapy Disc with firmware, REF: 34014-001, and TD2 Patient Kit, REF: 74011, part of the Nalu Neurostimulation System Recall",
+    "type": "recall",
+    "status": "active",
+    "company": "Boston Scientific Neuromodulation Corporation",
+    "brand": "Boston Scientific Neuromodulation Corporation",
+    "product": "Nalu TD2 Therapy Disc with firmware, REF: 34014-001, and TD2 Patient Kit, REF: 74011, part of the Nalu Neurostimulation System",
+    "category": "Recall",
+    "summary": "Therapy Disc (TD) that powers and sends stimulation signals to an Implantable Pulse Generator (IPG), part of a neurostimulation system, has a firmware issue that causes the TD to attempt to restart, then fail, leading it to become non-functional, and if a secondary TD is unavailable, this may lead IPG to become non-functional, thus unable to inhibit transmission of pain signals. Product details: Nalu TD2 Therapy Disc with firmware, REF: 34014-001, and TD2 Patient Kit, REF: 74011, part of the Nalu Neurostimulation System",
+    "affectedPeople": "US Nationwide distribution in the states of PA, FL, OR, AZ, OH, SC, TX, OR, OK, MI, CA, NJ.",
+    "remedy": "Affected quantity: 134",
+    "payoutAmount": "Refund, replacement, correction, or disposal if stated by the official notice",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
+    "sourceAgency": "FDA",
+    "searchVolume": "",
+    "trendScore": 0,
+    "matchedQueries": [],
+    "officialVerified": true,
+    "officialRecordId": "Z-0311-2027",
+    "recallInitiationDate": "20260930",
+    "lastUpdated": "2026-11-10T07:16:36.375Z",
+    "url": "https://simon622.shop/item/boston-scientific-neuromodulation-corporation-nalu-td2-therapy-disc-with-firmware-ref-3401/"
+  }
+}

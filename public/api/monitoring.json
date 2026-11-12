@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:08:41.023Z",
+  "updatedAt": "2026-11-12T19:53:04.830Z",
   "count": 1,
   "items": [
     {
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colin+mizuo+toenail+lawsuit+portland&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
+      "searchVolume": 10000,
       "trendScore": 23,
       "matchedQueries": [
         "colin mizuo toenail lawsuit portland"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-12T07:08:38.687Z"
+      "lastUpdated": "2026-11-12T19:53:01.882Z"
     }
   ]
 }

@@ -1,17 +1,17 @@
 [
   {
-    "rank": 90,
-    "query": "steve berman airline class action lawsuit",
+    "rank": 39,
+    "query": "colin mizuo toenail lawsuit portland",
     "searchVolume": 5000,
     "startedAt": "",
     "endedAt": "",
-    "active": false,
+    "active": true,
     "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steve+berman+airline+class+action+lawsuit&tz=420",
-    "increasePercentage": 200,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colin+mizuo+toenail+lawsuit+portland&tz=420",
+    "increasePercentage": 300,
     "source": "serpapi-google-trends",
-    "text": "steve berman airline class action lawsuit",
-    "trendScore": 16,
-    "detectedAt": "2026-11-11T19:34:36.109Z"
+    "text": "colin mizuo toenail lawsuit portland",
+    "trendScore": 23,
+    "detectedAt": "2026-11-12T07:08:38.687Z"
   }
 ]

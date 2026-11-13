@@ -1,21 +1,24 @@
 {
-  "updatedAt": "2026-11-12T19:53:04.830Z",
+  "updatedAt": "2026-11-13T06:44:03.213Z",
   "count": 1,
   "trends": [
     {
-      "rank": 44,
-      "query": "colin mizuo toenail lawsuit portland",
-      "searchVolume": 10000,
+      "rank": 28,
+      "query": "costco whipped cream recall",
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=colin+mizuo+toenail+lawsuit+portland&tz=420",
-      "increasePercentage": 200,
+      "breakdown": [
+        "costco kirkland whipped cream recall",
+        "costco kirkland heavy cream contamination"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+whipped+cream+recall&tz=420",
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
-      "text": "colin mizuo toenail lawsuit portland",
-      "trendScore": 23,
-      "detectedAt": "2026-11-12T19:53:01.882Z"
+      "text": "costco whipped cream recall costco kirkland whipped cream recall costco kirkland heavy cream contamination",
+      "trendScore": 36,
+      "detectedAt": "2026-11-13T06:43:54.492Z"
     }
   ]
 }

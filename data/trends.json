@@ -1,20 +1,21 @@
 [
   {
-    "rank": 6,
-    "query": "costco whipped cream recall",
-    "searchVolume": 20000,
+    "rank": 167,
+    "query": "nhtsa bmw fire risk warning",
+    "searchVolume": 10000,
     "startedAt": "",
     "endedAt": "",
-    "active": true,
+    "active": false,
     "breakdown": [
-      "costco kirkland whipped cream recall",
-      "costco kirkland heavy cream contamination"
+      "bmw recall fire risk",
+      "bmw fire",
+      "bmw recalls"
     ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=costco+whipped+cream+recall&tz=420",
-    "increasePercentage": 600,
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nhtsa+bmw+fire+risk+warning&tz=420",
+    "increasePercentage": 200,
     "source": "serpapi-google-trends",
-    "text": "costco whipped cream recall costco kirkland whipped cream recall costco kirkland heavy cream contamination",
-    "trendScore": 36,
-    "detectedAt": "2026-11-13T19:40:38.221Z"
+    "text": "nhtsa bmw fire risk warning bmw recall fire risk bmw fire bmw recalls",
+    "trendScore": 14,
+    "detectedAt": "2026-11-14T06:21:11.115Z"
   }
 ]

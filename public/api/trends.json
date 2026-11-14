@@ -1,27 +1,24 @@
 {
-  "updatedAt": "2026-11-14T17:59:54.609Z",
+  "updatedAt": "2026-11-14T22:23:09.095Z",
   "count": 1,
   "trends": [
     {
-      "rank": 126,
+      "rank": 195,
       "query": "vehicle",
-      "searchVolume": 20000,
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "nhtsa bmw fire risk warning",
-        "bmw recall fire risk",
-        "bmw fire",
         "bmw recall",
-        "bmw recalls"
+        "bmw recall fire risk"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vehicle&tz=420",
       "increasePercentage": 400,
       "source": "serpapi-google-trends",
-      "text": "vehicle nhtsa bmw fire risk warning bmw recall fire risk bmw fire bmw recall bmw recalls",
-      "trendScore": 19,
-      "detectedAt": "2026-11-14T17:59:52.087Z"
+      "text": "vehicle bmw recall bmw recall fire risk",
+      "trendScore": 12,
+      "detectedAt": "2026-11-14T22:23:06.352Z"
     }
   ]
 }

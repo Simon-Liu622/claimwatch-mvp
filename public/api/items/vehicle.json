@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-11-14T22:23:09.095Z",
+  "item": {
+    "id": "vehicle",
+    "slug": "vehicle",
+    "title": "Vehicle: Consumer Alert Monitoring",
+    "type": "recall",
+    "status": "monitoring",
+    "company": "",
+    "brand": "",
+    "product": "vehicle",
+    "category": "Recall monitoring",
+    "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+    "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+    "remedy": "No consumer action is recommended until an official source is attached.",
+    "payoutAmount": "Not verified",
+    "deadline": null,
+    "officialClaimUrl": "",
+    "officialSourceUrl": "",
+    "thirdPartySourceUrl": "",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vehicle&tz=420",
+    "sourceAgency": "COMPANY",
+    "sourceConfidence": "trend-only",
+    "searchVolume": 10000,
+    "trendScore": 12,
+    "matchedQueries": [
+      "vehicle",
+      "bmw recall",
+      "bmw recall fire risk"
+    ],
+    "officialVerified": false,
+    "lastUpdated": "2026-11-14T22:23:06.352Z",
+    "url": "https://simon622.shop/item/vehicle/"
+  }
+}

@@ -1,24 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:23:09.095Z",
-  "count": 1,
-  "trends": [
-    {
-      "rank": 195,
-      "query": "vehicle",
-      "searchVolume": 10000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "bmw recall",
-        "bmw recall fire risk"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vehicle&tz=420",
-      "increasePercentage": 400,
-      "source": "serpapi-google-trends",
-      "text": "vehicle bmw recall bmw recall fire risk",
-      "trendScore": 12,
-      "detectedAt": "2026-11-14T22:23:06.352Z"
-    }
-  ]
+  "updatedAt": "2026-11-15T06:29:38.296Z",
+  "count": 0,
+  "trends": []
 }

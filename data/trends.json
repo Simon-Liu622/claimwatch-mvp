@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "rank": 237,
+    "query": "settlement",
+    "searchVolume": 500,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "settlement",
+    "trendScore": 8,
+    "detectedAt": "2026-11-15T18:50:18.983Z"
+  }
+]

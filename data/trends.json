@@ -1,6 +1,36 @@
 [
   {
-    "rank": 237,
+    "rank": 171,
+    "query": "cvs class action settlement deadline",
+    "searchVolume": 2000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cvs+class+action+settlement+deadline&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "cvs class action settlement deadline",
+    "trendScore": 24,
+    "detectedAt": "2026-11-16T06:26:58.760Z"
+  },
+  {
+    "rank": 201,
+    "query": "intel shareholder class action lawsuit",
+    "searchVolume": 1000,
+    "startedAt": "",
+    "endedAt": "",
+    "active": false,
+    "breakdown": [],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intel+shareholder+class+action+lawsuit&tz=420",
+    "increasePercentage": 50,
+    "source": "serpapi-google-trends",
+    "text": "intel shareholder class action lawsuit",
+    "trendScore": 16,
+    "detectedAt": "2026-11-16T06:26:58.760Z"
+  },
+  {
+    "rank": 489,
     "query": "settlement",
     "searchVolume": 500,
     "startedAt": "",
@@ -12,6 +42,6 @@
     "source": "serpapi-google-trends",
     "text": "settlement",
     "trendScore": 8,
-    "detectedAt": "2026-11-15T18:50:18.983Z"
+    "detectedAt": "2026-11-16T06:26:58.760Z"
   }
 ]

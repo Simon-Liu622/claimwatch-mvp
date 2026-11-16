@@ -1,5 +1,64 @@
 {
-  "updatedAt": "2026-11-15T18:50:21.595Z",
-  "count": 0,
-  "items": []
+  "updatedAt": "2026-11-16T06:27:01.478Z",
+  "count": 2,
+  "items": [
+    {
+      "id": "cvs-class-action-settlement-deadline",
+      "slug": "cvs-class-action-settlement-deadline",
+      "title": "Cvs Class Action Settlement Deadline: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "cvs class action settlement deadline",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cvs+class+action+settlement+deadline&tz=420",
+      "sourceAgency": "COURT",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 2000,
+      "trendScore": 24,
+      "matchedQueries": [
+        "cvs class action settlement deadline"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-16T06:26:58.760Z"
+    },
+    {
+      "id": "intel-shareholder-class-action-lawsuit",
+      "slug": "intel-shareholder-class-action-lawsuit",
+      "title": "Intel Shareholder Class Action Lawsuit: Consumer Alert Monitoring",
+      "type": "settlement",
+      "status": "monitoring",
+      "company": "",
+      "brand": "",
+      "product": "intel shareholder class action lawsuit",
+      "category": "Consumer monitoring",
+      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
+      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
+      "remedy": "No consumer action is recommended until an official source is attached.",
+      "payoutAmount": "Not verified",
+      "deadline": null,
+      "officialClaimUrl": "",
+      "officialSourceUrl": "",
+      "thirdPartySourceUrl": "",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intel+shareholder+class+action+lawsuit&tz=420",
+      "sourceAgency": "COMPANY",
+      "sourceConfidence": "trend-only",
+      "searchVolume": 1000,
+      "trendScore": 16,
+      "matchedQueries": [
+        "intel shareholder class action lawsuit"
+      ],
+      "officialVerified": false,
+      "lastUpdated": "2026-11-16T06:26:58.760Z"
+    }
+  ]
 }

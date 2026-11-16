@@ -1,51 +1,39 @@
 {
-  "updatedAt": "2026-11-16T06:27:01.478Z",
-  "count": 3,
+  "updatedAt": "2026-11-16T22:00:47.021Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 171,
-      "query": "cvs class action settlement deadline",
+      "rank": 36,
+      "query": "drug recall",
       "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cvs+class+action+settlement+deadline&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+      "increasePercentage": 800,
       "source": "serpapi-google-trends",
-      "text": "cvs class action settlement deadline",
-      "trendScore": 24,
-      "detectedAt": "2026-11-16T06:26:58.760Z"
+      "text": "drug recall",
+      "trendScore": 23,
+      "detectedAt": "2026-11-16T22:00:43.946Z"
     },
     {
-      "rank": 201,
+      "rank": 279,
       "query": "intel shareholder class action lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [],
+      "breakdown": [
+        "class",
+        "intel"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intel+shareholder+class+action+lawsuit&tz=420",
       "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "intel shareholder class action lawsuit",
-      "trendScore": 16,
-      "detectedAt": "2026-11-16T06:26:58.760Z"
-    },
-    {
-      "rank": 489,
-      "query": "settlement",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=settlement&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "settlement",
-      "trendScore": 8,
-      "detectedAt": "2026-11-16T06:26:58.760Z"
+      "text": "intel shareholder class action lawsuit class intel",
+      "trendScore": 20,
+      "detectedAt": "2026-11-16T22:00:43.946Z"
     }
   ]
 }

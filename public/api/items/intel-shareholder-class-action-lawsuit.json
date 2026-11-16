@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:27:01.478Z",
+  "updatedAt": "2026-11-16T22:00:47.021Z",
   "item": {
     "id": "intel-shareholder-class-action-lawsuit",
     "slug": "intel-shareholder-class-action-lawsuit",
@@ -22,12 +22,14 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 1000,
-    "trendScore": 16,
+    "trendScore": 20,
     "matchedQueries": [
-      "intel shareholder class action lawsuit"
+      "intel shareholder class action lawsuit",
+      "class",
+      "intel"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-16T06:26:58.760Z",
+    "lastUpdated": "2026-11-16T22:00:43.946Z",
     "url": "https://simon622.shop/item/intel-shareholder-class-action-lawsuit/"
   }
 }

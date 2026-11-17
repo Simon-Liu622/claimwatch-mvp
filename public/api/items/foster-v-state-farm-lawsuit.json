@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T07:53:46.189Z",
+  "updatedAt": "2026-11-17T20:54:37.036Z",
   "item": {
-    "id": "drug-recall",
-    "slug": "drug-recall",
-    "title": "Drug Recall: Consumer Alert Monitoring",
-    "type": "recall",
+    "id": "foster-v-state-farm-lawsuit",
+    "slug": "foster-v-state-farm-lawsuit",
+    "title": "Foster V State Farm Lawsuit: Consumer Alert Monitoring",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "drug recall",
-    "category": "Recall monitoring",
+    "product": "foster v state farm lawsuit",
+    "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
     "remedy": "No consumer action is recommended until an official source is attached.",
@@ -18,16 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=foster+v+state+farm+lawsuit&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 24,
+    "searchVolume": 10000,
+    "trendScore": 23,
     "matchedQueries": [
-      "drug recall"
+      "foster v state farm lawsuit"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-17T07:53:43.705Z",
-    "url": "https://simon622.shop/item/drug-recall/"
+    "lastUpdated": "2026-11-17T20:54:29.496Z",
+    "url": "https://simon622.shop/item/foster-v-state-farm-lawsuit/"
   }
 }

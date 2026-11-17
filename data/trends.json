@@ -1,35 +1,17 @@
 [
   {
-    "rank": 36,
+    "rank": 18,
     "query": "drug recall",
-    "searchVolume": 2000,
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": true,
     "breakdown": [],
     "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
-    "increasePercentage": 800,
+    "increasePercentage": 1000,
     "source": "serpapi-google-trends",
     "text": "drug recall",
-    "trendScore": 23,
-    "detectedAt": "2026-11-16T22:00:43.946Z"
-  },
-  {
-    "rank": 279,
-    "query": "intel shareholder class action lawsuit",
-    "searchVolume": 1000,
-    "startedAt": "",
-    "endedAt": "",
-    "active": false,
-    "breakdown": [
-      "class",
-      "intel"
-    ],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=intel+shareholder+class+action+lawsuit&tz=420",
-    "increasePercentage": 50,
-    "source": "serpapi-google-trends",
-    "text": "intel shareholder class action lawsuit class intel",
-    "trendScore": 20,
-    "detectedAt": "2026-11-16T22:00:43.946Z"
+    "trendScore": 24,
+    "detectedAt": "2026-11-17T07:53:43.705Z"
   }
 ]

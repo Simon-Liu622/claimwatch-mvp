@@ -1,36 +1,53 @@
 {
-  "updatedAt": "2026-11-18T07:27:37.046Z",
-  "count": 2,
+  "updatedAt": "2026-11-18T20:29:56.971Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 21,
-      "query": "foster v state farm lawsuit",
-      "searchVolume": 20000,
+      "rank": 15,
+      "query": "usda health alert breakfast",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=foster+v+state+farm+lawsuit&tz=420",
-      "increasePercentage": 500,
+      "breakdown": [
+        "biscuit recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+health+alert+breakfast&tz=420",
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
-      "text": "foster v state farm lawsuit",
-      "trendScore": 24,
-      "detectedAt": "2026-11-18T07:27:34.226Z"
+      "text": "usda health alert breakfast biscuit recall",
+      "trendScore": 25,
+      "detectedAt": "2026-11-18T20:29:52.150Z"
     },
     {
-      "rank": 303,
-      "query": "breckenridge pharmaceutical propranolol recall",
-      "searchVolume": 2000,
+      "rank": 244,
+      "query": "maine rooster statue lawsuit",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=breckenridge+pharmaceutical+propranolol+recall&tz=420",
-      "increasePercentage": 300,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maine+rooster+statue+lawsuit&tz=420",
+      "increasePercentage": 75,
       "source": "serpapi-google-trends",
-      "text": "breckenridge pharmaceutical propranolol recall",
+      "text": "maine rooster statue lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-11-18T07:27:34.226Z"
+      "detectedAt": "2026-11-18T20:29:52.150Z"
+    },
+    {
+      "rank": 387,
+      "query": "product recall",
+      "searchVolume": 200,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "product recall",
+      "trendScore": 8,
+      "detectedAt": "2026-11-18T20:29:52.150Z"
     }
   ]
 }

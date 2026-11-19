@@ -1,26 +1,41 @@
 {
-  "updatedAt": "2026-11-18T20:29:56.971Z",
+  "updatedAt": "2026-11-19T07:23:40.747Z",
   "count": 3,
   "trends": [
     {
-      "rank": 15,
+      "rank": 118,
       "query": "usda health alert breakfast",
-      "searchVolume": 10000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
-      "active": true,
+      "active": false,
       "breakdown": [
         "biscuit recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+health+alert+breakfast&tz=420",
-      "increasePercentage": 1000,
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
       "text": "usda health alert breakfast biscuit recall",
-      "trendScore": 25,
-      "detectedAt": "2026-11-18T20:29:52.150Z"
+      "trendScore": 11,
+      "detectedAt": "2026-11-19T07:23:32.803Z"
     },
     {
-      "rank": 244,
+      "rank": 241,
+      "query": "product recall",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "product recall",
+      "trendScore": 8,
+      "detectedAt": "2026-11-19T07:23:32.803Z"
+    },
+    {
+      "rank": 376,
       "query": "maine rooster statue lawsuit",
       "searchVolume": 1000,
       "startedAt": "",
@@ -32,22 +47,7 @@
       "source": "serpapi-google-trends",
       "text": "maine rooster statue lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-11-18T20:29:52.150Z"
-    },
-    {
-      "rank": 387,
-      "query": "product recall",
-      "searchVolume": 200,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 200,
-      "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 8,
-      "detectedAt": "2026-11-18T20:29:52.150Z"
+      "detectedAt": "2026-11-19T07:23:32.803Z"
     }
   ]
 }

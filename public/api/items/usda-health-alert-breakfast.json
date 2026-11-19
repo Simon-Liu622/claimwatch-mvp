@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:29:56.971Z",
+  "updatedAt": "2026-11-19T07:23:40.747Z",
   "item": {
     "id": "usda-health-alert-breakfast",
     "slug": "usda-health-alert-breakfast",
@@ -21,14 +21,14 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=usda+health+alert+breakfast&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 11,
     "matchedQueries": [
       "usda health alert breakfast",
       "biscuit recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-18T20:29:52.150Z",
+    "lastUpdated": "2026-11-19T07:23:32.803Z",
     "url": "https://simon622.shop/item/usda-health-alert-breakfast/"
   }
 }

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T07:05:27.745Z",
+  "updatedAt": "2026-11-21T19:14:41.876Z",
   "siteUrl": "https://simon622.shop",
   "inventory": {
-    "builtAt": "2026-11-21T07:05:27.745Z",
-    "dataItems": 1671,
+    "builtAt": "2026-11-21T19:14:41.876Z",
+    "dataItems": 1672,
     "verifiedForPublicFeed": 1671,
-    "monitoringCandidates": 0,
-    "sitemapEntries": 2598,
-    "detailPagesTotal": 1671
+    "monitoringCandidates": 1,
+    "sitemapEntries": 2599,
+    "detailPagesTotal": 1672
   },
   "pseo": {
     "sourceAgencyPages": {
@@ -22,8 +22,8 @@
     },
     "companyProfiles": 897,
     "claimTopics": {
-      "publishedCapped": 11,
-      "qualifiedPrecap": 11,
+      "publishedCapped": 12,
+      "qualifiedPrecap": 12,
       "cap": 120
     }
   },

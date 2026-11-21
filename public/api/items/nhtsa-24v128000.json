@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:05:27.745Z",
+  "updatedAt": "2026-11-21T19:14:41.876Z",
   "item": {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
@@ -18,16 +18,17 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 2000,
-    "trendScore": 25,
+    "searchVolume": 20000,
+    "trendScore": 28,
     "matchedQueries": [
       "toyota vehicle safety recall nhtsa",
+      "airbag",
       "toyota recall"
     ],
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "22/02/2024",
-    "lastUpdated": "2026-11-21T07:05:24.347Z",
+    "lastUpdated": "2026-11-21T19:14:39.401Z",
     "url": "https://simon622.shop/item/nhtsa-24v128000/"
   }
 }

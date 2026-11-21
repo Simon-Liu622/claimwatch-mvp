@@ -1,26 +1,42 @@
 {
-  "updatedAt": "2026-11-21T07:05:27.745Z",
-  "count": 2,
+  "updatedAt": "2026-11-21T19:14:41.876Z",
+  "count": 3,
   "trends": [
     {
-      "rank": 70,
+      "rank": 32,
       "query": "toyota vehicle safety recall nhtsa",
-      "searchVolume": 2000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [
+        "airbag",
         "toyota recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+vehicle+safety+recall+nhtsa&tz=420",
-      "increasePercentage": 100,
+      "increasePercentage": 700,
       "source": "serpapi-google-trends",
-      "text": "toyota vehicle safety recall nhtsa toyota recall",
-      "trendScore": 25,
-      "detectedAt": "2026-11-21T07:05:24.347Z"
+      "text": "toyota vehicle safety recall nhtsa airbag toyota recall",
+      "trendScore": 28,
+      "detectedAt": "2026-11-21T19:14:39.401Z"
     },
     {
-      "rank": 289,
+      "rank": 347,
+      "query": "dollar general ftc price lawsuit",
+      "searchVolume": 500,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dollar+general+ftc+price+lawsuit&tz=420",
+      "increasePercentage": 50,
+      "source": "serpapi-google-trends",
+      "text": "dollar general ftc price lawsuit",
+      "trendScore": 8,
+      "detectedAt": "2026-11-21T19:14:39.401Z"
+    },
+    {
+      "rank": 423,
       "query": "salmonella",
       "searchVolume": 1000,
       "startedAt": "",
@@ -32,7 +48,7 @@
       "source": "serpapi-google-trends",
       "text": "salmonella",
       "trendScore": 8,
-      "detectedAt": "2026-11-21T07:05:24.347Z"
+      "detectedAt": "2026-11-21T19:14:39.401Z"
     }
   ]
 }

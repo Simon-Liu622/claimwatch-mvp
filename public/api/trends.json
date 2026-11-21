@@ -1,25 +1,38 @@
 {
-  "updatedAt": "2026-11-20T20:17:22.943Z",
-  "count": 1,
+  "updatedAt": "2026-11-21T07:05:27.745Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 100,
-      "query": "toyota us vehicle recall airbags",
-      "searchVolume": 50000,
+      "rank": 70,
+      "query": "toyota vehicle safety recall nhtsa",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "toyota recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+vehicle+safety+recall+nhtsa&tz=420",
+      "increasePercentage": 100,
+      "source": "serpapi-google-trends",
+      "text": "toyota vehicle safety recall nhtsa toyota recall",
+      "trendScore": 25,
+      "detectedAt": "2026-11-21T07:05:24.347Z"
+    },
+    {
+      "rank": 289,
+      "query": "salmonella",
+      "searchVolume": 1000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "toyota",
-        "toyota vehicle recall takata inflator",
-        "toyota recalls"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+us+vehicle+recall+airbags&tz=420",
-      "increasePercentage": 400,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
+      "increasePercentage": 50,
       "source": "serpapi-google-trends",
-      "text": "toyota us vehicle recall airbags toyota toyota vehicle recall takata inflator toyota recalls",
-      "trendScore": 15,
-      "detectedAt": "2026-11-20T20:17:12.777Z"
+      "text": "salmonella",
+      "trendScore": 8,
+      "detectedAt": "2026-11-21T07:05:24.347Z"
     }
   ]
 }

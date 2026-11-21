@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:17:22.943Z",
+  "updatedAt": "2026-11-21T07:05:27.745Z",
   "item": {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
     "sourceAgency": "NHTSA",
-    "searchVolume": 50000,
+    "searchVolume": 2000,
     "trendScore": 25,
     "matchedQueries": [
-      "toyota us vehicle recall airbags",
-      "toyota",
-      "toyota vehicle recall takata inflator",
-      "toyota recalls"
+      "toyota vehicle safety recall nhtsa",
+      "toyota recall"
     ],
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "22/02/2024",
-    "lastUpdated": "2026-11-20T20:17:12.777Z",
+    "lastUpdated": "2026-11-21T07:05:24.347Z",
     "url": "https://simon622.shop/item/nhtsa-24v128000/"
   }
 }

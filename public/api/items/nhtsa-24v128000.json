@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T19:14:41.876Z",
+  "updatedAt": "2026-11-22T06:46:02.973Z",
   "item": {
     "id": "nhtsa-24v128000",
     "slug": "nhtsa-24v128000",
     "title": "Toyota Motor Engineering & Manufacturing: SEATS Recall (2024 toyota camry)",
     "type": "recall",
-    "status": "active",
+    "status": "monitoring",
     "company": "Toyota Motor Engineering & Manufacturing",
     "brand": "Toyota Motor Engineering & Manufacturing",
     "product": "2024 toyota camry",
@@ -20,15 +20,11 @@
     "sourceAgency": "NHTSA",
     "searchVolume": 20000,
     "trendScore": 28,
-    "matchedQueries": [
-      "toyota vehicle safety recall nhtsa",
-      "airbag",
-      "toyota recall"
-    ],
+    "matchedQueries": [],
     "officialVerified": true,
     "officialRecordId": "24V128000",
     "recallInitiationDate": "22/02/2024",
-    "lastUpdated": "2026-11-21T19:14:39.401Z",
+    "lastUpdated": "2026-11-22T06:46:00.230Z",
     "url": "https://simon622.shop/item/nhtsa-24v128000/"
   }
 }

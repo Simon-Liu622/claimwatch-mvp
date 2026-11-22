@@ -1,27 +1,48 @@
 {
-  "updatedAt": "2026-11-21T19:14:41.876Z",
+  "updatedAt": "2026-11-22T06:46:02.973Z",
   "count": 3,
   "trends": [
     {
-      "rank": 32,
-      "query": "toyota vehicle safety recall nhtsa",
-      "searchVolume": 20000,
+      "rank": 54,
+      "query": "product recall",
+      "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [
-        "airbag",
-        "toyota recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=toyota+vehicle+safety+recall+nhtsa&tz=420",
-      "increasePercentage": 700,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
+      "increasePercentage": 500,
       "source": "serpapi-google-trends",
-      "text": "toyota vehicle safety recall nhtsa airbag toyota recall",
-      "trendScore": 28,
-      "detectedAt": "2026-11-21T19:14:39.401Z"
+      "text": "product recall",
+      "trendScore": 23,
+      "detectedAt": "2026-11-22T06:46:00.230Z"
     },
     {
-      "rank": 347,
+      "rank": 279,
+      "query": "honda airbag recall",
+      "searchVolume": 5000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [
+        "honda toyota takata airbag recall",
+        "toyota airbag recall",
+        "nbcnews.com",
+        "honda recalls",
+        "toyota airbag recall 2026",
+        "honda recall",
+        "airbag",
+        "takata airbag recall"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+airbag+recall&tz=420",
+      "increasePercentage": 200,
+      "source": "serpapi-google-trends",
+      "text": "honda airbag recall honda toyota takata airbag recall toyota airbag recall nbcnews.com honda recalls toyota airbag recall 2026 honda recall airbag takata airbag recall",
+      "trendScore": 18,
+      "detectedAt": "2026-11-22T06:46:00.230Z"
+    },
+    {
+      "rank": 474,
       "query": "dollar general ftc price lawsuit",
       "searchVolume": 500,
       "startedAt": "",
@@ -33,22 +54,7 @@
       "source": "serpapi-google-trends",
       "text": "dollar general ftc price lawsuit",
       "trendScore": 8,
-      "detectedAt": "2026-11-21T19:14:39.401Z"
-    },
-    {
-      "rank": 423,
-      "query": "salmonella",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=salmonella&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "salmonella",
-      "trendScore": 8,
-      "detectedAt": "2026-11-21T19:14:39.401Z"
+      "detectedAt": "2026-11-22T06:46:00.230Z"
     }
   ]
 }

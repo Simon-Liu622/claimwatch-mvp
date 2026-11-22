@@ -1,60 +1,45 @@
 {
-  "updatedAt": "2026-11-22T06:46:02.973Z",
-  "count": 3,
+  "updatedAt": "2026-11-22T19:38:46.095Z",
+  "count": 2,
   "trends": [
     {
-      "rank": 54,
+      "rank": 25,
       "query": "product recall",
-      "searchVolume": 5000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
-      "breakdown": [],
+      "breakdown": [
+        "toothpaste"
+      ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=product+recall&tz=420",
-      "increasePercentage": 500,
+      "increasePercentage": 900,
       "source": "serpapi-google-trends",
-      "text": "product recall",
-      "trendScore": 23,
-      "detectedAt": "2026-11-22T06:46:00.230Z"
+      "text": "product recall toothpaste",
+      "trendScore": 26,
+      "detectedAt": "2026-11-22T19:38:42.876Z"
     },
     {
-      "rank": 279,
+      "rank": 406,
       "query": "honda airbag recall",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "honda toyota takata airbag recall",
         "toyota airbag recall",
-        "nbcnews.com",
         "honda recalls",
+        "nbcnews.com",
         "toyota airbag recall 2026",
         "honda recall",
-        "airbag",
         "takata airbag recall"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+airbag+recall&tz=420",
       "increasePercentage": 200,
       "source": "serpapi-google-trends",
-      "text": "honda airbag recall honda toyota takata airbag recall toyota airbag recall nbcnews.com honda recalls toyota airbag recall 2026 honda recall airbag takata airbag recall",
+      "text": "honda airbag recall toyota airbag recall honda recalls nbcnews.com toyota airbag recall 2026 honda recall takata airbag recall",
       "trendScore": 18,
-      "detectedAt": "2026-11-22T06:46:00.230Z"
-    },
-    {
-      "rank": 474,
-      "query": "dollar general ftc price lawsuit",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dollar+general+ftc+price+lawsuit&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "dollar general ftc price lawsuit",
-      "trendScore": 8,
-      "detectedAt": "2026-11-22T06:46:00.230Z"
+      "detectedAt": "2026-11-22T19:38:42.876Z"
     }
   ]
 }

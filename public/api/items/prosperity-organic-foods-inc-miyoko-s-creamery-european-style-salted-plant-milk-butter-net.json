@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:46:02.973Z",
+  "updatedAt": "2026-11-22T19:38:46.095Z",
   "item": {
     "id": "prosperity-organic-foods-inc-miyoko-s-creamery-european-style-salted-plant-milk-butter-net",
     "slug": "prosperity-organic-foods-inc-miyoko-s-creamery-european-style-salted-plant-milk-butter-net",
@@ -18,15 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": 5000,
-    "trendScore": 23,
+    "searchVolume": 20000,
+    "trendScore": 26,
     "matchedQueries": [
-      "product recall"
+      "product recall",
+      "toothpaste"
     ],
     "officialVerified": true,
     "officialRecordId": "H-0178-2027",
     "recallInitiationDate": "20260911",
-    "lastUpdated": "2026-11-22T06:46:00.230Z",
+    "lastUpdated": "2026-11-22T19:38:42.876Z",
     "url": "https://simon622.shop/item/prosperity-organic-foods-inc-miyoko-s-creamery-european-style-salted-plant-milk-butter-net/"
   }
 }

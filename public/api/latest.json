@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:46:02.973Z",
+  "updatedAt": "2026-11-22T19:38:46.095Z",
   "items": [
     {
       "title": "Inventia Healthcare Limited: Chlorthalidone Tablets, USP, 25 mg, 100 Tablets per bottle, Rx only, Recall",
@@ -223,7 +223,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -239,7 +239,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -255,7 +255,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -431,7 +431,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -447,7 +447,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -655,7 +655,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-22T06:46:00.230Z"
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -672,6 +672,22 @@
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-05-07T08:40:29.023Z"
+    },
+    {
+      "title": "Prosperity Organic Foods Inc: Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). Recall",
+      "slug": "prosperity-organic-foods-inc-miyoko-s-creamery-european-style-salted-plant-milk-butter-net",
+      "url": "https://simon622.shop/item/prosperity-organic-foods-inc-miyoko-s-creamery-european-style-salted-plant-milk-butter-net/",
+      "type": "recall",
+      "status": "active",
+      "company": "Prosperity Organic Foods Inc",
+      "product": "Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G).",
+      "summary": "Product recalled due to yeast, mold, and E. coli. Product details: Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). UPC 857554005773. Distributed By: Prosperity Organic Foods, Inc. Boise, Idaho 83702. Product is perishable and stored refrigerated/frozen. Product is initially packaged in wax pape...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-11-22T19:38:42.876Z"
     },
     {
       "title": "Aurobindo Pharma USA Inc: amazon, Acetaminophen, Extra Strength, 500mg Caplets, 1000-count bottle, Recall",
@@ -781,22 +797,6 @@
       "sourceAgency": "CPSC",
       "officialVerified": true,
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Cuisinart-Propel-Four-Burner-3-In-1-Gas-Grills-Due-to-Risk-of-Serious-Injury-from-Laceration-Hazard",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-08-14T07:49:17.733Z"
-    },
-    {
-      "title": "Madewell Recalls Women's Sweaters Due to Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Clothing Textiles",
-      "slug": "cpsc-26625",
-      "url": "https://simon622.shop/item/cpsc-26625/",
-      "type": "recall",
-      "status": "active",
-      "company": "Madewell and T.J. Maxx stores nationwide and online at Madewell.com from December 2024 through October 2025 for between $138 and $148.",
-      "product": "Madewell Double V-Neck Pullover and V-Neck Cardigan Sweaters",
-      "summary": "This recall involves two styles of Madewell-branded Double V-Neck Pullover and V-Neck Cardigan women's sweaters. The sweaters were sold with or without buttons in light blue and cream and in sizes XS through L. The sweaters have long sleeves and a V-neck. \"Madewell\" and the size are printed on the neck label and \"Style #NT611\" or \"Style #NT612\" and \"HO24\" on the sewn-in side seam label.",
-      "sourceAgency": "CPSC",
-      "officialVerified": true,
-      "officialSourceUrl": "https://www.cpsc.gov/Recalls/2026/Madewell-Recalls-Womens-Sweaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Clothing-Textiles",
       "thirdPartySourceUrl": "",
       "deadline": null,
       "lastUpdated": "2026-08-14T07:49:17.733Z"

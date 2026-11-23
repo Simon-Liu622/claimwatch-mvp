@@ -1,17 +1,23 @@
 [
   {
-    "rank": 533,
-    "query": "propranolol recall",
-    "searchVolume": 200,
+    "rank": 84,
+    "query": "honda",
+    "searchVolume": 20000,
     "startedAt": "",
     "endedAt": "",
     "active": false,
-    "breakdown": [],
-    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=propranolol+recall&tz=420",
-    "increasePercentage": 50,
+    "breakdown": [
+      "honda recall",
+      "airbag",
+      "takata corporation",
+      "honda takata airbag rupture notice",
+      "honda recalls"
+    ],
+    "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
+    "increasePercentage": 100,
     "source": "serpapi-google-trends",
-    "text": "propranolol recall",
-    "trendScore": 8,
-    "detectedAt": "2026-11-23T07:36:42.363Z"
+    "text": "honda honda recall airbag takata corporation honda takata airbag rupture notice honda recalls",
+    "trendScore": 19,
+    "detectedAt": "2026-11-23T23:52:25.054Z"
   }
 ]

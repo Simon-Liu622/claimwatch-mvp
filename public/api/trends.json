@@ -1,31 +1,61 @@
 {
-  "updatedAt": "2026-11-24T09:53:06.508Z",
-  "count": 2,
+  "updatedAt": "2026-11-24T22:25:32.566Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 136,
-      "query": "honda",
-      "searchVolume": 20000,
+      "rank": 26,
+      "query": "lawsuit",
+      "searchVolume": 10000,
       "startedAt": "",
       "endedAt": "",
-      "active": false,
+      "active": true,
       "breakdown": [
-        "honda recalls",
-        "takata corporation",
-        "airbag",
-        "honda takata airbag rupture notice",
+        "class action",
+        "wendy's company"
+      ],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "increasePercentage": 600,
+      "source": "serpapi-google-trends",
+      "text": "lawsuit class action wendy's company",
+      "trendScore": 35,
+      "detectedAt": "2026-11-24T22:25:29.329Z"
+    },
+    {
+      "rank": 133,
+      "query": "airbag",
+      "searchVolume": 2000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": true,
+      "breakdown": [
+        "honda recall airbags",
         "honda recall",
         "honda airbag recall"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda&tz=420",
-      "increasePercentage": 75,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=airbag&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "honda honda recalls takata corporation airbag honda takata airbag rupture notice honda recall honda airbag recall",
-      "trendScore": 19,
-      "detectedAt": "2026-11-24T09:53:03.658Z"
+      "text": "airbag honda recall airbags honda recall honda airbag recall",
+      "trendScore": 29,
+      "detectedAt": "2026-11-24T22:25:29.329Z"
     },
     {
-      "rank": 98,
+      "rank": 148,
+      "query": "aldi boxed pasta product recall",
+      "searchVolume": 10000,
+      "startedAt": "",
+      "endedAt": "",
+      "active": false,
+      "breakdown": [],
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+boxed+pasta+product+recall&tz=420",
+      "increasePercentage": 300,
+      "source": "serpapi-google-trends",
+      "text": "aldi boxed pasta product recall",
+      "trendScore": 8,
+      "detectedAt": "2026-11-24T22:25:29.329Z"
+    },
+    {
+      "rank": 204,
       "query": "drug recall",
       "searchVolume": 10000,
       "startedAt": "",
@@ -37,7 +67,7 @@
       "source": "serpapi-google-trends",
       "text": "drug recall",
       "trendScore": 8,
-      "detectedAt": "2026-11-24T09:53:03.658Z"
+      "detectedAt": "2026-11-24T22:25:29.329Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:32:07.699Z",
+  "updatedAt": "2026-11-25T21:40:46.347Z",
   "item": {
     "id": "vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap",
     "slug": "vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap",
@@ -18,13 +18,15 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
     "sourceAgency": "FDA",
-    "searchVolume": 1000,
+    "searchVolume": 2000,
     "trendScore": 8,
-    "matchedQueries": [],
+    "matchedQueries": [
+      "salmonella"
+    ],
     "officialVerified": true,
     "officialRecordId": "H-0204-2027",
     "recallInitiationDate": "20261023",
-    "lastUpdated": "2026-11-25T08:32:05.461Z",
+    "lastUpdated": "2026-11-25T21:40:44.673Z",
     "url": "https://simon622.shop/item/vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap/"
   }
 }

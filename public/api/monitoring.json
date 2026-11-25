@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T08:32:07.699Z",
-  "count": 3,
+  "updatedAt": "2026-11-25T21:40:46.347Z",
+  "count": 2,
   "items": [
     {
       "id": "wendys-class-action-lawsuit",
@@ -24,56 +24,24 @@
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 20000,
-      "trendScore": 21,
+      "trendScore": 17,
       "matchedQueries": [
         "wendys class action lawsuit",
         "wendy's company",
         "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-25T08:32:05.461Z"
+      "lastUpdated": "2026-11-25T21:40:44.673Z"
     },
     {
-      "id": "airbag",
-      "slug": "airbag",
-      "title": "Airbag: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "airbag",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=airbag&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 10,
-      "matchedQueries": [
-        "airbag",
-        "honda recall airbags",
-        "honda recall",
-        "honda airbag recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-25T08:32:05.461Z"
-    },
-    {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
+      "id": "wizards-of-the-coast-lawsuit-printmtg",
+      "slug": "wizards-of-the-coast-lawsuit-printmtg",
+      "title": "Wizards Of The Coast Lawsuit Printmtg: Consumer Alert Monitoring",
       "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
+      "product": "wizards of the coast lawsuit printmtg",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -83,18 +51,16 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wizards+of+the+coast+lawsuit+printmtg&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
+      "searchVolume": 500,
       "trendScore": 8,
       "matchedQueries": [
-        "lawsuit",
-        "class action",
-        "wendy's company"
+        "wizards of the coast lawsuit printmtg"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-25T08:32:05.461Z"
+      "lastUpdated": "2026-11-25T21:40:44.673Z"
     }
   ]
 }

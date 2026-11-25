@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-24T22:25:32.566Z",
+  "updatedAt": "2026-11-25T08:32:07.699Z",
   "item": {
     "id": "lawsuit",
     "slug": "lawsuit",
     "title": "Lawsuit: Consumer Alert Monitoring",
-    "type": "settlement",
+    "type": "lawsuit",
     "status": "monitoring",
     "company": "",
     "brand": "",
@@ -22,14 +22,14 @@
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
     "searchVolume": 10000,
-    "trendScore": 35,
+    "trendScore": 8,
     "matchedQueries": [
       "lawsuit",
       "class action",
       "wendy's company"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-24T22:25:29.329Z",
+    "lastUpdated": "2026-11-25T08:32:05.461Z",
     "url": "https://simon622.shop/item/lawsuit/"
   }
 }

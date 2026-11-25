@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-24T22:25:32.566Z",
-  "count": 4,
+  "updatedAt": "2026-11-25T08:32:07.699Z",
+  "count": 3,
   "items": [
     {
-      "id": "lawsuit",
-      "slug": "lawsuit",
-      "title": "Lawsuit: Consumer Alert Monitoring",
+      "id": "wendys-class-action-lawsuit",
+      "slug": "wendys-class-action-lawsuit",
+      "title": "Wendys Class Action Lawsuit: Consumer Alert Monitoring",
       "type": "settlement",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "lawsuit",
+      "product": "wendys class action lawsuit",
       "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -20,18 +20,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wendys+class+action+lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 35,
+      "searchVolume": 20000,
+      "trendScore": 21,
       "matchedQueries": [
-        "lawsuit",
-        "class action",
-        "wendy's company"
+        "wendys class action lawsuit",
+        "wendy's company",
+        "class action"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-24T22:25:29.329Z"
+      "lastUpdated": "2026-11-25T08:32:05.461Z"
     },
     {
       "id": "airbag",
@@ -54,8 +54,8 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=airbag&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 29,
+      "searchVolume": 5000,
+      "trendScore": 10,
       "matchedQueries": [
         "airbag",
         "honda recall airbags",
@@ -63,18 +63,18 @@
         "honda airbag recall"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-24T22:25:29.329Z"
+      "lastUpdated": "2026-11-25T08:32:05.461Z"
     },
     {
-      "id": "drug-recall",
-      "slug": "drug-recall",
-      "title": "Drug Recall: Consumer Alert Monitoring",
-      "type": "recall",
+      "id": "lawsuit",
+      "slug": "lawsuit",
+      "title": "Lawsuit: Consumer Alert Monitoring",
+      "type": "lawsuit",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "drug recall",
-      "category": "Recall monitoring",
+      "product": "lawsuit",
+      "category": "Consumer monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -83,45 +83,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug+recall&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lawsuit&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
       "searchVolume": 10000,
       "trendScore": 8,
       "matchedQueries": [
-        "drug recall"
+        "lawsuit",
+        "class action",
+        "wendy's company"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-24T22:25:29.329Z"
-    },
-    {
-      "id": "aldi-boxed-pasta-product-recall",
-      "slug": "aldi-boxed-pasta-product-recall",
-      "title": "Aldi Boxed Pasta Product Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "aldi boxed pasta product recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aldi+boxed+pasta+product+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "aldi boxed pasta product recall"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-24T22:25:29.329Z"
+      "lastUpdated": "2026-11-25T08:32:05.461Z"
     }
   ]
 }

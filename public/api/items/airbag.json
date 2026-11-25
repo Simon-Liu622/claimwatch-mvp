@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:25:32.566Z",
+  "updatedAt": "2026-11-25T08:32:07.699Z",
   "item": {
     "id": "airbag",
     "slug": "airbag",
@@ -21,8 +21,8 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=airbag&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 29,
+    "searchVolume": 5000,
+    "trendScore": 10,
     "matchedQueries": [
       "airbag",
       "honda recall airbags",
@@ -30,7 +30,7 @@
       "honda airbag recall"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-24T22:25:29.329Z",
+    "lastUpdated": "2026-11-25T08:32:05.461Z",
     "url": "https://simon622.shop/item/airbag/"
   }
 }

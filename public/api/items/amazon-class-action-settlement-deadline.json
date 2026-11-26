@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T21:40:46.347Z",
+  "updatedAt": "2026-11-26T08:15:55.030Z",
   "item": {
-    "id": "wendys-class-action-lawsuit",
-    "slug": "wendys-class-action-lawsuit",
-    "title": "Wendys Class Action Lawsuit: Consumer Alert Monitoring",
+    "id": "amazon-class-action-settlement-deadline",
+    "slug": "amazon-class-action-settlement-deadline",
+    "title": "Amazon Class Action Settlement Deadline: Consumer Alert Monitoring",
     "type": "settlement",
     "status": "monitoring",
     "company": "",
     "brand": "",
-    "product": "wendys class action lawsuit",
+    "product": "amazon class action settlement deadline",
     "category": "Consumer monitoring",
     "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
     "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
@@ -18,18 +18,16 @@
     "officialClaimUrl": "",
     "officialSourceUrl": "",
     "thirdPartySourceUrl": "",
-    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wendys+class+action+lawsuit&tz=420",
-    "sourceAgency": "COMPANY",
+    "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
+    "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 20000,
-    "trendScore": 17,
+    "searchVolume": 2000,
+    "trendScore": 39,
     "matchedQueries": [
-      "wendys class action lawsuit",
-      "wendy's company",
-      "class action"
+      "amazon class action settlement deadline"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-25T21:40:44.673Z",
-    "url": "https://simon622.shop/item/wendys-class-action-lawsuit/"
+    "lastUpdated": "2026-11-26T08:15:52.215Z",
+    "url": "https://simon622.shop/item/amazon-class-action-settlement-deadline/"
   }
 }

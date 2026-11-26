@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:40:46.347Z",
+  "updatedAt": "2026-11-26T08:15:55.030Z",
   "count": 1707,
   "items": [
     {
@@ -224,7 +224,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=23V782000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP Recall (2024 honda accord)",
@@ -240,7 +240,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V763000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Honda (American Honda Motor Co.): SEATS:CRITICAL FASTENERS Recall (2024 honda accord)",
@@ -256,7 +256,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V859000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Becton Dickinson & Company: BD¿Spinal Tray with BD¿Whitacre Needle 22 G x 3.5 in.; lidocaine HCL (1%), 5 mL, bupivacaine HCL (0.75%) with dextrose (8.25%), 2 mL (marcai Recall",
@@ -432,7 +432,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V164000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: BACK OVER PREVENTION:SOFTWARE Recall (2024 ford f-150)",
@@ -448,7 +448,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V315000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:GLASS, SIDE/REAR Recall (2024 ford bronco)",
@@ -656,7 +656,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V128000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "FSIS Issues Public Health Alert for Various Meat and Poultry Products Containing FDA-Regulated Dairy Products That Have Been Recalled Due to Possible Salmonella Contamination",
@@ -1203,6 +1203,54 @@
       "lastUpdated": "2026-05-27T20:29:01.709Z"
     },
     {
+      "title": "Vitality Works, Inc: 365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsul Recall",
+      "slug": "vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap",
+      "url": "https://simon622.shop/item/vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap/",
+      "type": "recall",
+      "status": "active",
+      "company": "Vitality Works, Inc",
+      "product": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsul",
+      "summary": "Possible Salmonella contamination. Product details: 365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle Take 1 capsule 2 times daily. Packaged in a 200cc white HDPE bottle with white cap. Whole Foods UPC...",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
+    },
+    {
+      "title": "Country Creek LLC: Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blu Recall",
+      "slug": "country-creek-llc-country-creek-acres-alfalfa-sprout-seeds-packed-in-a-clear-and-silver-po",
+      "url": "https://simon622.shop/item/country-creek-llc-country-creek-acres-alfalfa-sprout-seeds-packed-in-a-clear-and-silver-po/",
+      "type": "recall",
+      "status": "active",
+      "company": "Country Creek LLC",
+      "product": "Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blu",
+      "summary": "Products contain seed recalled from the supplier and may be contaminated with E. coli and/or Salmonella Product details: Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blue lettering, packed in 2 oz, 4 oz, 8 oz, and/or 16 oz packages",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
+    },
+    {
+      "title": "Francisco Family Foods: Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusse Recall",
+      "slug": "francisco-family-foods-alfalfa-sprouts-hydroponically-grown-4oz-alfalfa-sprouts-were-packa",
+      "url": "https://simon622.shop/item/francisco-family-foods-alfalfa-sprouts-hydroponically-grown-4oz-alfalfa-sprouts-were-packa/",
+      "type": "recall",
+      "status": "active",
+      "company": "Francisco Family Foods",
+      "product": "Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusse",
+      "summary": "Potential E. coli and Salmonella contamination Product details: Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusseted plastic bag. Produce of USA. Francisco Family Foods, PO Box 848 Columbia falls, MT 59912",
+      "sourceAgency": "FDA",
+      "officialVerified": true,
+      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
+      "thirdPartySourceUrl": "",
+      "deadline": null,
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
+    },
+    {
       "title": "Green Jeeva LLC: Organic Moringa Powder; 15kg/bag (bulk); Product code: GJ96 Recall",
       "slug": "green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96",
       "url": "https://simon622.shop/item/green-jeeva-llc-organic-moringa-powder-15kg-bag-bulk-product-code-gj96/",
@@ -1280,7 +1328,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Little-Giant-Recalls-Ladders-with-Rapid-Locks-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Giantex Recalls Giantex and Costway Portable Steam Saunas Due to Burn Hazard",
@@ -1555,54 +1603,6 @@
       "lastUpdated": "2026-05-11T20:03:56.394Z"
     },
     {
-      "title": "Vitality Works, Inc: 365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsul Recall",
-      "slug": "vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap",
-      "url": "https://simon622.shop/item/vitality-works-inc-365-whole-foods-market-standardized-full-spectrum-blend-ashwagandha-cap/",
-      "type": "recall",
-      "status": "active",
-      "company": "Vitality Works, Inc",
-      "product": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsul",
-      "summary": "Possible Salmonella contamination. Product details: 365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle Take 1 capsule 2 times daily. Packaged in a 200cc white HDPE bottle with white cap. Whole Foods UPC...",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
-    },
-    {
-      "title": "Country Creek LLC: Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blu Recall",
-      "slug": "country-creek-llc-country-creek-acres-alfalfa-sprout-seeds-packed-in-a-clear-and-silver-po",
-      "url": "https://simon622.shop/item/country-creek-llc-country-creek-acres-alfalfa-sprout-seeds-packed-in-a-clear-and-silver-po/",
-      "type": "recall",
-      "status": "active",
-      "company": "Country Creek LLC",
-      "product": "Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blu",
-      "summary": "Products contain seed recalled from the supplier and may be contaminated with E. coli and/or Salmonella Product details: Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blue lettering, packed in 2 oz, 4 oz, 8 oz, and/or 16 oz packages",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
-    },
-    {
-      "title": "Francisco Family Foods: Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusse Recall",
-      "slug": "francisco-family-foods-alfalfa-sprouts-hydroponically-grown-4oz-alfalfa-sprouts-were-packa",
-      "url": "https://simon622.shop/item/francisco-family-foods-alfalfa-sprouts-hydroponically-grown-4oz-alfalfa-sprouts-were-packa/",
-      "type": "recall",
-      "status": "active",
-      "company": "Francisco Family Foods",
-      "product": "Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusse",
-      "summary": "Potential E. coli and Salmonella contamination Product details: Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusseted plastic bag. Produce of USA. Francisco Family Foods, PO Box 848 Columbia falls, MT 59912",
-      "sourceAgency": "FDA",
-      "officialVerified": true,
-      "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
-      "thirdPartySourceUrl": "",
-      "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
-    },
-    {
       "title": "EDEN BROTHERS: EDEN BROTHERS Broccoli Seeds - Calabrese. Sold in packets, Net Wt. 1oz pouches, Recall",
       "slug": "eden-brothers-eden-brothers-broccoli-seeds-calabrese-sold-in-packets-net-wt-1oz-pouches",
       "url": "https://simon622.shop/item/eden-brothers-eden-brothers-broccoli-seeds-calabrese-sold-in-packets-net-wt-1oz-pouches/",
@@ -1744,7 +1744,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/competition-consumer-protection-guidance-documents",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Consumer Sentinel Network",
@@ -1760,7 +1760,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/consumer-sentinel-network",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "FTC Refund Programs",
@@ -1776,7 +1776,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Sign up for consumer alerts",
@@ -1792,7 +1792,7 @@
       "officialSourceUrl": "https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Find refund cases",
@@ -1808,7 +1808,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Consumer Advice",
@@ -1824,7 +1824,7 @@
       "officialSourceUrl": "https://www.consumer.ftc.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Visit militaryconsumer.gov",
@@ -1840,7 +1840,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Visit consumer.gov",
@@ -1856,7 +1856,7 @@
       "officialSourceUrl": "https://consumer.gov",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "FTC Refunds to Consumers",
@@ -1872,7 +1872,7 @@
       "officialSourceUrl": "https://public.tableau.com/app/profile/federal.trade.commission/viz/Refunds_15797958402020/RefundsbyCase",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Military Consumer",
@@ -1888,7 +1888,7 @@
       "officialSourceUrl": "https://militaryconsumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Consumer.gov",
@@ -1904,7 +1904,7 @@
       "officialSourceUrl": "https://consumer.gov/",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Data on Refunds to Consumers",
@@ -1920,7 +1920,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/data-refunds-consumers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: STEERING:COLUMN Recall (2024 ford f-150)",
@@ -1936,7 +1936,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V329000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: VISIBILITY:WINDSHIELD Recall (2024 ford f-150)",
@@ -1952,7 +1952,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V486000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
@@ -1968,7 +1968,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V851000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: EQUIPMENT:OTHER:LABELS Recall (2024 ford f-150)",
@@ -1984,7 +1984,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V852000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: STEERING Recall (2024 ford f-150)",
@@ -2000,7 +2000,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V022000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: ENGINE AND ENGINE COOLING:ENGINE:OIL/LUBRICATION Recall (2024 ford f-150)",
@@ -2016,7 +2016,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V198000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: POWER TRAIN:AXLE HUBS Recall (2024 ford f-150)",
@@ -2032,7 +2032,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V512000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: ELECTRICAL SYSTEM: INTEGRATED TRAILER BRAKE CONTROL Recall (2024 ford f-150)",
@@ -2048,7 +2048,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V104000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ford Motor Company: FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY:MOUNTING Recall (2024 ford f-150)",
@@ -2064,7 +2064,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V578000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Tesla, Inc.: AIR BAGS:SIDE/WINDOW:THORAX Recall (2024 tesla model 3)",
@@ -2080,7 +2080,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V284000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Tesla, Inc.: LATCHES/LOCKS/LINKAGES:HOOD:LATCH Recall (2024 tesla model 3)",
@@ -2096,7 +2096,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V554000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Tesla, Inc.: TIRES:PRESSURE MONITORING AND REGULATING SYSTEMS Recall (2024 tesla model 3)",
@@ -2112,7 +2112,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=24V935000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Tesla, Inc.: BACK OVER PREVENTION:SOFTWARE Recall (2024 tesla model 3)",
@@ -2128,7 +2128,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=25V002000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Tesla, Inc.: STRUCTURE:BODY:BUMPERS Recall (2024 tesla model 3)",
@@ -2144,7 +2144,7 @@
       "officialSourceUrl": "https://api.nhtsa.gov/recalls/recallsByCampaignNumber?campaignNumber=26V445000",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
@@ -2160,7 +2160,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/ABC-Trading-Recalls-Squishy-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard",
@@ -2176,7 +2176,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
@@ -2192,7 +2192,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
@@ -2208,7 +2208,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats",
@@ -2224,7 +2224,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard",
@@ -2240,7 +2240,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -2256,7 +2256,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards",
@@ -2272,7 +2272,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Snow-Peak-Recalls-Propane-Fireplace-Inserts-and-Lava-Rocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-and-Fire-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets",
@@ -2288,7 +2288,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/The-Conqueror-Recalls-Avengers-Medals-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Magnets",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard",
@@ -2304,7 +2304,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/3M-Company-Recalls-ScotchTM-Thermal-Laminators-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard",
@@ -2320,7 +2320,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/HatsanUSA-Recalls-Blitz-Air-Rifles-Due-to-Risk-of-Serious-Injury-or-Death-from-Projectile-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards",
@@ -2336,7 +2336,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion",
@@ -2352,7 +2352,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Primark-Recalls-101-Dalmatians-Faux-Leather-Childrens-Coin-Purses-Due-to-Phthalate-Levels-and-Risk-of-Ingestion",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
@@ -2368,7 +2368,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Loving Thyself Rocks Recalls Crystal Glass Cups Due to Risk of Serious Injury from Ingestion and Laceration Hazards",
@@ -2384,7 +2384,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Loving-Thyself-Rocks-Recalls-Crystal-Glass-Cups-Due-to-Risk-of-Serious-Injury-from-Ingestion-and-Laceration-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "VQQQ Gas Patio Heaters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
@@ -2400,7 +2400,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/VQQQ-Gas-Patio-Heaters-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
@@ -2416,7 +2416,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Costway Recalls Convertible High Chairs Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for High Chairs",
@@ -2432,7 +2432,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Costway-Recalls-Convertible-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violate-Mandatory-Standard-for-High-Chairs",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess Costumes Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
@@ -2448,7 +2448,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Lithonia Lighting Recalls RSX Luminaires with Adjustable Tilt Arm Mountings Due to Risk of Serious Injury from Impact Hazard",
@@ -2464,7 +2464,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Lithonia-Lighting-Recalls-RSX-Luminaires-with-Adjustable-Tilt-Arm-Mountings-Due-to-Risk-of-Serious-Injury-from-Impact-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "DREO Recalls DR-HSH015 Space Heaters Due to Fire and Burn Hazards",
@@ -2480,7 +2480,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Fashion Brand Apparel Recalls QZH.DUAO Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear",
@@ -2496,7 +2496,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Fashion-Brand-Apparel-Recalls-QZH-DUAO-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Harkla Recalls Children’s Sensory Swings Due to Risk of Serious Injury from Fall Hazard",
@@ -2512,7 +2512,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Harkla-Recalls-Childrens-Sensory-Swings-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Longjili Trading Recalls Pamag Pieeoo Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
@@ -2528,7 +2528,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Longjili-Trading-Recalls-Pamag-Pieeoo-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "NTI and HTP Brand Gas Boilers Recalled Due to Risk of Serious Injury or Death from Fire, Carbon Monoxide (CO) Poisoning and Impact Hazards; Manufactured by Ariston, formerly NTI Boilers",
@@ -2544,7 +2544,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "PILLANI Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows",
@@ -2560,7 +2560,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/PILLANI-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "RootStim Recalls Minoxidil Hair Regrowth Treatment Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging",
@@ -2576,7 +2576,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/RootStim-Recalls-Minoxidil-Hair-Regrowth-Treatment-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "SOOWERY Recalls 8-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -2592,7 +2592,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/SOOWERY-Recalls-8-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury",
@@ -2608,7 +2608,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech",
@@ -2624,7 +2624,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard",
@@ -2640,7 +2640,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Yinklev Recalls Jocoevol 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -2656,7 +2656,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Yinklev-Recalls-Jocoevol-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Arlopu Recalls Slide Playsets Due to Risk of Serious Injury and Death from Head and Neck Entrapment Hazards",
@@ -2672,7 +2672,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Arlopu-Recalls-Slide-Playsets-Due-to-Risk-of-Serious-Injury-and-Death-from-Head-and-Neck-Entrapment-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Baby Brezza Enterprises Recalls SuperFast Sterilizer Dryers Due to Overheating and Burn Hazards",
@@ -2688,7 +2688,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Baby-Brezza-Enterprises-Recalls-SuperFast-Sterilizer-Dryers-Due-to-Overheating-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
@@ -2704,7 +2704,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "C.A.M.P. Recalls Mountain Ice Axes Due to Risk of Serious Injury or Death from Fall Hazard",
@@ -2720,7 +2720,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/CAMP-Recalls-Mountain-Ice-Axes-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Gourmia Recalls 9-Slice Digital Air Fryer Ovens Due to Burn Hazard",
@@ -2736,7 +2736,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Gourmia-Recalls-9-Slice-Digital-Air-Fryer-Ovens-Due-to-Burn-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Jiastfeng Recalls HAUOMS Eight-drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
@@ -2752,7 +2752,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Jiastfeng-Recalls-HAUOMS-Eight-drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Kikea Store Recalls X-VESOLJE Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows",
@@ -2768,7 +2768,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Kikea-Store-Recalls-X-VESOLJE-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Magnetopia Recalls Magnetic Building Cubes and Blocks Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
@@ -2784,7 +2784,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Magnetopia-Recalls-Magnetic-Building-Cubes-and-Blocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Sanven Technology Recalls Vevor BMX Bicycles Due to Risk of Serious Injury or Death from Crash Hazard; Violate Federal Requirements for Bicycles",
@@ -2800,7 +2800,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Sanven-Technology-Recalls-Vevor-BMX-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Federal-Requirements-for-Bicycles",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "U.S. Titan Recalls X-Pro Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for ATVs",
@@ -2816,7 +2816,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/U-S-Titan-Recalls-X-Pro-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Mandatory-Standard-for-ATVs",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Vanderhall North America Recalls All Model Year 2024-2026 Brawley Electric Recreational Off-road Vehicles Due to Injury and Crash Hazards",
@@ -2832,7 +2832,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Vanderhall-North-America-Recalls-All-Model-Year-2024-2026-Brawley-Electric-Recreational-Off-road-Vehicles-Due-to-Injury-and-Crash-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Allstar Recalls Sharper Image Tabletop and Infinity Fire Pits Due to Risk of Serious Injury from Burn and Fire Hazards",
@@ -2848,7 +2848,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Allstar-Recalls-Sharper-Image-Tabletop-and-Infinity-Fire-Pits-Due-to-Risk-of-Serious-Injury-from-Burn-and-Fire-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Boshengya Recalls Rugs Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Carpets and Rugs",
@@ -2864,7 +2864,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Boshengya-Recalls-Rugs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Carpets-and-Rugs",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards",
@@ -2880,7 +2880,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Cummins-Recalls-Portable-Generators-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard",
@@ -2896,7 +2896,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
@@ -2912,7 +2912,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "QIOMALA Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
@@ -2928,7 +2928,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/QIOMALA-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "SHEIN Distribution Corporation Recalls Baby Rattle and Teether Toy Sets Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Small Parts Ban",
@@ -2944,7 +2944,7 @@
       "officialSourceUrl": "https://www.cpsc.gov/Recalls/2027/SHEIN-Distribution-Corporation-Recalls-Baby-Rattle-and-Teether-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Small-Parts-Ban",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Victory Medical Center Pharmacy: THYMOSIN ALPHA-1 (MDV) 3MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas Recall",
@@ -2960,7 +2960,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Victory Medical Center Pharmacy: CAGRILINTIDE/GLYCINE/B12 (MDV) 3.75/5/1MG/ML **1ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas Recall",
@@ -2976,7 +2976,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Victory Medical Center Pharmacy: CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas Recall",
@@ -2992,7 +2992,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Victory Medical Center Pharmacy: TIRZEPATIDE/L-CARNITINE **10/50MG/ML** (MDV) **1ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas Recall",
@@ -3008,7 +3008,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Preferred Pharmaceuticals, Inc.: Artificial Tears Lubricant Eye Drops, Visine, Pkg Size: 15, Mfg: Geri-Care: Brooklyn, NY. Recall",
@@ -3024,7 +3024,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "American Health Packaging: Cyanocobalamin Injection, USP, 1,000 mcg/mL, Rx Only, 25 x 1mL -Multiple-Dose Vials per carton, Mfg. by: American Regent, Inc., For Bluepoin Recall",
@@ -3040,7 +3040,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Victory Medical Center Pharmacy: CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **2ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas Recall",
@@ -3056,7 +3056,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
@@ -3072,7 +3072,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Cipton Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
@@ -3088,7 +3088,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Fidlock GmbH Recalls Hermetic Dry Bags Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
@@ -3104,7 +3104,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Fidlock-GmbH-Recalls-Hermetic-Dry-Bags-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Hultafors Group North America Recalls Lighted Portfolios, Angle Locators, Calipers and Calculators Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
@@ -3120,7 +3120,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Kidsview Recalls Infant Bouncers Due to Risk of Collapse and Impact Injury to Infants",
@@ -3136,7 +3136,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards",
@@ -3152,7 +3152,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Qpancy Recalls Children’s Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear",
@@ -3168,7 +3168,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Vanderhall Recalls Brawley GTS Electric Recreational Off Highway Vehicles (ROVs) Due to Risk of Serious Injury or Death from Crash Hazard",
@@ -3184,7 +3184,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Vanderhall-Recalls-Brawley-GTS-Electric-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Xentrawave Recalls Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; One Death Reported",
@@ -3200,7 +3200,7 @@
       "officialSourceUrl": "https://cpsc.gov/Recalls/2027/Xentrawave-Recalls-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-One-Death-Reported",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Family Farmstead Dairy, LLC: Raw milk cheddar cheese packed in vacuum sealed clear plastic with a white, red and green label which reads in part as, \"FAMILY FARMSTEAD MI Recall",
@@ -3216,7 +3216,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Krasnyi Oktyabr Inc: Starfish Seafood Cold Smoked Norwegian Salmon Recall",
@@ -3232,7 +3232,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Krasnyi Oktyabr Inc: Starfish Seafood Cold Smoked Trio Salmon Halibut Trout Recall",
@@ -3248,7 +3248,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Crystal Temptations: Little Temptations, Chocolatey Eyeballs (Hazelnut Praline Chocolatey Eyeballs ) Spooks and Spells, The product comes in the following sizes: Recall",
@@ -3264,7 +3264,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Lidl US TRADING: Gelatelli NATURALLY FLAVORED COFFEE & VANILLA GELATO WITH COFFEE SAUCE & COOKIE PIECES 16FL OZ (1PT) 475 mL Recall",
@@ -3280,7 +3280,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Lockout Industries, LLC: Boner Bears Chocolate Syrup, Serving size 15g, Dosage: Consume 1 Piece At Least 1 Hour Prior To Activity. Do Not Exceed 1 Piece In Any 48 Ho Recall",
@@ -3296,7 +3296,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "WinCo Foods LLC: WinCo Foods Hoagie Rolls, 6 rolls/bag. Product is packaged in clear plastic bag with red banner. Net Wt. 16oz (1LB) 454g. Recall",
@@ -3312,7 +3312,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Pan Pepin, Inc.: ParaBien Al Grano with Recall",
@@ -3328,7 +3328,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Ethel's Bakery, LLC: Ethel's Gluten Free Turtle Dandy Dessert Bars 6oz, Recall",
@@ -3344,7 +3344,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "House Foods America Corporation: Bulk packaged Seitan Cubes; 2/ 5-pound vacuumed seal packages per case. Case is generic brown cardboard with product and company information Recall",
@@ -3360,7 +3360,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "NALPAC LTD.: DTF SEXUAL CHOCOLATES, Recall",
@@ -3376,7 +3376,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "How the FTC Provides Refunds",
@@ -3392,7 +3392,7 @@
       "officialSourceUrl": "https://www.ftc.gov/enforcement/ftc-refund-programs/how-ftc-provides-refunds",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Breath of Fresh Air PDX LLC: Ground Up Nut Butter Cups filled with Almond & Cashew Butter Dark Chocolate Two Pack. Net wt. 1.9oz. Each paper box consists two cups wrappe Recall",
@@ -3408,7 +3408,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "J F C International Inc: NAGAI SOYEAT GREEN branded soy paper wrap; 10- 2.5OZ containers in vacuumed sealed containers. Recall",
@@ -3424,7 +3424,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Snack Right Super Foods, Inc.: Brad's Crunchy Kale Original, 2 oz (57g) bags with Recall",
@@ -3440,7 +3440,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Snack Right Super Foods, Inc.: Brad's Crunchy Kale, Cheeze It Up, 2 oz (57g) bags with Recall",
@@ -3456,7 +3456,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "SUPPLX.com: Branch Manager, Dietary Supplement for Men 18+, packaged in single capsule blister card, 24 individual blister cards per retail box; Recall",
@@ -3472,7 +3472,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Snack Right Super Foods, Inc.: Brad's Crunchy Kale Radical Ranch, 2 oz (57g) bags with Recall",
@@ -3488,7 +3488,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Mana Bakery: Mana Bakery Peperecha, 8 oz., with Recall",
@@ -3504,7 +3504,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "D & M Smoked Fish, Inc.: Cold Smoked Sprats, 5 lbs. Recall",
@@ -3520,7 +3520,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Fresh & Ready Foods LLC: Fresh To You Sausage, Egg & Cheese Biscuit Sandwich, net weight. 4.6 oz (131g). Refrigerated breakfast sandwich sold to the general populati Recall",
@@ -3536,7 +3536,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Snack Right Super Foods, Inc.: Brad's Veggie Chips Kale, 3 oz (85g) bags with Recall",
@@ -3552,7 +3552,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "SLR Food Distribution, Inc.: Wise Wife ground cinnamon in plastic container with black screw top cap, 3.88 oz Recall",
@@ -3568,7 +3568,7 @@
       "officialSourceUrl": "https://api.fda.gov/food/enforcement.json?sort=report_date:desc&limit=25",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: ORL Organic Oral Care Cinnamint toothpaste, 4 oz., ORL, ORL Labs, LLC, Scottsdale, Arizona, USA Recall",
@@ -3584,7 +3584,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: ORL Organic Oral Care Fresh Mint natural toothpaste, 4 oz., ORL, Manufactured in USA, ORL Labs, LLC, Scottsdale, Arizona, USA, Recall",
@@ -3600,7 +3600,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: ORL Organic Oral Care Fresh mint mouthwash, 16.9 oz., ORL, Manufactured in USA, ORL Labs, LLC, Scottsdale, Arizona, USA, Recall",
@@ -3616,7 +3616,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: ORL Organic Oral Care Bubblegum Kids Mouthwash, 16.9 oz., ORL, ORL Labs, LLC, Scottsdale, Arizona, USA, Recall",
@@ -3632,7 +3632,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "IBeautiStore.com: UMARY Acido Hialuronico, also known as: \"New Hyaluronic Acid 850mg Sealed 30 Caps\", Suplemento Alimenticio, Contenido Neto: 30 capletas de 8 Recall",
@@ -3648,7 +3648,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "SUN PHARMACEUTICAL INDUSTRIES INC: Lisdexamfetamine Dimesylate Capsules 40 mg, 100-count bottle, Rx Only, Recall",
@@ -3664,7 +3664,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: Organic Oral Care Cinnamint Kids Mouthwash, 16.9 oz., ORL, ORL Labs, LLC, Scottsdale, Arizona, USA, 16.9 oz. Recall",
@@ -3680,7 +3680,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "ORL Labs LLC: ORL Organic Oral Care Bubblegum Kids natural toothpaste, 4 oz., ORL, Manufactured in USA, ORL LAbs, LLC, Scottsdale, Arizona, USA, Recall",
@@ -3696,7 +3696,7 @@
       "officialSourceUrl": "https://api.fda.gov/drug/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "IMRIS Imaging Inc: IMRIS Operating Suite iMRI 3T S, Model Number 116118-000, IMRIS Product Description ORT400 Table, IMRIS Part Number 119900-000; Floor System Recall",
@@ -3712,7 +3712,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "3B Medical, Inc.: Luna G3 BPAP System Model/Catalog Number: LG3800-30VT Product Description: The Luna G3 BPAP System is a Bi-level PAP (Bi-level Positive Airw Recall",
@@ -3728,7 +3728,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Physitemp Instruments, LLC: Physitemp TH-5 Thermalert Monitoring Thermometer REF: TH-5 Recall",
@@ -3744,7 +3744,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Siemens Medical Solutions USA, Inc.: ACUSON Orgin ICE Ultrasound Imaging System REF: 11669400 Recall",
@@ -3760,7 +3760,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "TEM INNOVATIONS GMBH: ROTEM sigma complete; Model/Catalog Number: 555501; In vitro diagnostic to monitor and analyze patient coagulation status from a blood sampl Recall",
@@ -3776,7 +3776,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Physitemp Instruments, LLC: Physitemp TH-5/AOP Thermalert Monitoring Thermometer with Analog Output REF: TH-5/AOP Recall",
@@ -3792,7 +3792,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "TransMedics, Inc.: OCS Liver System for organ transport OCS Solution Delivery Cassettes Model/Catalog Number: 1467 Product Description: OCS Solution Delivery C Recall",
@@ -3808,7 +3808,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Keystone Industries - Myerstown: FP3D Original Opaque; Model/Catalog Number: 4220443; Product Description: The FP3D is designed for additive manufacturing on Carbon 3D print Recall",
@@ -3824,7 +3824,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "TransMedics, Inc.: OCS Liver System for organ transport OCS Liver Perfusion Set Model/Catalog Number: 3200 Product Description: The recalled product is a stand Recall",
@@ -3840,7 +3840,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Medtronic, Inc.: PROGRAMMER 24970A, provides the analyzer and ECG hardware during device implant, invasive troubleshooting, and implanted device follow-up pr Recall",
@@ -3856,7 +3856,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Physitemp Instruments, LLC: Physitemp MT-D REF: MT-D Recall",
@@ -3872,7 +3872,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Straumann USA LLC: Straumann BLC Implants, SLActive, RXD. Endosseous Dental Implant. WB Healing Abutment, O6, GH1.5, AH2,Ti. Article Numbers: 035.9208S, 035.92 Recall",
@@ -3888,7 +3888,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Medtronic Xomed, Inc.: BOBBIN VENTILATION TUBE 5PK 1.14 FLPL, REF: 1010201, Lot# 0231048277 (GTIN 20763000281612). Recall",
@@ -3904,7 +3904,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "IMRIS Imaging Inc: IMRIS Operating Suite InVision 3T Operating Suite, Model Number: 120823-000, IMRIS Product Description ORT400 Table, IMRIS Part Number 11990 Recall",
@@ -3920,7 +3920,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Medline Industries, LP: Medline convenience kits containing BD Urinary Catheter Trays that include CliniClean Pericare Wipes ROBOTIC COLON DYNJ911424 ROBOTIC LITHOT Recall",
@@ -3936,7 +3936,7 @@
       "officialSourceUrl": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=15",
       "thirdPartySourceUrl": "",
       "deadline": null,
-      "lastUpdated": "2026-11-25T21:40:44.673Z"
+      "lastUpdated": "2026-11-26T08:15:52.215Z"
     },
     {
       "title": "Fresenius Medical Care Renal Therapies Group, LLC: DELFLEX Peritoneal Dialysis Solution with 4.25% Dextrose, Low Magnesium/ Low Calcium and Attached stay safe Exchange Set, 2,500 mL Single do Recall",

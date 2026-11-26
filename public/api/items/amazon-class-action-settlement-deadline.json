@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:15:55.030Z",
+  "updatedAt": "2026-11-26T21:30:12.849Z",
   "item": {
     "id": "amazon-class-action-settlement-deadline",
     "slug": "amazon-class-action-settlement-deadline",
@@ -21,13 +21,13 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
     "sourceAgency": "COURT",
     "sourceConfidence": "trend-only",
-    "searchVolume": 2000,
-    "trendScore": 39,
+    "searchVolume": 20000,
+    "trendScore": 40,
     "matchedQueries": [
       "amazon class action settlement deadline"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-26T08:15:52.215Z",
+    "lastUpdated": "2026-11-26T21:30:10.207Z",
     "url": "https://simon622.shop/item/amazon-class-action-settlement-deadline/"
   }
 }

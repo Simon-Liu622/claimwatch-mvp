@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T08:15:55.030Z",
-  "count": 4,
+  "updatedAt": "2026-11-26T21:30:12.849Z",
+  "count": 3,
   "items": [
     {
       "id": "amazon-class-action-settlement-deadline",
@@ -23,13 +23,13 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
       "sourceAgency": "COURT",
       "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 39,
+      "searchVolume": 20000,
+      "trendScore": 40,
       "matchedQueries": [
         "amazon class action settlement deadline"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-26T08:15:52.215Z"
+      "lastUpdated": "2026-11-26T21:30:10.207Z"
     },
     {
       "id": "ibuprofen-recall",
@@ -52,26 +52,26 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ibuprofen+recall&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 10000,
-      "trendScore": 27,
+      "searchVolume": 50000,
+      "trendScore": 28,
       "matchedQueries": [
         "ibuprofen recall",
         "ibuprofen recalled nationwide",
         "ibuprofen recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-26T08:15:52.215Z"
+      "lastUpdated": "2026-11-26T21:30:10.207Z"
     },
     {
-      "id": "wizards-of-the-coast-lawsuit-printmtg",
-      "slug": "wizards-of-the-coast-lawsuit-printmtg",
-      "title": "Wizards Of The Coast Lawsuit Printmtg: Consumer Alert Monitoring",
-      "type": "lawsuit",
+      "id": "butterball-turkey-recall-2026",
+      "slug": "butterball-turkey-recall-2026",
+      "title": "Butterball Turkey Recall 2026: Consumer Alert Monitoring",
+      "type": "recall",
       "status": "monitoring",
       "company": "",
       "brand": "",
-      "product": "wizards of the coast lawsuit printmtg",
-      "category": "Consumer monitoring",
+      "product": "butterball turkey recall 2026",
+      "category": "Recall monitoring",
       "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
       "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
       "remedy": "No consumer action is recommended until an official source is attached.",
@@ -80,45 +80,18 @@
       "officialClaimUrl": "",
       "officialSourceUrl": "",
       "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wizards+of+the+coast+lawsuit+printmtg&tz=420",
+      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butterball+turkey+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 500,
-      "trendScore": 8,
+      "searchVolume": 5000,
+      "trendScore": 12,
       "matchedQueries": [
-        "wizards of the coast lawsuit printmtg"
+        "butterball turkey recall 2026",
+        "butterball turkey recall",
+        "are butterball turkeys being recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-26T08:15:52.215Z"
-    },
-    {
-      "id": "twitter-shareholder-lawsuit-musk-appeal",
-      "slug": "twitter-shareholder-lawsuit-musk-appeal",
-      "title": "Twitter Shareholder Lawsuit Musk Appeal: Consumer Alert Monitoring",
-      "type": "lawsuit",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "twitter shareholder lawsuit musk appeal",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=twitter+shareholder+lawsuit+musk+appeal&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 2000,
-      "trendScore": 8,
-      "matchedQueries": [
-        "twitter shareholder lawsuit musk appeal"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-26T08:15:52.215Z"
+      "lastUpdated": "2026-11-26T21:30:10.207Z"
     }
   ]
 }

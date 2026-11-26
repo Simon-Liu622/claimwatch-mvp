@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:15:55.030Z",
+  "updatedAt": "2026-11-26T21:30:12.849Z",
   "item": {
     "id": "ibuprofen-recall",
     "slug": "ibuprofen-recall",
@@ -21,15 +21,15 @@
     "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ibuprofen+recall&tz=420",
     "sourceAgency": "COMPANY",
     "sourceConfidence": "trend-only",
-    "searchVolume": 10000,
-    "trendScore": 27,
+    "searchVolume": 50000,
+    "trendScore": 28,
     "matchedQueries": [
       "ibuprofen recall",
       "ibuprofen recalled nationwide",
       "ibuprofen recalled"
     ],
     "officialVerified": false,
-    "lastUpdated": "2026-11-26T08:15:52.215Z",
+    "lastUpdated": "2026-11-26T21:30:10.207Z",
     "url": "https://simon622.shop/item/ibuprofen-recall/"
   }
 }

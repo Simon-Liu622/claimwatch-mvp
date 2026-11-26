@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-26T08:15:55.030Z",
-  "count": 6,
+  "updatedAt": "2026-11-26T21:30:12.849Z",
+  "count": 4,
   "trends": [
     {
-      "rank": 43,
+      "rank": 41,
       "query": "amazon class action settlement deadline",
-      "searchVolume": 2000,
+      "searchVolume": 20000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
       "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
-      "increasePercentage": 400,
+      "increasePercentage": 600,
       "source": "serpapi-google-trends",
       "text": "amazon class action settlement deadline",
-      "trendScore": 39,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
+      "trendScore": 40,
+      "detectedAt": "2026-11-26T21:30:10.207Z"
     },
     {
-      "rank": 54,
+      "rank": 6,
       "query": "ibuprofen recall",
-      "searchVolume": 10000,
+      "searchVolume": 50000,
       "startedAt": "",
       "endedAt": "",
       "active": true,
@@ -29,32 +29,32 @@
         "ibuprofen recalled"
       ],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ibuprofen+recall&tz=420",
-      "increasePercentage": 300,
+      "increasePercentage": 1000,
       "source": "serpapi-google-trends",
       "text": "ibuprofen recall ibuprofen recalled nationwide ibuprofen recalled",
-      "trendScore": 27,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
+      "trendScore": 28,
+      "detectedAt": "2026-11-26T21:30:10.207Z"
     },
     {
-      "rank": 193,
-      "query": "butterball turkey recall",
+      "rank": 231,
+      "query": "butterball turkey recall 2026",
       "searchVolume": 5000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
       "breakdown": [
-        "salmonella",
+        "butterball turkey recall",
         "are butterball turkeys being recalled"
       ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butterball+turkey+recall&tz=420",
-      "increasePercentage": 50,
+      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butterball+turkey+recall+2026&tz=420",
+      "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "butterball turkey recall salmonella are butterball turkeys being recalled",
-      "trendScore": 20,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
+      "text": "butterball turkey recall 2026 butterball turkey recall are butterball turkeys being recalled",
+      "trendScore": 12,
+      "detectedAt": "2026-11-26T21:30:10.207Z"
     },
     {
-      "rank": 363,
+      "rank": 554,
       "query": "honda recalls",
       "searchVolume": 1000,
       "startedAt": "",
@@ -68,37 +68,7 @@
       "source": "serpapi-google-trends",
       "text": "honda recalls honda recall",
       "trendScore": 10,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
-    },
-    {
-      "rank": 273,
-      "query": "twitter shareholder lawsuit musk appeal",
-      "searchVolume": 2000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=twitter+shareholder+lawsuit+musk+appeal&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "twitter shareholder lawsuit musk appeal",
-      "trendScore": 8,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
-    },
-    {
-      "rank": 465,
-      "query": "wizards of the coast lawsuit printmtg",
-      "searchVolume": 500,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wizards+of+the+coast+lawsuit+printmtg&tz=420",
-      "increasePercentage": 50,
-      "source": "serpapi-google-trends",
-      "text": "wizards of the coast lawsuit printmtg",
-      "trendScore": 8,
-      "detectedAt": "2026-11-26T08:15:52.215Z"
+      "detectedAt": "2026-11-26T21:30:10.207Z"
     }
   ]
 }

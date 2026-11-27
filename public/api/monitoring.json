@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-11-26T21:30:12.849Z",
-  "count": 3,
+  "updatedAt": "2026-11-27T08:30:27.828Z",
+  "count": 1,
   "items": [
-    {
-      "id": "amazon-class-action-settlement-deadline",
-      "slug": "amazon-class-action-settlement-deadline",
-      "title": "Amazon Class Action Settlement Deadline: Consumer Alert Monitoring",
-      "type": "settlement",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "amazon class action settlement deadline",
-      "category": "Consumer monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
-      "sourceAgency": "COURT",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 20000,
-      "trendScore": 40,
-      "matchedQueries": [
-        "amazon class action settlement deadline"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-26T21:30:10.207Z"
-    },
-    {
-      "id": "ibuprofen-recall",
-      "slug": "ibuprofen-recall",
-      "title": "Ibuprofen Recall: Consumer Alert Monitoring",
-      "type": "recall",
-      "status": "monitoring",
-      "company": "",
-      "brand": "",
-      "product": "ibuprofen recall",
-      "category": "Recall monitoring",
-      "summary": "This page was surfaced from current search trends and is held in monitoring status until a matching official source is verified.",
-      "affectedPeople": "Consumers searching for this alert should confirm details through official sources.",
-      "remedy": "No consumer action is recommended until an official source is attached.",
-      "payoutAmount": "Not verified",
-      "deadline": null,
-      "officialClaimUrl": "",
-      "officialSourceUrl": "",
-      "thirdPartySourceUrl": "",
-      "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ibuprofen+recall&tz=420",
-      "sourceAgency": "COMPANY",
-      "sourceConfidence": "trend-only",
-      "searchVolume": 50000,
-      "trendScore": 28,
-      "matchedQueries": [
-        "ibuprofen recall",
-        "ibuprofen recalled nationwide",
-        "ibuprofen recalled"
-      ],
-      "officialVerified": false,
-      "lastUpdated": "2026-11-26T21:30:10.207Z"
-    },
     {
       "id": "butterball-turkey-recall-2026",
       "slug": "butterball-turkey-recall-2026",
@@ -83,15 +23,15 @@
       "trendExploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butterball+turkey+recall+2026&tz=420",
       "sourceAgency": "COMPANY",
       "sourceConfidence": "trend-only",
-      "searchVolume": 5000,
-      "trendScore": 12,
+      "searchVolume": 2000,
+      "trendScore": 8,
       "matchedQueries": [
         "butterball turkey recall 2026",
         "butterball turkey recall",
         "are butterball turkeys being recalled"
       ],
       "officialVerified": false,
-      "lastUpdated": "2026-11-26T21:30:10.207Z"
+      "lastUpdated": "2026-11-27T08:30:24.189Z"
     }
   ]
 }

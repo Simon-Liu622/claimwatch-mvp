@@ -1,74 +1,21 @@
 {
-  "updatedAt": "2026-11-26T21:30:12.849Z",
-  "count": 4,
+  "updatedAt": "2026-11-27T08:30:27.828Z",
+  "count": 1,
   "trends": [
     {
-      "rank": 41,
-      "query": "amazon class action settlement deadline",
-      "searchVolume": 20000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+class+action+settlement+deadline&tz=420",
-      "increasePercentage": 600,
-      "source": "serpapi-google-trends",
-      "text": "amazon class action settlement deadline",
-      "trendScore": 40,
-      "detectedAt": "2026-11-26T21:30:10.207Z"
-    },
-    {
-      "rank": 6,
-      "query": "ibuprofen recall",
-      "searchVolume": 50000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": true,
-      "breakdown": [
-        "ibuprofen recalled nationwide",
-        "ibuprofen recalled"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ibuprofen+recall&tz=420",
-      "increasePercentage": 1000,
-      "source": "serpapi-google-trends",
-      "text": "ibuprofen recall ibuprofen recalled nationwide ibuprofen recalled",
-      "trendScore": 28,
-      "detectedAt": "2026-11-26T21:30:10.207Z"
-    },
-    {
-      "rank": 231,
+      "rank": 282,
       "query": "butterball turkey recall 2026",
-      "searchVolume": 5000,
+      "searchVolume": 2000,
       "startedAt": "",
       "endedAt": "",
       "active": false,
-      "breakdown": [
-        "butterball turkey recall",
-        "are butterball turkeys being recalled"
-      ],
+      "breakdown": [],
       "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=butterball+turkey+recall+2026&tz=420",
       "increasePercentage": 100,
       "source": "serpapi-google-trends",
-      "text": "butterball turkey recall 2026 butterball turkey recall are butterball turkeys being recalled",
-      "trendScore": 12,
-      "detectedAt": "2026-11-26T21:30:10.207Z"
-    },
-    {
-      "rank": 554,
-      "query": "honda recalls",
-      "searchVolume": 1000,
-      "startedAt": "",
-      "endedAt": "",
-      "active": false,
-      "breakdown": [
-        "honda recall"
-      ],
-      "exploreUrl": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=honda+recalls&tz=420",
-      "increasePercentage": 100,
-      "source": "serpapi-google-trends",
-      "text": "honda recalls honda recall",
-      "trendScore": 10,
-      "detectedAt": "2026-11-26T21:30:10.207Z"
+      "text": "butterball turkey recall 2026",
+      "trendScore": 8,
+      "detectedAt": "2026-11-27T08:30:24.189Z"
     }
   ]
 }
